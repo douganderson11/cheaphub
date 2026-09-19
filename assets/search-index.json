@@ -1,0 +1,674 @@
+[
+  {
+    "title": "How to tell if a deal is actually good",
+    "summary": "A short price-check routine before you buy.",
+    "url": "/guides/how-to-tell-if-a-deal-is-good/",
+    "type": "Guide",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Coupon stacking without surprises",
+    "summary": "Understand when codes, sale prices and rewards may combine.",
+    "url": "/guides/coupon-stacking-basics/",
+    "type": "Guide",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Compare the total cost of a trip",
+    "summary": "A fare or room rate is only the starting number.",
+    "url": "/guides/compare-total-trip-cost/",
+    "type": "Guide",
+    "topic": "Travel"
+  },
+  {
+    "title": "A practical subscription audit",
+    "summary": "Find overlapping plans and renewals you may have forgotten.",
+    "url": "/guides/subscription-audit/",
+    "type": "Guide",
+    "topic": "Bills"
+  },
+  {
+    "title": "Shop home energy upgrades carefully",
+    "summary": "Prioritize fit, installation and measurable use.",
+    "url": "/guides/home-energy-shopping/",
+    "type": "Guide",
+    "topic": "Home"
+  },
+  {
+    "title": "When to buy a major appliance",
+    "summary": "Use a decision window instead of waiting forever for a sale.",
+    "url": "/guides/when-to-buy-appliances/",
+    "type": "Guide",
+    "topic": "Home"
+  },
+  {
+    "title": "A checklist for refurbished tech",
+    "summary": "Understand grading, battery health and warranty.",
+    "url": "/guides/refurbished-tech-checklist/",
+    "type": "Guide",
+    "topic": "Tech"
+  },
+  {
+    "title": "Shipping and returns can erase a discount",
+    "summary": "Compare what you pay if the product does not work out.",
+    "url": "/guides/shipping-and-returns/",
+    "type": "Guide",
+    "topic": "Everyday"
+  },
+  {
+    "title": "When a flexible travel booking is worth more",
+    "summary": "Balance price against your chance of changing plans.",
+    "url": "/guides/travel-flexibility/",
+    "type": "Guide",
+    "topic": "Travel"
+  },
+  {
+    "title": "Set a gift budget that works",
+    "summary": "Plan useful gifts and avoid last-minute shipping costs.",
+    "url": "/guides/set-a-gift-budget/",
+    "type": "Guide",
+    "topic": "Gifts"
+  },
+  {
+    "title": "Compare internet plans on total cost",
+    "summary": "Look beyond the introductory monthly price.",
+    "url": "/guides/compare-internet-plans/",
+    "type": "Guide",
+    "topic": "Bills"
+  },
+  {
+    "title": "How to shop a seasonal sale",
+    "summary": "Keep the event from choosing your purchases for you.",
+    "url": "/guides/buying-during-seasonal-sales/",
+    "type": "Guide",
+    "topic": "Gifts"
+  },
+  {
+    "title": "Useful home tools under $25",
+    "summary": "A compact decision guide for small household tools. Focus on the task, grip, replaceable parts and storage before looking at a sale price.",
+    "url": "/best/useful-home-tools-under-25/",
+    "type": "Best Under",
+    "topic": "Home"
+  },
+  {
+    "title": "Kitchen essentials under $50",
+    "summary": "Choose a useful daily tool based on fit, cleanup and long-term use.",
+    "url": "/best/kitchen-essentials-under-50/",
+    "type": "Best Under",
+    "topic": "Home"
+  },
+  {
+    "title": "Travel accessories under $50",
+    "summary": "Pack lighter and spend on the items that solve a repeat problem.",
+    "url": "/best/travel-accessories-under-50/",
+    "type": "Best Under",
+    "topic": "Travel"
+  },
+  {
+    "title": "Desk upgrades under $100",
+    "summary": "Improve an actual workday problem without buying a larger setup.",
+    "url": "/best/desk-upgrades-under-100/",
+    "type": "Best Under",
+    "topic": "Tech"
+  },
+  {
+    "title": "Practical gifts under $25",
+    "summary": "Keep the budget firm and the recipient in mind.",
+    "url": "/best/practical-gifts-under-25/",
+    "type": "Best Under",
+    "topic": "Gifts"
+  },
+  {
+    "title": "Home comfort upgrades under $100",
+    "summary": "Consider fit, maintenance and energy use as part of comfort.",
+    "url": "/best/home-comfort-under-100/",
+    "type": "Best Under",
+    "topic": "Home"
+  },
+  {
+    "title": "Compare streaming plans",
+    "summary": "Compare total monthly cost, ads, profiles, simultaneous streams, cancellation and the shows you actually watch.",
+    "url": "/compare/streaming-plans/",
+    "type": "Comparison",
+    "topic": "Bills"
+  },
+  {
+    "title": "Direct booking or travel platform",
+    "summary": "Compare the final trip terms, support responsibility, loyalty benefits and cancellation rules.",
+    "url": "/compare/travel-booking-options/",
+    "type": "Comparison",
+    "topic": "Travel"
+  },
+  {
+    "title": "Compare mobile plans",
+    "summary": "Look at coverage where you live and travel, data priority, fees, device terms and the post-promotion price.",
+    "url": "/compare/mobile-plans/",
+    "type": "Comparison",
+    "topic": "Bills"
+  },
+  {
+    "title": "Spring home refresh",
+    "summary": "Plan repairs and useful home purchases before shopping promotions.",
+    "url": "/seasonal/spring-home-refresh/",
+    "type": "Seasonal",
+    "topic": "Home"
+  },
+  {
+    "title": "Summer travel planning",
+    "summary": "Compare full itineraries and flexible booking terms.",
+    "url": "/seasonal/summer-travel-planning/",
+    "type": "Seasonal",
+    "topic": "Travel"
+  },
+  {
+    "title": "Back-to-school budget",
+    "summary": "Make a required-item list and compare bundles against individual prices.",
+    "url": "/seasonal/back-to-school-budget/",
+    "type": "Seasonal",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Holiday shopping plan",
+    "summary": "Set a gift ceiling, delivery buffer and return checklist.",
+    "url": "/seasonal/holiday-shopping-plan/",
+    "type": "Seasonal",
+    "topic": "Gifts"
+  },
+  {
+    "title": "TINKR Home Essentials Kit with Canvas Roll-up Case",
+    "summary": "A compact apartment-friendly starter kit (hammer, ratchet driver, wrench, hex keys, tape) that stores in one roll. Sold at Target.",
+    "url": "/deals/#tinkr-home-essentials-kit-target",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Stanley FatMax 25 ft. Tape Measure",
+    "summary": "A wide-blade 25 ft tape that stands out farther than skinny tapes\u2014useful for solo measuring around the house. Sold at Home Depot.",
+    "url": "/deals/#stanley-fatmax-25ft-tape-homedepot",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "BLACK+DECKER 9 in. LED 2-Bar Battery Under Cabinet Lighting Kit",
+    "summary": "Battery stick-on under-cabinet bars for renters who want brighter counters without hardwiring. Sold at Home Depot.",
+    "url": "/deals/#black-decker-led-under-cabinet-2bar-homedepot",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Milwaukee 9-in-1 Multi-Nut Driver",
+    "summary": "One slim driver covering common nut sizes\u2014handy for furniture, appliances, and bike rack hardware. Sold at Home Depot.",
+    "url": "/deals/#milwaukee-9in1-multi-nut-driver-homedepot",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "HART 2-Position Ratcheting Screwdriver",
+    "summary": "A basic ratcheting driver for furniture assembly and wall-mount jobs without buying a full bit kit. Sold at Walmart.",
+    "url": "/deals/#hart-2-position-ratcheting-screwdriver-walmart",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "HART 5-Piece Impact Drive Bit Set",
+    "summary": "Small impact bit set for common fastener jobs when you only need a few sizes. Sold at Walmart.",
+    "url": "/deals/#hart-5pc-impact-drive-bit-set-walmart",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "HART Titanium Drill Bit Set",
+    "summary": "Budget titanium-coated bits for occasional wood/metal drilling around the house. Sold at Walmart.",
+    "url": "/deals/#hart-titanium-drill-bit-set-walmart",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "HART Anti-Vibration Work Gloves",
+    "summary": "Padded work gloves for yard and demo tasks where vibration and grip matter more than fashion. Sold at Walmart.",
+    "url": "/deals/#hart-anti-vibration-work-gloves-walmart",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "HART 1,000-Piece 18-Gauge Brad Nails",
+    "summary": "Consumable brad nails for trim and craft nailers\u2014buy only if you already own a compatible gun. Sold at Walmart.",
+    "url": "/deals/#hart-18ga-brad-nails-1000-walmart",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "HART 10-Gallon 6-Peak-HP Wet/Dry Vacuum",
+    "summary": "Shop-vac capacity for garage spills and remodel dust without paying pro-tier prices. Sold at Walmart.",
+    "url": "/deals/#hart-10gal-wet-dry-vac-walmart",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "HART 7-Gallon 5-Peak-HP Wet/Dry Vacuum",
+    "summary": "Smaller-footprint wet/dry vac for apartments and light workshop cleanup. Sold at Walmart.",
+    "url": "/deals/#hart-7gal-wet-dry-vac-walmart",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "HART 8-Gallon 6-Peak-HP Wet/Dry Vacuum",
+    "summary": "Mid-size wet/dry vac for home projects; clearance pricing may disappear as HART exits Walmart. Sold at Walmart.",
+    "url": "/deals/#hart-8gal-wet-dry-vac-walmart",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "HART 20V Reciprocating Saw (tool only context varies)",
+    "summary": "Budget cordless recip for pruning and demo\u2014confirm battery-included vs bare tool before buying. Sold at Walmart.",
+    "url": "/deals/#hart-20v-recip-saw-walmart",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "IRWIN 10\" Curved Jaw Locking Pliers",
+    "summary": "Classic locking pliers for clamping and twisting when you need a third hand. Sold at Amazon.",
+    "url": "/deals/#irwin-10in-curved-jaw-locking-pliers-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Craftsman 25-Foot Tape Measure",
+    "summary": "Straightforward 25 ft tape for household measuring without paying FatMax pricing. Sold at Amazon.",
+    "url": "/deals/#craftsman-25ft-tape-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Craftsman 26-Piece Ratcheting Screwdriver / Multibit Set",
+    "summary": "One handle plus common bits\u2014covers most furniture and outlet-cover screws. Sold at Amazon.",
+    "url": "/deals/#craftsman-26pc-ratcheting-screwdriver-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Klein Tools 16-Foot Compact Tape Measure",
+    "summary": "Pocketable 16 ft tape for indoor projects where a 25 ft blade is overkill. Sold at Amazon.",
+    "url": "/deals/#klein-16ft-compact-tape-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Estwing 16 oz. Rip Hammer, Smooth Face",
+    "summary": "One-piece steel hammer known for durability\u2014buy if you want a tool that lasts years of light framing. Sold at Amazon.",
+    "url": "/deals/#estwing-16oz-rip-hammer-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Craftsman 20 oz. Fiberglass Hammer",
+    "summary": "Heavier fiberglass-handle hammer for driving nails without spending Estwing money. Sold at Amazon.",
+    "url": "/deals/#craftsman-20oz-fiberglass-hammer-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Channellock 12\" Tongue & Groove Pliers",
+    "summary": "Adjustable groove-joint pliers for plumbing fittings and stubborn fasteners. Sold at Amazon.",
+    "url": "/deals/#channellock-12in-tongue-groove-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Craftsman 8-Inch Long Nose Pliers",
+    "summary": "Needle-nose pliers for electrical boxes, jewelry-scale tasks, and tight spaces. Sold at Amazon.",
+    "url": "/deals/#craftsman-8in-long-nose-pliers-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Craftsman 2-Piece Groove Joint Plier Set (8\" & 10\")",
+    "summary": "Two groove-joint sizes cover most household plumbing and clamping needs. Sold at Amazon.",
+    "url": "/deals/#craftsman-2pc-groove-joint-plier-set-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Klein Tools 15-in-1 Multi-Bit Ratcheting Screwdriver",
+    "summary": "Pro-brand multibit driver for electricians and DIYers who want replaceable bits in one handle. Sold at Amazon.",
+    "url": "/deals/#klein-15in1-multibit-ratcheting-screwdriver-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Klein Tools 11-in-1 Multi-Bit Screwdriver/Nut Driver",
+    "summary": "Combines common screw bits and nut drivers\u2014good for light electrical and appliance work. Sold at Amazon.",
+    "url": "/deals/#klein-11in1-screwdriver-nut-driver-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "IRWIN VISE-GRIP 7\" Curved Jaw Locking Pliers with Cutter",
+    "summary": "Smaller locking pliers with a wire cutter for electrical and DIY clamping. Sold at Amazon.",
+    "url": "/deals/#irwin-7in-locking-pliers-cutter-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "OXO Good Grips Kitchen Scissors",
+    "summary": "Separable kitchen shears for meat, herbs, and packaging\u2014easier to clean than many one-piece scissors. Sold at Amazon.",
+    "url": "/deals/#oxo-good-grips-kitchen-scissors-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "OXO Swivel Peeler",
+    "summary": "A soft-grip swivel peeler that follows curves\u2014worth owning if you prep produce weekly. Sold at Target.",
+    "url": "/deals/#oxo-swivel-peeler-target",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "OXO Good Grips Salad Spinner (Large ~6.22 qt)",
+    "summary": "One-handed pump spinner that doubles as a serving bowl\u2014useful if you wash greens often. Sold at Amazon.",
+    "url": "/deals/#oxo-good-grips-salad-spinner-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Lodge 8-Inch Pre-Seasoned Cast Iron Skillet",
+    "summary": "Small Lodge skillet for eggs and sides\u2014durable cookware that improves with use if maintained. Sold at Amazon.",
+    "url": "/deals/#lodge-8in-cast-iron-skillet-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Lodge 10.25\" Seasoned Cast Iron Skillet",
+    "summary": "Everyday cast-iron size for searing and oven finishes without buying a full set. Sold at Walmart.",
+    "url": "/deals/#lodge-10-25-cast-iron-skillet-walmart",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Pyrex 3-Piece Glass Measuring Cup Set (1/2/4 cup)",
+    "summary": "Tempered glass cups for liquids that go from fridge to microwave\u2014more durable than cheap plastic. Sold at Amazon.",
+    "url": "/deals/#pyrex-3pc-measuring-cup-set-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Microplane Premium Classic Fine Grater / Zester",
+    "summary": "Fine grater for citrus zest, hard cheese, and garlic\u2014replaces dull box-grater sides for those tasks. Sold at Target.",
+    "url": "/deals/#microplane-premium-classic-zester-target",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Rubbermaid Brilliance Glass 8-Cup Food Storage Container with Lid",
+    "summary": "Leak-resistant glass container with venting lid for leftovers and meal prep without staining. Sold at Target.",
+    "url": "/deals/#rubbermaid-brilliance-glass-8cup-target",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "OXO Good Grips Kitchen and Herb Scissors",
+    "summary": "Brand-site kitchen/herb scissors with herb stripper\u2014buy here only if you prefer direct warranty paths. Sold at OXO.",
+    "url": "/deals/#oxo-kitchen-herb-scissors-oxo-com",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Amazon Basics Microfiber Cleaning Cloths, 24-Pack (16\" x 12\")",
+    "summary": "Reusable lint-free cloths for dusting and glass\u2014cheaper per cloth than many store 4-packs. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-microfiber-cloths-24pk",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Scotch-Brite Heavy Duty Scrub Sponges, 3-Count",
+    "summary": "Abrasive scrub sponges for pots and pans\u2014replace when they smell or flatten. Sold at Target.",
+    "url": "/deals/#scotch-brite-heavy-duty-sponges-3ct-target",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Scotch-Brite Zero-Scratch Scrub Sponges, 3-Count",
+    "summary": "Softer scrub sponges for surfaces that heavy-duty pads can scratch. Sold at Target.",
+    "url": "/deals/#scotch-brite-zero-scratch-sponges-3ct-target",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Clorox Fresh Scent Disinfecting Wipes, 75-Count",
+    "summary": "Bleach-free disinfecting wipes for counters and handles when you need a quick wipe-down. Sold at Target.",
+    "url": "/deals/#clorox-fresh-scent-wipes-75ct-target",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Room Essentials Storage Crate (Milk-Crate Style)",
+    "summary": "Stackable plastic crate for pantry overflow, garage bits, or dorm storage. Sold at Target.",
+    "url": "/deals/#room-essentials-storage-crate-target",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Amazon Basics HDMI Cable, 6 ft (4K@60Hz / HDMI 2.0)",
+    "summary": "No-frills 6 ft HDMI for TVs, consoles, and monitors\u2014skip expensive \u2018premium\u2019 branding for standard 4K60. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-hdmi-cable-6ft",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Anker PowerCore 10000 Portable Charger",
+    "summary": "Compact ~10,000 mAh bank for roughly a couple phone charges\u2014check airline rules for lithium packs. Sold at Amazon.",
+    "url": "/deals/#anker-powercore-10000-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Anker 511 Nano / 20W USB-C Charger (cable not included)",
+    "summary": "Small 20W USB-C wall charger for phones and small tablets\u2014buy a separate cable if you need one. Sold at Amazon.",
+    "url": "/deals/#anker-20w-usb-c-charger-nano-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Tide PODS Laundry Detergent Pacs, 42 Count (Original)",
+    "summary": "Pre-measured pacs for HE washers\u2014compare cost per load against liquid before treating as a \u2018deal\u2019. Sold at Amazon.",
+    "url": "/deals/#tide-pods-42ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Crest 3D Whitestrips Professional Effects (22 Treatments)",
+    "summary": "At-home whitening strips with a clear treatment count\u2014check enamel sensitivity before committing. Sold at Amazon.",
+    "url": "/deals/#crest-3d-whitestrips-professional-effects-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Amazon Basics AA Alkaline Batteries, 48-Pack",
+    "summary": "Bulk AA pack for remotes and sensors\u2014track cost per cell vs store multipacks. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-aa-batteries-48pk",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Packit Freezable Lunch Bag (Gray Fog)",
+    "summary": "Freezable lunch bag that replaces ice packs for commute lunches\u2014freeze flat overnight. Sold at Target.",
+    "url": "/deals/#packit-freezable-lunch-bag-gray-fog-target",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz",
+    "summary": "Insulated bottle with AUTOSEAL lid to reduce spills in bags\u2014good daily carry under $30 when in stock. Sold at Walmart.",
+    "url": "/deals/#contigo-autoseal-chill-24oz-walmart",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Hydro Flask 24 oz Standard Mouth Bottle",
+    "summary": "Insulated daily bottle with wide brand ecosystem of lids\u2014buy when Target price beats brand site. Sold at Target.",
+    "url": "/deals/#hydro-flask-24oz-standard-mouth-target",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Swiffer WetJet Floor Mop Starter Kit",
+    "summary": "Spray mop kit for hard floors when you want disposable pads more than a traditional mop bucket. Sold at Target.",
+    "url": "/deals/#swiffer-wetjet-starter-kit-target",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Anker USB-C to HDMI Cable, 6 ft (4K@60Hz)",
+    "summary": "USB-C to HDMI for laptops/phones that support DisplayPort Alt Mode\u2014verify device compatibility first. Sold at Target.",
+    "url": "/deals/#anker-hdmi-usb-c-cable-6ft-target",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "up&up AA Alkaline Batteries, 48-Pack",
+    "summary": "Target house-brand bulk AAs\u2014compare per-cell price against Amazon Basics before buying. Sold at Target.",
+    "url": "/deals/#up-and-up-aa-batteries-48pk-target",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Command Large Utility Hooks (multipack \u2014 confirm SKU)",
+    "summary": "Damage-free hanging hooks for renters\u2014match weight rating to the object. Sold at Amazon.",
+    "url": "/deals/#command-large-hooks-variety-pending",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Scotch Magic Tape Multipack (confirm count)",
+    "summary": "Invisible tape for wrapping and paperwork\u2014buy multipacks when cost-per-roll is clear. Sold at Target.",
+    "url": "/deals/#scotch-magic-tape-multipack-pending",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Cabeau Evolution Classic Memory Foam Travel Neck Pillow",
+    "summary": "Adjustable clasp memory-foam neck pillow for upright sleepers on planes and trains. Sold at Target.",
+    "url": "/deals/#cabeau-evolution-classic-travel-pillow-target",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Eagle Creek Pack-It Original Packing Cubes Set (XS/S/M)",
+    "summary": "Three packing cubes to separate outfits and laundry\u2014reduces suitcase digging. Sold at Amazon.",
+    "url": "/deals/#eagle-creek-pack-it-original-set-xs-s-m-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Amazon Basics 4-Piece Packing Cubes Set",
+    "summary": "Budget packing cubes for organizing a carry-on without paying premium travel-brand prices. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-packing-cubes-4pc",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Samsonite Luggage Tag (confirm set size)",
+    "summary": "Simple ID tags so bags are identifiable at the carousel\u2014use a privacy flap for address details. Sold at Amazon.",
+    "url": "/deals/#samsonite-luggage-tag-set-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Travelon RFID Anti-Theft Mini Shoulder Bag",
+    "summary": "Small anti-theft day bag with RFID-blocking pocket for passports and cards in crowded cities. Sold at Target.",
+    "url": "/deals/#travelon-rfid-anti-theft-mini-shoulder-target",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Travelon Set of 3 Self-Laminating Luggage Tags",
+    "summary": "Write-on laminated tags for multiple bags\u2014cheap redundancy if a tag falls off. Sold at Amazon.",
+    "url": "/deals/#travelon-self-laminating-luggage-tags-3pk-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "TSA-Approved Clear Quart Toiletry Bag (3-1-1 kit)",
+    "summary": "Clear quart bag for liquids so security screening stays predictable\u2014match airline 3-1-1 rules. Sold at Amazon.",
+    "url": "/deals/#tsa-clear-quart-toiletry-bag-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Nalgene 32 oz Wide Mouth Bottle (Tritan)",
+    "summary": "Durable wide-mouth bottle for hiking days and hotel refills\u2014measure markings help tracking intake. Sold at Amazon.",
+    "url": "/deals/#nalgene-32oz-wide-mouth-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Packit Freezable Lunch Bag (travel day-trip use)",
+    "summary": "Same freezable bag works for flights with food and road-trip snacks when ice packs are annoying. Sold at Target.",
+    "url": "/deals/#packit-freezable-lunch-bag-travel-note",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Anker PowerCore 10000 (travel carry)",
+    "summary": "Pocket power bank for terminals and long connections\u2014keep in carry-on, not checked bags. Sold at Amazon.",
+    "url": "/deals/#anker-powercore-10000-travel-slice",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Klein Tools 3-Piece Adjustable Wrench Set",
+    "summary": "Three adjustable wrenches covering common nut sizes for plumbing and assembly. Sold at Amazon.",
+    "url": "/deals/#klein-3pc-adjustable-wrench-set-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Klein Tools FLICKBLADE Folding Utility Knife/Scraper",
+    "summary": "Folding utility knife for boxes and scraping\u2014safer to store than a fixed open blade. Sold at Amazon.",
+    "url": "/deals/#klein-flickblade-utility-knife-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp",
+    "summary": "Locking C-clamp for glue-ups and temporary holds when you lack bar clamps. Sold at Amazon.",
+    "url": "/deals/#irwin-vise-grip-11in-locking-c-clamp-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "OXO Good Grips Swivel Peeler",
+    "summary": "Award-winning soft-grip peeler with built-in eye remover\u2014daily-prep essential under $15. Sold at Amazon.",
+    "url": "/deals/#oxo-good-grips-swivel-peeler-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Instant Pot Duo Plus Mini 3-Quart 9-in-1",
+    "summary": "Small pressure cooker for 1\u20132 people\u2014saves counter space vs 6-qt models. Sold at Walmart.",
+    "url": "/deals/#instant-pot-duo-plus-mini-3qt-walmart",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "DEWALT Tough Tape 25 ft. Tape Measure",
+    "summary": "Wide Tough Tape option from Home Depot if you prefer DeWalt over Stanley FatMax. Sold at Home Depot.",
+    "url": "/deals/#dewalt-tough-tape-25ft-homedepot",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Threshold Bath Towel (value pick \u2014 lock SKU)",
+    "summary": "Target Threshold towels often land under $25\u2014confirm GSM/feel in-store when possible. Sold at Target.",
+    "url": "/deals/#threshold-bath-towel-value-pending-target",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Room Essentials 6pc Everyday Striped Dorm Towel Set",
+    "summary": "Budget towel set for dorms/guests\u2014expect thinner fabric than premium Threshold. Sold at Target.",
+    "url": "/deals/#room-essentials-6pc-dorm-towel-set-target",
+    "type": "Product",
+    "topic": "Everyday"
+  }
+]
