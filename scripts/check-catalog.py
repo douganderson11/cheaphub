@@ -50,7 +50,9 @@ def main() -> None:
         "categories/everyday/index.html": "everyday-staples",
         "categories/travel/index.html": "travel-under-50",
         "affiliate-disclosure/index.html": "As an Amazon Associate",
-        "how-we-make-money/index.html": "disclosed affiliate partnerships",
+        "how-we-make-money/index.html": "MarshMack Media LLC",
+        "about/index.html": "Who operates CheapHub",
+        "partner/index.html": "Affiliate and commercial partnerships are with MarshMack Media LLC",
     }
     for rel, needle in mounts.items():
         text = (ROOT / rel).read_text(encoding="utf-8")
@@ -63,6 +65,21 @@ def main() -> None:
     go_count = len(list((ROOT / "go").glob("*/index.html")))
     if go_count != 71:
         fail(f"expected 71 go pages, found {go_count}")
+
+    operator_pages = [
+        "about/index.html",
+        "affiliate-disclosure/index.html",
+        "how-we-make-money/index.html",
+        "partner/index.html",
+    ]
+    for rel in operator_pages:
+        text = (ROOT / rel).read_text(encoding="utf-8")
+        if "DBMM Media LLC" in text:
+            fail(f"{rel} names the wrong operator (DBMM Media LLC)")
+        if "MarshMack Media LLC" not in text.split("<footer>", 1)[0]:
+            fail(f"{rel} body does not name MarshMack Media LLC as operator")
+        if "DBMM Anderson LLC" not in text:
+            fail(f"{rel} is missing the DBMM Anderson LLC IP line")
     print("Catalog checks passed.")
 
 

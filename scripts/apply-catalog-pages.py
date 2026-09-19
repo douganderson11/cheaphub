@@ -194,8 +194,12 @@ def patch_affiliate_disclosure() -> None:
         "https://cheaphub.com/affiliate-disclosure/",
         "CheapHub",
         "Affiliate disclosure",
-        "CheapHub is operated by MarshMack Media LLC. Some links on this site are affiliate links. If you click and purchase or complete a qualifying action, we may earn a commission at no additional cost to you.",
+        "CheapHub is operated by MarshMack Media LLC. Some links on this site are affiliate links. If you click and purchase or complete a qualifying action, MarshMack Media LLC may earn a commission at no additional cost to you.",
         [
+            (
+                "Who holds the affiliate relationship",
+                "Affiliate agreements, network publisher accounts and tax forms are under MarshMack Media LLC. CheapHub.com and associated intellectual property are owned by DBMM Anderson LLC and licensed to MarshMack Media LLC.",
+            ),
             (
                 "What an affiliate link is",
                 "An affiliate link is a material connection: a partner or network may pay CheapHub when a reader follows the link and completes a qualifying action. That payment does not change the price you pay. The merchant controls the product, seller, inventory, shipping, returns and final checkout terms.",
@@ -228,15 +232,15 @@ def patch_how_we_make_money() -> None:
     rewrite_policy_page(
         "how-we-make-money/index.html",
         "How CheapHub makes money | CheapHub",
-        "CheapHub monetizes through disclosed affiliate partnerships. Commissions do not change the price you pay.",
+        "CheapHub is operated by MarshMack Media LLC. Disclosed affiliate partnerships do not change the price you pay.",
         "https://cheaphub.com/how-we-make-money/",
         "CheapHub",
         "How CheapHub makes money",
-        "CheapHub monetizes through disclosed affiliate partnerships. When a reader clicks a partner link and completes a qualifying action, we may earn a commission at no extra cost to the reader.",
+        "CheapHub is operated by MarshMack Media LLC. When a reader clicks a partner link and completes a qualifying action, MarshMack Media LLC may earn a commission at no extra cost to the reader.",
         [
             (
                 "Affiliate commissions",
-                "We may earn from retailer and network partnerships (for example Amazon Associates and networks such as Impact, Awin or CJ Affiliate) when those programs are approved. We may also earn from verified coupons or promotions supplied through partner networks. Commission rates and cookie terms vary by partner and are not guaranteed.",
+                "Affiliate agreements, network publisher accounts and tax forms are under MarshMack Media LLC. CheapHub.com and associated intellectual property are owned by DBMM Anderson LLC and licensed to MarshMack Media LLC. We may earn from retailer and network partnerships (for example Amazon Associates and networks such as Impact, Awin or CJ Affiliate) when those programs are approved. We may also earn from verified coupons or promotions supplied through partner networks. Commission rates and cookie terms vary by partner and are not guaranteed.",
             ),
             (
                 "What we do not do",

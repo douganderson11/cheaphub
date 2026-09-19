@@ -138,7 +138,7 @@ def write_go_page(product: dict) -> None:
 <h1>Continue to {merchant}</h1>
 <p class="lede">{title}</p>
 <p><a class="button" href="{dest}" rel="sponsored noopener noreferrer">See at {merchant}</a></p>
-<p>This may be an affiliate link. CheapHub may earn a commission if you buy through it, at no extra cost to you.</p>
+<p>This may be an affiliate link. MarshMack Media LLC, which operates CheapHub, may earn a commission if you buy through it, at no extra cost to you.</p>
 <p><a class="text-link" href="/affiliate-disclosure/">Affiliate disclosure</a></p>
 </main>
 </body>
