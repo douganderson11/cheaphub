@@ -32,15 +32,23 @@ class Handler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=str(ROOT), **kwargs)
 
-    def do_GET(self) -> None:
+    def _redirect(self) -> bool:
         path = unquote(self.path.split("?", 1)[0])
         for source, dest, status in self.redirects:
             if path == source:
                 self.send_response(status)
                 self.send_header("Location", dest)
                 self.end_headers()
-                return
-        super().do_GET()
+                return True
+        return False
+
+    def do_GET(self) -> None:
+        if not self._redirect():
+            super().do_GET()
+
+    def do_HEAD(self) -> None:
+        if not self._redirect():
+            super().do_HEAD()
 
 
 def main() -> None:
