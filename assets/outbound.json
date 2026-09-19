@@ -1,0 +1,499 @@
+{
+  "tinkr-home-essentials-kit-target": {
+    "destination": "https://www.target.com/p/tinkr-home-essentials-kit-with-canvas-roll-up-case/-/A-94618326",
+    "product_url": "https://www.target.com/p/tinkr-home-essentials-kit-with-canvas-roll-up-case/-/A-94618326",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "TINKR Home Essentials Kit with Canvas Roll-up Case"
+  },
+  "stanley-fatmax-25ft-tape-homedepot": {
+    "destination": "https://www.homedepot.com/p/Stanley-25-ft-FATMAX-Tape-Measure-33-725Y/100052995",
+    "product_url": "https://www.homedepot.com/p/Stanley-25-ft-FATMAX-Tape-Measure-33-725Y/100052995",
+    "affiliate_url": null,
+    "merchant": "Home Depot",
+    "title": "Stanley FatMax 25 ft. Tape Measure"
+  },
+  "black-decker-led-under-cabinet-2bar-homedepot": {
+    "destination": "https://www.homedepot.com/p/BLACK-DECKER-9-in-LED-2-Bar-Battery-Under-Cabinet-Lighting-Kit-in-Warm-White-LEDUC9-2BAT/319898754",
+    "product_url": "https://www.homedepot.com/p/BLACK-DECKER-9-in-LED-2-Bar-Battery-Under-Cabinet-Lighting-Kit-in-Warm-White-LEDUC9-2BAT/319898754",
+    "affiliate_url": null,
+    "merchant": "Home Depot",
+    "title": "BLACK+DECKER 9 in. LED 2-Bar Battery Under Cabinet Lighting Kit"
+  },
+  "milwaukee-9in1-multi-nut-driver-homedepot": {
+    "destination": "https://www.homedepot.com/p/Milwaukee-9-in-1-Multi-Nut-Driver-48-22-2920/327600606",
+    "product_url": "https://www.homedepot.com/p/Milwaukee-9-in-1-Multi-Nut-Driver-48-22-2920/327600606",
+    "affiliate_url": null,
+    "merchant": "Home Depot",
+    "title": "Milwaukee 9-in-1 Multi-Nut Driver"
+  },
+  "hart-2-position-ratcheting-screwdriver-walmart": {
+    "destination": "https://www.walmart.com/search?q=HART+2-Position+Ratcheting+Screwdriver",
+    "product_url": "https://www.walmart.com/search?q=HART+2-Position+Ratcheting+Screwdriver",
+    "affiliate_url": null,
+    "merchant": "Walmart",
+    "title": "HART 2-Position Ratcheting Screwdriver"
+  },
+  "hart-5pc-impact-drive-bit-set-walmart": {
+    "destination": "https://www.walmart.com/search?q=HART+5-Piece+Impact+Drive+Bit+Set",
+    "product_url": "https://www.walmart.com/search?q=HART+5-Piece+Impact+Drive+Bit+Set",
+    "affiliate_url": null,
+    "merchant": "Walmart",
+    "title": "HART 5-Piece Impact Drive Bit Set"
+  },
+  "hart-titanium-drill-bit-set-walmart": {
+    "destination": "https://www.walmart.com/search?q=HART+Titanium+Drill+Bit+Set",
+    "product_url": "https://www.walmart.com/search?q=HART+Titanium+Drill+Bit+Set",
+    "affiliate_url": null,
+    "merchant": "Walmart",
+    "title": "HART Titanium Drill Bit Set"
+  },
+  "hart-anti-vibration-work-gloves-walmart": {
+    "destination": "https://www.walmart.com/search?q=HART+Anti-Vibration+Work+Gloves",
+    "product_url": "https://www.walmart.com/search?q=HART+Anti-Vibration+Work+Gloves",
+    "affiliate_url": null,
+    "merchant": "Walmart",
+    "title": "HART Anti-Vibration Work Gloves"
+  },
+  "hart-18ga-brad-nails-1000-walmart": {
+    "destination": "https://www.walmart.com/search?q=HART+18-Gauge+Brad+Nails+1000",
+    "product_url": "https://www.walmart.com/search?q=HART+18-Gauge+Brad+Nails+1000",
+    "affiliate_url": null,
+    "merchant": "Walmart",
+    "title": "HART 1,000-Piece 18-Gauge Brad Nails"
+  },
+  "hart-10gal-wet-dry-vac-walmart": {
+    "destination": "https://www.walmart.com/search?q=HART+10-Gallon+Wet+Dry+Vacuum",
+    "product_url": "https://www.walmart.com/search?q=HART+10-Gallon+Wet+Dry+Vacuum",
+    "affiliate_url": null,
+    "merchant": "Walmart",
+    "title": "HART 10-Gallon 6-Peak-HP Wet/Dry Vacuum"
+  },
+  "hart-7gal-wet-dry-vac-walmart": {
+    "destination": "https://www.walmart.com/search?q=HART+7-Gallon+Wet+Dry+Vacuum",
+    "product_url": "https://www.walmart.com/search?q=HART+7-Gallon+Wet+Dry+Vacuum",
+    "affiliate_url": null,
+    "merchant": "Walmart",
+    "title": "HART 7-Gallon 5-Peak-HP Wet/Dry Vacuum"
+  },
+  "hart-8gal-wet-dry-vac-walmart": {
+    "destination": "https://www.walmart.com/search?q=HART+8-Gallon+Wet+Dry+Vacuum",
+    "product_url": "https://www.walmart.com/search?q=HART+8-Gallon+Wet+Dry+Vacuum",
+    "affiliate_url": null,
+    "merchant": "Walmart",
+    "title": "HART 8-Gallon 6-Peak-HP Wet/Dry Vacuum"
+  },
+  "hart-20v-recip-saw-walmart": {
+    "destination": "https://www.walmart.com/search?q=HART+20V+Reciprocating+Saw",
+    "product_url": "https://www.walmart.com/search?q=HART+20V+Reciprocating+Saw",
+    "affiliate_url": null,
+    "merchant": "Walmart",
+    "title": "HART 20V Reciprocating Saw (tool only context varies)"
+  },
+  "irwin-10in-curved-jaw-locking-pliers-amazon": {
+    "destination": "https://www.amazon.com/s?k=IRWIN+10+Curved+Jaw+Locking+Pliers",
+    "product_url": "https://www.amazon.com/s?k=IRWIN+10+Curved+Jaw+Locking+Pliers",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "IRWIN 10\" Curved Jaw Locking Pliers"
+  },
+  "craftsman-25ft-tape-amazon": {
+    "destination": "https://www.amazon.com/s?k=Craftsman+25+Foot+Tape+Measure",
+    "product_url": "https://www.amazon.com/s?k=Craftsman+25+Foot+Tape+Measure",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Craftsman 25-Foot Tape Measure"
+  },
+  "craftsman-26pc-ratcheting-screwdriver-amazon": {
+    "destination": "https://www.amazon.com/s?k=Craftsman+26-Piece+Ratcheting+Screwdriver",
+    "product_url": "https://www.amazon.com/s?k=Craftsman+26-Piece+Ratcheting+Screwdriver",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Craftsman 26-Piece Ratcheting Screwdriver / Multibit Set"
+  },
+  "klein-16ft-compact-tape-amazon": {
+    "destination": "https://www.amazon.com/s?k=Klein+Tools+16+Foot+Compact+Tape+Measure",
+    "product_url": "https://www.amazon.com/s?k=Klein+Tools+16+Foot+Compact+Tape+Measure",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Klein Tools 16-Foot Compact Tape Measure"
+  },
+  "estwing-16oz-rip-hammer-amazon": {
+    "destination": "https://www.amazon.com/s?k=Estwing+16+oz+Rip+Hammer",
+    "product_url": "https://www.amazon.com/s?k=Estwing+16+oz+Rip+Hammer",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Estwing 16 oz. Rip Hammer, Smooth Face"
+  },
+  "craftsman-20oz-fiberglass-hammer-amazon": {
+    "destination": "https://www.amazon.com/s?k=Craftsman+20+oz+Fiberglass+Hammer",
+    "product_url": "https://www.amazon.com/s?k=Craftsman+20+oz+Fiberglass+Hammer",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Craftsman 20 oz. Fiberglass Hammer"
+  },
+  "channellock-12in-tongue-groove-amazon": {
+    "destination": "https://www.amazon.com/s?k=Channellock+12+Tongue+Groove+Pliers",
+    "product_url": "https://www.amazon.com/s?k=Channellock+12+Tongue+Groove+Pliers",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Channellock 12\" Tongue & Groove Pliers"
+  },
+  "craftsman-8in-long-nose-pliers-amazon": {
+    "destination": "https://www.amazon.com/s?k=Craftsman+8+Inch+Long+Nose+Pliers",
+    "product_url": "https://www.amazon.com/s?k=Craftsman+8+Inch+Long+Nose+Pliers",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Craftsman 8-Inch Long Nose Pliers"
+  },
+  "craftsman-2pc-groove-joint-plier-set-amazon": {
+    "destination": "https://www.amazon.com/s?k=Craftsman+2-Piece+Groove+Joint+Plier+Set",
+    "product_url": "https://www.amazon.com/s?k=Craftsman+2-Piece+Groove+Joint+Plier+Set",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Craftsman 2-Piece Groove Joint Plier Set (8\" & 10\")"
+  },
+  "klein-15in1-multibit-ratcheting-screwdriver-amazon": {
+    "destination": "https://www.amazon.com/s?k=Klein+Tools+15-in-1+Multi-Bit+Ratcheting+Screwdriver",
+    "product_url": "https://www.amazon.com/s?k=Klein+Tools+15-in-1+Multi-Bit+Ratcheting+Screwdriver",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Klein Tools 15-in-1 Multi-Bit Ratcheting Screwdriver"
+  },
+  "klein-11in1-screwdriver-nut-driver-amazon": {
+    "destination": "https://www.amazon.com/s?k=Klein+Tools+11-in-1+Multi-Bit+Screwdriver",
+    "product_url": "https://www.amazon.com/s?k=Klein+Tools+11-in-1+Multi-Bit+Screwdriver",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Klein Tools 11-in-1 Multi-Bit Screwdriver/Nut Driver"
+  },
+  "irwin-7in-locking-pliers-cutter-amazon": {
+    "destination": "https://www.amazon.com/s?k=IRWIN+VISE-GRIP+7+Curved+Jaw+Locking+Pliers",
+    "product_url": "https://www.amazon.com/s?k=IRWIN+VISE-GRIP+7+Curved+Jaw+Locking+Pliers",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "IRWIN VISE-GRIP 7\" Curved Jaw Locking Pliers with Cutter"
+  },
+  "oxo-good-grips-kitchen-scissors-amazon": {
+    "destination": "https://www.amazon.com/OXO-Good-Grips-Kitchen-Scissors/dp/B08Q2C6RFP",
+    "product_url": "https://www.amazon.com/OXO-Good-Grips-Kitchen-Scissors/dp/B08Q2C6RFP",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "OXO Good Grips Kitchen Scissors"
+  },
+  "oxo-swivel-peeler-target": {
+    "destination": "https://www.target.com/p/oxo-swivel-peeler/-/A-13567836",
+    "product_url": "https://www.target.com/p/oxo-swivel-peeler/-/A-13567836",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "OXO Swivel Peeler"
+  },
+  "oxo-good-grips-salad-spinner-amazon": {
+    "destination": "https://www.amazon.com/OXO-Good-Grips-Salad-Spinner/dp/B00004OCKR",
+    "product_url": "https://www.amazon.com/OXO-Good-Grips-Salad-Spinner/dp/B00004OCKR",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "OXO Good Grips Salad Spinner (Large ~6.22 qt)"
+  },
+  "lodge-8in-cast-iron-skillet-amazon": {
+    "destination": "https://www.amazon.com/dp/B00NZ7PTDS",
+    "product_url": "https://www.amazon.com/dp/B00NZ7PTDS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Lodge 8-Inch Pre-Seasoned Cast Iron Skillet"
+  },
+  "lodge-10-25-cast-iron-skillet-walmart": {
+    "destination": "https://www.walmart.com/ip/Lodge-Cast-Iron-10-25-Seasoned-Deer-Skillet-Wildlife-Series/216039747",
+    "product_url": "https://www.walmart.com/ip/Lodge-Cast-Iron-10-25-Seasoned-Deer-Skillet-Wildlife-Series/216039747",
+    "affiliate_url": null,
+    "merchant": "Walmart",
+    "title": "Lodge 10.25\" Seasoned Cast Iron Skillet"
+  },
+  "pyrex-3pc-measuring-cup-set-amazon": {
+    "destination": "https://www.amazon.com/dp/B01I64KYAM",
+    "product_url": "https://www.amazon.com/dp/B01I64KYAM",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Pyrex 3-Piece Glass Measuring Cup Set (1/2/4 cup)"
+  },
+  "microplane-premium-classic-zester-target": {
+    "destination": "https://www.target.com/p/microplane-premium-classic-fine-grater-zester-grey/-/A-1001942616",
+    "product_url": "https://www.target.com/p/microplane-premium-classic-fine-grater-zester-grey/-/A-1001942616",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Microplane Premium Classic Fine Grater / Zester"
+  },
+  "rubbermaid-brilliance-glass-8cup-target": {
+    "destination": "https://www.target.com/p/rubbermaid-8-cup-1-9-liter-large-brilliance-glass/-/A-79652750",
+    "product_url": "https://www.target.com/p/rubbermaid-8-cup-1-9-liter-large-brilliance-glass/-/A-79652750",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Rubbermaid Brilliance Glass 8-Cup Food Storage Container with Lid"
+  },
+  "oxo-kitchen-herb-scissors-oxo-com": {
+    "destination": "https://www.oxo.com/kitchen-and-herb-scissors-361.html",
+    "product_url": "https://www.oxo.com/kitchen-and-herb-scissors-361.html",
+    "affiliate_url": null,
+    "merchant": "OXO",
+    "title": "OXO Good Grips Kitchen and Herb Scissors"
+  },
+  "amazon-basics-microfiber-cloths-24pk": {
+    "destination": "https://www.amazon.com/AmazonBasics-CW190423-24-Pack-Microfiber-Cleaning/dp/B009FUF6DM",
+    "product_url": "https://www.amazon.com/AmazonBasics-CW190423-24-Pack-Microfiber-Cleaning/dp/B009FUF6DM",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics Microfiber Cleaning Cloths, 24-Pack (16\" x 12\")"
+  },
+  "scotch-brite-heavy-duty-sponges-3ct-target": {
+    "destination": "https://www.target.com/p/scotch-brite-heavy-duty-scrub-sponges-3ct/-/A-76165590",
+    "product_url": "https://www.target.com/p/scotch-brite-heavy-duty-scrub-sponges-3ct/-/A-76165590",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Scotch-Brite Heavy Duty Scrub Sponges, 3-Count"
+  },
+  "scotch-brite-zero-scratch-sponges-3ct-target": {
+    "destination": "https://www.target.com/p/scotch-brite-zero-scratch-scrub-sponges-3ct/-/A-76165591",
+    "product_url": "https://www.target.com/p/scotch-brite-zero-scratch-scrub-sponges-3ct/-/A-76165591",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Scotch-Brite Zero-Scratch Scrub Sponges, 3-Count"
+  },
+  "clorox-fresh-scent-wipes-75ct-target": {
+    "destination": "https://www.target.com/p/clorox-fresh-scent-disinfecting-wipes-75ct/-/A-53133307",
+    "product_url": "https://www.target.com/p/clorox-fresh-scent-disinfecting-wipes-75ct/-/A-53133307",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Clorox Fresh Scent Disinfecting Wipes, 75-Count"
+  },
+  "room-essentials-storage-crate-target": {
+    "destination": "https://www.target.com/p/storage-crate-black-room-essentials-8482/-/A-75666888",
+    "product_url": "https://www.target.com/p/storage-crate-black-room-essentials-8482/-/A-75666888",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Room Essentials Storage Crate (Milk-Crate Style)"
+  },
+  "amazon-basics-hdmi-cable-6ft": {
+    "destination": "https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-1-Pack/dp/B014I8SSD0",
+    "product_url": "https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-1-Pack/dp/B014I8SSD0",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics HDMI Cable, 6 ft (4K@60Hz / HDMI 2.0)"
+  },
+  "anker-powercore-10000-amazon": {
+    "destination": "https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI",
+    "product_url": "https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Anker PowerCore 10000 Portable Charger"
+  },
+  "anker-20w-usb-c-charger-nano-amazon": {
+    "destination": "https://www.amazon.com/Charger-Anker-Durable-PowerPort-Included/dp/B091H5DPF7",
+    "product_url": "https://www.amazon.com/Charger-Anker-Durable-PowerPort-Included/dp/B091H5DPF7",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Anker 511 Nano / 20W USB-C Charger (cable not included)"
+  },
+  "tide-pods-42ct-amazon": {
+    "destination": "https://www.amazon.com/s?k=Tide+PODS+42+Count",
+    "product_url": "https://www.amazon.com/s?k=Tide+PODS+42+Count",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Tide PODS Laundry Detergent Pacs, 42 Count (Original)"
+  },
+  "crest-3d-whitestrips-professional-effects-amazon": {
+    "destination": "https://www.amazon.com/s?k=Crest+3D+Whitestrips+Professional+Effects+22+Treatments",
+    "product_url": "https://www.amazon.com/s?k=Crest+3D+Whitestrips+Professional+Effects+22+Treatments",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Crest 3D Whitestrips Professional Effects (22 Treatments)"
+  },
+  "amazon-basics-aa-batteries-48pk": {
+    "destination": "https://www.amazon.com/Amazon-Basics-Count-High-Performance-Batteries/dp/B094D3JGLT",
+    "product_url": "https://www.amazon.com/Amazon-Basics-Count-High-Performance-Batteries/dp/B094D3JGLT",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics AA Alkaline Batteries, 48-Pack"
+  },
+  "packit-freezable-lunch-bag-gray-fog-target": {
+    "destination": "https://www.target.com/p/packit-freezable-lunch-bag-gray-fog/-/A-92447652",
+    "product_url": "https://www.target.com/p/packit-freezable-lunch-bag-gray-fog/-/A-92447652",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Packit Freezable Lunch Bag (Gray Fog)"
+  },
+  "contigo-autoseal-chill-24oz-walmart": {
+    "destination": "https://www.walmart.com/ip/Contigo-Cortland-Chill-24-oz-Silver-and-Blue-Solid-Print-Stainless-Steel-Water-Bottle-with-Flip-Top-Lid/171650595",
+    "product_url": "https://www.walmart.com/ip/Contigo-Cortland-Chill-24-oz-Silver-and-Blue-Solid-Print-Stainless-Steel-Water-Bottle-with-Flip-Top-Lid/171650595",
+    "affiliate_url": null,
+    "merchant": "Walmart",
+    "title": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz"
+  },
+  "hydro-flask-24oz-standard-mouth-target": {
+    "destination": "https://www.target.com/p/hydro-flask-24oz-standard-mouth-bottle/-/A-93349791",
+    "product_url": "https://www.target.com/p/hydro-flask-24oz-standard-mouth-bottle/-/A-93349791",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Hydro Flask 24 oz Standard Mouth Bottle"
+  },
+  "swiffer-wetjet-starter-kit-target": {
+    "destination": "https://www.target.com/p/swiffer-wetjet-floor-mop-starter-kit-1-spray-mop-5-mopping-pads-1-floor-cleaner-liquid-solution/-/A-18813263",
+    "product_url": "https://www.target.com/p/swiffer-wetjet-floor-mop-starter-kit-1-spray-mop-5-mopping-pads-1-floor-cleaner-liquid-solution/-/A-18813263",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Swiffer WetJet Floor Mop Starter Kit"
+  },
+  "anker-hdmi-usb-c-cable-6ft-target": {
+    "destination": "https://www.target.com/p/anker-hdmi-cable-4k-60hz-ultra-fast-usb-c-to-hdmi-cord-6ft/-/A-1013278314",
+    "product_url": "https://www.target.com/p/anker-hdmi-cable-4k-60hz-ultra-fast-usb-c-to-hdmi-cord-6ft/-/A-1013278314",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Anker USB-C to HDMI Cable, 6 ft (4K@60Hz)"
+  },
+  "up-and-up-aa-batteries-48pk-target": {
+    "destination": "https://www.target.com/p/aa-batteries-48pk-alkaline-battery-up-38-up-8482/-/A-53692445",
+    "product_url": "https://www.target.com/p/aa-batteries-48pk-alkaline-battery-up-38-up-8482/-/A-53692445",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "up&up AA Alkaline Batteries, 48-Pack"
+  },
+  "command-large-hooks-variety-pending": {
+    "destination": "https://www.amazon.com/s?k=Command+Large+Utility+Hooks",
+    "product_url": "https://www.amazon.com/s?k=Command+Large+Utility+Hooks",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Command Large Utility Hooks (multipack \u2014 confirm SKU)"
+  },
+  "scotch-magic-tape-multipack-pending": {
+    "destination": "https://www.target.com/s/scotch+magic+tape",
+    "product_url": "https://www.target.com/s/scotch+magic+tape",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Scotch Magic Tape Multipack (confirm count)"
+  },
+  "cabeau-evolution-classic-travel-pillow-target": {
+    "destination": "https://www.target.com/p/cabeau-evolution-classic-memory-foam-travel-neck-pillow-adjustable-one-size-midnight-black/-/A-89140405",
+    "product_url": "https://www.target.com/p/cabeau-evolution-classic-memory-foam-travel-neck-pillow-adjustable-one-size-midnight-black/-/A-89140405",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Cabeau Evolution Classic Memory Foam Travel Neck Pillow"
+  },
+  "eagle-creek-pack-it-original-set-xs-s-m-amazon": {
+    "destination": "https://www.amazon.com/dp/B07CTG8BZ7",
+    "product_url": "https://www.amazon.com/dp/B07CTG8BZ7",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Eagle Creek Pack-It Original Packing Cubes Set (XS/S/M)"
+  },
+  "amazon-basics-packing-cubes-4pc": {
+    "destination": "https://www.amazon.com/dp/B014VBICGC",
+    "product_url": "https://www.amazon.com/dp/B014VBICGC",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics 4-Piece Packing Cubes Set"
+  },
+  "samsonite-luggage-tag-set-amazon": {
+    "destination": "https://www.amazon.com/dp/B07QV7M9KY",
+    "product_url": "https://www.amazon.com/dp/B07QV7M9KY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Luggage Tag (confirm set size)"
+  },
+  "travelon-rfid-anti-theft-mini-shoulder-target": {
+    "destination": "https://www.target.com/p/travelon-rfid-anti-theft-mini-shoulder-bag-black/-/A-54541018",
+    "product_url": "https://www.target.com/p/travelon-rfid-anti-theft-mini-shoulder-bag-black/-/A-54541018",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Travelon RFID Anti-Theft Mini Shoulder Bag"
+  },
+  "travelon-self-laminating-luggage-tags-3pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B078M2Q7XW",
+    "product_url": "https://www.amazon.com/dp/B078M2Q7XW",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Travelon Set of 3 Self-Laminating Luggage Tags"
+  },
+  "tsa-clear-quart-toiletry-bag-amazon": {
+    "destination": "https://www.amazon.com/s?k=TSA+approved+clear+quart+toiletry+bag",
+    "product_url": "https://www.amazon.com/s?k=TSA+approved+clear+quart+toiletry+bag",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "TSA-Approved Clear Quart Toiletry Bag (3-1-1 kit)"
+  },
+  "nalgene-32oz-wide-mouth-amazon": {
+    "destination": "https://www.amazon.com/s?k=Nalgene+32+oz+Wide+Mouth",
+    "product_url": "https://www.amazon.com/s?k=Nalgene+32+oz+Wide+Mouth",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Nalgene 32 oz Wide Mouth Bottle (Tritan)"
+  },
+  "packit-freezable-lunch-bag-travel-note": {
+    "destination": "https://www.target.com/p/packit-freezable-lunch-bag-gray-fog/-/A-92447652",
+    "product_url": "https://www.target.com/p/packit-freezable-lunch-bag-gray-fog/-/A-92447652",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Packit Freezable Lunch Bag (travel day-trip use)"
+  },
+  "anker-powercore-10000-travel-slice": {
+    "destination": "https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI",
+    "product_url": "https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Anker PowerCore 10000 (travel carry)"
+  },
+  "klein-3pc-adjustable-wrench-set-amazon": {
+    "destination": "https://www.amazon.com/s?k=Klein+Tools+3-Piece+Adjustable+Wrench+Set",
+    "product_url": "https://www.amazon.com/s?k=Klein+Tools+3-Piece+Adjustable+Wrench+Set",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Klein Tools 3-Piece Adjustable Wrench Set"
+  },
+  "klein-flickblade-utility-knife-amazon": {
+    "destination": "https://www.amazon.com/s?k=Klein+Tools+FLICKBLADE",
+    "product_url": "https://www.amazon.com/s?k=Klein+Tools+FLICKBLADE",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Klein Tools FLICKBLADE Folding Utility Knife/Scraper"
+  },
+  "irwin-vise-grip-11in-locking-c-clamp-amazon": {
+    "destination": "https://www.amazon.com/s?k=IRWIN+VISE-GRIP+11+Locking+C-Clamp",
+    "product_url": "https://www.amazon.com/s?k=IRWIN+VISE-GRIP+11+Locking+C-Clamp",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp"
+  },
+  "oxo-good-grips-swivel-peeler-amazon": {
+    "destination": "https://www.amazon.com/dp/B000I1ZVPA",
+    "product_url": "https://www.amazon.com/dp/B000I1ZVPA",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "OXO Good Grips Swivel Peeler"
+  },
+  "instant-pot-duo-plus-mini-3qt-walmart": {
+    "destination": "https://www.walmart.com/ip/Instant-Pot-Duo-Plus-3-Quart-Mini-9-in-1-Multi-Use-Pressure-Cooker/677032758",
+    "product_url": "https://www.walmart.com/ip/Instant-Pot-Duo-Plus-3-Quart-Mini-9-in-1-Multi-Use-Pressure-Cooker/677032758",
+    "affiliate_url": null,
+    "merchant": "Walmart",
+    "title": "Instant Pot Duo Plus Mini 3-Quart 9-in-1"
+  },
+  "dewalt-tough-tape-25ft-homedepot": {
+    "destination": "https://www.homedepot.com/p/DEWALT-Tough-Tape-25-ft-x-1-1-4-in-Tape-Measure-DWHT36925S/316481763",
+    "product_url": "https://www.homedepot.com/p/DEWALT-Tough-Tape-25-ft-x-1-1-4-in-Tape-Measure-DWHT36925S/316481763",
+    "affiliate_url": null,
+    "merchant": "Home Depot",
+    "title": "DEWALT Tough Tape 25 ft. Tape Measure"
+  },
+  "threshold-bath-towel-value-pending-target": {
+    "destination": "https://www.target.com/c/towels-bath-home-decor/threshold/-/N-5xtv9Z56dig",
+    "product_url": "https://www.target.com/c/towels-bath-home-decor/threshold/-/N-5xtv9Z56dig",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Threshold Bath Towel (value pick \u2014 lock SKU)"
+  },
+  "room-essentials-6pc-dorm-towel-set-target": {
+    "destination": "https://www.target.com/p/6pc-everyday-striped-dorm-towel-set-blue-white-room-essentials-8482/-/A-94908264",
+    "product_url": "https://www.target.com/p/6pc-everyday-striped-dorm-towel-set-blue-white-room-essentials-8482/-/A-94908264",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Room Essentials 6pc Everyday Striped Dorm Towel Set"
+  }
+}

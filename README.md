@@ -31,6 +31,7 @@ python3 -m http.server 8080
 
 ```bash
 python3 scripts/build-catalog.py
+python3 scripts/check-catalog.py
 ```
 
 Outbound product links use `/go/{id}/`. Destination is `affiliate_url` when set, otherwise the clean `product_url`. Do not invent discounts or percentages; a **Verified discount** badge is rendered only when `is_verified_discount` is true.
