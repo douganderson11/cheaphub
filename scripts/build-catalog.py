@@ -57,10 +57,34 @@ TOPIC_LABELS = {
 }
 
 
+IMAGE_HOSTS = {
+    "m.media-amazon.com",
+    "images-na.ssl-images-amazon.com",
+    "target.scene7.com",
+    "images.thdstatic.com",
+    "images.homedepot-static.com",
+    "i5.walmartimages.com",
+    "i.walmartimages.com",
+}
+
+
 def require_https(url: str, field: str, product_id: str) -> str:
     parsed = urlparse(url)
     if parsed.scheme not in {"http", "https"} or not parsed.netloc:
         raise ValueError(f"{product_id}: {field} is not an absolute http(s) URL: {url!r}")
+    return url
+
+
+def normalize_image_url(row: dict, product_id: str) -> str | None:
+    url = row.get("image_url")
+    if url in (None, "", False):
+        return None
+    if not isinstance(url, str):
+        raise ValueError(f"{product_id}: image_url must be a URL string or null")
+    parsed = urlparse(require_https(url, "image_url", product_id))
+    host = parsed.hostname or ""
+    if host not in IMAGE_HOSTS:
+        raise ValueError(f"{product_id}: image_url host {host!r} is not an allowed merchant CDN")
     return url
 
 
@@ -81,6 +105,7 @@ def load_overrides() -> dict[str, str]:
 def normalize_product(row: dict, index: int, overrides: dict[str, str]) -> dict:
     product_id = row["id"]
     product_url = require_https(row["product_url"], "product_url", product_id)
+    image_url = normalize_image_url(row, product_id)
     affiliate_url = overrides.get(product_id)
     destination = affiliate_url or product_url
     last_checked = row.get("last_checked_date") or RESEARCH_DATE
@@ -108,6 +133,9 @@ def normalize_product(row: dict, index: int, overrides: dict[str, str]) -> dict:
         "restrictions_notes": row["restrictions_notes"],
         "last_checked_date": last_checked,
         "suggested_affiliate_network": row.get("suggested_affiliate_network") or "pending",
+        "image_url": image_url,
+        "image_alt": row.get("image_alt") or (row["title"] if image_url else None),
+        "image_source": row.get("image_source") or None,
         "status": row.get("status") or "draft",
         "priority_rank": priority_rank,
         "sort_index": index,
@@ -212,7 +240,8 @@ def main() -> None:
     (ASSETS / "search-index.json").write_text(json.dumps(search_items, indent=2) + "\n", encoding="utf-8")
 
     verified = [product["id"] for product in products if product["is_verified_discount"]]
-    print(f"Wrote {len(products)} products ({len(verified)} verified discounts).")
+    with_images = sum(1 for product in products if product["image_url"])
+    print(f"Wrote {len(products)} products ({len(verified)} verified discounts, {with_images} with images).")
     print(f"Go pages: {len(list(GO.glob('*/index.html')))}")
     print(f"Redirects: {len(redirect_lines)}")
 

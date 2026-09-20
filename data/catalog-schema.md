@@ -22,7 +22,10 @@ Field definitions for the Netlify site / CMS ingest of `seed-catalog.csv` / `see
 | `restrictions_notes` | string | yes | Stock, SKU ambiguity, safety, battery rules, regional variance, etc. |
 | `last_checked_date` | date (YYYY-MM-DD) | yes | Last research check. Seed pass used `2026-09-19`. |
 | `suggested_affiliate_network` | enum | yes | `amazon` \| `impact` \| `shareasale` \| `cj` \| `pending`. Not live affiliate links. |
-| `image_notes` | string | yes | What image to use / where to source. Do **not** download copyrighted merchant images unless licensed. Prefer noting public PDP image URL for later rights-cleared use. |
+| `image_notes` | string | yes | Editorial note on the intended photo. Does not replace `image_url`. |
+| `image_url` | string (URL) or null | no | Official merchant CDN URL for this listing’s product photo, or `null` when unverified. Never invent or substitute another SKU’s image. |
+| `image_alt` | string or null | no | Alt text; use the product title when `image_url` is set. |
+| `image_source` | enum or null | no | Merchant CDN that served the photo: `amazon` \| `target` \| `homedepot` \| `walmart` \| `oxo`. |
 | `status` | enum | yes | Seed rows are `draft`. Promote to `ready` / `live` / `expired` in CMS after re-verification. |
 
 ## Trust / publish gates (must pass before `live`)
@@ -57,5 +60,8 @@ Field definitions for the Netlify site / CMS ingest of `seed-catalog.csv` / `see
 
 ## Image policy
 
-- Seed catalog does **not** ship binary image assets.
-- `image_notes` describes the intended asset; CMS editors should use licensed / merchant-permitted sources or original photography.
+- Show a real product photo from the listing’s merchant, or show a “no photo” state. Never use stock, guessed, or cross-SKU images.
+- Prefer hotlinking the merchant CDN URL captured from that PDP (Amazon `m.media-amazon.com`, Target Scene7 `GUEST_` assets, Home Depot `images.thdstatic.com`, Walmart `i5.walmartimages.com`).
+- Amazon images must come from Amazon product-page assets (`/images/I/…` on the PDP, or the Associates image widget)—not third-party mirrors.
+- Search/category `product_url` rows stay `image_url: null` until an ASIN/SKU is locked.
+- If a PDP bot-walls the fetcher, leave `image_url` null unless the CDN URL can be verified from that same listing (for example a Wayback snapshot of the merchant PDP whose `images.thdstatic.com` URL still resolves).

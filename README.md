@@ -34,6 +34,16 @@ python3 scripts/build-catalog.py
 python3 scripts/check-catalog.py
 ```
 
+Product photos come from the merchant listing (`image_url` on each catalog row). Re-resolve them after URL/SKU changes:
+
+```bash
+python3 scripts/fetch-product-images.py
+python3 scripts/build-catalog.py
+python3 scripts/check-catalog.py
+```
+
+Hotlinked CDNs are Amazon (`m.media-amazon.com`), Target Scene7, and Home Depot (`images.thdstatic.com`). `_headers` allows those hosts in `img-src`. Search/category URLs and bot-walled PDPs stay `image_url: null` and render a “No photo yet” state — never a guessed picture.
+
 Outbound product links use `/go/{id}/`. Destination is `affiliate_url` when set, otherwise the clean `product_url`. Do not invent discounts or percentages; a **Verified discount** badge is rendered only when `is_verified_discount` is true.
 
 ## Deploy note

@@ -130,9 +130,40 @@
     return `/go/${product.id}/`;
   }
 
+  function emptyMedia() {
+    const media = el("div", "offer-media offer-media-empty");
+    media.setAttribute("aria-hidden", "true");
+    text(media, "No photo yet");
+    return media;
+  }
+
+  function renderMedia(product) {
+    if (!product.image_url) return emptyMedia();
+
+    const link = el("a", "offer-media-link");
+    link.href = outboundHref(product);
+    link.rel = "sponsored noopener noreferrer";
+
+    const media = el("div", "offer-media");
+    const img = document.createElement("img");
+    img.src = product.image_url;
+    img.alt = product.image_alt || product.title;
+    img.loading = "lazy";
+    img.decoding = "async";
+    img.width = 400;
+    img.height = 400;
+    img.addEventListener("error", () => {
+      link.replaceWith(emptyMedia());
+    });
+    media.append(img);
+    link.append(media);
+    return link;
+  }
+
   function renderCard(product) {
     const card = el("article", "offer-card");
     card.id = product.id;
+    card.append(renderMedia(product));
 
     const kicker = el("span", "kicker");
     text(kicker, `${product.topic} · ${product.merchant}`);

@@ -6,10 +6,20 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG = json.loads((ROOT / "assets" / "catalog.json").read_text())
 PRODUCTS = CATALOG["products"]
+IMAGE_HOSTS = {
+    "m.media-amazon.com",
+    "images-na.ssl-images-amazon.com",
+    "target.scene7.com",
+    "images.thdstatic.com",
+    "images.homedepot-static.com",
+    "i5.walmartimages.com",
+    "i.walmartimages.com",
+}
 
 
 def fail(message: str) -> None:
@@ -37,6 +47,17 @@ def main() -> None:
             fail(f"{product['id']} destination is not http(s)")
         if product["affiliate_url"] is None and product["destination"] != product["product_url"]:
             fail(f"{product['id']} destination should default to product_url")
+        image_url = product.get("image_url")
+        if image_url:
+            parsed = urlparse(image_url)
+            if parsed.scheme != "https" or parsed.hostname not in IMAGE_HOSTS:
+                fail(f"{product['id']} image_url is not an allowed merchant HTTPS CDN")
+            if not product.get("image_alt"):
+                fail(f"{product['id']} has image_url but missing image_alt")
+            if not product.get("image_source"):
+                fail(f"{product['id']} has image_url but missing image_source")
+        elif product.get("image_source") or product.get("image_alt"):
+            fail(f"{product['id']} has image metadata without image_url")
         invented = re.search(r"\b\d{1,2}%\s*off\b", product["discount_basis"], re.I)
         if invented and not product["is_verified_discount"]:
             fail(f"{product['id']} looks like an invented percent-off claim")
@@ -80,6 +101,15 @@ def main() -> None:
             fail(f"{rel} body does not name MarshMack Media LLC as operator")
         if "DBMM Anderson LLC" not in text:
             fail(f"{rel} is missing the DBMM Anderson LLC IP line")
+
+    csp = (ROOT / "_headers").read_text(encoding="utf-8")
+    for host in (
+        "m.media-amazon.com",
+        "target.scene7.com",
+        "images.thdstatic.com",
+    ):
+        if host not in csp:
+            fail(f"_headers CSP is missing img-src host {host}")
     print("Catalog checks passed.")
 
 
