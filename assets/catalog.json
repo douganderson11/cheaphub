@@ -26,6 +26,9 @@
       "restrictions_notes": "In-store vs online pricing may differ; confirm reg/sale at checkout. Kit contents are entry-level tools.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_0c9c6243-86e9-40f2-af88-e4577a477ba0?wid=600&hei=600&qlt=85",
+      "image_alt": "TINKR Home Essentials Kit with Canvas Roll-up Case",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": 1,
       "sort_index": 0
@@ -52,6 +55,9 @@
       "restrictions_notes": "Local store prices may vary. Confirm model 33-725Y (or current FatMax SKU) before linking.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://images.thdstatic.com/productImages/df5797b7-07fb-46c8-919c-64a2662fdc81/svn/stanley-tape-measures-33-725y-64_600.jpg",
+      "image_alt": "Stanley FatMax 25 ft. Tape Measure",
+      "image_source": "homedepot",
       "status": "draft",
       "priority_rank": 7,
       "sort_index": 1
@@ -78,6 +84,9 @@
       "restrictions_notes": "Requires 3 AA batteries (not included). Local store prices may vary.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": 8,
       "sort_index": 2
@@ -104,6 +113,9 @@
       "restrictions_notes": "HD consumer card promos are separate from product price; do not advertise card offers as product discounts.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 3
@@ -130,6 +142,9 @@
       "restrictions_notes": "HART inventory clearing at Walmart; many SKUs go OOS. Confirm exact SKU, battery inclusion, and live price. Search URL used when canonical PDP not confirmed.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": 20,
       "sort_index": 4
@@ -156,6 +171,9 @@
       "restrictions_notes": "HART inventory clearing at Walmart; many SKUs go OOS. Confirm exact SKU, battery inclusion, and live price. Search URL used when canonical PDP not confirmed.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 5
@@ -182,6 +200,9 @@
       "restrictions_notes": "HART inventory clearing at Walmart; many SKUs go OOS. Confirm exact SKU, battery inclusion, and live price. Search URL used when canonical PDP not confirmed.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 6
@@ -208,6 +229,9 @@
       "restrictions_notes": "HART inventory clearing at Walmart; many SKUs go OOS. Confirm exact SKU, battery inclusion, and live price. Search URL used when canonical PDP not confirmed.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 7
@@ -234,6 +258,9 @@
       "restrictions_notes": "HART inventory clearing at Walmart; many SKUs go OOS. Confirm exact SKU, battery inclusion, and live price. Search URL used when canonical PDP not confirmed.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 8
@@ -260,6 +287,9 @@
       "restrictions_notes": "HART inventory clearing at Walmart; many SKUs go OOS. Confirm exact SKU, battery inclusion, and live price. Search URL used when canonical PDP not confirmed.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 9
@@ -286,6 +316,9 @@
       "restrictions_notes": "HART inventory clearing at Walmart; many SKUs go OOS. Confirm exact SKU, battery inclusion, and live price. Search URL used when canonical PDP not confirmed.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 10
@@ -312,6 +345,9 @@
       "restrictions_notes": "HART inventory clearing at Walmart; many SKUs go OOS. Confirm exact SKU, battery inclusion, and live price. Search URL used when canonical PDP not confirmed.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 11
@@ -338,6 +374,9 @@
       "restrictions_notes": "HART inventory clearing at Walmart; many SKUs go OOS. Confirm exact SKU, battery inclusion, and live price. Search URL used when canonical PDP not confirmed.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 12
@@ -364,6 +403,9 @@
       "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 13
@@ -390,6 +432,9 @@
       "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 14
@@ -416,6 +461,9 @@
       "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 15
@@ -442,6 +490,9 @@
       "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 16
@@ -468,6 +519,9 @@
       "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 17
@@ -494,6 +548,9 @@
       "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 18
@@ -520,6 +577,9 @@
       "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 19
@@ -546,6 +606,9 @@
       "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 20
@@ -572,6 +635,9 @@
       "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 21
@@ -598,6 +664,9 @@
       "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 22
@@ -624,6 +693,9 @@
       "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 23
@@ -650,6 +722,9 @@
       "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 24
@@ -676,6 +751,9 @@
       "restrictions_notes": "Hand wash recommended per listing. Compare Target (~$12.99\u2013$15) before buying; confirm ASIN B08Q2C6RFP.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/51qUkHkLxiL._AC_SL500_.jpg",
+      "image_alt": "OXO Good Grips Kitchen Scissors",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": 4,
       "sort_index": 25
@@ -702,6 +780,9 @@
       "restrictions_notes": "Target Softworks vs Good Grips naming can differ by SKU; confirm blade/handle details. Amazon Good Grips variant often ~$11.99.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_f1df8a68-32d4-444e-b524-7fd3e7203aaf?wid=600&hei=600&qlt=85",
+      "image_alt": "OXO Swivel Peeler",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 26
@@ -728,6 +809,9 @@
       "restrictions_notes": "Price fluctuates; some listings show ~$29\u2013$33. Confirm capacity (large vs compact) matches need.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/81llIkiRB8L._AC_SL500_.jpg",
+      "image_alt": "OXO Good Grips Salad Spinner (Large ~6.22 qt)",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 27
@@ -754,6 +838,9 @@
       "restrictions_notes": "Hand wash; re-season as needed. Target lists similar 8\" around $17.99\u2014compare total with shipping/tax.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71H-w0pZIuL._AC_SL500_.jpg",
+      "image_alt": "Lodge 8-Inch Pre-Seasoned Cast Iron Skillet",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": 6,
       "sort_index": 28
@@ -780,6 +867,9 @@
       "restrictions_notes": "Wildlife Series decorative lid/side art may differ from plain Lodge SKUs\u2014confirm you want that design. Price may vary by store.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 29
@@ -806,6 +896,9 @@
       "restrictions_notes": "Glass can shatter with thermal shock; follow oven/preheat guidance. Confirm 3-piece set contents.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71ygLu2o0OL._AC_SL500_.jpg",
+      "image_alt": "Pyrex 3-Piece Glass Measuring Cup Set (1/2/4 cup)",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": 17,
       "sort_index": 30
@@ -832,6 +925,9 @@
       "restrictions_notes": "Blade is sharp\u2014use a finger guard or careful technique. Colorways may vary.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": 18,
       "sort_index": 31
@@ -858,6 +954,9 @@
       "restrictions_notes": "Glass base oven-safe up to stated temp; plastic lid is not. Confirm current was/now at checkout.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_58471dd4-e98a-43f9-8e76-6e5ba8974fe6?wid=600&hei=600&qlt=85",
+      "image_alt": "Rubbermaid Brilliance Glass 8-Cup Food Storage Container with Lid",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": 2,
       "sort_index": 32
@@ -884,6 +983,9 @@
       "restrictions_notes": "Often cheaper at Target/Amazon; use brand page for specs, shop elsewhere for price.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "pending",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 33
@@ -910,6 +1012,9 @@
       "restrictions_notes": "Price often ~$9\u2013$11; wash separately first. Confirm pack count (24).",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/91WjG1lqmLL._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics Microfiber Cleaning Cloths, 24-Pack (16\" x 12\")",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": 9,
       "sort_index": 34
@@ -936,6 +1041,9 @@
       "restrictions_notes": "Not for nonstick coatings that scratch easily\u2014use zero-scratch variants on coated pans.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_4dda7285-1859-4955-bbe3-ab2ea840ff7f?wid=600&hei=600&qlt=85",
+      "image_alt": "Scotch-Brite Heavy Duty Scrub Sponges, 3-Count",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": 10,
       "sort_index": 35
@@ -962,6 +1070,9 @@
       "restrictions_notes": "Still not ideal for every finish; test a corner if unsure.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_11eb9059-1389-49d2-9940-cb083369f274?wid=600&hei=600&qlt=85",
+      "image_alt": "Scotch-Brite Zero-Scratch Scrub Sponges, 3-Count",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 36
@@ -988,6 +1099,9 @@
       "restrictions_notes": "Follow contact-time instructions for disinfection claims. Fragrance may bother sensitive users.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_a0d1716e-2a9b-4d6b-a271-fbfa04164495?wid=600&hei=600&qlt=85",
+      "image_alt": "Clorox Fresh Scent Disinfecting Wipes, 75-Count",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": 16,
       "sort_index": 37
@@ -1014,6 +1128,9 @@
       "restrictions_notes": "Confirm color/capacity on PDP; price can vary by colorway. Not sealed food storage.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_d05e73f9-0b06-4008-95a6-557e93e12590?wid=600&hei=600&qlt=85",
+      "image_alt": "Room Essentials Storage Crate (Milk-Crate Style)",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": 19,
       "sort_index": 38
@@ -1040,6 +1157,9 @@
       "restrictions_notes": "HDMI 2.0 / 4K60\u2014not 8K or 48Gbps. Confirm length and connector needs.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/81Bxo64d2-L._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics HDMI Cable, 6 ft (4K@60Hz / HDMI 2.0)",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": 11,
       "sort_index": 39
@@ -1066,6 +1186,9 @@
       "restrictions_notes": "USB-A output model; newer phones may want USB-C banks. Flight-approved capacity but carry-on only. Sold by AnkerDirect typically.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": 12,
       "sort_index": 40
@@ -1092,6 +1215,9 @@
       "restrictions_notes": "Cable not included. Confirm exact Nano vs Nano Pro SKU and regional plug type. Re-check Amazon price before publish.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/51UCIcDXQaS._AC_SL500_.jpg",
+      "image_alt": "Anker 511 Nano / 20W USB-C Charger (cable not included)",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 41
@@ -1118,6 +1244,9 @@
       "restrictions_notes": "Keep away from children. Confirm count and scent. Subscribe & Save may change effective price.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 42
@@ -1144,6 +1273,9 @@
       "restrictions_notes": "Not for everyone (braces, sensitivity). Target/Walmart kit sizes differ\u2014match strip count. S&S may lower Amazon price.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 43
@@ -1170,6 +1302,9 @@
       "restrictions_notes": "Alkaline (not rechargeable). Prices swing with Subscribe & Save. Confirm 48-count ASIN.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/715RL6A12gL._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics AA Alkaline Batteries, 48-Pack",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 44
@@ -1196,6 +1331,9 @@
       "restrictions_notes": "Must freeze before use; not a powered cooler. Colorways/prices vary (e.g. Almond listed differently). Re-confirm sale.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_5e13cbfb-988f-490c-b5f4-acbeb90bd8e3?wid=600&hei=600&qlt=85",
+      "image_alt": "Packit Freezable Lunch Bag (Gray Fog)",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": 3,
       "sort_index": 45
@@ -1222,6 +1360,9 @@
       "restrictions_notes": "Stock and colorways fluctuate; listing may show OOS. Hand-wash lid components as directed.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 46
@@ -1248,6 +1389,9 @@
       "restrictions_notes": "Target capacity/color may sell out. Brand MSRP from hydroflask.com. Not dishwasher-safe for all parts.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 47
@@ -1274,6 +1418,9 @@
       "restrictions_notes": "Ongoing pad/solution cost can exceed mop price\u2014factor refill spend. Re-check Target price.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_b1bb0f88-fe80-4758-98d8-47018a7a3883?wid=600&hei=600&qlt=85",
+      "image_alt": "Swiffer WetJet Floor Mop Starter Kit",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 48
@@ -1300,6 +1447,9 @@
       "restrictions_notes": "Not all USB-C ports output video. Thunderbolt/DP Alt Mode required on host.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_0ef131e3-080d-4ed9-aace-87d523f4720e?wid=600&hei=600&qlt=85",
+      "image_alt": "Anker USB-C to HDMI Cable, 6 ft (4K@60Hz)",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 49
@@ -1326,6 +1476,9 @@
       "restrictions_notes": "Editorial note: may not be the value pick vs Amazon Basics\u2014include for merchant diversity / pickup convenience.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_1c269506-14e8-4560-be22-5d72cdbedf37?wid=600&hei=600&qlt=85",
+      "image_alt": "up&up AA Alkaline Batteries, 48-Pack",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 50
@@ -1352,6 +1505,9 @@
       "restrictions_notes": "Surface prep matters; follow weight limits. Lock exact ASIN and price before publish.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 51
@@ -1378,6 +1534,9 @@
       "restrictions_notes": "Lock specific pack size and current price before publish. Prefer warehouse club if shipping free.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 52
@@ -1404,6 +1563,9 @@
       "restrictions_notes": "One-size; fit varies. Colorways Midnigh Black / Navy. Not a compression packing item.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_cd330f4e-53bc-4690-b876-876d29c7533a?wid=600&hei=600&qlt=85",
+      "image_alt": "Cabeau Evolution Classic Memory Foam Travel Neck Pillow",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": 13,
       "sort_index": 53
@@ -1430,6 +1592,9 @@
       "restrictions_notes": "Confirm color (e.g. Blue Sea) and exact set sizes. Prices move with colorway.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/91GDZ7znicL._AC_SL500_.jpg",
+      "image_alt": "Eagle Creek Pack-It Original Packing Cubes Set (XS/S/M)",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": 14,
       "sort_index": 54
@@ -1456,6 +1621,9 @@
       "restrictions_notes": "Multiple Amazon Basics cube SKUs exist (4pc vs 8pc). Lock ASIN and price before publish.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71GCQqyqpRL._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics 4-Piece Packing Cubes Set",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 55
@@ -1482,6 +1650,9 @@
       "restrictions_notes": "Confirm whether listing is single or multi-pack. Avoid posting home address openly on tags.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/61rUF4lFZPL._AC_SL500_.jpg",
+      "image_alt": "Samsonite Luggage Tag (confirm set size)",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 56
@@ -1508,6 +1679,9 @@
       "restrictions_notes": "RFID blocking is not theft-proof. Larger Travelon crossbodies often exceed $50\u2014stick to this mini SKU for ceiling.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_5e56d523-cc89-42cb-9867-fd974b02445a?wid=600&hei=600&qlt=85",
+      "image_alt": "Travelon RFID Anti-Theft Mini Shoulder Bag",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": 15,
       "sort_index": 57
@@ -1534,6 +1708,9 @@
       "restrictions_notes": "Confirm pack of 3. Privacy: use email/phone, not full home address.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/516JptlZlpL._AC_SL500_.jpg",
+      "image_alt": "Travelon Set of 3 Self-Laminating Luggage Tags",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 58
@@ -1560,6 +1737,9 @@
       "restrictions_notes": "Many no-name listings. Prefer known brand with zip integrity reviews. Liquids still must be \u22643.4 oz each.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 59
@@ -1586,6 +1766,9 @@
       "restrictions_notes": "Not insulated. Lock color/ASIN and price. BPA-free Tritan versions preferred.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 60
@@ -1612,6 +1795,9 @@
       "restrictions_notes": "DUPLICATE SKU intentional for travel module\u2014CMS should dedupe by merchant SKU if needed. Freeze overnight. Airline liquid rules still apply to drinks inside.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_5e13cbfb-988f-490c-b5f4-acbeb90bd8e3?wid=600&hei=600&qlt=85",
+      "image_alt": "Packit Freezable Lunch Bag (travel day-trip use)",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 61
@@ -1638,6 +1824,9 @@
       "restrictions_notes": "Cross-category with Everyday. Lithium batteries: carry-on only. Confirm airline watt-hour rules.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 62
@@ -1664,6 +1853,9 @@
       "restrictions_notes": "Confirm set contents and ASIN. Prices change often.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 63
@@ -1690,6 +1882,9 @@
       "restrictions_notes": "Blades are sharp; lock closed when not in use. Confirm ASIN.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 64
@@ -1716,6 +1911,9 @@
       "restrictions_notes": "Can mark soft wood\u2014use pads. Confirm size 11\".",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 65
@@ -1742,6 +1940,9 @@
       "restrictions_notes": "Dishwasher safe per listing. Distinct from Target Softworks peeler SKU.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71UBG06NKFL._AC_SL500_.jpg",
+      "image_alt": "OXO Good Grips Swivel Peeler",
+      "image_source": "amazon",
       "status": "draft",
       "priority_rank": 5,
       "sort_index": 66
@@ -1768,6 +1969,9 @@
       "restrictions_notes": "Above $50 kitchen guide ceiling\u2014include as Home Savings appliance seed. Follow pressure-cooker safety. Confirm current Walmart price.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 67
@@ -1794,6 +1998,9 @@
       "restrictions_notes": "Re-check Home Depot price. Local store prices may vary.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://images.thdstatic.com/productImages/bda3cdea-0d21-49a2-8b01-40e720988513/svn/dewalt-tape-measures-dwht36925s-64_600.jpg",
+      "image_alt": "DEWALT Tough Tape 25 ft. Tape Measure",
+      "image_source": "homedepot",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 68
@@ -1820,6 +2027,9 @@
       "restrictions_notes": "Lock a specific towel SKU and price. Watch for fiber blend and size.",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": null,
+      "image_alt": null,
+      "image_source": null,
       "status": "draft",
       "priority_rank": null,
       "sort_index": 69
@@ -1846,6 +2056,9 @@
       "restrictions_notes": "Re-check Target price and set contents (bath/hand/washcloth mix).",
       "last_checked_date": "2026-09-19",
       "suggested_affiliate_network": "impact",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_8a88867b-7995-4f72-a4ed-4e25d73f08c7?wid=600&hei=600&qlt=85",
+      "image_alt": "Room Essentials 6pc Everyday Striped Dorm Towel Set",
+      "image_source": "target",
       "status": "draft",
       "priority_rank": null,
       "sort_index": 70
