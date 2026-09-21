@@ -67,6 +67,8 @@ IMAGE_HOSTS = {
     "i.walmartimages.com",
 }
 
+LOCAL_IMAGE_PREFIX = "/assets/products/"
+
 
 def require_https(url: str, field: str, product_id: str) -> str:
     parsed = urlparse(url)
@@ -81,6 +83,11 @@ def normalize_image_url(row: dict, product_id: str) -> str | None:
         return None
     if not isinstance(url, str):
         raise ValueError(f"{product_id}: image_url must be a URL string or null")
+    if url.startswith(LOCAL_IMAGE_PREFIX):
+        local = ROOT / url.lstrip("/")
+        if not local.is_file():
+            raise ValueError(f"{product_id}: local image missing at {url}")
+        return url
     parsed = urlparse(require_https(url, "image_url", product_id))
     host = parsed.hostname or ""
     if host not in IMAGE_HOSTS:
@@ -182,6 +189,19 @@ def existing_search_items() -> list[dict]:
     return [item for item in items if item.get("type") != "Product"]
 
 
+def exclusion_reason(row: dict) -> str:
+    url = row.get("product_url") or ""
+    parsed = urlparse(url)
+    path = parsed.path.rstrip("/")
+    if "/s" == path or path.startswith("/s/") or "search?" in url or "/search" in path:
+        return "unlocked_search_or_category_url"
+    if parsed.path.startswith("/c/") or "/-/N-" in parsed.path:
+        return "unlocked_search_or_category_url"
+    if not row.get("image_url"):
+        return row.get("image_exclusion_reason") or "no_verified_merchant_photo"
+    return "no_verified_merchant_photo"
+
+
 def main() -> None:
     seed = json.loads((DATA / "seed-catalog.json").read_text())
     overrides = load_overrides()
@@ -190,12 +210,44 @@ def main() -> None:
     if unknown_overrides:
         raise ValueError(f"Unknown affiliate override ids: {unknown_overrides}")
 
+    published = [product for product in products if product["image_url"]]
+    excluded = []
+    seed_by_id = {row["id"]: row for row in seed}
+    for product in products:
+        if product["image_url"]:
+            continue
+        row = seed_by_id[product["id"]]
+        excluded.append(
+            {
+                "id": product["id"],
+                "title": product["title"],
+                "merchant": product["merchant"],
+                "product_url": product["product_url"],
+                "reason": exclusion_reason(row),
+                "status": "draft_excluded_pending_photo",
+            }
+        )
+    (DATA / "excluded-pending-photo.json").write_text(
+        json.dumps(
+            {
+                "policy": "Do not list a product without a photo. These seed rows stay in draft until a verified merchant image is attached.",
+                "count": len(excluded),
+                "products": excluded,
+            },
+            indent=2,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+
     catalog = {
         "generated_from": "data/seed-catalog.json",
         "research_date": RESEARCH_DATE,
-        "count": len(products),
-        "verified_discount_count": sum(1 for product in products if product["is_verified_discount"]),
-        "products": products,
+        "seed_count": len(products),
+        "count": len(published),
+        "excluded_pending_photo_count": len(excluded),
+        "verified_discount_count": sum(1 for product in published if product["is_verified_discount"]),
+        "products": published,
     }
     (ASSETS / "catalog.json").write_text(json.dumps(catalog, indent=2) + "\n", encoding="utf-8")
 
@@ -227,7 +279,7 @@ def main() -> None:
     (ROOT / "_redirects").write_text("\n".join(redirect_lines) + "\n", encoding="utf-8")
 
     search_items = existing_search_items()
-    for product in products:
+    for product in published:
         search_items.append(
             {
                 "title": product["title"],
@@ -239,9 +291,12 @@ def main() -> None:
         )
     (ASSETS / "search-index.json").write_text(json.dumps(search_items, indent=2) + "\n", encoding="utf-8")
 
-    verified = [product["id"] for product in products if product["is_verified_discount"]]
-    with_images = sum(1 for product in products if product["image_url"])
-    print(f"Wrote {len(products)} products ({len(verified)} verified discounts, {with_images} with images).")
+    verified = [product["id"] for product in published if product["is_verified_discount"]]
+    print(
+        f"Published {len(published)} products with photos "
+        f"({len(verified)} verified discounts). "
+        f"Excluded {len(excluded)} pending photo. Seed rows {len(products)}."
+    )
     print(f"Go pages: {len(list(GO.glob('*/index.html')))}")
     print(f"Redirects: {len(redirect_lines)}")
 

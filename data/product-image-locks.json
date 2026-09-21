@@ -1,0 +1,104 @@
+{
+  "irwin-10in-curved-jaw-locking-pliers-amazon": {
+    "product_url": "https://www.amazon.com/dp/B00004YNIC",
+    "image_url": "https://m.media-amazon.com/images/P/B00004YNIC.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "detail": "Locked classic IRWIN 10-inch curved-jaw listing ASIN B00004YNIC; Amazon P/ main image is a verified JPEG."
+  },
+  "irwin-7in-locking-pliers-cutter-amazon": {
+    "product_url": "https://www.amazon.com/IRWIN-07-7WR-Vise-Grip-7-Inch-Cutters/dp/B00004SBAW",
+    "image_url": "https://m.media-amazon.com/images/P/B00004SBAW.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "detail": "Locked IRWIN 7WR 7-inch curved jaw with cutter ASIN B00004SBAW."
+  },
+  "oxo-kitchen-herb-scissors-oxo-com": {
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/OXO-Grips-Multi-Purpose-Kitchen-Shears/dp/B000KILLXM",
+    "image_url": "https://m.media-amazon.com/images/P/B000KILLXM.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "suggested_affiliate_network": "amazon",
+    "detail": "oxo.com PDP HTTP 403; locked same Kitchen and Herb Scissors ASIN B000KILLXM on Amazon.",
+    "restrictions_append": " Brand-site listing was bot-walled; outbound now uses the matching Amazon PDP."
+  },
+  "klein-16ft-compact-tape-amazon": {
+    "product_url": "https://www.amazon.com/Klein-Tools-Tape-Measure-16-Foot/dp/B0CDMJZX12",
+    "image_url": "https://m.media-amazon.com/images/P/B0CDMJZX12.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "detail": "Locked Klein 9516 16-foot compact double-hook tape ASIN B0CDMJZX12."
+  },
+  "estwing-16oz-rip-hammer-amazon": {
+    "product_url": "https://www.amazon.com/Estwing-Hammer-Straight-Smooth-Reduction/dp/B0000224VG",
+    "image_url": "https://m.media-amazon.com/images/P/B0000224VG.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "detail": "Locked Estwing E3-16S 16 oz smooth-face rip hammer ASIN B0000224VG."
+  },
+  "craftsman-25ft-tape-amazon": {
+    "product_url": "https://www.amazon.com/CRAFTSMAN-Measure-Self-Lock-25-Foot-CMHT37225S/dp/B07QG3ZXQC",
+    "image_url": "https://m.media-amazon.com/images/P/B07QG3ZXQC.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "detail": "Locked Craftsman CMHT37225S 25 ft self-lock tape ASIN B07QG3ZXQC."
+  },
+  "craftsman-26pc-ratcheting-screwdriver-amazon": {
+    "product_url": "https://www.amazon.com/CRAFTSMAN-Ratcheting-Screwdriver-Multibit-CMHT68001/dp/B07SGVXKZ9",
+    "image_url": "https://m.media-amazon.com/images/P/B07SGVXKZ9.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "detail": "Locked Craftsman CMHT68001 26-piece ratcheting screwdriver ASIN B07SGVXKZ9."
+  },
+  "crest-3d-whitestrips-professional-effects-amazon": {
+    "product_url": "https://www.amazon.com/Crest-3D-Whitestrips-Professional-Effects/dp/B00AHAWWO0",
+    "image_url": "https://m.media-amazon.com/images/P/B00AHAWWO0.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "detail": "Locked Crest 3D Whitestrips Professional Effects 22-treatment kit ASIN B00AHAWWO0."
+  },
+  "klein-3pc-adjustable-wrench-set-amazon": {
+    "product_url": "https://www.amazon.com/Klein-Tools-D5073-Adjustable-Capacity/dp/B0CYHLQ7FW",
+    "image_url": "https://m.media-amazon.com/images/P/B0CYHLQ7FW.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "detail": "Locked Klein D5073 6/8/10-inch extra-capacity adjustable wrench set ASIN B0CYHLQ7FW."
+  },
+  "nalgene-32oz-wide-mouth-amazon": {
+    "product_url": "https://www.amazon.com/dp/B0B9T4KCV7",
+    "image_url": "https://m.media-amazon.com/images/P/B0B9T4KCV7.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "detail": "Locked current Nalgene 32 oz Wide Mouth Tritan listing ASIN B0B9T4KCV7."
+  },
+  "microplane-premium-classic-zester-target": {
+    "product_url": "https://www.target.com/p/microplane-premium-classic-zester-grater/-/A-88337174",
+    "image_url": "https://target.scene7.com/is/image/Target/GUEST_a8a9f30a-c602-4c01-bf3b-ebe67f08c800?wid=600&hei=600&qlt=85",
+    "image_source": "target",
+    "title": "Microplane Premium Classic Fine Zester / Grater (Dark Blue)",
+    "detail": "Original grey TCIN 1001942616 had no usable Target image; locked current Premium Classic TCIN 88337174 (dark blue) with Scene7 GUEST asset."
+  },
+  "scotch-magic-tape-multipack-pending": {
+    "product_url": "https://www.target.com/p/scotch-6pk-magic-tape-3-4-34-x800-34/-/A-13356402",
+    "image_url": "https://target.scene7.com/is/image/Target/GUEST_50f899e9-564a-402b-81c3-3d50f04a97af?wid=600&hei=600&qlt=85",
+    "image_source": "target",
+    "title": "Scotch Magic Tape 6-Pack (3/4 in. x 800 in.)",
+    "detail": "Locked Target TCIN 13356402 six-pack refill rolls."
+  },
+  "klein-15in1-multibit-ratcheting-screwdriver-amazon": {
+    "merchant": "Klein Tools",
+    "product_url": "https://www.kleintools.com/catalog/multi-bit-screwdrivers/15-1-multi-bit-ratcheting-screwdriver",
+    "image_url": "/assets/products/klein-32305.jpg",
+    "image_source": "klein",
+    "suggested_affiliate_network": "pending",
+    "detail": "No standalone Amazon ASIN confirmed (combo kits exist). Locked Klein 32305 brand PDP; official catalog photo downloaded."
+  },
+  "klein-11in1-screwdriver-nut-driver-amazon": {
+    "product_url": "https://www.amazon.com/Klein-Tools-32500-Screwdriver-Driver/dp/B095PTPSK3",
+    "image_url": "/assets/products/klein-32500.jpg",
+    "image_source": "klein",
+    "detail": "Locked Klein 32500 ASIN B095PTPSK3. Amazon P/ image is a GIF placeholder; official Klein catalog photo downloaded."
+  },
+  "channellock-12in-tongue-groove-amazon": {
+    "product_url": "https://www.amazon.com/dp/B00820N746",
+    "image_url": "/assets/products/channellock-440.webp",
+    "image_source": "channellock",
+    "detail": "Locked Channellock 440 ASIN B00820N746. Amazon P/ image is a GIF placeholder; official 440 gallery photo from channellock.com/Salsify downloaded."
+  },
+  "milwaukee-9in1-multi-nut-driver-homedepot": {
+    "image_url": "/assets/products/milwaukee-48-22-2920.webp",
+    "image_source": "milwaukee",
+    "detail": "Home Depot PDP 48-22-2920 remains the locked URL. Live HD HTML is bot-walled; official Milwaukee product photo downloaded."
+  }
+}

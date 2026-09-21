@@ -1,0 +1,206 @@
+{
+  "policy": "Do not list a product without a photo. These seed rows stay in draft until a verified merchant image is attached.",
+  "count": 25,
+  "products": [
+    {
+      "id": "black-decker-led-under-cabinet-2bar-homedepot",
+      "title": "BLACK+DECKER 9 in. LED 2-Bar Battery Under Cabinet Lighting Kit",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/BLACK-DECKER-Install-Kitchen-Closets/dp/B0942WPY1V",
+      "reason": "Home Depot item 319898754 errors. Amazon ASIN B0942WPY1V is the same LEDUC9-2BAT kit but P/ASIN image is a GIF placeholder.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-2-position-ratcheting-screwdriver-walmart",
+      "title": "HART 2-Position Ratcheting Screwdriver",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+2-Position+Ratcheting+Screwdriver",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-5pc-impact-drive-bit-set-walmart",
+      "title": "HART 5-Piece Impact Drive Bit Set",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+5-Piece+Impact+Drive+Bit+Set",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-titanium-drill-bit-set-walmart",
+      "title": "HART Titanium Drill Bit Set",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+Titanium+Drill+Bit+Set",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-anti-vibration-work-gloves-walmart",
+      "title": "HART Anti-Vibration Work Gloves",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+Anti-Vibration+Work+Gloves",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-18ga-brad-nails-1000-walmart",
+      "title": "HART 1,000-Piece 18-Gauge Brad Nails",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+18-Gauge+Brad+Nails+1000",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-10gal-wet-dry-vac-walmart",
+      "title": "HART 10-Gallon 6-Peak-HP Wet/Dry Vacuum",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+10-Gallon+Wet+Dry+Vacuum",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-7gal-wet-dry-vac-walmart",
+      "title": "HART 7-Gallon 5-Peak-HP Wet/Dry Vacuum",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+7-Gallon+Wet+Dry+Vacuum",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-8gal-wet-dry-vac-walmart",
+      "title": "HART 8-Gallon 6-Peak-HP Wet/Dry Vacuum",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+8-Gallon+Wet+Dry+Vacuum",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-20v-recip-saw-walmart",
+      "title": "HART 20V Reciprocating Saw (tool only context varies)",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+20V+Reciprocating+Saw",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "craftsman-20oz-fiberglass-hammer-amazon",
+      "title": "Craftsman 20 oz. Fiberglass Hammer",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/CRAFTSMAN-Fiberglass-General-Purpose-CMHT51399/dp/B07RBD7XZD",
+      "reason": "ASIN B07RBD7XZD locked; Amazon P/ASIN image is a GIF placeholder.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "craftsman-8in-long-nose-pliers-amazon",
+      "title": "Craftsman 8-Inch Long Nose Pliers",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/s?k=Craftsman+8+Inch+Long+Nose+Pliers",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "craftsman-2pc-groove-joint-plier-set-amazon",
+      "title": "Craftsman 2-Piece Groove Joint Plier Set (8\" & 10\")",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/CRAFTSMAN-Pliers-10-Inch-2-Piece-CMHT82547/dp/B096YM2L12",
+      "reason": "ASIN B096YM2L12 locked; Amazon P/ASIN image is a GIF placeholder.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "lodge-10-25-cast-iron-skillet-walmart",
+      "title": "Lodge 10.25\" Seasoned Cast Iron Skillet",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/ip/Lodge-Cast-Iron-10-25-Seasoned-Deer-Skillet-Wildlife-Series/216039747",
+      "reason": "Current Walmart URL is Wildlife/Deer decorative SKU; plain L8SK3 photo not verified.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "anker-powercore-10000-amazon",
+      "title": "Anker PowerCore 10000 Portable Charger",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI",
+      "reason": "Original ASIN B0194WDVHI returns 404; A1263 PowerCore 10000 is under CPSC recall. Not substituting a different Anker 10K.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "tide-pods-42ct-amazon",
+      "title": "Tide PODS Laundry Detergent Pacs, 42 Count (Original)",
+      "merchant": "Target",
+      "product_url": "https://www.target.com/p/tide-pods-laundry-detergent-pacs-original-35oz-42ct/-/A-21516452",
+      "reason": "Target TCIN 21516452 locked as 42-count Original; Target image fetch bot-walled.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "contigo-autoseal-chill-24oz-walmart",
+      "title": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/ip/Contigo-Cortland-Chill-24-oz-Silver-and-Blue-Solid-Print-Stainless-Steel-Water-Bottle-with-Flip-Top-Lid/171650595",
+      "reason": "Walmart PDP is JS-walled; listing may be Cortland vs AUTOSEAL Chill. Photo not verified.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hydro-flask-24oz-standard-mouth-target",
+      "title": "Hydro Flask 24 oz Standard Mouth Bottle",
+      "merchant": "Target",
+      "product_url": "https://www.target.com/p/hydro-flask-24oz-standard-mouth-bottle/-/A-93349791",
+      "reason": "Target TCINs 93349791 / 92383247 unavailable or image-less; no verified Scene7 GUEST asset.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "command-large-hooks-variety-pending",
+      "title": "Command Large Utility Hooks (multipack \u2014 confirm SKU)",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/s?k=Command+Large+Utility+Hooks",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "tsa-clear-quart-toiletry-bag-amazon",
+      "title": "TSA-Approved Clear Quart Toiletry Bag (3-1-1 kit)",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/s?k=TSA+approved+clear+quart+toiletry+bag",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "anker-powercore-10000-travel-slice",
+      "title": "Anker PowerCore 10000 (travel carry)",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI",
+      "reason": "Same dead/recalled A1263 PowerCore 10000 listing as the everyday row. Not substituting a different Anker 10K.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "klein-flickblade-utility-knife-amazon",
+      "title": "Klein Tools FLICKBLADE Folding Utility Knife/Scraper",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/s?k=Klein+Tools+FLICKBLADE",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "irwin-vise-grip-11in-locking-c-clamp-amazon",
+      "title": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/s?k=IRWIN+VISE-GRIP+11+Locking+C-Clamp",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "instant-pot-duo-plus-mini-3qt-walmart",
+      "title": "Instant Pot Duo Plus Mini 3-Quart 9-in-1",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/ip/Instant-Pot-Duo-Plus-3-Quart-Mini-9-in-1-Multi-Use-Pressure-Cooker/677032758",
+      "reason": "Locked Walmart item 677032758; PDP is JS-walled and no verified i5.walmartimages.com URL could be confirmed.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "threshold-bath-towel-value-pending-target",
+      "title": "Threshold Bath Towel (value pick \u2014 lock SKU)",
+      "merchant": "Target",
+      "product_url": "https://www.target.com/c/towels-bath-home-decor/threshold/-/N-5xtv9Z56dig",
+      "reason": "product_url is a search or category page; SKU is not locked",
+      "status": "draft_excluded_pending_photo"
+    }
+  ]
+}

@@ -42,7 +42,7 @@ python3 scripts/build-catalog.py
 python3 scripts/check-catalog.py
 ```
 
-Hotlinked CDNs are Amazon (`m.media-amazon.com`), Target Scene7, and Home Depot (`images.thdstatic.com`). `_headers` allows those hosts in `img-src`. Search/category URLs and bot-walled PDPs stay `image_url: null` and render a “No photo yet” state — never a guessed picture.
+Hotlinked CDNs are Amazon (`m.media-amazon.com`), Target Scene7, Home Depot (`images.thdstatic.com`), and Walmart (`i5.walmartimages.com`). `_headers` allows those hosts in `img-src`. Official brand photos are downloaded to `assets/products/` only when the merchant CDN cannot be hotlinked. **Do not list a product without a photo:** `build-catalog.py` publishes only rows with `image_url`, and `catalog.js` will not render a card without one. Rows still missing a verified photo stay in `data/excluded-pending-photo.json`. Never use a guessed or cross-SKU picture.
 
 Outbound product links use `/go/{id}/`. Destination is `affiliate_url` when set, otherwise the clean `product_url`. Do not invent discounts or percentages; a **Verified discount** badge is rendered only when `is_verified_discount` is true.
 
