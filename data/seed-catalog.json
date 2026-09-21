@@ -52,21 +52,21 @@
     "subcategory": "lighting",
     "short_pitch": "Battery stick-on under-cabinet bars for renters who want brighter counters without hardwiring.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/BLACK-DECKER-Install-Kitchen-Closets/dp/B0942WPY1V",
+    "product_url": "https://www.amazon.com/BLACK-DECKER-LEDUC9-2BAT-Battery-Operated/dp/B0937DRDLF",
     "list_or_typical_price": null,
     "current_price": 24.69,
     "discount_basis": "price check only \u2014 no verified discount",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_25",
-    "restrictions_notes": "Requires 3 AA batteries (not included). Local store prices may vary. Home Depot item 319898754 now errors; outbound uses Amazon ASIN B0942WPY1V for the same LEDUC9-2BAT kit. Photo still pending.",
+    "restrictions_notes": "Requires 3 AA batteries (not included). Local store prices may vary. Home Depot item 319898754 now errors; outbound uses Amazon ASIN B0942WPY1V for the same LEDUC9-2BAT kit. Photo still pending. Home Depot item 319898754 errors; outbound uses Amazon ASIN B0937DRDLF for LEDUC9-2BAT (B0942WPY1V P/ image is a GIF placeholder).",
     "last_checked_date": null,
     "suggested_affiliate_network": "amazon",
     "image_notes": "Home Depot product image of warm-white LED bars; model LEDUC9-2BAT.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B0937DRDLF.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "BLACK+DECKER 9 in. LED 2-Bar Battery Under Cabinet Lighting Kit",
+    "image_source": "amazon"
   },
   {
     "id": "milwaukee-9in1-multi-nut-driver-homedepot",
@@ -112,7 +112,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "HART is exiting Walmart; HHSDR004 2-position driver is not on harttools.com (13-pc ratcheting SKUs are different). Search URL not locked; do not substitute nearby HART tools."
   },
   {
     "id": "hart-5pc-impact-drive-bit-set-walmart",
@@ -135,7 +136,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Walmart/brand PDPs bot-walled; exact 5-pc impact bit SKU not locked from search. Do not substitute nearby HART bit sets."
   },
   {
     "id": "hart-titanium-drill-bit-set-walmart",
@@ -158,7 +160,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; exact HART titanium drill-bit SKU/item id not locked."
   },
   {
     "id": "hart-anti-vibration-work-gloves-walmart",
@@ -181,7 +184,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; exact HART anti-vibration glove SKU/item id not locked."
   },
   {
     "id": "hart-18ga-brad-nails-1000-walmart",
@@ -204,7 +208,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; exact HART 18-gauge 1000-count brad SKU/item id not locked."
   },
   {
     "id": "hart-10gal-wet-dry-vac-walmart",
@@ -227,7 +232,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; exact HART 10-gallon wet/dry vac SKU/item id not locked."
   },
   {
     "id": "hart-7gal-wet-dry-vac-walmart",
@@ -250,7 +256,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; exact HART 7-gallon wet/dry vac SKU/item id not locked."
   },
   {
     "id": "hart-8gal-wet-dry-vac-walmart",
@@ -273,7 +280,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; exact HART 8-gallon wet/dry vac SKU/item id not locked."
   },
   {
     "id": "hart-20v-recip-saw-walmart",
@@ -296,7 +304,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; tool-only vs kit context varies and SKU is not locked."
   },
   {
     "id": "irwin-10in-curved-jaw-locking-pliers-amazon",
@@ -668,26 +677,26 @@
   },
   {
     "id": "lodge-10-25-cast-iron-skillet-walmart",
-    "title": "Lodge 10.25\" Seasoned Cast Iron Skillet",
+    "title": "Lodge 10.25\" Seasoned Cast Iron Skillet (L8SK3)",
     "category": "home",
     "subcategory": "cookware",
     "short_pitch": "Everyday cast-iron size for searing and oven finishes without buying a full set.",
-    "merchant": "Walmart",
-    "product_url": "https://www.walmart.com/ip/Lodge-Cast-Iron-10-25-Seasoned-Deer-Skillet-Wildlife-Series/216039747",
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Ready-Stove/dp/B00006JSUA",
     "list_or_typical_price": null,
     "current_price": 29.9,
     "discount_basis": "price check only \u2014 no verified discount",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_50",
-    "restrictions_notes": "Wildlife Series decorative lid/side art may differ from plain Lodge SKUs\u2014confirm you want that design. Price may vary by store.",
+    "restrictions_notes": "Wildlife Series decorative lid/side art may differ from plain Lodge SKUs\u2014confirm you want that design. Price may vary by store. Swapped decorative Walmart Wildlife/Deer SKU for the plain L8SK3 Amazon listing B00006JSUA.",
     "last_checked_date": null,
-    "suggested_affiliate_network": "impact",
+    "suggested_affiliate_network": "amazon",
     "image_notes": "Walmart PDP of Lodge 10.25 skillet; prefer plain L8SK3 if swapping SKU.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B00006JSUA.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Lodge 10.25\" Seasoned Cast Iron Skillet (L8SK3)",
+    "image_source": "amazon"
   },
   {
     "id": "pyrex-3pc-measuring-cup-set-amazon",
@@ -940,7 +949,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Original ASIN B0194WDVHI returns 404; A1263 PowerCore 10000 is under CPSC recall. Not substituting a different Anker 10K."
   },
   {
     "id": "anker-20w-usb-c-charger-nano-amazon",
@@ -971,22 +981,22 @@
     "category": "everyday",
     "subcategory": "laundry",
     "short_pitch": "Pre-measured pacs for HE washers\u2014compare cost per load against liquid before treating as a \u2018deal\u2019.",
-    "merchant": "Target",
-    "product_url": "https://www.target.com/p/tide-pods-laundry-detergent-pacs-original-35oz-42ct/-/A-21516452",
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/Tide-Pods-Orginal-Tub-Count/dp/B0747ZC625",
     "list_or_typical_price": null,
     "current_price": 12.97,
     "discount_basis": "price check only \u2014 no verified discount",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_25",
-    "restrictions_notes": "Keep away from children. Confirm count and scent. Subscribe & Save may change effective price. Locked Target TCIN 21516452 42-count Original. Photo still pending.",
+    "restrictions_notes": "Keep away from children. Confirm count and scent. Subscribe & Save may change effective price. Locked Target TCIN 21516452 42-count Original. Photo still pending. Locked Amazon ASIN B0747ZC625 42-count Original (Target TCIN 21516452 Scene7 asset was unverified).",
     "last_checked_date": null,
-    "suggested_affiliate_network": "impact",
+    "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon/Tide PODS tub photo; lock exact ASIN on publish.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B0747ZC625.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Tide PODS Laundry Detergent Pacs, 42 Count (Original)",
+    "image_source": "amazon"
   },
   {
     "id": "crest-3d-whitestrips-professional-effects-amazon",
@@ -1059,49 +1069,49 @@
   },
   {
     "id": "contigo-autoseal-chill-24oz-walmart",
-    "title": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz",
+    "title": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz (Very Berry)",
     "category": "everyday",
     "subcategory": "drinkware",
     "short_pitch": "Insulated bottle with AUTOSEAL lid to reduce spills in bags\u2014good daily carry under $30 when in stock.",
-    "merchant": "Walmart",
-    "product_url": "https://www.walmart.com/ip/Contigo-Cortland-Chill-24-oz-Silver-and-Blue-Solid-Print-Stainless-Steel-Water-Bottle-with-Flip-Top-Lid/171650595",
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/Contigo-AUTOSEAL-Chill-Stainless-Bottle/dp/B01N6K88FQ",
     "list_or_typical_price": null,
     "current_price": 27.09,
     "discount_basis": "price check only \u2014 no verified discount",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_50",
-    "restrictions_notes": "Stock and colorways fluctuate; listing may show OOS. Hand-wash lid components as directed.",
+    "restrictions_notes": "Stock and colorways fluctuate; listing may show OOS. Hand-wash lid components as directed. Walmart i5 image 404; outbound uses Amazon ASIN B01N6K88FQ Very Berry 24 oz AUTOSEAL Chill.",
     "last_checked_date": null,
-    "suggested_affiliate_network": "impact",
+    "suggested_affiliate_network": "amazon",
     "image_notes": "Walmart Contigo Chill 24 oz product image; confirm exact color SKU.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B01N6K88FQ.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz (Very Berry)",
+    "image_source": "amazon"
   },
   {
     "id": "hydro-flask-24oz-standard-mouth-target",
-    "title": "Hydro Flask 24 oz Standard Mouth Bottle",
+    "title": "Hydro Flask 24 oz Standard Mouth Bottle (Starfish)",
     "category": "everyday",
     "subcategory": "drinkware",
     "short_pitch": "Insulated daily bottle with wide brand ecosystem of lids\u2014buy when Target price beats brand site.",
-    "merchant": "Target",
-    "product_url": "https://www.target.com/p/hydro-flask-24oz-standard-mouth-bottle/-/A-93349791",
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/Hydro-Flask-Standard-Mouth-Bottle/dp/B09D8RTD17",
     "list_or_typical_price": 39.95,
     "current_price": 33.99,
     "discount_basis": "price check \u2014 Target ~$33.99 vs Hydro Flask brand site $39.95; not a labeled Target sale verified this pass",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_50",
-    "restrictions_notes": "Target capacity/color may sell out. Brand MSRP from hydroflask.com. Not dishwasher-safe for all parts.",
+    "restrictions_notes": "Target capacity/color may sell out. Brand MSRP from hydroflask.com. Not dishwasher-safe for all parts. Target Standard Mouth TCINs were image-less/OOS; locked Amazon ASIN B09D8RTD17 24 oz Standard Mouth in Starfish.",
     "last_checked_date": null,
-    "suggested_affiliate_network": "impact",
+    "suggested_affiliate_network": "amazon",
     "image_notes": "Target/Hydro Flask 24oz Standard Mouth product photo.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B09D8RTD17.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Hydro Flask 24 oz Standard Mouth Bottle (Starfish)",
+    "image_source": "amazon"
   },
   {
     "id": "swiffer-wetjet-starter-kit-target",
@@ -1174,26 +1184,26 @@
   },
   {
     "id": "command-large-hooks-variety-pending",
-    "title": "Command Large Utility Hooks (multipack \u2014 confirm SKU)",
+    "title": "Command Large Utility Hooks, 3-Pack (17003-3ES)",
     "category": "everyday",
     "subcategory": "organization",
     "short_pitch": "Damage-free hanging hooks for renters\u2014match weight rating to the object.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Command+Large+Utility+Hooks",
+    "product_url": "https://www.amazon.com/dp/B00GD2RG6K",
     "list_or_typical_price": null,
     "current_price": null,
     "discount_basis": "price check only \u2014 no verified discount (SKU/price not locked this pass)",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_25",
-    "restrictions_notes": "Surface prep matters; follow weight limits. Lock exact ASIN and price before publish.",
+    "restrictions_notes": "Surface prep matters; follow weight limits. Lock exact ASIN and price before publish. Locked 17003-3ES 3-hook/6-strip value pack ASIN B00GD2RG6K. US Amazon P/ image is a GIF placeholder; pack photo verified from the same SKU.",
     "last_checked_date": null,
     "suggested_affiliate_network": "amazon",
     "image_notes": "Command brand pack image once ASIN chosen.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "/assets/products/command-17003-3es.jpg",
+    "image_alt": "Command Large Utility Hooks, 3-Pack (17003-3ES)",
+    "image_source": "command"
   },
   {
     "id": "scotch-magic-tape-multipack-pending",
@@ -1377,7 +1387,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Generic 3-1-1 category; no single brand/ASIN locked. Search URL stays image-less."
   },
   {
     "id": "nalgene-32oz-wide-mouth-amazon",
@@ -1446,7 +1457,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Same dead/recalled A1263 PowerCore 10000 listing as the everyday row. Not substituting a different Anker 10K."
   },
   {
     "id": "klein-3pc-adjustable-wrench-set-amazon",
@@ -1473,12 +1485,12 @@
   },
   {
     "id": "klein-flickblade-utility-knife-amazon",
-    "title": "Klein Tools FLICKBLADE Folding Utility Knife/Scraper",
+    "title": "Klein Tools FLICKBLADE 2-in-1 Utility Knife/Scraper (44306)",
     "category": "home",
     "subcategory": "hand-tools",
     "short_pitch": "Folding utility knife for boxes and scraping\u2014safer to store than a fixed open blade.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Klein+Tools+FLICKBLADE",
+    "product_url": "https://www.amazon.com/44306-FLICKBLADE-Folding-Positions-Triple-Ground/dp/B0F1C1LFD9",
     "list_or_typical_price": 20.98,
     "current_price": 17.98,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon, 2026-09-15) \u2014 re-verify on PDP",
@@ -1490,18 +1502,18 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Klein FLICKBLADE product photo.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B0F1C1LFD9.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Klein Tools FLICKBLADE 2-in-1 Utility Knife/Scraper (44306)",
+    "image_source": "amazon"
   },
   {
     "id": "irwin-vise-grip-11in-locking-c-clamp-amazon",
-    "title": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp",
+    "title": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp (11R)",
     "category": "home",
     "subcategory": "hand-tools",
     "short_pitch": "Locking C-clamp for glue-ups and temporary holds when you lack bar clamps.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=IRWIN+VISE-GRIP+11+Locking+C-Clamp",
+    "product_url": "https://www.amazon.com/VISE-GRIP-Original-Locking-C-Clamp-19/dp/B00004SBBH",
     "list_or_typical_price": 45.09,
     "current_price": 25.39,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon, 2026-09-15) \u2014 re-verify on PDP",
@@ -1513,9 +1525,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "IRWIN locking C-clamp product image.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B00004SBBH.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp (11R)",
+    "image_source": "amazon"
   },
   {
     "id": "oxo-good-grips-swivel-peeler-amazon",
@@ -1561,7 +1573,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Walmart item 677032758 is JS-walled. Candidate Amazon photos are glass-lid bundles or the 6-quart Duo Plus (B01NBKTPTS). No verified 3-quart Mini-only merchant photo."
   },
   {
     "id": "dewalt-tough-tape-25ft-homedepot",
@@ -1607,7 +1620,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Category page only. Specific Threshold Performance Plus TCINs exist but Scene7 GUEST assets were not verified."
   },
   {
     "id": "room-essentials-6pc-dorm-towel-set-target",

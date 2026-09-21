@@ -1,21 +1,13 @@
 {
   "policy": "Do not list a product without a photo. These seed rows stay in draft until a verified merchant image is attached.",
-  "count": 22,
+  "count": 14,
   "products": [
-    {
-      "id": "black-decker-led-under-cabinet-2bar-homedepot",
-      "title": "BLACK+DECKER 9 in. LED 2-Bar Battery Under Cabinet Lighting Kit",
-      "merchant": "Amazon",
-      "product_url": "https://www.amazon.com/BLACK-DECKER-Install-Kitchen-Closets/dp/B0942WPY1V",
-      "reason": "Home Depot item 319898754 errors. Amazon ASIN B0942WPY1V is listed as the LEDUC9-2BAT kit but P/ASIN image is a GIF placeholder and the listing title is ambiguous.",
-      "status": "draft_excluded_pending_photo"
-    },
     {
       "id": "hart-2-position-ratcheting-screwdriver-walmart",
       "title": "HART 2-Position Ratcheting Screwdriver",
       "merchant": "Walmart",
       "product_url": "https://www.walmart.com/search?q=HART+2-Position+Ratcheting+Screwdriver",
-      "reason": "product_url is a search or category page; SKU is not locked",
+      "reason": "HART is exiting Walmart; HHSDR004 2-position driver is not on harttools.com (13-pc ratcheting SKUs are different). Search URL not locked; do not substitute nearby HART tools.",
       "status": "draft_excluded_pending_photo"
     },
     {
@@ -23,7 +15,7 @@
       "title": "HART 5-Piece Impact Drive Bit Set",
       "merchant": "Walmart",
       "product_url": "https://www.walmart.com/search?q=HART+5-Piece+Impact+Drive+Bit+Set",
-      "reason": "product_url is a search or category page; SKU is not locked",
+      "reason": "Walmart/brand PDPs bot-walled; exact 5-pc impact bit SKU not locked from search. Do not substitute nearby HART bit sets.",
       "status": "draft_excluded_pending_photo"
     },
     {
@@ -31,7 +23,7 @@
       "title": "HART Titanium Drill Bit Set",
       "merchant": "Walmart",
       "product_url": "https://www.walmart.com/search?q=HART+Titanium+Drill+Bit+Set",
-      "reason": "product_url is a search or category page; SKU is not locked",
+      "reason": "Search URL only; exact HART titanium drill-bit SKU/item id not locked.",
       "status": "draft_excluded_pending_photo"
     },
     {
@@ -39,7 +31,7 @@
       "title": "HART Anti-Vibration Work Gloves",
       "merchant": "Walmart",
       "product_url": "https://www.walmart.com/search?q=HART+Anti-Vibration+Work+Gloves",
-      "reason": "product_url is a search or category page; SKU is not locked",
+      "reason": "Search URL only; exact HART anti-vibration glove SKU/item id not locked.",
       "status": "draft_excluded_pending_photo"
     },
     {
@@ -47,7 +39,7 @@
       "title": "HART 1,000-Piece 18-Gauge Brad Nails",
       "merchant": "Walmart",
       "product_url": "https://www.walmart.com/search?q=HART+18-Gauge+Brad+Nails+1000",
-      "reason": "product_url is a search or category page; SKU is not locked",
+      "reason": "Search URL only; exact HART 18-gauge 1000-count brad SKU/item id not locked.",
       "status": "draft_excluded_pending_photo"
     },
     {
@@ -55,7 +47,7 @@
       "title": "HART 10-Gallon 6-Peak-HP Wet/Dry Vacuum",
       "merchant": "Walmart",
       "product_url": "https://www.walmart.com/search?q=HART+10-Gallon+Wet+Dry+Vacuum",
-      "reason": "product_url is a search or category page; SKU is not locked",
+      "reason": "Search URL only; exact HART 10-gallon wet/dry vac SKU/item id not locked.",
       "status": "draft_excluded_pending_photo"
     },
     {
@@ -63,7 +55,7 @@
       "title": "HART 7-Gallon 5-Peak-HP Wet/Dry Vacuum",
       "merchant": "Walmart",
       "product_url": "https://www.walmart.com/search?q=HART+7-Gallon+Wet+Dry+Vacuum",
-      "reason": "product_url is a search or category page; SKU is not locked",
+      "reason": "Search URL only; exact HART 7-gallon wet/dry vac SKU/item id not locked.",
       "status": "draft_excluded_pending_photo"
     },
     {
@@ -71,7 +63,7 @@
       "title": "HART 8-Gallon 6-Peak-HP Wet/Dry Vacuum",
       "merchant": "Walmart",
       "product_url": "https://www.walmart.com/search?q=HART+8-Gallon+Wet+Dry+Vacuum",
-      "reason": "product_url is a search or category page; SKU is not locked",
+      "reason": "Search URL only; exact HART 8-gallon wet/dry vac SKU/item id not locked.",
       "status": "draft_excluded_pending_photo"
     },
     {
@@ -79,15 +71,7 @@
       "title": "HART 20V Reciprocating Saw (tool only context varies)",
       "merchant": "Walmart",
       "product_url": "https://www.walmart.com/search?q=HART+20V+Reciprocating+Saw",
-      "reason": "product_url is a search or category page; SKU is not locked",
-      "status": "draft_excluded_pending_photo"
-    },
-    {
-      "id": "lodge-10-25-cast-iron-skillet-walmart",
-      "title": "Lodge 10.25\" Seasoned Cast Iron Skillet",
-      "merchant": "Walmart",
-      "product_url": "https://www.walmart.com/ip/Lodge-Cast-Iron-10-25-Seasoned-Deer-Skillet-Wildlife-Series/216039747",
-      "reason": "Wildlife/Deer decorative SKU on current URL; plain L8SK3 photo not verified.",
+      "reason": "Search URL only; tool-only vs kit context varies and SKU is not locked.",
       "status": "draft_excluded_pending_photo"
     },
     {
@@ -99,43 +83,11 @@
       "status": "draft_excluded_pending_photo"
     },
     {
-      "id": "tide-pods-42ct-amazon",
-      "title": "Tide PODS Laundry Detergent Pacs, 42 Count (Original)",
-      "merchant": "Target",
-      "product_url": "https://www.target.com/p/tide-pods-laundry-detergent-pacs-original-35oz-42ct/-/A-21516452",
-      "reason": "Target TCIN 21516452 locked as 42-count Original; Scene7 GUEST asset not verified.",
-      "status": "draft_excluded_pending_photo"
-    },
-    {
-      "id": "contigo-autoseal-chill-24oz-walmart",
-      "title": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz",
-      "merchant": "Walmart",
-      "product_url": "https://www.walmart.com/ip/Contigo-Cortland-Chill-24-oz-Silver-and-Blue-Solid-Print-Stainless-Steel-Water-Bottle-with-Flip-Top-Lid/171650595",
-      "reason": "Walmart PDP JS-walled; candidate i5 URL 404. Photo not verified.",
-      "status": "draft_excluded_pending_photo"
-    },
-    {
-      "id": "hydro-flask-24oz-standard-mouth-target",
-      "title": "Hydro Flask 24 oz Standard Mouth Bottle",
-      "merchant": "Target",
-      "product_url": "https://www.target.com/p/hydro-flask-24oz-standard-mouth-bottle/-/A-93349791",
-      "reason": "Target Standard Mouth 24 oz TCINs unavailable or image-less.",
-      "status": "draft_excluded_pending_photo"
-    },
-    {
-      "id": "command-large-hooks-variety-pending",
-      "title": "Command Large Utility Hooks (multipack \u2014 confirm SKU)",
-      "merchant": "Amazon",
-      "product_url": "https://www.amazon.com/s?k=Command+Large+Utility+Hooks",
-      "reason": "product_url is a search or category page; SKU is not locked",
-      "status": "draft_excluded_pending_photo"
-    },
-    {
       "id": "tsa-clear-quart-toiletry-bag-amazon",
       "title": "TSA-Approved Clear Quart Toiletry Bag (3-1-1 kit)",
       "merchant": "Amazon",
       "product_url": "https://www.amazon.com/s?k=TSA+approved+clear+quart+toiletry+bag",
-      "reason": "product_url is a search or category page; SKU is not locked",
+      "reason": "Generic 3-1-1 category; no single brand/ASIN locked. Search URL stays image-less.",
       "status": "draft_excluded_pending_photo"
     },
     {
@@ -147,27 +99,11 @@
       "status": "draft_excluded_pending_photo"
     },
     {
-      "id": "klein-flickblade-utility-knife-amazon",
-      "title": "Klein Tools FLICKBLADE Folding Utility Knife/Scraper",
-      "merchant": "Amazon",
-      "product_url": "https://www.amazon.com/s?k=Klein+Tools+FLICKBLADE",
-      "reason": "product_url is a search or category page; SKU is not locked",
-      "status": "draft_excluded_pending_photo"
-    },
-    {
-      "id": "irwin-vise-grip-11in-locking-c-clamp-amazon",
-      "title": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp",
-      "merchant": "Amazon",
-      "product_url": "https://www.amazon.com/s?k=IRWIN+VISE-GRIP+11+Locking+C-Clamp",
-      "reason": "product_url is a search or category page; SKU is not locked",
-      "status": "draft_excluded_pending_photo"
-    },
-    {
       "id": "instant-pot-duo-plus-mini-3qt-walmart",
       "title": "Instant Pot Duo Plus Mini 3-Quart 9-in-1",
       "merchant": "Walmart",
       "product_url": "https://www.walmart.com/ip/Instant-Pot-Duo-Plus-3-Quart-Mini-9-in-1-Multi-Use-Pressure-Cooker/677032758",
-      "reason": "Locked Walmart item 677032758; no i5.walmartimages.com URL verified (candidate URLs 404).",
+      "reason": "Walmart item 677032758 is JS-walled. Candidate Amazon photos are glass-lid bundles or the 6-quart Duo Plus (B01NBKTPTS). No verified 3-quart Mini-only merchant photo.",
       "status": "draft_excluded_pending_photo"
     },
     {
@@ -175,7 +111,7 @@
       "title": "Threshold Bath Towel (value pick \u2014 lock SKU)",
       "merchant": "Target",
       "product_url": "https://www.target.com/c/towels-bath-home-decor/threshold/-/N-5xtv9Z56dig",
-      "reason": "product_url is a search or category page; SKU is not locked",
+      "reason": "Category page only. Specific Threshold Performance Plus TCINs exist but Scene7 GUEST assets were not verified.",
       "status": "draft_excluded_pending_photo"
     }
   ]

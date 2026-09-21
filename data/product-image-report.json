@@ -2,6 +2,7 @@
   "ok": [
     "tinkr-home-essentials-kit-target",
     "stanley-fatmax-25ft-tape-homedepot",
+    "black-decker-led-under-cabinet-2bar-homedepot",
     "milwaukee-9in1-multi-nut-driver-homedepot",
     "irwin-10in-curved-jaw-locking-pliers-amazon",
     "craftsman-25ft-tape-amazon",
@@ -19,6 +20,7 @@
     "oxo-swivel-peeler-target",
     "oxo-good-grips-salad-spinner-amazon",
     "lodge-8in-cast-iron-skillet-amazon",
+    "lodge-10-25-cast-iron-skillet-walmart",
     "pyrex-3pc-measuring-cup-set-amazon",
     "microplane-premium-classic-zester-target",
     "rubbermaid-brilliance-glass-8cup-target",
@@ -30,12 +32,16 @@
     "room-essentials-storage-crate-target",
     "amazon-basics-hdmi-cable-6ft",
     "anker-20w-usb-c-charger-nano-amazon",
+    "tide-pods-42ct-amazon",
     "crest-3d-whitestrips-professional-effects-amazon",
     "amazon-basics-aa-batteries-48pk",
     "packit-freezable-lunch-bag-gray-fog-target",
+    "contigo-autoseal-chill-24oz-walmart",
+    "hydro-flask-24oz-standard-mouth-target",
     "swiffer-wetjet-starter-kit-target",
     "anker-hdmi-usb-c-cable-6ft-target",
     "up-and-up-aa-batteries-48pk-target",
+    "command-large-hooks-variety-pending",
     "scotch-magic-tape-multipack-pending",
     "cabeau-evolution-classic-travel-pillow-target",
     "eagle-creek-pack-it-original-set-xs-s-m-amazon",
@@ -46,6 +52,8 @@
     "nalgene-32oz-wide-mouth-amazon",
     "packit-freezable-lunch-bag-travel-note",
     "klein-3pc-adjustable-wrench-set-amazon",
+    "klein-flickblade-utility-knife-amazon",
+    "irwin-vise-grip-11in-locking-c-clamp-amazon",
     "oxo-good-grips-swivel-peeler-amazon",
     "dewalt-tough-tape-25ft-homedepot",
     "room-essentials-6pc-dorm-towel-set-target"
@@ -60,25 +68,14 @@
     "hart-7gal-wet-dry-vac-walmart",
     "hart-8gal-wet-dry-vac-walmart",
     "hart-20v-recip-saw-walmart",
-    "command-large-hooks-variety-pending",
     "tsa-clear-quart-toiletry-bag-amazon",
-    "klein-flickblade-utility-knife-amazon",
-    "irwin-vise-grip-11in-locking-c-clamp-amazon",
     "threshold-bath-towel-value-pending-target"
   ],
   "missing": [
-    "black-decker-led-under-cabinet-2bar-homedepot",
-    "lodge-10-25-cast-iron-skillet-walmart",
     "anker-powercore-10000-amazon",
-    "tide-pods-42ct-amazon",
-    "contigo-autoseal-chill-24oz-walmart",
-    "hydro-flask-24oz-standard-mouth-target",
     "anker-powercore-10000-travel-slice",
     "instant-pot-duo-plus-mini-3qt-walmart"
   ],
-  "published_with_photo": 49,
-  "excluded_pending_photo": 22,
-  "seed_count": 71,
   "reports": [
     {
       "id": "tinkr-home-essentials-kit-target",
@@ -87,7 +84,7 @@
       "image_alt": "TINKR Home Essentials Kit with Canvas Roll-up Case",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "stanley-fatmax-25ft-tape-homedepot",
@@ -96,16 +93,16 @@
       "image_alt": "Stanley FatMax 25 ft. Tape Measure",
       "image_source": "homedepot",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": "Home Depot PDP blocked; used Wayback-verified thdstatic CDN URL"
     },
     {
       "id": "black-decker-led-under-cabinet-2bar-homedepot",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "Home Depot item 319898754 errors. Amazon ASIN B0942WPY1V is listed as the LEDUC9-2BAT kit but P/ASIN image is a GIF placeholder and the listing title is ambiguous."
+      "image_url": "https://m.media-amazon.com/images/P/B0937DRDLF.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "BLACK+DECKER 9 in. LED 2-Bar Battery Under Cabinet Lighting Kit",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked LEDUC9-2BAT Amazon ASIN B0937DRDLF; verified P/ main JPEG of the 2-bar battery kit."
     },
     {
       "id": "milwaukee-9in1-multi-nut-driver-homedepot",
@@ -312,7 +309,7 @@
       "image_alt": "OXO Good Grips Kitchen Scissors",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "oxo-swivel-peeler-target",
@@ -321,7 +318,7 @@
       "image_alt": "OXO Swivel Peeler",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "oxo-good-grips-salad-spinner-amazon",
@@ -330,7 +327,7 @@
       "image_alt": "OXO Good Grips Salad Spinner (Large ~6.22 qt)",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "lodge-8in-cast-iron-skillet-amazon",
@@ -339,16 +336,16 @@
       "image_alt": "Lodge 8-Inch Pre-Seasoned Cast Iron Skillet",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "lodge-10-25-cast-iron-skillet-walmart",
-      "merchant": "Walmart",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "Wildlife/Deer decorative SKU on current URL; plain L8SK3 photo not verified."
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/P/B00006JSUA.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Lodge 10.25\" Seasoned Cast Iron Skillet (L8SK3)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked classic Lodge L8SK3 10.25-inch seasoned skillet ASIN B00006JSUA; Amazon P/ main image is a verified JPEG."
     },
     {
       "id": "pyrex-3pc-measuring-cup-set-amazon",
@@ -357,7 +354,7 @@
       "image_alt": "Pyrex 3-Piece Glass Measuring Cup Set (1/2/4 cup)",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "microplane-premium-classic-zester-target",
@@ -375,7 +372,7 @@
       "image_alt": "Rubbermaid Brilliance Glass 8-Cup Food Storage Container with Lid",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "oxo-kitchen-herb-scissors-oxo-com",
@@ -393,7 +390,7 @@
       "image_alt": "Amazon Basics Microfiber Cleaning Cloths, 24-Pack (16\" x 12\")",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "scotch-brite-heavy-duty-sponges-3ct-target",
@@ -402,7 +399,7 @@
       "image_alt": "Scotch-Brite Heavy Duty Scrub Sponges, 3-Count",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "scotch-brite-zero-scratch-sponges-3ct-target",
@@ -411,7 +408,7 @@
       "image_alt": "Scotch-Brite Zero-Scratch Scrub Sponges, 3-Count",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "clorox-fresh-scent-wipes-75ct-target",
@@ -420,7 +417,7 @@
       "image_alt": "Clorox Fresh Scent Disinfecting Wipes, 75-Count",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "room-essentials-storage-crate-target",
@@ -429,7 +426,7 @@
       "image_alt": "Room Essentials Storage Crate (Milk-Crate Style)",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "amazon-basics-hdmi-cable-6ft",
@@ -438,7 +435,7 @@
       "image_alt": "Amazon Basics HDMI Cable, 6 ft (4K@60Hz / HDMI 2.0)",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "anker-powercore-10000-amazon",
@@ -447,7 +444,7 @@
       "image_alt": null,
       "image_source": null,
       "status": "missing",
-      "detail": "Original ASIN B0194WDVHI returns 404; A1263 PowerCore 10000 is under CPSC recall. Not substituting a different Anker 10K."
+      "detail": "PDP HTTP 404"
     },
     {
       "id": "anker-20w-usb-c-charger-nano-amazon",
@@ -456,16 +453,16 @@
       "image_alt": "Anker 511 Nano / 20W USB-C Charger (cable not included)",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "tide-pods-42ct-amazon",
-      "merchant": "Target",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "Target TCIN 21516452 locked as 42-count Original; Scene7 GUEST asset not verified."
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/P/B0747ZC625.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Tide PODS Laundry Detergent Pacs, 42 Count (Original)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Tide PODS Original 42-count ASIN B0747ZC625; tub photo shows 42 pacs Original."
     },
     {
       "id": "crest-3d-whitestrips-professional-effects-amazon",
@@ -483,7 +480,7 @@
       "image_alt": "Amazon Basics AA Alkaline Batteries, 48-Pack",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "packit-freezable-lunch-bag-gray-fog-target",
@@ -492,25 +489,25 @@
       "image_alt": "Packit Freezable Lunch Bag (Gray Fog)",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "contigo-autoseal-chill-24oz-walmart",
-      "merchant": "Walmart",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "Walmart PDP JS-walled; candidate i5 URL 404. Photo not verified."
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/P/B01N6K88FQ.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz (Very Berry)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Contigo AUTOSEAL Chill 24 oz Very Berry ASIN B01N6K88FQ; Amazon P/ main image is a verified JPEG."
     },
     {
       "id": "hydro-flask-24oz-standard-mouth-target",
-      "merchant": "Target",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "Target Standard Mouth 24 oz TCINs unavailable or image-less."
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/P/B09D8RTD17.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Hydro Flask 24 oz Standard Mouth Bottle (Starfish)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Hydro Flask 24 oz Standard Mouth ASIN B09D8RTD17; Amazon P/ main image is a verified JPEG of the Starfish colorway."
     },
     {
       "id": "swiffer-wetjet-starter-kit-target",
@@ -519,7 +516,7 @@
       "image_alt": "Swiffer WetJet Floor Mop Starter Kit",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "anker-hdmi-usb-c-cable-6ft-target",
@@ -528,7 +525,7 @@
       "image_alt": "Anker USB-C to HDMI Cable, 6 ft (4K@60Hz)",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "up-and-up-aa-batteries-48pk-target",
@@ -537,16 +534,16 @@
       "image_alt": "up&up AA Alkaline Batteries, 48-Pack",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "command-large-hooks-variety-pending",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "/assets/products/command-17003-3es.jpg",
+      "image_alt": "Command Large Utility Hooks, 3-Pack (17003-3ES)",
+      "image_source": "command",
+      "status": "ok",
+      "detail": "Locked Command 17003-3ES 3-pack ASIN B00GD2RG6K. US P/ image is a GIF; downloaded verified 17003-3ES value-pack photo."
     },
     {
       "id": "scotch-magic-tape-multipack-pending",
@@ -564,7 +561,7 @@
       "image_alt": "Cabeau Evolution Classic Memory Foam Travel Neck Pillow",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "eagle-creek-pack-it-original-set-xs-s-m-amazon",
@@ -573,7 +570,7 @@
       "image_alt": "Eagle Creek Pack-It Original Packing Cubes Set (XS/S/M)",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "amazon-basics-packing-cubes-4pc",
@@ -582,7 +579,7 @@
       "image_alt": "Amazon Basics 4-Piece Packing Cubes Set",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "samsonite-luggage-tag-set-amazon",
@@ -591,7 +588,7 @@
       "image_alt": "Samsonite Luggage Tag (confirm set size)",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "travelon-rfid-anti-theft-mini-shoulder-target",
@@ -600,7 +597,7 @@
       "image_alt": "Travelon RFID Anti-Theft Mini Shoulder Bag",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "travelon-self-laminating-luggage-tags-3pk-amazon",
@@ -609,7 +606,7 @@
       "image_alt": "Travelon Set of 3 Self-Laminating Luggage Tags",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "tsa-clear-quart-toiletry-bag-amazon",
@@ -636,7 +633,7 @@
       "image_alt": "Packit Freezable Lunch Bag (travel day-trip use)",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "anker-powercore-10000-travel-slice",
@@ -645,7 +642,7 @@
       "image_alt": null,
       "image_source": null,
       "status": "missing",
-      "detail": "Same dead/recalled A1263 PowerCore 10000 listing as the everyday row. Not substituting a different Anker 10K."
+      "detail": "PDP HTTP 404"
     },
     {
       "id": "klein-3pc-adjustable-wrench-set-amazon",
@@ -659,20 +656,20 @@
     {
       "id": "klein-flickblade-utility-knife-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B0F1C1LFD9.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Klein Tools FLICKBLADE 2-in-1 Utility Knife/Scraper (44306)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Klein 44306 FLICKBLADE ASIN B0F1C1LFD9; Amazon P/ main image is a verified JPEG."
     },
     {
       "id": "irwin-vise-grip-11in-locking-c-clamp-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B00004SBBH.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp (11R)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked IRWIN Original 11-inch locking C-clamp (model 19 / 11R regular tips) ASIN B00004SBBH; Amazon P/ main image is a verified JPEG."
     },
     {
       "id": "oxo-good-grips-swivel-peeler-amazon",
@@ -681,7 +678,7 @@
       "image_alt": "OXO Good Grips Swivel Peeler",
       "image_source": "amazon",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     },
     {
       "id": "instant-pot-duo-plus-mini-3qt-walmart",
@@ -690,7 +687,7 @@
       "image_alt": null,
       "image_source": null,
       "status": "missing",
-      "detail": "Locked Walmart item 677032758; no i5.walmartimages.com URL verified (candidate URLs 404)."
+      "detail": "no merchant product image found on PDP"
     },
     {
       "id": "dewalt-tough-tape-25ft-homedepot",
@@ -699,7 +696,7 @@
       "image_alt": "DEWALT Tough Tape 25 ft. Tape Measure",
       "image_source": "homedepot",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": "Home Depot PDP blocked; used Wayback-verified thdstatic CDN URL"
     },
     {
       "id": "threshold-bath-towel-value-pending-target",
@@ -717,7 +714,12 @@
       "image_alt": "Room Essentials 6pc Everyday Striped Dorm Towel Set",
       "image_source": "target",
       "status": "ok",
-      "detail": "existing verified merchant photo"
+      "detail": ""
     }
-  ]
+  ],
+  "published_with_photo": 57,
+  "excluded_pending_photo": 14,
+  "seed_count": 71,
+  "photos_added_this_pass": 27,
+  "prior_verified_photos": 30
 }

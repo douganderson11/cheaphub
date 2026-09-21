@@ -190,6 +190,8 @@ def existing_search_items() -> list[dict]:
 
 
 def exclusion_reason(row: dict) -> str:
+    if row.get("image_exclusion_reason"):
+        return row["image_exclusion_reason"]
     url = row.get("product_url") or ""
     parsed = urlparse(url)
     path = parsed.path.rstrip("/")
@@ -198,7 +200,7 @@ def exclusion_reason(row: dict) -> str:
     if parsed.path.startswith("/c/") or "/-/N-" in parsed.path:
         return "unlocked_search_or_category_url"
     if not row.get("image_url"):
-        return row.get("image_exclusion_reason") or "no_verified_merchant_photo"
+        return "no_verified_merchant_photo"
     return "no_verified_merchant_photo"
 
 

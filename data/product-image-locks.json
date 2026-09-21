@@ -121,5 +121,75 @@
     "suggested_affiliate_network": "pending",
     "title": "Craftsman 8-Inch Long Nose Pliers (CMHT81645)",
     "detail": "No confirmed Amazon ASIN with a real JPEG. Locked official Craftsman CMHT81645 PDP and catalog photo."
+  },
+  "black-decker-led-under-cabinet-2bar-homedepot": {
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/BLACK-DECKER-LEDUC9-2BAT-Battery-Operated/dp/B0937DRDLF",
+    "image_url": "https://m.media-amazon.com/images/P/B0937DRDLF.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "suggested_affiliate_network": "amazon",
+    "restrictions_append": " Home Depot item 319898754 errors; outbound uses Amazon ASIN B0937DRDLF for LEDUC9-2BAT (B0942WPY1V P/ image is a GIF placeholder).",
+    "detail": "Locked LEDUC9-2BAT Amazon ASIN B0937DRDLF; verified P/ main JPEG of the 2-bar battery kit."
+  },
+  "lodge-10-25-cast-iron-skillet-walmart": {
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Ready-Stove/dp/B00006JSUA",
+    "image_url": "https://m.media-amazon.com/images/P/B00006JSUA.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "suggested_affiliate_network": "amazon",
+    "title": "Lodge 10.25\" Seasoned Cast Iron Skillet (L8SK3)",
+    "restrictions_append": " Swapped decorative Walmart Wildlife/Deer SKU for the plain L8SK3 Amazon listing B00006JSUA.",
+    "detail": "Locked classic Lodge L8SK3 10.25-inch seasoned skillet ASIN B00006JSUA; Amazon P/ main image is a verified JPEG."
+  },
+  "klein-flickblade-utility-knife-amazon": {
+    "product_url": "https://www.amazon.com/44306-FLICKBLADE-Folding-Positions-Triple-Ground/dp/B0F1C1LFD9",
+    "image_url": "https://m.media-amazon.com/images/P/B0F1C1LFD9.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "title": "Klein Tools FLICKBLADE 2-in-1 Utility Knife/Scraper (44306)",
+    "detail": "Locked Klein 44306 FLICKBLADE ASIN B0F1C1LFD9; Amazon P/ main image is a verified JPEG."
+  },
+  "tide-pods-42ct-amazon": {
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/Tide-Pods-Orginal-Tub-Count/dp/B0747ZC625",
+    "image_url": "https://m.media-amazon.com/images/P/B0747ZC625.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "suggested_affiliate_network": "amazon",
+    "restrictions_append": " Locked Amazon ASIN B0747ZC625 42-count Original (Target TCIN 21516452 Scene7 asset was unverified).",
+    "detail": "Locked Tide PODS Original 42-count ASIN B0747ZC625; tub photo shows 42 pacs Original."
+  },
+  "contigo-autoseal-chill-24oz-walmart": {
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/Contigo-AUTOSEAL-Chill-Stainless-Bottle/dp/B01N6K88FQ",
+    "image_url": "https://m.media-amazon.com/images/P/B01N6K88FQ.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "suggested_affiliate_network": "amazon",
+    "title": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz (Very Berry)",
+    "restrictions_append": " Walmart i5 image 404; outbound uses Amazon ASIN B01N6K88FQ Very Berry 24 oz AUTOSEAL Chill.",
+    "detail": "Locked Contigo AUTOSEAL Chill 24 oz Very Berry ASIN B01N6K88FQ; Amazon P/ main image is a verified JPEG."
+  },
+  "hydro-flask-24oz-standard-mouth-target": {
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/Hydro-Flask-Standard-Mouth-Bottle/dp/B09D8RTD17",
+    "image_url": "https://m.media-amazon.com/images/P/B09D8RTD17.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "suggested_affiliate_network": "amazon",
+    "title": "Hydro Flask 24 oz Standard Mouth Bottle (Starfish)",
+    "restrictions_append": " Target Standard Mouth TCINs were image-less/OOS; locked Amazon ASIN B09D8RTD17 24 oz Standard Mouth in Starfish.",
+    "detail": "Locked Hydro Flask 24 oz Standard Mouth ASIN B09D8RTD17; Amazon P/ main image is a verified JPEG of the Starfish colorway."
+  },
+  "command-large-hooks-variety-pending": {
+    "product_url": "https://www.amazon.com/dp/B00GD2RG6K",
+    "image_url": "/assets/products/command-17003-3es.jpg",
+    "image_source": "command",
+    "title": "Command Large Utility Hooks, 3-Pack (17003-3ES)",
+    "restrictions_append": " Locked 17003-3ES 3-hook/6-strip value pack ASIN B00GD2RG6K. US Amazon P/ image is a GIF placeholder; pack photo verified from the same SKU.",
+    "detail": "Locked Command 17003-3ES 3-pack ASIN B00GD2RG6K. US P/ image is a GIF; downloaded verified 17003-3ES value-pack photo."
+  },
+  "irwin-vise-grip-11in-locking-c-clamp-amazon": {
+    "product_url": "https://www.amazon.com/VISE-GRIP-Original-Locking-C-Clamp-19/dp/B00004SBBH",
+    "image_url": "https://m.media-amazon.com/images/P/B00004SBBH.01._SCLZZZZZZZ_.jpg",
+    "image_source": "amazon",
+    "title": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp (11R)",
+    "detail": "Locked IRWIN Original 11-inch locking C-clamp (model 19 / 11R regular tips) ASIN B00004SBBH; Amazon P/ main image is a verified JPEG."
   }
 }

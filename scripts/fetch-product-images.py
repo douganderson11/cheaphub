@@ -229,6 +229,8 @@ def source_for_url(url: str) -> str:
             return "channellock"
         if name.startswith("craftsman"):
             return "craftsman"
+        if name.startswith("command"):
+            return "command"
         return "local"
     host = urlparse(url).hostname or ""
     if "amazon" in host:
@@ -379,6 +381,12 @@ def main() -> None:
                 product["merchant"] = lock["merchant"]
             if lock.get("title"):
                 product["title"] = lock["title"]
+            if lock.get("suggested_affiliate_network"):
+                product["suggested_affiliate_network"] = lock["suggested_affiliate_network"]
+            extra = lock.get("restrictions_append")
+            if extra and extra not in (product.get("restrictions_notes") or ""):
+                notes = (product.get("restrictions_notes") or "").rstrip()
+                product["restrictions_notes"] = f"{notes}{extra}" if notes else extra.lstrip()
         report = resolve_product(product, locks)
         reports.append(report)
         product["image_url"] = report["image_url"]
