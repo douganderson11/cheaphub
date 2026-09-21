@@ -8,7 +8,10 @@
     "craftsman-26pc-ratcheting-screwdriver-amazon",
     "klein-16ft-compact-tape-amazon",
     "estwing-16oz-rip-hammer-amazon",
+    "craftsman-20oz-fiberglass-hammer-amazon",
     "channellock-12in-tongue-groove-amazon",
+    "craftsman-8in-long-nose-pliers-amazon",
+    "craftsman-2pc-groove-joint-plier-set-amazon",
     "klein-15in1-multibit-ratcheting-screwdriver-amazon",
     "klein-11in1-screwdriver-nut-driver-amazon",
     "irwin-7in-locking-pliers-cutter-amazon",
@@ -57,7 +60,6 @@
     "hart-7gal-wet-dry-vac-walmart",
     "hart-8gal-wet-dry-vac-walmart",
     "hart-20v-recip-saw-walmart",
-    "craftsman-8in-long-nose-pliers-amazon",
     "command-large-hooks-variety-pending",
     "tsa-clear-quart-toiletry-bag-amazon",
     "klein-flickblade-utility-knife-amazon",
@@ -66,8 +68,6 @@
   ],
   "missing": [
     "black-decker-led-under-cabinet-2bar-homedepot",
-    "craftsman-20oz-fiberglass-hammer-amazon",
-    "craftsman-2pc-groove-joint-plier-set-amazon",
     "lodge-10-25-cast-iron-skillet-walmart",
     "anker-powercore-10000-amazon",
     "tide-pods-42ct-amazon",
@@ -76,8 +76,8 @@
     "anker-powercore-10000-travel-slice",
     "instant-pot-duo-plus-mini-3qt-walmart"
   ],
-  "published_with_photo": 46,
-  "excluded_pending_photo": 25,
+  "published_with_photo": 49,
+  "excluded_pending_photo": 22,
   "seed_count": 71,
   "reports": [
     {
@@ -105,7 +105,7 @@
       "image_alt": null,
       "image_source": null,
       "status": "missing",
-      "detail": "Home Depot item 319898754 errors. Amazon ASIN B0942WPY1V is the same LEDUC9-2BAT kit but P/ASIN image is a GIF placeholder."
+      "detail": "Home Depot item 319898754 errors. Amazon ASIN B0942WPY1V is listed as the LEDUC9-2BAT kit but P/ASIN image is a GIF placeholder and the listing title is ambiguous."
     },
     {
       "id": "milwaukee-9in1-multi-nut-driver-homedepot",
@@ -245,11 +245,11 @@
     {
       "id": "craftsman-20oz-fiberglass-hammer-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "ASIN B07RBD7XZD locked; Amazon P/ASIN image is a GIF placeholder."
+      "image_url": "/assets/products/craftsman-cmht51399.webp",
+      "image_alt": "Craftsman 20 oz. Fiberglass Hammer",
+      "image_source": "craftsman",
+      "status": "ok",
+      "detail": "Locked Amazon ASIN B07RBD7XZD (CMHT51399). Amazon P/ image is a GIF placeholder; official Craftsman catalog photo downloaded."
     },
     {
       "id": "channellock-12in-tongue-groove-amazon",
@@ -262,21 +262,21 @@
     },
     {
       "id": "craftsman-8in-long-nose-pliers-amazon",
-      "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "merchant": "CRAFTSMAN",
+      "image_url": "/assets/products/craftsman-cmht81645.webp",
+      "image_alt": "Craftsman 8-Inch Long Nose Pliers (CMHT81645)",
+      "image_source": "craftsman",
+      "status": "ok",
+      "detail": "No confirmed Amazon ASIN with a real JPEG. Locked official Craftsman CMHT81645 PDP and catalog photo."
     },
     {
       "id": "craftsman-2pc-groove-joint-plier-set-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "ASIN B096YM2L12 locked; Amazon P/ASIN image is a GIF placeholder."
+      "image_url": "/assets/products/craftsman-cmht82547.webp",
+      "image_alt": "Craftsman 2-Piece Groove Joint Plier Set (8\" & 10\")",
+      "image_source": "craftsman",
+      "status": "ok",
+      "detail": "Locked Amazon ASIN B096YM2L12 (CMHT82547 8- and 10-inch). Official Craftsman catalog photo downloaded."
     },
     {
       "id": "klein-15in1-multibit-ratcheting-screwdriver-amazon",
@@ -348,7 +348,7 @@
       "image_alt": null,
       "image_source": null,
       "status": "missing",
-      "detail": "Current Walmart URL is Wildlife/Deer decorative SKU; plain L8SK3 photo not verified."
+      "detail": "Wildlife/Deer decorative SKU on current URL; plain L8SK3 photo not verified."
     },
     {
       "id": "pyrex-3pc-measuring-cup-set-amazon",
@@ -465,7 +465,7 @@
       "image_alt": null,
       "image_source": null,
       "status": "missing",
-      "detail": "Target TCIN 21516452 locked as 42-count Original; Target image fetch bot-walled."
+      "detail": "Target TCIN 21516452 locked as 42-count Original; Scene7 GUEST asset not verified."
     },
     {
       "id": "crest-3d-whitestrips-professional-effects-amazon",
@@ -501,7 +501,7 @@
       "image_alt": null,
       "image_source": null,
       "status": "missing",
-      "detail": "Walmart PDP is JS-walled; listing may be Cortland vs AUTOSEAL Chill. Photo not verified."
+      "detail": "Walmart PDP JS-walled; candidate i5 URL 404. Photo not verified."
     },
     {
       "id": "hydro-flask-24oz-standard-mouth-target",
@@ -510,7 +510,7 @@
       "image_alt": null,
       "image_source": null,
       "status": "missing",
-      "detail": "Target TCINs 93349791 / 92383247 unavailable or image-less; no verified Scene7 GUEST asset."
+      "detail": "Target Standard Mouth 24 oz TCINs unavailable or image-less."
     },
     {
       "id": "swiffer-wetjet-starter-kit-target",
@@ -690,7 +690,7 @@
       "image_alt": null,
       "image_source": null,
       "status": "missing",
-      "detail": "Locked Walmart item 677032758; PDP is JS-walled and no verified i5.walmartimages.com URL could be confirmed."
+      "detail": "Locked Walmart item 677032758; no i5.walmartimages.com URL verified (candidate URLs 404)."
     },
     {
       "id": "dewalt-tough-tape-25ft-homedepot",

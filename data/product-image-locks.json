@@ -100,5 +100,26 @@
     "image_url": "/assets/products/milwaukee-48-22-2920.webp",
     "image_source": "milwaukee",
     "detail": "Home Depot PDP 48-22-2920 remains the locked URL. Live HD HTML is bot-walled; official Milwaukee product photo downloaded."
+  },
+  "craftsman-20oz-fiberglass-hammer-amazon": {
+    "product_url": "https://www.amazon.com/CRAFTSMAN-Fiberglass-General-Purpose-CMHT51399/dp/B07RBD7XZD",
+    "image_url": "/assets/products/craftsman-cmht51399.webp",
+    "image_source": "craftsman",
+    "detail": "Locked Amazon ASIN B07RBD7XZD (CMHT51399). Amazon P/ image is a GIF placeholder; official Craftsman catalog photo downloaded."
+  },
+  "craftsman-2pc-groove-joint-plier-set-amazon": {
+    "product_url": "https://www.amazon.com/CRAFTSMAN-Pliers-10-Inch-2-Piece-CMHT82547/dp/B096YM2L12",
+    "image_url": "/assets/products/craftsman-cmht82547.webp",
+    "image_source": "craftsman",
+    "detail": "Locked Amazon ASIN B096YM2L12 (CMHT82547 8- and 10-inch). Official Craftsman catalog photo downloaded."
+  },
+  "craftsman-8in-long-nose-pliers-amazon": {
+    "merchant": "CRAFTSMAN",
+    "product_url": "https://www.craftsman.com/en-us/product/cmht81645/craftsman-8-inch-long-nose-pliers",
+    "image_url": "/assets/products/craftsman-cmht81645.webp",
+    "image_source": "craftsman",
+    "suggested_affiliate_network": "pending",
+    "title": "Craftsman 8-Inch Long Nose Pliers (CMHT81645)",
+    "detail": "No confirmed Amazon ASIN with a real JPEG. Locked official Craftsman CMHT81645 PDP and catalog photo."
   }
 }

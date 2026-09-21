@@ -227,6 +227,8 @@ def source_for_url(url: str) -> str:
             return "milwaukee"
         if name.startswith("channellock"):
             return "channellock"
+        if name.startswith("craftsman"):
+            return "craftsman"
         return "local"
     host = urlparse(url).hostname or ""
     if "amazon" in host:

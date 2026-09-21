@@ -432,9 +432,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "/assets/products/craftsman-cmht51399.webp",
+    "image_alt": "Craftsman 20 oz. Fiberglass Hammer",
+    "image_source": "craftsman"
   },
   {
     "id": "channellock-12in-tongue-groove-amazon",
@@ -461,12 +461,12 @@
   },
   {
     "id": "craftsman-8in-long-nose-pliers-amazon",
-    "title": "Craftsman 8-Inch Long Nose Pliers",
+    "title": "Craftsman 8-Inch Long Nose Pliers (CMHT81645)",
     "category": "home",
     "subcategory": "hand-tools",
     "short_pitch": "Needle-nose pliers for electrical boxes, jewelry-scale tasks, and tight spaces.",
-    "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Craftsman+8+Inch+Long+Nose+Pliers",
+    "merchant": "CRAFTSMAN",
+    "product_url": "https://www.craftsman.com/en-us/product/cmht81645/craftsman-8-inch-long-nose-pliers",
     "list_or_typical_price": 15.98,
     "current_price": 13.89,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -475,12 +475,12 @@
     "ceiling_bucket": "under_25",
     "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
     "last_checked_date": null,
-    "suggested_affiliate_network": "amazon",
+    "suggested_affiliate_network": "pending",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "/assets/products/craftsman-cmht81645.webp",
+    "image_alt": "Craftsman 8-Inch Long Nose Pliers (CMHT81645)",
+    "image_source": "craftsman"
   },
   {
     "id": "craftsman-2pc-groove-joint-plier-set-amazon",
@@ -501,9 +501,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "/assets/products/craftsman-cmht82547.webp",
+    "image_alt": "Craftsman 2-Piece Groove Joint Plier Set (8\" & 10\")",
+    "image_source": "craftsman"
   },
   {
     "id": "klein-15in1-multibit-ratcheting-screwdriver-amazon",

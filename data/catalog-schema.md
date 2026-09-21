@@ -25,7 +25,7 @@ Field definitions for the Netlify site / CMS ingest of `seed-catalog.csv` / `see
 | `image_notes` | string | yes | Editorial note on the intended photo. Does not replace `image_url`. |
 | `image_url` | string (URL) or null | no | Official merchant CDN URL for this listing’s product photo, or `null` when unverified. Never invent or substitute another SKU’s image. |
 | `image_alt` | string or null | no | Alt text; use the product title when `image_url` is set. |
-| `image_source` | enum or null | no | Merchant/brand source for the photo: `amazon` \| `target` \| `homedepot` \| `walmart` \| `oxo` \| `klein` \| `milwaukee` \| `channellock`. |
+| `image_source` | enum or null | no | Merchant/brand source for the photo: `amazon` \| `target` \| `homedepot` \| `walmart` \| `oxo` \| `klein` \| `milwaukee` \| `channellock` \| `craftsman`. |
 | `status` | enum | yes | Seed rows are `draft`. Promote to `ready` / `live` / `expired` in CMS after re-verification. |
 
 ## Trust / publish gates (must pass before `live`)
