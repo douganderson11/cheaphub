@@ -25,7 +25,7 @@ Field definitions for the Netlify site / CMS ingest of `seed-catalog.csv` / `see
 | `image_notes` | string | yes | Editorial note on the intended photo. Does not replace `image_url`. |
 | `image_url` | string (URL) or null | no | Official merchant CDN URL for this listing’s product photo, or `null` when unverified. Never invent or substitute another SKU’s image. |
 | `image_alt` | string or null | no | Alt text; use the product title when `image_url` is set. |
-| `image_source` | enum or null | no | Merchant CDN that served the photo: `amazon` \| `target` \| `homedepot` \| `walmart` \| `oxo`. |
+| `image_source` | enum or null | no | Merchant/brand source for the photo: `amazon` \| `target` \| `homedepot` \| `walmart` \| `oxo` \| `klein` \| `milwaukee` \| `channellock` \| `craftsman` \| `command`. |
 | `status` | enum | yes | Seed rows are `draft`. Promote to `ready` / `live` / `expired` in CMS after re-verification. |
 
 ## Trust / publish gates (must pass before `live`)
@@ -60,8 +60,9 @@ Field definitions for the Netlify site / CMS ingest of `seed-catalog.csv` / `see
 
 ## Image policy
 
-- Show a real product photo from the listing’s merchant, or show a “no photo” state. Never use stock, guessed, or cross-SKU images.
-- Prefer hotlinking the merchant CDN URL captured from that PDP (Amazon `m.media-amazon.com`, Target Scene7 `GUEST_` assets, Home Depot `images.thdstatic.com`, Walmart `i5.walmartimages.com`).
-- Amazon images must come from Amazon product-page assets (`/images/I/…` on the PDP, or the Associates image widget)—not third-party mirrors.
-- Search/category `product_url` rows stay `image_url: null` until an ASIN/SKU is locked.
-- If a PDP bot-walls the fetcher, leave `image_url` null unless the CDN URL can be verified from that same listing (for example a Wayback snapshot of the merchant PDP whose `images.thdstatic.com` URL still resolves).
+- **Do not list a product without a photo.** Public catalog modules only render rows with a verified `image_url`. Never use stock, guessed, or cross-SKU images.
+- Prefer hotlinking the merchant CDN URL captured from that PDP (Amazon `m.media-amazon.com` including verified `P/{ASIN}` main images, Target Scene7 `GUEST_` assets, Home Depot `images.thdstatic.com`, Walmart `i5.walmartimages.com`).
+- Amazon images must come from Amazon product-page assets (`/images/I/…` or the official `P/{ASIN}` main image)—not third-party mirrors. Reject 1×1 GIF placeholders.
+- Search/category `product_url` rows stay `image_url: null` until an ASIN/SKU is locked, then they are omitted from the published catalog until a photo is attached.
+- If a PDP bot-walls the fetcher, leave `image_url` null unless the same SKU’s official photo can be verified (merchant CDN, Wayback of that PDP, or a downloaded brand catalog photo of that exact model in `assets/products/`).
+- Unpublished seed rows are written to `data/excluded-pending-photo.json` with a reason. Do not show a public “No photo yet” card.

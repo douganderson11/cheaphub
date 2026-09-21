@@ -2,12 +2,29 @@
   "ok": [
     "tinkr-home-essentials-kit-target",
     "stanley-fatmax-25ft-tape-homedepot",
+    "black-decker-led-under-cabinet-2bar-homedepot",
+    "milwaukee-9in1-multi-nut-driver-homedepot",
+    "irwin-10in-curved-jaw-locking-pliers-amazon",
+    "craftsman-25ft-tape-amazon",
+    "craftsman-26pc-ratcheting-screwdriver-amazon",
+    "klein-16ft-compact-tape-amazon",
+    "estwing-16oz-rip-hammer-amazon",
+    "craftsman-20oz-fiberglass-hammer-amazon",
+    "channellock-12in-tongue-groove-amazon",
+    "craftsman-8in-long-nose-pliers-amazon",
+    "craftsman-2pc-groove-joint-plier-set-amazon",
+    "klein-15in1-multibit-ratcheting-screwdriver-amazon",
+    "klein-11in1-screwdriver-nut-driver-amazon",
+    "irwin-7in-locking-pliers-cutter-amazon",
     "oxo-good-grips-kitchen-scissors-amazon",
     "oxo-swivel-peeler-target",
     "oxo-good-grips-salad-spinner-amazon",
     "lodge-8in-cast-iron-skillet-amazon",
+    "lodge-10-25-cast-iron-skillet-walmart",
     "pyrex-3pc-measuring-cup-set-amazon",
+    "microplane-premium-classic-zester-target",
     "rubbermaid-brilliance-glass-8cup-target",
+    "oxo-kitchen-herb-scissors-oxo-com",
     "amazon-basics-microfiber-cloths-24pk",
     "scotch-brite-heavy-duty-sponges-3ct-target",
     "scotch-brite-zero-scratch-sponges-3ct-target",
@@ -15,18 +32,28 @@
     "room-essentials-storage-crate-target",
     "amazon-basics-hdmi-cable-6ft",
     "anker-20w-usb-c-charger-nano-amazon",
+    "tide-pods-42ct-amazon",
+    "crest-3d-whitestrips-professional-effects-amazon",
     "amazon-basics-aa-batteries-48pk",
     "packit-freezable-lunch-bag-gray-fog-target",
+    "contigo-autoseal-chill-24oz-walmart",
+    "hydro-flask-24oz-standard-mouth-target",
     "swiffer-wetjet-starter-kit-target",
     "anker-hdmi-usb-c-cable-6ft-target",
     "up-and-up-aa-batteries-48pk-target",
+    "command-large-hooks-variety-pending",
+    "scotch-magic-tape-multipack-pending",
     "cabeau-evolution-classic-travel-pillow-target",
     "eagle-creek-pack-it-original-set-xs-s-m-amazon",
     "amazon-basics-packing-cubes-4pc",
     "samsonite-luggage-tag-set-amazon",
     "travelon-rfid-anti-theft-mini-shoulder-target",
     "travelon-self-laminating-luggage-tags-3pk-amazon",
+    "nalgene-32oz-wide-mouth-amazon",
     "packit-freezable-lunch-bag-travel-note",
+    "klein-3pc-adjustable-wrench-set-amazon",
+    "klein-flickblade-utility-knife-amazon",
+    "irwin-vise-grip-11in-locking-c-clamp-amazon",
     "oxo-good-grips-swivel-peeler-amazon",
     "dewalt-tough-tape-25ft-homedepot",
     "room-essentials-6pc-dorm-towel-set-target"
@@ -41,38 +68,11 @@
     "hart-7gal-wet-dry-vac-walmart",
     "hart-8gal-wet-dry-vac-walmart",
     "hart-20v-recip-saw-walmart",
-    "irwin-10in-curved-jaw-locking-pliers-amazon",
-    "craftsman-25ft-tape-amazon",
-    "craftsman-26pc-ratcheting-screwdriver-amazon",
-    "klein-16ft-compact-tape-amazon",
-    "estwing-16oz-rip-hammer-amazon",
-    "craftsman-20oz-fiberglass-hammer-amazon",
-    "channellock-12in-tongue-groove-amazon",
-    "craftsman-8in-long-nose-pliers-amazon",
-    "craftsman-2pc-groove-joint-plier-set-amazon",
-    "klein-15in1-multibit-ratcheting-screwdriver-amazon",
-    "klein-11in1-screwdriver-nut-driver-amazon",
-    "irwin-7in-locking-pliers-cutter-amazon",
-    "tide-pods-42ct-amazon",
-    "crest-3d-whitestrips-professional-effects-amazon",
-    "command-large-hooks-variety-pending",
-    "scotch-magic-tape-multipack-pending",
     "tsa-clear-quart-toiletry-bag-amazon",
-    "nalgene-32oz-wide-mouth-amazon",
-    "klein-3pc-adjustable-wrench-set-amazon",
-    "klein-flickblade-utility-knife-amazon",
-    "irwin-vise-grip-11in-locking-c-clamp-amazon",
     "threshold-bath-towel-value-pending-target"
   ],
   "missing": [
-    "black-decker-led-under-cabinet-2bar-homedepot",
-    "milwaukee-9in1-multi-nut-driver-homedepot",
-    "lodge-10-25-cast-iron-skillet-walmart",
-    "microplane-premium-classic-zester-target",
-    "oxo-kitchen-herb-scissors-oxo-com",
     "anker-powercore-10000-amazon",
-    "contigo-autoseal-chill-24oz-walmart",
-    "hydro-flask-24oz-standard-mouth-target",
     "anker-powercore-10000-travel-slice",
     "instant-pot-duo-plus-mini-3qt-walmart"
   ],
@@ -97,21 +97,21 @@
     },
     {
       "id": "black-decker-led-under-cabinet-2bar-homedepot",
-      "merchant": "Home Depot",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "PDP HTTP 403"
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/P/B0937DRDLF.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "BLACK+DECKER 9 in. LED 2-Bar Battery Under Cabinet Lighting Kit",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked LEDUC9-2BAT Amazon ASIN B0937DRDLF; verified P/ main JPEG of the 2-bar battery kit."
     },
     {
       "id": "milwaukee-9in1-multi-nut-driver-homedepot",
       "merchant": "Home Depot",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "PDP HTTP 403"
+      "image_url": "/assets/products/milwaukee-48-22-2920.webp",
+      "image_alt": "Milwaukee 9-in-1 Multi-Nut Driver",
+      "image_source": "milwaukee",
+      "status": "ok",
+      "detail": "Home Depot PDP 48-22-2920 remains the locked URL. Live HD HTML is bot-walled; official Milwaukee product photo downloaded."
     },
     {
       "id": "hart-2-position-ratcheting-screwdriver-walmart",
@@ -197,110 +197,110 @@
     {
       "id": "irwin-10in-curved-jaw-locking-pliers-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B00004YNIC.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "IRWIN 10\" Curved Jaw Locking Pliers",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked classic IRWIN 10-inch curved-jaw listing ASIN B00004YNIC; Amazon P/ main image is a verified JPEG."
     },
     {
       "id": "craftsman-25ft-tape-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B07QG3ZXQC.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Craftsman 25-Foot Tape Measure",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Craftsman CMHT37225S 25 ft self-lock tape ASIN B07QG3ZXQC."
     },
     {
       "id": "craftsman-26pc-ratcheting-screwdriver-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B07SGVXKZ9.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Craftsman 26-Piece Ratcheting Screwdriver / Multibit Set",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Craftsman CMHT68001 26-piece ratcheting screwdriver ASIN B07SGVXKZ9."
     },
     {
       "id": "klein-16ft-compact-tape-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B0CDMJZX12.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Klein Tools 16-Foot Compact Tape Measure",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Klein 9516 16-foot compact double-hook tape ASIN B0CDMJZX12."
     },
     {
       "id": "estwing-16oz-rip-hammer-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B0000224VG.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Estwing 16 oz. Rip Hammer, Smooth Face",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Estwing E3-16S 16 oz smooth-face rip hammer ASIN B0000224VG."
     },
     {
       "id": "craftsman-20oz-fiberglass-hammer-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "/assets/products/craftsman-cmht51399.webp",
+      "image_alt": "Craftsman 20 oz. Fiberglass Hammer",
+      "image_source": "craftsman",
+      "status": "ok",
+      "detail": "Locked Amazon ASIN B07RBD7XZD (CMHT51399). Amazon P/ image is a GIF placeholder; official Craftsman catalog photo downloaded."
     },
     {
       "id": "channellock-12in-tongue-groove-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "/assets/products/channellock-440.webp",
+      "image_alt": "Channellock 12\" Tongue & Groove Pliers",
+      "image_source": "channellock",
+      "status": "ok",
+      "detail": "Locked Channellock 440 ASIN B00820N746. Amazon P/ image is a GIF placeholder; official 440 gallery photo from channellock.com/Salsify downloaded."
     },
     {
       "id": "craftsman-8in-long-nose-pliers-amazon",
-      "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "merchant": "CRAFTSMAN",
+      "image_url": "/assets/products/craftsman-cmht81645.webp",
+      "image_alt": "Craftsman 8-Inch Long Nose Pliers (CMHT81645)",
+      "image_source": "craftsman",
+      "status": "ok",
+      "detail": "No confirmed Amazon ASIN with a real JPEG. Locked official Craftsman CMHT81645 PDP and catalog photo."
     },
     {
       "id": "craftsman-2pc-groove-joint-plier-set-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "/assets/products/craftsman-cmht82547.webp",
+      "image_alt": "Craftsman 2-Piece Groove Joint Plier Set (8\" & 10\")",
+      "image_source": "craftsman",
+      "status": "ok",
+      "detail": "Locked Amazon ASIN B096YM2L12 (CMHT82547 8- and 10-inch). Official Craftsman catalog photo downloaded."
     },
     {
       "id": "klein-15in1-multibit-ratcheting-screwdriver-amazon",
-      "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "merchant": "Klein Tools",
+      "image_url": "/assets/products/klein-32305.jpg",
+      "image_alt": "Klein Tools 15-in-1 Multi-Bit Ratcheting Screwdriver",
+      "image_source": "klein",
+      "status": "ok",
+      "detail": "No standalone Amazon ASIN confirmed (combo kits exist). Locked Klein 32305 brand PDP; official catalog photo downloaded."
     },
     {
       "id": "klein-11in1-screwdriver-nut-driver-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "/assets/products/klein-32500.jpg",
+      "image_alt": "Klein Tools 11-in-1 Multi-Bit Screwdriver/Nut Driver",
+      "image_source": "klein",
+      "status": "ok",
+      "detail": "Locked Klein 32500 ASIN B095PTPSK3. Amazon P/ image is a GIF placeholder; official Klein catalog photo downloaded."
     },
     {
       "id": "irwin-7in-locking-pliers-cutter-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B00004SBAW.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "IRWIN VISE-GRIP 7\" Curved Jaw Locking Pliers with Cutter",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked IRWIN 7WR 7-inch curved jaw with cutter ASIN B00004SBAW."
     },
     {
       "id": "oxo-good-grips-kitchen-scissors-amazon",
@@ -340,12 +340,12 @@
     },
     {
       "id": "lodge-10-25-cast-iron-skillet-walmart",
-      "merchant": "Walmart",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "no merchant product image found on PDP"
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/P/B00006JSUA.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Lodge 10.25\" Seasoned Cast Iron Skillet (L8SK3)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked classic Lodge L8SK3 10.25-inch seasoned skillet ASIN B00006JSUA; Amazon P/ main image is a verified JPEG."
     },
     {
       "id": "pyrex-3pc-measuring-cup-set-amazon",
@@ -359,11 +359,11 @@
     {
       "id": "microplane-premium-classic-zester-target",
       "merchant": "Target",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "no merchant product image found on PDP"
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_a8a9f30a-c602-4c01-bf3b-ebe67f08c800?wid=600&hei=600&qlt=85",
+      "image_alt": "Microplane Premium Classic Fine Zester / Grater (Dark Blue)",
+      "image_source": "target",
+      "status": "ok",
+      "detail": "Original grey TCIN 1001942616 had no usable Target image; locked current Premium Classic TCIN 88337174 (dark blue) with Scene7 GUEST asset."
     },
     {
       "id": "rubbermaid-brilliance-glass-8cup-target",
@@ -376,12 +376,12 @@
     },
     {
       "id": "oxo-kitchen-herb-scissors-oxo-com",
-      "merchant": "OXO",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "PDP HTTP 403"
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/P/B000KILLXM.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "OXO Good Grips Kitchen and Herb Scissors",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "oxo.com PDP HTTP 403; locked same Kitchen and Herb Scissors ASIN B000KILLXM on Amazon."
     },
     {
       "id": "amazon-basics-microfiber-cloths-24pk",
@@ -458,20 +458,20 @@
     {
       "id": "tide-pods-42ct-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B0747ZC625.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Tide PODS Laundry Detergent Pacs, 42 Count (Original)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Tide PODS Original 42-count ASIN B0747ZC625; tub photo shows 42 pacs Original."
     },
     {
       "id": "crest-3d-whitestrips-professional-effects-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B00AHAWWO0.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Crest 3D Whitestrips Professional Effects (22 Treatments)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Crest 3D Whitestrips Professional Effects 22-treatment kit ASIN B00AHAWWO0."
     },
     {
       "id": "amazon-basics-aa-batteries-48pk",
@@ -493,21 +493,21 @@
     },
     {
       "id": "contigo-autoseal-chill-24oz-walmart",
-      "merchant": "Walmart",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "no merchant product image found on PDP"
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/P/B01N6K88FQ.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz (Very Berry)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Contigo AUTOSEAL Chill 24 oz Very Berry ASIN B01N6K88FQ; Amazon P/ main image is a verified JPEG."
     },
     {
       "id": "hydro-flask-24oz-standard-mouth-target",
-      "merchant": "Target",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "missing",
-      "detail": "no merchant product image found on PDP"
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/P/B09D8RTD17.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Hydro Flask 24 oz Standard Mouth Bottle (Starfish)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Hydro Flask 24 oz Standard Mouth ASIN B09D8RTD17; Amazon P/ main image is a verified JPEG of the Starfish colorway."
     },
     {
       "id": "swiffer-wetjet-starter-kit-target",
@@ -539,20 +539,20 @@
     {
       "id": "command-large-hooks-variety-pending",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "/assets/products/command-17003-3es.jpg",
+      "image_alt": "Command Large Utility Hooks, 3-Pack (17003-3ES)",
+      "image_source": "command",
+      "status": "ok",
+      "detail": "Locked Command 17003-3ES 3-pack ASIN B00GD2RG6K. US P/ image is a GIF; downloaded verified 17003-3ES value-pack photo."
     },
     {
       "id": "scotch-magic-tape-multipack-pending",
       "merchant": "Target",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_50f899e9-564a-402b-81c3-3d50f04a97af?wid=600&hei=600&qlt=85",
+      "image_alt": "Scotch Magic Tape 6-Pack (3/4 in. x 800 in.)",
+      "image_source": "target",
+      "status": "ok",
+      "detail": "Locked Target TCIN 13356402 six-pack refill rolls."
     },
     {
       "id": "cabeau-evolution-classic-travel-pillow-target",
@@ -620,11 +620,11 @@
     {
       "id": "nalgene-32oz-wide-mouth-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B0B9T4KCV7.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Nalgene 32 oz Wide Mouth Bottle (Tritan)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked current Nalgene 32 oz Wide Mouth Tritan listing ASIN B0B9T4KCV7."
     },
     {
       "id": "packit-freezable-lunch-bag-travel-note",
@@ -647,29 +647,29 @@
     {
       "id": "klein-3pc-adjustable-wrench-set-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B0CYHLQ7FW.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Klein Tools 3-Piece Adjustable Wrench Set",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Klein D5073 6/8/10-inch extra-capacity adjustable wrench set ASIN B0CYHLQ7FW."
     },
     {
       "id": "klein-flickblade-utility-knife-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B0F1C1LFD9.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "Klein Tools FLICKBLADE 2-in-1 Utility Knife/Scraper (44306)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked Klein 44306 FLICKBLADE ASIN B0F1C1LFD9; Amazon P/ main image is a verified JPEG."
     },
     {
       "id": "irwin-vise-grip-11in-locking-c-clamp-amazon",
       "merchant": "Amazon",
-      "image_url": null,
-      "image_alt": null,
-      "image_source": null,
-      "status": "skipped_unlocked_url",
-      "detail": "product_url is a search or category page; SKU is not locked"
+      "image_url": "https://m.media-amazon.com/images/P/B00004SBBH.01._SCLZZZZZZZ_.jpg",
+      "image_alt": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp (11R)",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": "Locked IRWIN Original 11-inch locking C-clamp (model 19 / 11R regular tips) ASIN B00004SBBH; Amazon P/ main image is a verified JPEG."
     },
     {
       "id": "oxo-good-grips-swivel-peeler-amazon",
@@ -716,5 +716,10 @@
       "status": "ok",
       "detail": ""
     }
-  ]
+  ],
+  "published_with_photo": 57,
+  "excluded_pending_photo": 14,
+  "seed_count": 71,
+  "photos_added_this_pass": 27,
+  "prior_verified_photos": 30
 }

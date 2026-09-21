@@ -130,16 +130,11 @@
     return `/go/${product.id}/`;
   }
 
-  function emptyMedia() {
-    const media = el("div", "offer-media offer-media-empty");
-    media.setAttribute("aria-hidden", "true");
-    text(media, "No photo yet");
-    return media;
+  function hasPhoto(product) {
+    return Boolean(product && product.image_url);
   }
 
   function renderMedia(product) {
-    if (!product.image_url) return emptyMedia();
-
     const link = el("a", "offer-media-link");
     link.href = outboundHref(product);
     link.rel = "sponsored noopener noreferrer";
@@ -153,7 +148,8 @@
     img.width = 400;
     img.height = 400;
     img.addEventListener("error", () => {
-      link.replaceWith(emptyMedia());
+      const card = link.closest(".offer-card");
+      if (card) card.remove();
     });
     media.append(img);
     link.append(media);
@@ -161,6 +157,7 @@
   }
 
   function renderCard(product) {
+    if (!hasPhoto(product)) return null;
     const card = el("article", "offer-card");
     card.id = product.id;
     card.append(renderMedia(product));
@@ -218,7 +215,10 @@
     const limit = Number(mount.getAttribute("data-limit") || 0);
     const shown = limit > 0 ? products.slice(0, limit) : products;
     const grid = el("div", "offer-grid");
-    shown.forEach((product) => grid.append(renderCard(product)));
+    shown.forEach((product) => {
+      const card = renderCard(product);
+      if (card) grid.append(card);
+    });
     const nodes = [grid];
     if (limit > 0 && products.length > shown.length) {
       const more = el("p", "catalog-more");
@@ -290,7 +290,7 @@
   }
 
   function init(data) {
-    const products = data.products || [];
+    const products = (data.products || []).filter(hasPhoto);
     document.querySelectorAll("[data-catalog]").forEach((mount) => {
       const matched = sortProducts(products.filter((product) => matchesMount(product, rulesFromMount(mount))));
       applyInteractiveFilter(mount, matched);

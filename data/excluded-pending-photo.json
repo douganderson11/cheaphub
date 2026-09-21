@@ -1,0 +1,118 @@
+{
+  "policy": "Do not list a product without a photo. These seed rows stay in draft until a verified merchant image is attached.",
+  "count": 14,
+  "products": [
+    {
+      "id": "hart-2-position-ratcheting-screwdriver-walmart",
+      "title": "HART 2-Position Ratcheting Screwdriver",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+2-Position+Ratcheting+Screwdriver",
+      "reason": "HART is exiting Walmart; HHSDR004 2-position driver is not on harttools.com (13-pc ratcheting SKUs are different). Search URL not locked; do not substitute nearby HART tools.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-5pc-impact-drive-bit-set-walmart",
+      "title": "HART 5-Piece Impact Drive Bit Set",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+5-Piece+Impact+Drive+Bit+Set",
+      "reason": "Walmart/brand PDPs bot-walled; exact 5-pc impact bit SKU not locked from search. Do not substitute nearby HART bit sets.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-titanium-drill-bit-set-walmart",
+      "title": "HART Titanium Drill Bit Set",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+Titanium+Drill+Bit+Set",
+      "reason": "Search URL only; exact HART titanium drill-bit SKU/item id not locked.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-anti-vibration-work-gloves-walmart",
+      "title": "HART Anti-Vibration Work Gloves",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+Anti-Vibration+Work+Gloves",
+      "reason": "Search URL only; exact HART anti-vibration glove SKU/item id not locked.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-18ga-brad-nails-1000-walmart",
+      "title": "HART 1,000-Piece 18-Gauge Brad Nails",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+18-Gauge+Brad+Nails+1000",
+      "reason": "Search URL only; exact HART 18-gauge 1000-count brad SKU/item id not locked.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-10gal-wet-dry-vac-walmart",
+      "title": "HART 10-Gallon 6-Peak-HP Wet/Dry Vacuum",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+10-Gallon+Wet+Dry+Vacuum",
+      "reason": "Search URL only; exact HART 10-gallon wet/dry vac SKU/item id not locked.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-7gal-wet-dry-vac-walmart",
+      "title": "HART 7-Gallon 5-Peak-HP Wet/Dry Vacuum",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+7-Gallon+Wet+Dry+Vacuum",
+      "reason": "Search URL only; exact HART 7-gallon wet/dry vac SKU/item id not locked.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-8gal-wet-dry-vac-walmart",
+      "title": "HART 8-Gallon 6-Peak-HP Wet/Dry Vacuum",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+8-Gallon+Wet+Dry+Vacuum",
+      "reason": "Search URL only; exact HART 8-gallon wet/dry vac SKU/item id not locked.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "hart-20v-recip-saw-walmart",
+      "title": "HART 20V Reciprocating Saw (tool only context varies)",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/search?q=HART+20V+Reciprocating+Saw",
+      "reason": "Search URL only; tool-only vs kit context varies and SKU is not locked.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "anker-powercore-10000-amazon",
+      "title": "Anker PowerCore 10000 Portable Charger",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI",
+      "reason": "Original ASIN B0194WDVHI returns 404; A1263 PowerCore 10000 is under CPSC recall. Not substituting a different Anker 10K.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "tsa-clear-quart-toiletry-bag-amazon",
+      "title": "TSA-Approved Clear Quart Toiletry Bag (3-1-1 kit)",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/s?k=TSA+approved+clear+quart+toiletry+bag",
+      "reason": "Generic 3-1-1 category; no single brand/ASIN locked. Search URL stays image-less.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "anker-powercore-10000-travel-slice",
+      "title": "Anker PowerCore 10000 (travel carry)",
+      "merchant": "Amazon",
+      "product_url": "https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI",
+      "reason": "Same dead/recalled A1263 PowerCore 10000 listing as the everyday row. Not substituting a different Anker 10K.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "instant-pot-duo-plus-mini-3qt-walmart",
+      "title": "Instant Pot Duo Plus Mini 3-Quart 9-in-1",
+      "merchant": "Walmart",
+      "product_url": "https://www.walmart.com/ip/Instant-Pot-Duo-Plus-3-Quart-Mini-9-in-1-Multi-Use-Pressure-Cooker/677032758",
+      "reason": "Walmart item 677032758 is JS-walled. Candidate Amazon photos are glass-lid bundles or the 6-quart Duo Plus (B01NBKTPTS). No verified 3-quart Mini-only merchant photo.",
+      "status": "draft_excluded_pending_photo"
+    },
+    {
+      "id": "threshold-bath-towel-value-pending-target",
+      "title": "Threshold Bath Towel (value pick \u2014 lock SKU)",
+      "merchant": "Target",
+      "product_url": "https://www.target.com/c/towels-bath-home-decor/threshold/-/N-5xtv9Z56dig",
+      "reason": "Category page only. Specific Threshold Performance Plus TCINs exist but Scene7 GUEST assets were not verified.",
+      "status": "draft_excluded_pending_photo"
+    }
+  ]
+}

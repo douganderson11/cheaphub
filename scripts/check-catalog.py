@@ -27,8 +27,12 @@ def fail(message: str) -> None:
 
 
 def main() -> None:
-    if len(PRODUCTS) != 71:
-        fail(f"expected 71 products, found {len(PRODUCTS)}")
+    if len(PRODUCTS) < 1:
+        fail("published catalog is empty")
+    if CATALOG.get("seed_count") != 71:
+        fail(f"expected 71 seed products, found {CATALOG.get('seed_count')}")
+    if any(not product.get("image_url") for product in PRODUCTS):
+        fail("published catalog contains a product without image_url")
     verified = [p for p in PRODUCTS if p["is_verified_discount"]]
     if len(verified) != 4:
         fail(f"expected 4 verified discounts, found {len(verified)}")
@@ -49,9 +53,14 @@ def main() -> None:
             fail(f"{product['id']} destination should default to product_url")
         image_url = product.get("image_url")
         if image_url:
-            parsed = urlparse(image_url)
-            if parsed.scheme != "https" or parsed.hostname not in IMAGE_HOSTS:
-                fail(f"{product['id']} image_url is not an allowed merchant HTTPS CDN")
+            if image_url.startswith("/assets/products/"):
+                local = ROOT / image_url.lstrip("/")
+                if not local.is_file():
+                    fail(f"{product['id']} local image missing: {image_url}")
+            else:
+                parsed = urlparse(image_url)
+                if parsed.scheme != "https" or parsed.hostname not in IMAGE_HOSTS:
+                    fail(f"{product['id']} image_url is not an allowed merchant HTTPS CDN")
             if not product.get("image_alt"):
                 fail(f"{product['id']} has image_url but missing image_alt")
             if not product.get("image_source"):
@@ -86,6 +95,10 @@ def main() -> None:
     go_count = len(list((ROOT / "go").glob("*/index.html")))
     if go_count != 71:
         fail(f"expected 71 go pages, found {go_count}")
+
+    catalog_js = (ROOT / "assets" / "catalog.js").read_text(encoding="utf-8")
+    if "No photo yet" in catalog_js:
+        fail("catalog.js still renders a public No photo yet state")
 
     operator_pages = [
         "about/index.html",
