@@ -51,22 +51,22 @@
     "category": "home",
     "subcategory": "lighting",
     "short_pitch": "Battery stick-on under-cabinet bars for renters who want brighter counters without hardwiring.",
-    "merchant": "Home Depot",
-    "product_url": "https://www.homedepot.com/p/BLACK-DECKER-9-in-LED-2-Bar-Battery-Under-Cabinet-Lighting-Kit-in-Warm-White-LEDUC9-2BAT/319898754",
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/BLACK-DECKER-LEDUC9-2BAT-Battery-Operated/dp/B0937DRDLF",
     "list_or_typical_price": null,
     "current_price": 24.69,
     "discount_basis": "price check only \u2014 no verified discount",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_25",
-    "restrictions_notes": "Requires 3 AA batteries (not included). Local store prices may vary.",
+    "restrictions_notes": "Requires 3 AA batteries (not included). Local store prices may vary. Home Depot item 319898754 errors; outbound uses Amazon ASIN B0937DRDLF for LEDUC9-2BAT.",
     "last_checked_date": null,
-    "suggested_affiliate_network": "impact",
+    "suggested_affiliate_network": "amazon",
     "image_notes": "Home Depot product image of warm-white LED bars; model LEDUC9-2BAT.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B0937DRDLF.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "BLACK+DECKER 9 in. LED 2-Bar Battery Under Cabinet Lighting Kit",
+    "image_source": "amazon"
   },
   {
     "id": "milwaukee-9in1-multi-nut-driver-homedepot",
@@ -87,9 +87,9 @@
     "suggested_affiliate_network": "impact",
     "image_notes": "Home Depot PDP image of multi-nut driver; model 48-22-2920.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "/assets/products/milwaukee-48-22-2920.webp",
+    "image_alt": "Milwaukee 9-in-1 Multi-Nut Driver",
+    "image_source": "milwaukee"
   },
   {
     "id": "hart-2-position-ratcheting-screwdriver-walmart",
@@ -112,7 +112,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "HART is exiting Walmart; HHSDR004 2-position driver is not on harttools.com (13-pc ratcheting SKUs are different). Search URL not locked; do not substitute nearby HART tools."
   },
   {
     "id": "hart-5pc-impact-drive-bit-set-walmart",
@@ -135,7 +136,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Walmart/brand PDPs bot-walled; exact 5-pc impact bit SKU not locked from search. Do not substitute nearby HART bit sets."
   },
   {
     "id": "hart-titanium-drill-bit-set-walmart",
@@ -158,7 +160,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; exact HART titanium drill-bit SKU/item id not locked."
   },
   {
     "id": "hart-anti-vibration-work-gloves-walmart",
@@ -181,7 +184,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; exact HART anti-vibration glove SKU/item id not locked."
   },
   {
     "id": "hart-18ga-brad-nails-1000-walmart",
@@ -204,7 +208,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; exact HART 18-gauge 1000-count brad SKU/item id not locked."
   },
   {
     "id": "hart-10gal-wet-dry-vac-walmart",
@@ -227,7 +232,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; exact HART 10-gallon wet/dry vac SKU/item id not locked."
   },
   {
     "id": "hart-7gal-wet-dry-vac-walmart",
@@ -250,7 +256,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; exact HART 7-gallon wet/dry vac SKU/item id not locked."
   },
   {
     "id": "hart-8gal-wet-dry-vac-walmart",
@@ -273,7 +280,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; exact HART 8-gallon wet/dry vac SKU/item id not locked."
   },
   {
     "id": "hart-20v-recip-saw-walmart",
@@ -296,7 +304,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Search URL only; tool-only vs kit context varies and SKU is not locked."
   },
   {
     "id": "irwin-10in-curved-jaw-locking-pliers-amazon",
@@ -305,7 +314,7 @@
     "subcategory": "hand-tools",
     "short_pitch": "Classic locking pliers for clamping and twisting when you need a third hand.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=IRWIN+10+Curved+Jaw+Locking+Pliers",
+    "product_url": "https://www.amazon.com/dp/B00004YNIC",
     "list_or_typical_price": 27.07,
     "current_price": 14.61,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -317,9 +326,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B00004YNIC.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "IRWIN 10\" Curved Jaw Locking Pliers",
+    "image_source": "amazon"
   },
   {
     "id": "craftsman-25ft-tape-amazon",
@@ -328,7 +337,7 @@
     "subcategory": "hand-tools",
     "short_pitch": "Straightforward 25 ft tape for household measuring without paying FatMax pricing.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Craftsman+25+Foot+Tape+Measure",
+    "product_url": "https://www.amazon.com/CRAFTSMAN-Measure-Self-Lock-25-Foot-CMHT37225S/dp/B07QG3ZXQC",
     "list_or_typical_price": 19.98,
     "current_price": 12.98,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -340,9 +349,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B07QG3ZXQC.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Craftsman 25-Foot Tape Measure",
+    "image_source": "amazon"
   },
   {
     "id": "craftsman-26pc-ratcheting-screwdriver-amazon",
@@ -351,7 +360,7 @@
     "subcategory": "hand-tools",
     "short_pitch": "One handle plus common bits\u2014covers most furniture and outlet-cover screws.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Craftsman+26-Piece+Ratcheting+Screwdriver",
+    "product_url": "https://www.amazon.com/CRAFTSMAN-Ratcheting-Screwdriver-Multibit-CMHT68001/dp/B07SGVXKZ9",
     "list_or_typical_price": 24.05,
     "current_price": 15.99,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -363,9 +372,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B07SGVXKZ9.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Craftsman 26-Piece Ratcheting Screwdriver / Multibit Set",
+    "image_source": "amazon"
   },
   {
     "id": "klein-16ft-compact-tape-amazon",
@@ -374,7 +383,7 @@
     "subcategory": "hand-tools",
     "short_pitch": "Pocketable 16 ft tape for indoor projects where a 25 ft blade is overkill.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Klein+Tools+16+Foot+Compact+Tape+Measure",
+    "product_url": "https://www.amazon.com/Klein-Tools-Tape-Measure-16-Foot/dp/B0CDMJZX12",
     "list_or_typical_price": 13.98,
     "current_price": 9.98,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -386,9 +395,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B0CDMJZX12.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Klein Tools 16-Foot Compact Tape Measure",
+    "image_source": "amazon"
   },
   {
     "id": "estwing-16oz-rip-hammer-amazon",
@@ -397,7 +406,7 @@
     "subcategory": "hand-tools",
     "short_pitch": "One-piece steel hammer known for durability\u2014buy if you want a tool that lasts years of light framing.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Estwing+16+oz+Rip+Hammer",
+    "product_url": "https://www.amazon.com/Estwing-Hammer-Straight-Smooth-Reduction/dp/B0000224VG",
     "list_or_typical_price": 36.99,
     "current_price": 24.98,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -409,9 +418,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B0000224VG.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Estwing 16 oz. Rip Hammer, Smooth Face",
+    "image_source": "amazon"
   },
   {
     "id": "craftsman-20oz-fiberglass-hammer-amazon",
@@ -420,7 +429,7 @@
     "subcategory": "hand-tools",
     "short_pitch": "Heavier fiberglass-handle hammer for driving nails without spending Estwing money.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Craftsman+20+oz+Fiberglass+Hammer",
+    "product_url": "https://www.amazon.com/CRAFTSMAN-Fiberglass-General-Purpose-CMHT51399/dp/B07RBD7XZD",
     "list_or_typical_price": 18.98,
     "current_price": 14.99,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -432,9 +441,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "/assets/products/craftsman-cmht51399.webp",
+    "image_alt": "Craftsman 20 oz. Fiberglass Hammer",
+    "image_source": "craftsman"
   },
   {
     "id": "channellock-12in-tongue-groove-amazon",
@@ -443,7 +452,7 @@
     "subcategory": "hand-tools",
     "short_pitch": "Adjustable groove-joint pliers for plumbing fittings and stubborn fasteners.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Channellock+12+Tongue+Groove+Pliers",
+    "product_url": "https://www.amazon.com/dp/B00820N746",
     "list_or_typical_price": 24.0,
     "current_price": 20.85,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -455,18 +464,18 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "/assets/products/channellock-440.webp",
+    "image_alt": "Channellock 12\" Tongue & Groove Pliers",
+    "image_source": "channellock"
   },
   {
     "id": "craftsman-8in-long-nose-pliers-amazon",
-    "title": "Craftsman 8-Inch Long Nose Pliers",
+    "title": "Craftsman 8-Inch Long Nose Pliers (CMHT81645)",
     "category": "home",
     "subcategory": "hand-tools",
     "short_pitch": "Needle-nose pliers for electrical boxes, jewelry-scale tasks, and tight spaces.",
-    "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Craftsman+8+Inch+Long+Nose+Pliers",
+    "merchant": "CRAFTSMAN",
+    "product_url": "https://www.craftsman.com/en-us/product/cmht81645/craftsman-8-inch-long-nose-pliers",
     "list_or_typical_price": 15.98,
     "current_price": 13.89,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -475,12 +484,12 @@
     "ceiling_bucket": "under_25",
     "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
     "last_checked_date": null,
-    "suggested_affiliate_network": "amazon",
+    "suggested_affiliate_network": "pending",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "/assets/products/craftsman-cmht81645.webp",
+    "image_alt": "Craftsman 8-Inch Long Nose Pliers (CMHT81645)",
+    "image_source": "craftsman"
   },
   {
     "id": "craftsman-2pc-groove-joint-plier-set-amazon",
@@ -489,7 +498,7 @@
     "subcategory": "hand-tools",
     "short_pitch": "Two groove-joint sizes cover most household plumbing and clamping needs.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Craftsman+2-Piece+Groove+Joint+Plier+Set",
+    "product_url": "https://www.amazon.com/CRAFTSMAN-Pliers-10-Inch-2-Piece-CMHT82547/dp/B096YM2L12",
     "list_or_typical_price": 23.48,
     "current_price": 16.98,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -501,9 +510,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "/assets/products/craftsman-cmht82547.webp",
+    "image_alt": "Craftsman 2-Piece Groove Joint Plier Set (8\" & 10\")",
+    "image_source": "craftsman"
   },
   {
     "id": "klein-15in1-multibit-ratcheting-screwdriver-amazon",
@@ -511,8 +520,8 @@
     "category": "home",
     "subcategory": "hand-tools",
     "short_pitch": "Pro-brand multibit driver for electricians and DIYers who want replaceable bits in one handle.",
-    "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Klein+Tools+15-in-1+Multi-Bit+Ratcheting+Screwdriver",
+    "merchant": "Klein Tools",
+    "product_url": "https://www.kleintools.com/catalog/multi-bit-screwdrivers/15-1-multi-bit-ratcheting-screwdriver",
     "list_or_typical_price": 24.97,
     "current_price": 19.98,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -521,12 +530,12 @@
     "ceiling_bucket": "under_25",
     "restrictions_notes": "Amazon prices change frequently; confirm sold-by and ASIN. Search URL used until exact ASIN locked. Third-party sellers may differ.",
     "last_checked_date": null,
-    "suggested_affiliate_network": "amazon",
+    "suggested_affiliate_network": "pending",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "/assets/products/klein-32305.jpg",
+    "image_alt": "Klein Tools 15-in-1 Multi-Bit Ratcheting Screwdriver",
+    "image_source": "klein"
   },
   {
     "id": "klein-11in1-screwdriver-nut-driver-amazon",
@@ -535,7 +544,7 @@
     "subcategory": "hand-tools",
     "short_pitch": "Combines common screw bits and nut drivers\u2014good for light electrical and appliance work.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Klein+Tools+11-in-1+Multi-Bit+Screwdriver",
+    "product_url": "https://www.amazon.com/Klein-Tools-32500-Screwdriver-Driver/dp/B095PTPSK3",
     "list_or_typical_price": 22.97,
     "current_price": 19.98,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -547,9 +556,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "/assets/products/klein-32500.jpg",
+    "image_alt": "Klein Tools 11-in-1 Multi-Bit Screwdriver/Nut Driver",
+    "image_source": "klein"
   },
   {
     "id": "irwin-7in-locking-pliers-cutter-amazon",
@@ -558,7 +567,7 @@
     "subcategory": "hand-tools",
     "short_pitch": "Smaller locking pliers with a wire cutter for electrical and DIY clamping.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=IRWIN+VISE-GRIP+7+Curved+Jaw+Locking+Pliers",
+    "product_url": "https://www.amazon.com/IRWIN-07-7WR-Vise-Grip-7-Inch-Cutters/dp/B00004SBAW",
     "list_or_typical_price": 16.48,
     "current_price": 14.16,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon hand-tool deals, published 2026-09-15) \u2014 re-verify on Amazon PDP before publish",
@@ -570,9 +579,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon PDP main image for confirmed ASIN; avoid marketplace stock photos with watermarks.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B00004SBAW.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "IRWIN VISE-GRIP 7\" Curved Jaw Locking Pliers with Cutter",
+    "image_source": "amazon"
   },
   {
     "id": "oxo-good-grips-kitchen-scissors-amazon",
@@ -668,26 +677,26 @@
   },
   {
     "id": "lodge-10-25-cast-iron-skillet-walmart",
-    "title": "Lodge 10.25\" Seasoned Cast Iron Skillet",
+    "title": "Lodge 10.25\" Seasoned Cast Iron Skillet (L8SK3)",
     "category": "home",
     "subcategory": "cookware",
     "short_pitch": "Everyday cast-iron size for searing and oven finishes without buying a full set.",
-    "merchant": "Walmart",
-    "product_url": "https://www.walmart.com/ip/Lodge-Cast-Iron-10-25-Seasoned-Deer-Skillet-Wildlife-Series/216039747",
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Ready-Stove/dp/B00006JSUA",
     "list_or_typical_price": null,
     "current_price": 29.9,
     "discount_basis": "price check only \u2014 no verified discount",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_50",
-    "restrictions_notes": "Wildlife Series decorative lid/side art may differ from plain Lodge SKUs\u2014confirm you want that design. Price may vary by store.",
+    "restrictions_notes": "Hand wash; re-season as needed. Locked plain L8SK3 Amazon listing B00006JSUA, not the decorative Walmart Wildlife Series SKU.",
     "last_checked_date": null,
-    "suggested_affiliate_network": "impact",
+    "suggested_affiliate_network": "amazon",
     "image_notes": "Walmart PDP of Lodge 10.25 skillet; prefer plain L8SK3 if swapping SKU.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B00006JSUA.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Lodge 10.25\" Seasoned Cast Iron Skillet (L8SK3)",
+    "image_source": "amazon"
   },
   {
     "id": "pyrex-3pc-measuring-cup-set-amazon",
@@ -714,12 +723,12 @@
   },
   {
     "id": "microplane-premium-classic-zester-target",
-    "title": "Microplane Premium Classic Fine Grater / Zester",
+    "title": "Microplane Premium Classic Fine Zester / Grater (Dark Blue)",
     "category": "home",
     "subcategory": "kitchen-tools",
     "short_pitch": "Fine grater for citrus zest, hard cheese, and garlic\u2014replaces dull box-grater sides for those tasks.",
     "merchant": "Target",
-    "product_url": "https://www.target.com/p/microplane-premium-classic-fine-grater-zester-grey/-/A-1001942616",
+    "product_url": "https://www.target.com/p/microplane-premium-classic-zester-grater/-/A-88337174",
     "list_or_typical_price": null,
     "current_price": 18.99,
     "discount_basis": "price check only \u2014 no verified discount",
@@ -731,9 +740,9 @@
     "suggested_affiliate_network": "impact",
     "image_notes": "Target PDP of grey Microplane Classic zester.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://target.scene7.com/is/image/Target/GUEST_a8a9f30a-c602-4c01-bf3b-ebe67f08c800?wid=600&hei=600&qlt=85",
+    "image_alt": "Microplane Premium Classic Fine Zester / Grater (Dark Blue)",
+    "image_source": "target"
   },
   {
     "id": "rubbermaid-brilliance-glass-8cup-target",
@@ -764,22 +773,22 @@
     "category": "home",
     "subcategory": "kitchen-tools",
     "short_pitch": "Brand-site kitchen/herb scissors with herb stripper\u2014buy here only if you prefer direct warranty paths.",
-    "merchant": "OXO",
-    "product_url": "https://www.oxo.com/kitchen-and-herb-scissors-361.html",
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/OXO-Grips-Multi-Purpose-Kitchen-Shears/dp/B000KILLXM",
     "list_or_typical_price": null,
     "current_price": 21.99,
     "discount_basis": "price check only \u2014 no verified discount (brand list price)",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_25",
-    "restrictions_notes": "Often cheaper at Target/Amazon; use brand page for specs, shop elsewhere for price.",
+    "restrictions_notes": "Often cheaper at Target/Amazon; use brand page for specs, shop elsewhere for price. Brand-site listing was bot-walled; outbound now uses the matching Amazon PDP.",
     "last_checked_date": null,
-    "suggested_affiliate_network": "pending",
+    "suggested_affiliate_network": "amazon",
     "image_notes": "OXO.com product photo of Kitchen and Herb Scissors.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B000KILLXM.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "OXO Good Grips Kitchen and Herb Scissors",
+    "image_source": "amazon"
   },
   {
     "id": "amazon-basics-microfiber-cloths-24pk",
@@ -940,7 +949,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Original ASIN B0194WDVHI returns 404; A1263 PowerCore 10000 is under CPSC recall. Not substituting a different Anker 10K."
   },
   {
     "id": "anker-20w-usb-c-charger-nano-amazon",
@@ -972,21 +982,21 @@
     "subcategory": "laundry",
     "short_pitch": "Pre-measured pacs for HE washers\u2014compare cost per load against liquid before treating as a \u2018deal\u2019.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Tide+PODS+42+Count",
+    "product_url": "https://www.amazon.com/Tide-Pods-Orginal-Tub-Count/dp/B0747ZC625",
     "list_or_typical_price": null,
     "current_price": 12.97,
     "discount_basis": "price check only \u2014 no verified discount",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_25",
-    "restrictions_notes": "Keep away from children. Confirm count and scent. Subscribe & Save may change effective price.",
+    "restrictions_notes": "Keep away from children. Confirm count and scent. Subscribe & Save may change effective price. Locked Amazon ASIN B0747ZC625 42-count Original.",
     "last_checked_date": null,
     "suggested_affiliate_network": "amazon",
     "image_notes": "Amazon/Tide PODS tub photo; lock exact ASIN on publish.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B0747ZC625.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Tide PODS Laundry Detergent Pacs, 42 Count (Original)",
+    "image_source": "amazon"
   },
   {
     "id": "crest-3d-whitestrips-professional-effects-amazon",
@@ -995,7 +1005,7 @@
     "subcategory": "personal-care",
     "short_pitch": "At-home whitening strips with a clear treatment count\u2014check enamel sensitivity before committing.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Crest+3D+Whitestrips+Professional+Effects+22+Treatments",
+    "product_url": "https://www.amazon.com/Crest-3D-Whitestrips-Professional-Effects/dp/B00AHAWWO0",
     "list_or_typical_price": null,
     "current_price": 45.99,
     "discount_basis": "price check only \u2014 no verified discount",
@@ -1007,9 +1017,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Crest Professional Effects box; confirm treatment count on pack.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B00AHAWWO0.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Crest 3D Whitestrips Professional Effects (22 Treatments)",
+    "image_source": "amazon"
   },
   {
     "id": "amazon-basics-aa-batteries-48pk",
@@ -1059,49 +1069,49 @@
   },
   {
     "id": "contigo-autoseal-chill-24oz-walmart",
-    "title": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz",
+    "title": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz (Very Berry)",
     "category": "everyday",
     "subcategory": "drinkware",
     "short_pitch": "Insulated bottle with AUTOSEAL lid to reduce spills in bags\u2014good daily carry under $30 when in stock.",
-    "merchant": "Walmart",
-    "product_url": "https://www.walmart.com/ip/Contigo-Cortland-Chill-24-oz-Silver-and-Blue-Solid-Print-Stainless-Steel-Water-Bottle-with-Flip-Top-Lid/171650595",
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/Contigo-AUTOSEAL-Chill-Stainless-Bottle/dp/B01N6K88FQ",
     "list_or_typical_price": null,
     "current_price": 27.09,
     "discount_basis": "price check only \u2014 no verified discount",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_50",
-    "restrictions_notes": "Stock and colorways fluctuate; listing may show OOS. Hand-wash lid components as directed.",
+    "restrictions_notes": "Stock and colorways fluctuate. Hand-wash lid components as directed. Locked Amazon ASIN B01N6K88FQ Very Berry 24 oz AUTOSEAL Chill.",
     "last_checked_date": null,
-    "suggested_affiliate_network": "impact",
+    "suggested_affiliate_network": "amazon",
     "image_notes": "Walmart Contigo Chill 24 oz product image; confirm exact color SKU.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B01N6K88FQ.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz (Very Berry)",
+    "image_source": "amazon"
   },
   {
     "id": "hydro-flask-24oz-standard-mouth-target",
-    "title": "Hydro Flask 24 oz Standard Mouth Bottle",
+    "title": "Hydro Flask 24 oz Standard Mouth Bottle (Starfish)",
     "category": "everyday",
     "subcategory": "drinkware",
     "short_pitch": "Insulated daily bottle with wide brand ecosystem of lids\u2014buy when Target price beats brand site.",
-    "merchant": "Target",
-    "product_url": "https://www.target.com/p/hydro-flask-24oz-standard-mouth-bottle/-/A-93349791",
+    "merchant": "Amazon",
+    "product_url": "https://www.amazon.com/Hydro-Flask-Standard-Mouth-Bottle/dp/B09D8RTD17",
     "list_or_typical_price": 39.95,
     "current_price": 33.99,
-    "discount_basis": "price check \u2014 Target ~$33.99 vs Hydro Flask brand site $39.95; not a labeled Target sale verified this pass",
+    "discount_basis": "price check only \u2014 no verified discount (Amazon colorway lock; Target Standard Mouth TCINs were image-less/OOS)",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_50",
-    "restrictions_notes": "Target capacity/color may sell out. Brand MSRP from hydroflask.com. Not dishwasher-safe for all parts.",
+    "restrictions_notes": "Brand MSRP from hydroflask.com. Not dishwasher-safe for all parts. Locked Amazon ASIN B09D8RTD17 24 oz Standard Mouth in Starfish.",
     "last_checked_date": null,
-    "suggested_affiliate_network": "impact",
+    "suggested_affiliate_network": "amazon",
     "image_notes": "Target/Hydro Flask 24oz Standard Mouth product photo.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B09D8RTD17.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Hydro Flask 24 oz Standard Mouth Bottle (Starfish)",
+    "image_source": "amazon"
   },
   {
     "id": "swiffer-wetjet-starter-kit-target",
@@ -1174,35 +1184,35 @@
   },
   {
     "id": "command-large-hooks-variety-pending",
-    "title": "Command Large Utility Hooks (multipack \u2014 confirm SKU)",
+    "title": "Command Large Utility Hooks, 3-Pack (17003-3ES)",
     "category": "everyday",
     "subcategory": "organization",
     "short_pitch": "Damage-free hanging hooks for renters\u2014match weight rating to the object.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Command+Large+Utility+Hooks",
+    "product_url": "https://www.amazon.com/dp/B00GD2RG6K",
     "list_or_typical_price": null,
     "current_price": null,
-    "discount_basis": "price check only \u2014 no verified discount (SKU/price not locked this pass)",
+    "discount_basis": "price check only \u2014 no verified discount",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_25",
-    "restrictions_notes": "Surface prep matters; follow weight limits. Lock exact ASIN and price before publish.",
+    "restrictions_notes": "Surface prep matters; follow 5 lb weight limit per hook. Locked 17003-3ES 3-hook/6-strip value pack ASIN B00GD2RG6K.",
     "last_checked_date": null,
     "suggested_affiliate_network": "amazon",
     "image_notes": "Command brand pack image once ASIN chosen.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "/assets/products/command-17003-3es.jpg",
+    "image_alt": "Command Large Utility Hooks, 3-Pack (17003-3ES)",
+    "image_source": "command"
   },
   {
     "id": "scotch-magic-tape-multipack-pending",
-    "title": "Scotch Magic Tape Multipack (confirm count)",
+    "title": "Scotch Magic Tape 6-Pack (3/4 in. x 800 in.)",
     "category": "everyday",
     "subcategory": "office-home",
     "short_pitch": "Invisible tape for wrapping and paperwork\u2014buy multipacks when cost-per-roll is clear.",
     "merchant": "Target",
-    "product_url": "https://www.target.com/s/scotch+magic+tape",
+    "product_url": "https://www.target.com/p/scotch-6pk-magic-tape-3-4-34-x800-34/-/A-13356402",
     "list_or_typical_price": null,
     "current_price": null,
     "discount_basis": "price check only \u2014 no verified discount",
@@ -1214,9 +1224,9 @@
     "suggested_affiliate_network": "impact",
     "image_notes": "Scotch Magic Tape multipack product photo.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://target.scene7.com/is/image/Target/GUEST_50f899e9-564a-402b-81c3-3d50f04a97af?wid=600&hei=600&qlt=85",
+    "image_alt": "Scotch Magic Tape 6-Pack (3/4 in. x 800 in.)",
+    "image_source": "target"
   },
   {
     "id": "cabeau-evolution-classic-travel-pillow-target",
@@ -1377,7 +1387,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Generic 3-1-1 category; no single brand/ASIN locked. Search URL stays image-less."
   },
   {
     "id": "nalgene-32oz-wide-mouth-amazon",
@@ -1386,7 +1397,7 @@
     "subcategory": "drinkware",
     "short_pitch": "Durable wide-mouth bottle for hiking days and hotel refills\u2014measure markings help tracking intake.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Nalgene+32+oz+Wide+Mouth",
+    "product_url": "https://www.amazon.com/dp/B0B9T4KCV7",
     "list_or_typical_price": null,
     "current_price": null,
     "discount_basis": "price check only \u2014 no verified discount (live price not confirmed this pass)",
@@ -1398,9 +1409,9 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Nalgene 32oz wide mouth bottle product photo.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B0B9T4KCV7.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Nalgene 32 oz Wide Mouth Bottle (Tritan)",
+    "image_source": "amazon"
   },
   {
     "id": "packit-freezable-lunch-bag-travel-note",
@@ -1446,7 +1457,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Same dead/recalled A1263 PowerCore 10000 listing as the everyday row. Not substituting a different Anker 10K."
   },
   {
     "id": "klein-3pc-adjustable-wrench-set-amazon",
@@ -1455,7 +1467,7 @@
     "subcategory": "hand-tools",
     "short_pitch": "Three adjustable wrenches covering common nut sizes for plumbing and assembly.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Klein+Tools+3-Piece+Adjustable+Wrench+Set",
+    "product_url": "https://www.amazon.com/Klein-Tools-D5073-Adjustable-Capacity/dp/B0CYHLQ7FW",
     "list_or_typical_price": 39.98,
     "current_price": 32.98,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon, 2026-09-15) \u2014 re-verify on PDP",
@@ -1467,55 +1479,55 @@
     "suggested_affiliate_network": "amazon",
     "image_notes": "Klein adjustable wrench set product image.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B0CYHLQ7FW.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Klein Tools 3-Piece Adjustable Wrench Set",
+    "image_source": "amazon"
   },
   {
     "id": "klein-flickblade-utility-knife-amazon",
-    "title": "Klein Tools FLICKBLADE Folding Utility Knife/Scraper",
+    "title": "Klein Tools FLICKBLADE 2-in-1 Utility Knife/Scraper (44306)",
     "category": "home",
     "subcategory": "hand-tools",
     "short_pitch": "Folding utility knife for boxes and scraping\u2014safer to store than a fixed open blade.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=Klein+Tools+FLICKBLADE",
+    "product_url": "https://www.amazon.com/44306-FLICKBLADE-Folding-Positions-Triple-Ground/dp/B0F1C1LFD9",
     "list_or_typical_price": 20.98,
     "current_price": 17.98,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon, 2026-09-15) \u2014 re-verify on PDP",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_25",
-    "restrictions_notes": "Blades are sharp; lock closed when not in use. Confirm ASIN.",
+    "restrictions_notes": "Blades are sharp; lock closed when not in use. Locked Klein 44306 ASIN B0F1C1LFD9.",
     "last_checked_date": null,
     "suggested_affiliate_network": "amazon",
     "image_notes": "Klein FLICKBLADE product photo.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B0F1C1LFD9.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "Klein Tools FLICKBLADE 2-in-1 Utility Knife/Scraper (44306)",
+    "image_source": "amazon"
   },
   {
     "id": "irwin-vise-grip-11in-locking-c-clamp-amazon",
-    "title": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp",
+    "title": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp (11R)",
     "category": "home",
     "subcategory": "hand-tools",
     "short_pitch": "Locking C-clamp for glue-ups and temporary holds when you lack bar clamps.",
     "merchant": "Amazon",
-    "product_url": "https://www.amazon.com/s?k=IRWIN+VISE-GRIP+11+Locking+C-Clamp",
+    "product_url": "https://www.amazon.com/VISE-GRIP-Original-Locking-C-Clamp-19/dp/B00004SBBH",
     "list_or_typical_price": 45.09,
     "current_price": 25.39,
     "discount_basis": "secondary deal report citing merchant was/now (Bob Vila Amazon, 2026-09-15) \u2014 re-verify on PDP",
     "is_verified_discount": false,
     "currency": null,
     "ceiling_bucket": "under_50",
-    "restrictions_notes": "Can mark soft wood\u2014use pads. Confirm size 11\".",
+    "restrictions_notes": "Can mark soft wood\u2014use pads. Locked Original 11-inch 11R / model 19 ASIN B00004SBBH.",
     "last_checked_date": null,
     "suggested_affiliate_network": "amazon",
     "image_notes": "IRWIN locking C-clamp product image.",
     "status": null,
-    "image_url": null,
-    "image_alt": null,
-    "image_source": null
+    "image_url": "https://m.media-amazon.com/images/P/B00004SBBH.01._SCLZZZZZZZ_.jpg",
+    "image_alt": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp (11R)",
+    "image_source": "amazon"
   },
   {
     "id": "oxo-good-grips-swivel-peeler-amazon",
@@ -1561,7 +1573,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Walmart item 677032758 is JS-walled. Candidate Amazon photos are glass-lid bundles or the 6-quart Duo Plus (B01NBKTPTS). No verified 3-quart Mini-only merchant photo."
   },
   {
     "id": "dewalt-tough-tape-25ft-homedepot",
@@ -1607,7 +1620,8 @@
     "status": null,
     "image_url": null,
     "image_alt": null,
-    "image_source": null
+    "image_source": null,
+    "image_exclusion_reason": "Category page only. Specific Threshold Performance Plus TCINs exist but Scene7 GUEST assets were not verified."
   },
   {
     "id": "room-essentials-6pc-dorm-towel-set-target",

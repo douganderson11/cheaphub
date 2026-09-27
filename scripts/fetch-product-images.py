@@ -23,6 +23,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SEED = ROOT / "data" / "seed-catalog.json"
 CSV_PATH = ROOT / "data" / "seed-catalog.csv"
 REPORT = ROOT / "data" / "product-image-report.json"
+LOCKS = ROOT / "data" / "product-image-locks.json"
 
 CTX = ssl.create_default_context()
 UA = (
@@ -108,6 +109,8 @@ def is_search_or_category(url: str) -> bool:
 
 
 def allowed_image_url(url: str) -> bool:
+    if url.startswith("/assets/products/"):
+        return (ROOT / url.lstrip("/")).is_file()
     host = urlparse(url).hostname or ""
     if host not in ALLOWED_HOSTS and not host.endswith(".oxo.com"):
         return False
@@ -129,6 +132,8 @@ def card_sized_hd(url: str) -> str:
 def verify_image(url: str) -> bool:
     if not allowed_image_url(url):
         return False
+    if url.startswith("/assets/products/"):
+        return True
     try:
         status, ctype, body = request(url, timeout=15, n=64, accept="image/*,*/*;q=0.8")
     except Exception:
@@ -143,6 +148,17 @@ def verify_image(url: str) -> bool:
     if body.startswith(b"GIF89a") and len(body) < 200:
         return False
     return True
+
+
+def amazon_p_image(asin: str) -> str:
+    return f"https://m.media-amazon.com/images/P/{asin}.01._SCLZZZZZZZ_.jpg"
+
+
+def load_locks() -> dict:
+    if not LOCKS.exists():
+        return {}
+    raw = json.loads(LOCKS.read_text())
+    return raw if isinstance(raw, dict) else {}
 
 
 def extract_amazon(html: str) -> str | None:
@@ -203,6 +219,19 @@ def extract_generic(html: str) -> str | None:
 
 
 def source_for_url(url: str) -> str:
+    if url.startswith("/assets/products/"):
+        name = url.rsplit("/", 1)[-1]
+        if name.startswith("klein"):
+            return "klein"
+        if name.startswith("milwaukee"):
+            return "milwaukee"
+        if name.startswith("channellock"):
+            return "channellock"
+        if name.startswith("craftsman"):
+            return "craftsman"
+        if name.startswith("command"):
+            return "command"
+        return "local"
     host = urlparse(url).hostname or ""
     if "amazon" in host:
         return "amazon"
@@ -217,10 +246,11 @@ def source_for_url(url: str) -> str:
     return host
 
 
-def resolve_product(product: dict) -> dict:
+def resolve_product(product: dict, locks: dict | None = None) -> dict:
     product_id = product["id"]
     merchant = product["merchant"]
     url = product["product_url"]
+    locks = locks or {}
     result = {
         "id": product_id,
         "merchant": merchant,
@@ -230,6 +260,15 @@ def resolve_product(product: dict) -> dict:
         "status": "missing",
         "detail": "",
     }
+
+    lock = locks.get(product_id)
+    if lock and lock.get("image_url") and verify_image(lock["image_url"]):
+        result["image_url"] = lock["image_url"]
+        result["image_alt"] = product["title"]
+        result["image_source"] = lock.get("image_source") or source_for_url(lock["image_url"])
+        result["status"] = "ok"
+        result["detail"] = lock.get("detail") or "verified lock"
+        return result
 
     if is_search_or_category(url):
         result["status"] = "skipped_unlocked_url"
@@ -247,8 +286,14 @@ def resolve_product(product: dict) -> dict:
 
     candidate = None
     host = urlparse(url).hostname or ""
+    asin_match = ASIN_RE.search(url)
     if "amazon.com" in host:
         candidate = extract_amazon(html)
+        if not candidate and asin_match:
+            p_url = amazon_p_image(asin_match.group(1))
+            if verify_image(p_url):
+                candidate = p_url
+                result["detail"] = "Amazon PDP blocked or image-less; used verified P/ASIN main image"
     elif "target.com" in host:
         candidate = extract_target(html)
     elif "homedepot.com" in host:
@@ -325,9 +370,24 @@ def write_csv(products: list[dict]) -> None:
 
 def main() -> None:
     products = json.loads(SEED.read_text())
+    locks = load_locks()
     reports = []
     for index, product in enumerate(products):
-        report = resolve_product(product)
+        lock = locks.get(product["id"])
+        if lock:
+            if lock.get("product_url"):
+                product["product_url"] = lock["product_url"]
+            if lock.get("merchant"):
+                product["merchant"] = lock["merchant"]
+            if lock.get("title"):
+                product["title"] = lock["title"]
+            if lock.get("suggested_affiliate_network"):
+                product["suggested_affiliate_network"] = lock["suggested_affiliate_network"]
+            extra = lock.get("restrictions_append")
+            if extra and extra not in (product.get("restrictions_notes") or ""):
+                notes = (product.get("restrictions_notes") or "").rstrip()
+                product["restrictions_notes"] = f"{notes}{extra}" if notes else extra.lstrip()
+        report = resolve_product(product, locks)
         reports.append(report)
         product["image_url"] = report["image_url"]
         product["image_alt"] = report["image_alt"]

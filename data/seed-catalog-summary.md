@@ -95,7 +95,7 @@ Prioritize verified sales + evergreen staples with locked URLs and clear pitches
 3. **Secondary reports:** Bob Vila Walmart HART (2026-09-17) and Amazon hand-tool (2026-09-15) was/now figures are **not** marked `is_verified_discount`. Inventory is clearing; treat as draft signals.
 4. **Null prices:** Anker 20W Nano, Swiffer WetJet, Amazon Basics packing cubes, Command hooks, Scotch Magic Tape, Threshold towel, Room Essentials towel set, DeWalt Tough Tape, Nalgene, TSA toiletry bag — capture live prices before publish.
 5. **Cross-listed SKUs:** Packit and Anker PowerCore appear in Everyday and Travel intentionally for modules; CMS may dedupe by merchant SKU.
-6. **Images:** Cards hotlink merchant CDN photos when a locked PDP image can be verified (`image_url`). Search/category URLs and bot-walled PDPs stay null and show “No photo yet.” Re-run `python3 scripts/fetch-product-images.py` after locking SKUs. See `product-image-report.json`.
+6. **Images:** Cards require a verified merchant/brand photo (`image_url`). Search/category URLs and bot-walled PDPs are omitted from the public catalog until a photo is locked. See `product-image-report.json` and `excluded-pending-photo.json`. Re-run `python3 scripts/fetch-product-images.py` then `python3 scripts/build-catalog.py` after locking SKUs.
 7. **Affiliate:** Networks are suggestions only; no affiliate parameters in `product_url`.
 
 ## Quality bar reminder

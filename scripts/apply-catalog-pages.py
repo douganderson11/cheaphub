@@ -82,7 +82,7 @@ def patch_deals() -> None:
         '<div class="status-panel"><span class="status-icon" aria-hidden="true">✓</span><div><h2>The verified catalog is being prepared</h2><p>There are no active offers to display yet. We are checking merchant terms and affiliate approvals before publishing prices or coupon codes.</p><p>Browse the guides below while the catalog is assembled.</p></div></div>',
         '<div class="status-panel"><span class="status-icon" aria-hidden="true">✓</span><div>'
         "<h2>A price-check catalog, not a coupon farm</h2>"
-        "<p>These 71 products were researched on September 19, 2026. Four have a verified list-versus-sale price on the merchant page. The rest are shown as price checks or secondary signals—never as invented percent-off claims.</p>"
+        "<p>These listings were researched on September 19, 2026. Only products with a verified merchant photo are shown. Four have a verified list-versus-sale price on the merchant page. The rest are shown as price checks or secondary signals—never as invented percent-off claims.</p>"
         "<p>Confirm the live merchant price, seller and restrictions before you buy. Affiliate approvals may still be pending; outbound links use a clean product URL until an affiliate URL is added.</p>"
         "</div></div>"
         + DISCLOSURE

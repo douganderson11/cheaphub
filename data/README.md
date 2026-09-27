@@ -7,6 +7,8 @@
 | `catalog-schema.md` | Field definitions and publish gates |
 | `seed-catalog-summary.md` | Category counts, first-20 priority, module notes |
 | `product-image-report.json` | Last image-fetch outcomes (ok / skipped / missing) |
+| `product-image-locks.json` | Verified PDP + photo locks applied by the image pass |
+| `excluded-pending-photo.json` | Seed rows omitted from the public catalog until they have a photo |
 | `affiliate-overrides.json` | Optional map of `product-id` → affiliate URL |
 | `ENTITY.md` | Affiliate operator vs domain/IP owner |
 
