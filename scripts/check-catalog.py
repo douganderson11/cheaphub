@@ -29,13 +29,24 @@ def fail(message: str) -> None:
 def main() -> None:
     if len(PRODUCTS) < 1:
         fail("published catalog is empty")
-    if CATALOG.get("seed_count") != 71:
-        fail(f"expected 71 seed products, found {CATALOG.get('seed_count')}")
+    seed = json.loads((ROOT / "data" / "seed-catalog.json").read_text())
+    expired_ids = {row["id"] for row in seed if row.get("status") == "expired"}
+    if CATALOG.get("seed_count") != len(seed):
+        fail(f"expected {len(seed)} seed products, found {CATALOG.get('seed_count')}")
     if any(not product.get("image_url") for product in PRODUCTS):
         fail("published catalog contains a product without image_url")
+    if any(product.get("status") == "expired" for product in PRODUCTS):
+        fail("published catalog contains an expired product")
     verified = [p for p in PRODUCTS if p["is_verified_discount"]]
-    if len(verified) != 4:
-        fail(f"expected 4 verified discounts, found {len(verified)}")
+    if len(verified) < 1:
+        fail("expected at least one verified discount")
+    for product in verified:
+        if product["current_price"] is None or product["list_or_typical_price"] is None:
+            fail(f"{product['id']} is verified without both prices")
+        if product["list_or_typical_price"] <= product["current_price"]:
+            fail(f"{product['id']} verified list price is not above the current price")
+        if "merchant page" not in product["discount_basis"]:
+            fail(f"{product['id']} verified basis does not cite the merchant page")
     for product in PRODUCTS:
         if product["current_price"] is None and "Check current price" not in "Check current price":
             fail("price helper missing")
@@ -93,8 +104,9 @@ def main() -> None:
                 fail(f"{rel} missing catalog.js")
 
     go_count = len(list((ROOT / "go").glob("*/index.html")))
-    if go_count != 71:
-        fail(f"expected 71 go pages, found {go_count}")
+    expected_go = len(seed) - len(expired_ids)
+    if go_count != expected_go:
+        fail(f"expected {expected_go} go pages, found {go_count}")
 
     catalog_js = (ROOT / "assets" / "catalog.js").read_text(encoding="utf-8")
     if "No photo yet" in catalog_js:

@@ -22,6 +22,14 @@ STATIC_REDIRECTS = [
 ]
 
 PRIORITY_IDS = [
+    "rubbermaid-brilliance-9-6cup-2pk-amazon",
+    "rubbermaid-brilliance-tritan-5pk-amazon",
+    "amazon-basics-mini-dutch-oven-2qt-amazon",
+    "amazon-basics-oversize-bath-towel-2pk-amazon",
+    "tsa-30ml-travel-dispenser-4pk-amazon",
+    "amazon-basics-21in-hardside-carry-on-amazon",
+    "european-type-c-plug-adapter-2pk-amazon",
+    "amazon-basics-lr44-12pk-amazon",
     "tinkr-home-essentials-kit-target",
     "rubbermaid-brilliance-glass-8cup-target",
     "packit-freezable-lunch-bag-gray-fog-target",
@@ -212,7 +220,11 @@ def main() -> None:
     if unknown_overrides:
         raise ValueError(f"Unknown affiliate override ids: {unknown_overrides}")
 
-    published = [product for product in products if product["image_url"]]
+    published = [
+        product
+        for product in products
+        if product["image_url"] and product.get("status") != "expired"
+    ]
     excluded = []
     seed_by_id = {row["id"]: row for row in seed}
     for product in products:
@@ -262,6 +274,7 @@ def main() -> None:
             "title": product["title"],
         }
         for product in products
+        if product.get("status") != "expired"
     }
     (ASSETS / "outbound.json").write_text(json.dumps(outbound, indent=2) + "\n", encoding="utf-8")
 
@@ -273,6 +286,8 @@ def main() -> None:
 
     redirect_lines = list(STATIC_REDIRECTS)
     for product in products:
+        if product.get("status") == "expired":
+            continue
         dest = product["destination"]
         product_id = product["id"]
         redirect_lines.append(f"/go/{product_id} {dest} 302")
