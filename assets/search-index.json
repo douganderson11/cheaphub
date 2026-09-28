@@ -189,23 +189,9 @@
     "topic": "Home"
   },
   {
-    "title": "BLACK+DECKER 9 in. LED 2-Bar Battery Under Cabinet Lighting Kit",
-    "summary": "Battery stick-on under-cabinet bars for renters who want brighter counters without hardwiring. Sold at Amazon.",
-    "url": "/deals/#black-decker-led-under-cabinet-2bar-homedepot",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Milwaukee 9-in-1 Multi-Nut Driver",
     "summary": "One slim driver covering common nut sizes\u2014handy for furniture, appliances, and bike rack hardware. Sold at Home Depot.",
     "url": "/deals/#milwaukee-9in1-multi-nut-driver-homedepot",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "IRWIN 10\" Curved Jaw Locking Pliers",
-    "summary": "Classic locking pliers for clamping and twisting when you need a third hand. Sold at Amazon.",
-    "url": "/deals/#irwin-10in-curved-jaw-locking-pliers-amazon",
     "type": "Product",
     "topic": "Home"
   },
@@ -255,13 +241,6 @@
     "title": "Craftsman 8-Inch Long Nose Pliers (CMHT81645)",
     "summary": "Needle-nose pliers for electrical boxes, jewelry-scale tasks, and tight spaces. Sold at CRAFTSMAN.",
     "url": "/deals/#craftsman-8in-long-nose-pliers-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "Craftsman 2-Piece Groove Joint Plier Set (8\" & 10\")",
-    "summary": "Two groove-joint sizes cover most household plumbing and clamping needs. Sold at Amazon.",
-    "url": "/deals/#craftsman-2pc-groove-joint-plier-set-amazon",
     "type": "Product",
     "topic": "Home"
   },
@@ -392,13 +371,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Anker 511 Nano / 20W USB-C Charger (cable not included)",
-    "summary": "Small 20W USB-C wall charger for phones and small tablets\u2014buy a separate cable if you need one. Sold at Amazon.",
-    "url": "/deals/#anker-20w-usb-c-charger-nano-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Tide PODS Laundry Detergent Pacs, 42 Count (Original)",
     "summary": "Pre-measured pacs for HE washers\u2014compare cost per load against liquid before treating as a \u2018deal\u2019. Sold at Amazon.",
     "url": "/deals/#tide-pods-42ct-amazon",
@@ -413,8 +385,8 @@
     "topic": "Everyday"
   },
   {
-    "title": "Amazon Basics AA Alkaline Batteries, 48-Pack",
-    "summary": "Bulk AA pack for remotes and sensors\u2014track cost per cell vs store multipacks. Sold at Amazon.",
+    "title": "Amazon Basics 48-Count AA and AAA Alkaline Batteries",
+    "summary": "A 24 AA plus 24 AAA alkaline pack for remotes and small devices. Compare the per-cell price with a same-size store pack. Sold at Amazon.",
     "url": "/deals/#amazon-basics-aa-batteries-48pk",
     "type": "Product",
     "topic": "Everyday"
@@ -423,20 +395,6 @@
     "title": "Packit Freezable Lunch Bag (Gray Fog)",
     "summary": "Freezable lunch bag that replaces ice packs for commute lunches\u2014freeze flat overnight. Sold at Target.",
     "url": "/deals/#packit-freezable-lunch-bag-gray-fog-target",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz (Very Berry)",
-    "summary": "Insulated bottle with AUTOSEAL lid to reduce spills in bags\u2014good daily carry under $30 when in stock. Sold at Amazon.",
-    "url": "/deals/#contigo-autoseal-chill-24oz-walmart",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Hydro Flask 24 oz Standard Mouth Bottle (Starfish)",
-    "summary": "Insulated daily bottle with wide brand ecosystem of lids\u2014buy when Target price beats brand site. Sold at Amazon.",
-    "url": "/deals/#hydro-flask-24oz-standard-mouth-target",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -483,15 +441,8 @@
     "topic": "Travel"
   },
   {
-    "title": "Eagle Creek Pack-It Original Packing Cubes Set (XS/S/M)",
-    "summary": "Three packing cubes to separate outfits and laundry\u2014reduces suitcase digging. Sold at Amazon.",
-    "url": "/deals/#eagle-creek-pack-it-original-set-xs-s-m-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
-    "title": "Amazon Basics 4-Piece Packing Cubes Set",
-    "summary": "Budget packing cubes for organizing a carry-on without paying premium travel-brand prices. Sold at Amazon.",
+    "title": "Amazon Essentials 4-Piece Packing Cubes",
+    "summary": "A gray four-piece cube set (small, medium, large, and slim) for splitting clothes inside a carry-on. Sold at Amazon.",
     "url": "/deals/#amazon-basics-packing-cubes-4pc",
     "type": "Product",
     "topic": "Travel"
@@ -518,7 +469,7 @@
     "topic": "Travel"
   },
   {
-    "title": "Nalgene 32 oz Wide Mouth Bottle (Tritan)",
+    "title": "Nalgene 32 oz Wide Mouth Bottle, Gray with Black Lid",
     "summary": "Durable wide-mouth bottle for hiking days and hotel refills\u2014measure markings help tracking intake. Sold at Amazon.",
     "url": "/deals/#nalgene-32oz-wide-mouth-amazon",
     "type": "Product",
@@ -572,5 +523,61 @@
     "url": "/deals/#room-essentials-6pc-dorm-towel-set-target",
     "type": "Product",
     "topic": "Everyday"
+  },
+  {
+    "title": "Rubbermaid Brilliance 9.6-Cup Food Storage Containers, 2-Count",
+    "summary": "Two 9.6-cup airtight plastic containers for leftovers that need more room than a sandwich box. Sold at Amazon.",
+    "url": "/deals/#rubbermaid-brilliance-9-6cup-2pk-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Rubbermaid Brilliance 3.2-Cup Tritan Containers, Set of 5",
+    "summary": "Five 3.2-cup airtight Tritan containers for lunch portions and leftovers. Sold at Amazon.",
+    "url": "/deals/#rubbermaid-brilliance-tritan-5pk-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Amazon Basics 2-Quart Pre-Seasoned Cast Iron Mini Dutch Oven",
+    "summary": "A 2-quart pre-seasoned cast iron pot with a lid and two side handles, sized for a side dish. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-mini-dutch-oven-2qt-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Amazon Basics Quick-Dry Oversize Bath Towels, 2-Piece, Platinum",
+    "summary": "Two cotton bath towels, 54 by 30 inches, in platinum. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-oversize-bath-towel-2pk-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Amazon Basics LR44 Alkaline Button Cell Batteries, 12-Pack",
+    "summary": "A 12-pack of LR44 button cells for small gadgets such as scales and remotes that take that size. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-lr44-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "30ml Leak-Resistant Travel Dispenser Bottles, 4-Pack",
+    "summary": "Four 30ml refillable bottles for a short trip, small enough to fit a liquids bag. Sold at Amazon.",
+    "url": "/deals/#tsa-30ml-travel-dispenser-4pk-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Amazon Basics 21-Inch Hardside Carry-On, Rose Gold",
+    "summary": "A 21-inch hardside spinner carry-on with an expandable shell, in rose gold. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-21in-hardside-carry-on-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "European Type C Travel Plug Adapter, 2-Pack",
+    "summary": "A two-pack of Type C plug adapters for outlets used across much of Europe. Sold at Amazon.",
+    "url": "/deals/#european-type-c-plug-adapter-2pk-amazon",
+    "type": "Product",
+    "topic": "Travel"
   }
 ]

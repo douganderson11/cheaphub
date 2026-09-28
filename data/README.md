@@ -2,7 +2,7 @@
 
 | File | Purpose |
 |------|---------|
-| `seed-catalog.json` | 71 researched products (source of truth for the build) |
+| `seed-catalog.json` | 79 researched products (source of truth for the build) |
 | `seed-catalog.csv` | Same rows for spreadsheet review |
 | `catalog-schema.md` | Field definitions and publish gates |
 | `seed-catalog-summary.md` | Category counts, first-20 priority, module notes |

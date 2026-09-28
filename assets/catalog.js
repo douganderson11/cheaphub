@@ -290,7 +290,9 @@
   }
 
   function init(data) {
-    const products = (data.products || []).filter(hasPhoto);
+    const products = (data.products || []).filter(
+      (product) => hasPhoto(product) && product.status !== "expired"
+    );
     document.querySelectorAll("[data-catalog]").forEach((mount) => {
       const matched = sortProducts(products.filter((product) => matchesMount(product, rulesFromMount(mount))));
       applyInteractiveFilter(mount, matched);

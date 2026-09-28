@@ -13,13 +13,6 @@
     "merchant": "Home Depot",
     "title": "Stanley FatMax 25 ft. Tape Measure"
   },
-  "black-decker-led-under-cabinet-2bar-homedepot": {
-    "destination": "https://www.amazon.com/BLACK-DECKER-LEDUC9-2BAT-Battery-Operated/dp/B0937DRDLF",
-    "product_url": "https://www.amazon.com/BLACK-DECKER-LEDUC9-2BAT-Battery-Operated/dp/B0937DRDLF",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "BLACK+DECKER 9 in. LED 2-Bar Battery Under Cabinet Lighting Kit"
-  },
   "milwaukee-9in1-multi-nut-driver-homedepot": {
     "destination": "https://www.homedepot.com/p/Milwaukee-9-in-1-Multi-Nut-Driver-48-22-2920/327600606",
     "product_url": "https://www.homedepot.com/p/Milwaukee-9-in-1-Multi-Nut-Driver-48-22-2920/327600606",
@@ -90,13 +83,6 @@
     "merchant": "Walmart",
     "title": "HART 20V Reciprocating Saw (tool only context varies)"
   },
-  "irwin-10in-curved-jaw-locking-pliers-amazon": {
-    "destination": "https://www.amazon.com/dp/B00004YNIC",
-    "product_url": "https://www.amazon.com/dp/B00004YNIC",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "IRWIN 10\" Curved Jaw Locking Pliers"
-  },
   "craftsman-25ft-tape-amazon": {
     "destination": "https://www.amazon.com/CRAFTSMAN-Measure-Self-Lock-25-Foot-CMHT37225S/dp/B07QG3ZXQC",
     "product_url": "https://www.amazon.com/CRAFTSMAN-Measure-Self-Lock-25-Foot-CMHT37225S/dp/B07QG3ZXQC",
@@ -145,13 +131,6 @@
     "affiliate_url": null,
     "merchant": "CRAFTSMAN",
     "title": "Craftsman 8-Inch Long Nose Pliers (CMHT81645)"
-  },
-  "craftsman-2pc-groove-joint-plier-set-amazon": {
-    "destination": "https://www.amazon.com/CRAFTSMAN-Pliers-10-Inch-2-Piece-CMHT82547/dp/B096YM2L12",
-    "product_url": "https://www.amazon.com/CRAFTSMAN-Pliers-10-Inch-2-Piece-CMHT82547/dp/B096YM2L12",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Craftsman 2-Piece Groove Joint Plier Set (8\" & 10\")"
   },
   "klein-15in1-multibit-ratcheting-screwdriver-amazon": {
     "destination": "https://www.kleintools.com/catalog/multi-bit-screwdrivers/15-1-multi-bit-ratcheting-screwdriver",
@@ -286,13 +265,6 @@
     "merchant": "Amazon",
     "title": "Anker PowerCore 10000 Portable Charger"
   },
-  "anker-20w-usb-c-charger-nano-amazon": {
-    "destination": "https://www.amazon.com/Charger-Anker-Durable-PowerPort-Included/dp/B091H5DPF7",
-    "product_url": "https://www.amazon.com/Charger-Anker-Durable-PowerPort-Included/dp/B091H5DPF7",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Anker 511 Nano / 20W USB-C Charger (cable not included)"
-  },
   "tide-pods-42ct-amazon": {
     "destination": "https://www.amazon.com/Tide-Pods-Orginal-Tub-Count/dp/B0747ZC625",
     "product_url": "https://www.amazon.com/Tide-Pods-Orginal-Tub-Count/dp/B0747ZC625",
@@ -312,7 +284,7 @@
     "product_url": "https://www.amazon.com/Amazon-Basics-Count-High-Performance-Batteries/dp/B094D3JGLT",
     "affiliate_url": null,
     "merchant": "Amazon",
-    "title": "Amazon Basics AA Alkaline Batteries, 48-Pack"
+    "title": "Amazon Basics 48-Count AA and AAA Alkaline Batteries"
   },
   "packit-freezable-lunch-bag-gray-fog-target": {
     "destination": "https://www.target.com/p/packit-freezable-lunch-bag-gray-fog/-/A-92447652",
@@ -320,20 +292,6 @@
     "affiliate_url": null,
     "merchant": "Target",
     "title": "Packit Freezable Lunch Bag (Gray Fog)"
-  },
-  "contigo-autoseal-chill-24oz-walmart": {
-    "destination": "https://www.amazon.com/Contigo-AUTOSEAL-Chill-Stainless-Bottle/dp/B01N6K88FQ",
-    "product_url": "https://www.amazon.com/Contigo-AUTOSEAL-Chill-Stainless-Bottle/dp/B01N6K88FQ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Contigo AUTOSEAL Chill Stainless Steel Water Bottle, 24 oz (Very Berry)"
-  },
-  "hydro-flask-24oz-standard-mouth-target": {
-    "destination": "https://www.amazon.com/Hydro-Flask-Standard-Mouth-Bottle/dp/B09D8RTD17",
-    "product_url": "https://www.amazon.com/Hydro-Flask-Standard-Mouth-Bottle/dp/B09D8RTD17",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Hydro Flask 24 oz Standard Mouth Bottle (Starfish)"
   },
   "swiffer-wetjet-starter-kit-target": {
     "destination": "https://www.target.com/p/swiffer-wetjet-floor-mop-starter-kit-1-spray-mop-5-mopping-pads-1-floor-cleaner-liquid-solution/-/A-18813263",
@@ -357,8 +315,8 @@
     "title": "up&up AA Alkaline Batteries, 48-Pack"
   },
   "command-large-hooks-variety-pending": {
-    "destination": "https://www.amazon.com/dp/B00GD2RG6K",
-    "product_url": "https://www.amazon.com/dp/B00GD2RG6K",
+    "destination": "https://www.amazon.com/dp/B000M3V8XI",
+    "product_url": "https://www.amazon.com/dp/B000M3V8XI",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Command Large Utility Hooks, 3-Pack (17003-3ES)"
@@ -377,19 +335,12 @@
     "merchant": "Target",
     "title": "Cabeau Evolution Classic Memory Foam Travel Neck Pillow"
   },
-  "eagle-creek-pack-it-original-set-xs-s-m-amazon": {
-    "destination": "https://www.amazon.com/dp/B07CTG8BZ7",
-    "product_url": "https://www.amazon.com/dp/B07CTG8BZ7",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Eagle Creek Pack-It Original Packing Cubes Set (XS/S/M)"
-  },
   "amazon-basics-packing-cubes-4pc": {
     "destination": "https://www.amazon.com/dp/B014VBICGC",
     "product_url": "https://www.amazon.com/dp/B014VBICGC",
     "affiliate_url": null,
     "merchant": "Amazon",
-    "title": "Amazon Basics 4-Piece Packing Cubes Set"
+    "title": "Amazon Essentials 4-Piece Packing Cubes"
   },
   "samsonite-luggage-tag-set-amazon": {
     "destination": "https://www.amazon.com/dp/B07QV7M9KY",
@@ -424,7 +375,7 @@
     "product_url": "https://www.amazon.com/dp/B0B9T4KCV7",
     "affiliate_url": null,
     "merchant": "Amazon",
-    "title": "Nalgene 32 oz Wide Mouth Bottle (Tritan)"
+    "title": "Nalgene 32 oz Wide Mouth Bottle, Gray with Black Lid"
   },
   "packit-freezable-lunch-bag-travel-note": {
     "destination": "https://www.target.com/p/packit-freezable-lunch-bag-gray-fog/-/A-92447652",
@@ -495,5 +446,61 @@
     "affiliate_url": null,
     "merchant": "Target",
     "title": "Room Essentials 6pc Everyday Striped Dorm Towel Set"
+  },
+  "rubbermaid-brilliance-9-6cup-2pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B07X3XTCHW",
+    "product_url": "https://www.amazon.com/dp/B07X3XTCHW",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rubbermaid Brilliance 9.6-Cup Food Storage Containers, 2-Count"
+  },
+  "rubbermaid-brilliance-tritan-5pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B079M8FPTW",
+    "product_url": "https://www.amazon.com/dp/B079M8FPTW",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rubbermaid Brilliance 3.2-Cup Tritan Containers, Set of 5"
+  },
+  "amazon-basics-mini-dutch-oven-2qt-amazon": {
+    "destination": "https://www.amazon.com/dp/B074DFMR8K",
+    "product_url": "https://www.amazon.com/dp/B074DFMR8K",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics 2-Quart Pre-Seasoned Cast Iron Mini Dutch Oven"
+  },
+  "amazon-basics-oversize-bath-towel-2pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B07B6CHRF8",
+    "product_url": "https://www.amazon.com/dp/B07B6CHRF8",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics Quick-Dry Oversize Bath Towels, 2-Piece, Platinum"
+  },
+  "amazon-basics-lr44-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B08J4S2HGS",
+    "product_url": "https://www.amazon.com/dp/B08J4S2HGS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics LR44 Alkaline Button Cell Batteries, 12-Pack"
+  },
+  "tsa-30ml-travel-dispenser-4pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GK6PN8V4",
+    "product_url": "https://www.amazon.com/dp/B0GK6PN8V4",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "30ml Leak-Resistant Travel Dispenser Bottles, 4-Pack"
+  },
+  "amazon-basics-21in-hardside-carry-on-amazon": {
+    "destination": "https://www.amazon.com/dp/B0D95RMG9W",
+    "product_url": "https://www.amazon.com/dp/B0D95RMG9W",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics 21-Inch Hardside Carry-On, Rose Gold"
+  },
+  "european-type-c-plug-adapter-2pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0B3LZ5896",
+    "product_url": "https://www.amazon.com/dp/B0B3LZ5896",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "European Type C Travel Plug Adapter, 2-Pack"
   }
 }
