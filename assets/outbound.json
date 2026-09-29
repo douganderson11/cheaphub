@@ -502,5 +502,75 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "European Type C Travel Plug Adapter, 2-Pack"
+  },
+  "amazon-basics-toilet-paper-30-roll": {
+    "destination": "https://www.amazon.com/dp/B095CN96JS",
+    "product_url": "https://www.amazon.com/dp/B095CN96JS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics 2-Ply Toilet Paper, 30 Rolls"
+  },
+  "amazon-basics-flex-sheets-paper-towels-12": {
+    "destination": "https://www.amazon.com/dp/B09BWFX1L6",
+    "product_url": "https://www.amazon.com/dp/B09BWFX1L6",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics Flex-Sheets Paper Towels, 12 Rolls"
+  },
+  "amazon-basics-13gal-trash-bags-120": {
+    "destination": "https://www.amazon.com/dp/B093X8QQ12",
+    "product_url": "https://www.amazon.com/dp/B093X8QQ12",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics 13-Gallon Drawstring Trash Bags, 120 Count"
+  },
+  "amazon-elements-baby-wipes-810": {
+    "destination": "https://www.amazon.com/dp/B07H53W5WP",
+    "product_url": "https://www.amazon.com/dp/B07H53W5WP",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Elements Unscented Baby Wipes, 810 Count"
+  },
+  "happy-belly-house-blend-kcups-100": {
+    "destination": "https://www.amazon.com/dp/B07NXRRM1J",
+    "product_url": "https://www.amazon.com/dp/B07NXRRM1J",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Happy Belly House Blend Coffee Pods, 100 Count"
+  },
+  "amazon-fresh-colombia-whole-bean-32oz": {
+    "destination": "https://www.amazon.com/dp/B071WWCVJV",
+    "product_url": "https://www.amazon.com/dp/B071WWCVJV",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Fresh Colombia Whole Bean Coffee, 32 oz"
+  },
+  "lodge-square-panini-press-amazon": {
+    "destination": "https://www.amazon.com/dp/B0039UU9TU",
+    "product_url": "https://www.amazon.com/dp/B0039UU9TU",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Lodge Pre-Seasoned Cast Iron Square Panini Press"
+  },
+  "gourmia-6qt-window-air-fryer-target": {
+    "destination": "https://www.target.com/p/gourmia-6-qt-digital-window-air-fryer-with-12-presets-38-guided-cooking-black/-/A-89110863",
+    "product_url": "https://www.target.com/p/gourmia-6-qt-digital-window-air-fryer-with-12-presets-38-guided-cooking-black/-/A-89110863",
+    "affiliate_url": null,
+    "merchant": "Target",
+    "title": "Gourmia 6 qt Digital Window Air Fryer, Black"
+  },
+  "anker-20000mah-45w-power-bank-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DSZKKJTK",
+    "product_url": "https://www.amazon.com/dp/B0DSZKKJTK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Anker 20,000mAh 45W Power Bank with Built-in USB-C Cables"
+  },
+  "amazon-essentials-compression-packing-cubes-6pk": {
+    "destination": "https://www.amazon.com/dp/B0DRNGLGFB",
+    "product_url": "https://www.amazon.com/dp/B0DRNGLGFB",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack"
   }
 }
