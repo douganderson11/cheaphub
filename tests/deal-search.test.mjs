@@ -142,9 +142,12 @@ test("outbound tokens keep a clean product url and add the CheapHub Amazon tag o
   assert.equal(goHref({ catalogId: "lodge-8in-cast-iron-skillet-amazon" }), "/go/lodge-8in-cast-iron-skillet-amazon/");
   assert.doesNotMatch(AMAZON_ASSOCIATE_TAG, /luxuryhom06-20|uniqueinamer-20/);
   const cards = readFileSync(new URL("../assets/deal-search.js", import.meta.url), "utf8");
-  assert.match(cards, /This click uses the Amazon affiliate tag\./);
-  assert.match(cards, /Plain product link\. No affiliate tag on this one\./);
-  assert.match(cards, /if \(item\.amazon_associate\)/);
+  const catalogCards = readFileSync(new URL("../assets/catalog.js", import.meta.url), "utf8");
+  assert.doesNotMatch(cards, /This click uses the Amazon affiliate tag\./);
+  assert.doesNotMatch(cards, /Plain product link\. No affiliate tag on this one\./);
+  assert.doesNotMatch(cards, /We may earn a commission if you buy through it/);
+  assert.doesNotMatch(catalogCards, /We may earn a commission if you buy through it/);
+  assert.match(cards, /item\.amazon_associate/);
 });
 
 test("catalog matches rank known products first and ignore the remembered price when displaying", async () => {

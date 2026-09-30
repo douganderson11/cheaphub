@@ -127,6 +127,28 @@ def main() -> None:
         if "DBMM Anderson LLC" not in text:
             fail(f"{rel} is missing the DBMM Anderson LLC IP line")
 
+    footer_disclosure = (
+        "As an Amazon Associate and affiliate for other websites, we earn from qualifying purchases. "
+        "This site contains affiliate links, and we may receive a commission if you make a purchase through our links at no extra cost to you."
+    )
+    old_footer = "As an Amazon Associate I earn from qualifying purchases."
+    footer_pages = 0
+    for path in ROOT.rglob("*.html"):
+        text = path.read_text(encoding="utf-8")
+        if 'class="legal-line"' not in text or "<footer" not in text:
+            continue
+        footer_pages += 1
+        footer = text.split("<footer", 1)[1]
+        rel = path.relative_to(ROOT)
+        if footer_disclosure not in footer:
+            fail(f"{rel} footer is missing the affiliate disclosure sentence")
+        if old_footer in footer:
+            fail(f"{rel} footer still uses the old Amazon Associate sentence")
+        if "Affiliate link. We may earn a commission if you buy through it." in text:
+            fail(f"{rel} still repeats a per-link commission sentence")
+    if footer_pages < 1:
+        fail("no page footers found")
+
     csp = (ROOT / "_headers").read_text(encoding="utf-8")
     for host in (
         "m.media-amazon.com",
