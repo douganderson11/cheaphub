@@ -46,6 +46,16 @@ Hotlinked CDNs are Amazon (`m.media-amazon.com`), Target Scene7, Home Depot (`im
 
 Outbound product links use `/go/{id}/`. Destination is `affiliate_url` when set, otherwise the clean `product_url`. Do not invent discounts or percentages; a **Verified discount** badge is rendered only when `is_verified_discount` is true.
 
+## Live price search
+
+`/find/` asks `/.netlify/functions/deal-search` (rewritten from `/api/deal-search`) to open Amazon, Target, Walmart, and Home Depot. A price is shown only when that request read a selling price from the product page. Catalog matches are opened first, and their saved prices are not reused. Stores that block or time out are named in the response and left unpriced.
+
+New product clicks use `/go/out/?u=…`, which 302s to a clean product URL on those four stores. Catalog clicks stay on `/go/{id}/`. An affiliate tag is used only when `data/affiliate-overrides.json` already has one for that catalog id.
+
+```bash
+node --test tests/deal-search.test.mjs
+```
+
 ## Deploy note
 
 Production is still a Netlify Drop publish until the site is connected to this Git repository. After connecting Git, a production deploy from `main` (or this branch as a preview) will replace Drop.

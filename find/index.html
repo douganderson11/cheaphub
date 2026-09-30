@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Find a price | CheapHub</title>
+<meta name="description" content="Search a product in plain language. CheapHub opens a few store pages and shows the price printed there.">
+<link rel="canonical" href="https://cheaphub.com/find/">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/styles.css">
+<meta name="theme-color" content="#142842">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="topline">Independent buying guidance <span>•</span> Offer terms and availability can change</div>
+<header class="site-header">
+<div class="header-inner">
+<a class="brand" href="/" aria-label="CheapHub home">cheap<span>hub</span><i>.</i></a>
+<button class="menu-toggle" aria-expanded="false" aria-controls="nav">Menu <span aria-hidden="true">☰</span></button>
+<nav id="nav" aria-label="Primary">
+<a href="/deals/">Best Deals</a>
+<a href="/coupons/">Coupons</a>
+<a href="/best/">Best Under</a>
+<a href="/home-savings/">Home Savings</a>
+<a href="/travel/">Travel</a>
+<a href="/compare/">Compare</a>
+<a href="/guides/">Guides</a>
+</nav>
+<a class="header-news" href="/newsletter/">Weekly Best Deals <span aria-hidden="true">↗</span></a>
+</div>
+</header>
+<main id="main">
+<section class="page-intro wrap">
+<p class="eyebrow">Live price check</p>
+<h1>Find a price</h1>
+<p class="lede">Type a product the way you'd say it. We open a few store pages and copy the price printed there. It takes a few seconds. If a store blocks the read, that price stays off the list.</p>
+</section>
+<section class="wrap section">
+<form class="search-form search-page" id="deal-search-form" role="search" action="/find/" method="get">
+<label class="deal-label" for="deal-q">Powered by CheapHub AI</label>
+<div>
+<input id="deal-q" type="search" name="q" placeholder="Try: Lodge cast iron skillet" required>
+<button type="submit">Search</button>
+</div>
+</form>
+<p class="form-note">Examples: Lodge cast iron skillet, or packing cubes under $25. A verified-discount badge shows up only when that same page lists a typical or list price above the selling price.</p>
+<noscript><p>This search needs JavaScript so the browser can ask the server to open the store pages.</p></noscript>
+<p id="deal-status" role="status" aria-live="polite">Enter a product to start a price check.</p>
+<p id="deal-note" class="catalog-disclosure"></p>
+<div id="deal-results" hidden></div>
+<section id="deal-over" class="deal-block" hidden>
+<h2>Above the budget in your search</h2>
+<p>These prices were read too. They're higher than the ceiling you typed.</p>
+<div id="deal-over-list"></div>
+</section>
+<section id="deal-unchecked" class="deal-block" hidden>
+<h2>Couldn't read a price</h2>
+<p>These pages opened, or they're already in the catalog, but this search didn't get a selling price off the product page. No price, and no deal badge.</p>
+<div id="deal-unchecked-list"></div>
+</section>
+<section id="deal-skipped" class="deal-block" hidden>
+<h2>Stores skipped</h2>
+<div id="deal-skipped-list"></div>
+</section>
+</section>
+</main>
+<footer>
+<div class="footer-inner">
+<div class="footer-brand"><a class="brand" href="/">cheap<span>hub</span><i>.</i></a><p>Find Better Deals. Spend Less.</p><p>Practical research for a smarter purchase.</p></div>
+<div><h2>Explore</h2><a href="/find/">Find a price</a><a href="/deals/">Best Deals</a><a href="/coupons/">Coupons</a><a href="/stores/">Stores</a><a href="/best/">Best Under</a><a href="/categories/">Categories</a></div>
+<div><h2>Learn</h2><a href="/guides/">Buying guides</a><a href="/compare/">Comparisons</a><a href="/seasonal/">Seasonal</a><a href="/newsletter/">Newsletter</a><a href="/methodology/">Our methodology</a></div>
+<div><h2>CheapHub</h2><a href="/about/">About</a><a href="/partner/">Partner with us</a><a href="/contact/">Contact</a><a href="/how-we-make-money/">How we make money</a><a href="/affiliate-disclosure/">Affiliate disclosure</a></div>
+<div><h2>Policies</h2><a href="/advertising-policy/">Advertising</a><a href="/corrections/">Corrections</a><a href="/accessibility/">Accessibility</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></div>
+</div>
+<div class="legal-line">Copyright © 2026 CheapHub. Operated by <a href="https://www.marshmack.com">MarshMack Media LLC</a>. CheapHub.com and associated intellectual property are owned by DBMM Anderson LLC and licensed to MarshMack Media LLC. Developed and Designed by <a href="https://www.websitetitans.com">Website Titans</a>. As an Amazon Associate I earn from qualifying purchases.</div>
+</footer>
+<script src="/assets/app.js" defer></script>
+<script src="/assets/deal-search.js" defer></script>
+</body>
+</html>

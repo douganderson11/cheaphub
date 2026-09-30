@@ -1,0 +1,26 @@
+[build]
+publish = "."
+
+[functions]
+directory = "netlify/functions"
+node_bundler = "esbuild"
+included_files = ["assets/catalog.json", "data/affiliate-overrides.json"]
+
+[functions."deal-search"]
+timeout = 10
+
+[functions."outbound"]
+timeout = 10
+
+# Dynamic price search and product hops. Catalog /go/{id}/ rules stay in _redirects.
+[[redirects]]
+from = "/api/deal-search"
+to = "/.netlify/functions/deal-search"
+status = 200
+force = true
+
+[[redirects]]
+from = "/go/out"
+to = "/.netlify/functions/outbound"
+status = 200
+force = true
