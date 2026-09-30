@@ -196,8 +196,6 @@
     button.rel = "sponsored noopener noreferrer";
     text(button, product.current_price == null ? `Check current price at ${product.merchant}` : `See at ${product.merchant}`);
     card.append(button);
-
-    card.append(text(el("p", "disclosure"), "Affiliate link. We may earn a commission if you buy through it."));
     return card;
   }
 

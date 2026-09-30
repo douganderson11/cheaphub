@@ -61,12 +61,6 @@
       : "noopener noreferrer";
   }
 
-  function disclosureText(item) {
-    if (item.amazon_associate) return "This click uses the Amazon affiliate tag.";
-    if (item.uses_affiliate) return "Affiliate link. We may earn a commission if you buy through it.";
-    return "Plain product link. No affiliate tag on this one.";
-  }
-
   function card(item, priced) {
     const href = safeHref(item.href);
     if (!href || !item.title || !item.merchant) return null;
@@ -123,10 +117,6 @@
     button.rel = linkRel(item);
     button.textContent = priced ? `See at ${item.merchant}` : `Open the ${item.merchant} page`;
     article.append(button);
-
-    const disclosure = el("p", "disclosure");
-    disclosure.textContent = disclosureText(item);
-    article.append(disclosure);
     return article;
   }
 

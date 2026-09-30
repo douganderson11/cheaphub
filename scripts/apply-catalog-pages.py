@@ -218,7 +218,7 @@ def patch_affiliate_disclosure() -> None:
             ),
             (
                 "Near the links",
-                "Pages with catalog cards include a short disclosure above the listings, and each card is labeled as an affiliate link. If a promotion has ended or stock is gone, treat the card as expired context—not a live sale.",
+                "Pages with catalog cards include a short disclosure above the listings. Individual cards do not repeat that commission notice. If a promotion has ended or stock is gone, treat the card as expired context—not a live sale.",
             ),
             (
                 "No guarantee of availability",
