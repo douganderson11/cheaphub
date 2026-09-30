@@ -1,7 +1,8 @@
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 import test from "node:test";
 import { loadCatalog } from "../netlify/functions/lib/catalog.mjs";
-import { cleanProductUrl, encodeOutbound, goHref, resolveOutbound } from "../netlify/functions/lib/go.mjs";
+import { AMAZON_ASSOCIATE_TAG, appendAmazonAssociateTag, cleanProductUrl, encodeOutbound, goHref, resolveOutbound } from "../netlify/functions/lib/go.mjs";
 import {
   amazonSearchHits,
   parseAmazonPdp,
@@ -125,13 +126,25 @@ test("a labeled list price above the selling price can badge a product page", ()
   assert.equal(parseHomeDepotPdp("", 403).blocked, true);
 });
 
-test("outbound tokens only open clean merchant product urls", () => {
-  const token = encodeOutbound("https://www.amazon.com/dp/B00NZ7PTDS");
-  assert.equal(resolveOutbound(token), "https://www.amazon.com/dp/B00NZ7PTDS");
+test("outbound tokens keep a clean product url and add the CheapHub Amazon tag on the way out", () => {
+  const clean = "https://www.amazon.com/dp/B00NZ7PTDS";
+  const token = encodeOutbound(clean);
+  assert.equal(AMAZON_ASSOCIATE_TAG, "cheaphubus-20");
+  assert.equal(resolveOutbound(token), "https://www.amazon.com/dp/B00NZ7PTDS?tag=cheaphubus-20");
+  assert.equal(Buffer.from(token, "base64url").toString("utf8"), clean);
   assert.equal(cleanProductUrl("https://www.amazon.com/dp/B00NZ7PTDS?tag=invented-20"), null);
   assert.equal(cleanProductUrl("https://evil.example/dp/B00NZ7PTDS"), null);
   assert.equal(cleanProductUrl("https://www.amazon.com/s?k=lodge"), null);
+  assert.equal(appendAmazonAssociateTag("https://www.amazon.com/s?k=lodge"), "https://www.amazon.com/s?k=lodge");
+  assert.equal(appendAmazonAssociateTag("https://www.target.com/p/oxo-swivel-peeler/-/A-13567836"), "https://www.target.com/p/oxo-swivel-peeler/-/A-13567836");
+  assert.equal(appendAmazonAssociateTag("https://www.walmart.com/ip/Lodge-Skillet/123456"), "https://www.walmart.com/ip/Lodge-Skillet/123456");
+  assert.equal(appendAmazonAssociateTag("https://www.homedepot.com/p/Stanley-Tape/100052995"), "https://www.homedepot.com/p/Stanley-Tape/100052995");
   assert.equal(goHref({ catalogId: "lodge-8in-cast-iron-skillet-amazon" }), "/go/lodge-8in-cast-iron-skillet-amazon/");
+  assert.doesNotMatch(AMAZON_ASSOCIATE_TAG, /luxuryhom06-20|uniqueinamer-20/);
+  const cards = readFileSync(new URL("../assets/deal-search.js", import.meta.url), "utf8");
+  assert.match(cards, /This click uses the Amazon affiliate tag\./);
+  assert.match(cards, /Plain product link\. No affiliate tag on this one\./);
+  assert.match(cards, /if \(item\.amazon_associate\)/);
 });
 
 test("catalog matches rank known products first and ignore the remembered price when displaying", async () => {
@@ -175,11 +188,14 @@ test("catalog matches rank known products first and ignore the remembered price 
   assert.equal(body.results[0].source, "catalog");
   assert.equal(body.results[0].href, "/go/lodge-8in-cast-iron-skillet-amazon/");
   assert.equal(body.results[0].uses_affiliate, false);
+  assert.equal(body.results[0].amazon_associate, true);
   assert.equal(body.results[0].is_verified_discount, false);
   assert.equal(body.results[1].price, 14.2);
   assert.equal(body.results[1].is_verified_discount, true);
   assert.equal(body.results[1].uses_affiliate, false);
+  assert.equal(body.results[1].amazon_associate, true);
   assert.equal(body.results[1].href.startsWith("/go/out/?u="), true);
+  assert.match(body.link_note, /Amazon affiliate tag/);
   assert.doesNotMatch(blob, /999|1200|15 percent|% off|tag=/);
   assert.ok(body.skipped.some((item) => item.merchant === "Walmart"));
   assert.ok(body.skipped.some((item) => item.merchant === "Home Depot"));
@@ -211,6 +227,7 @@ test("a saved affiliate override is labeled, and a missing one is not invented",
     },
   });
   assert.equal(body.results[0].uses_affiliate, true);
+  assert.equal(body.results[0].amazon_associate, false);
   assert.equal(body.results[0].href, "/go/lodge-8in-cast-iron-skillet-amazon/");
   assert.doesNotMatch(JSON.stringify(body), /tag=/);
   assert.match(body.link_note, /affiliate overrides/);

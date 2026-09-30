@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import html
 import json
+import subprocess
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
@@ -157,8 +158,30 @@ def normalize_product(row: dict, index: int, overrides: dict[str, str]) -> dict:
     }
 
 
-def write_go_page(product: dict) -> None:
-    dest = html.escape(product["destination"], quote=True)
+def apply_amazon_tags(urls: list[str]) -> list[str]:
+    """Append AMAZON_ASSOCIATE_TAG from the outbound helper. Other stores stay as written."""
+    if not urls:
+        return []
+    script = ROOT / "netlify" / "functions" / "lib" / "go.mjs"
+    result = subprocess.run(
+        ["node", str(script), "tag-urls"],
+        input=json.dumps(urls),
+        capture_output=True,
+        text=True,
+        cwd=str(ROOT),
+        check=False,
+    )
+    if result.returncode != 0 or not result.stdout.strip():
+        detail = (result.stderr or result.stdout or "Could not apply the Amazon associate tag").strip()
+        raise SystemExit(detail)
+    tagged = json.loads(result.stdout)
+    if not isinstance(tagged, list) or len(tagged) != len(urls):
+        raise SystemExit("Amazon tag helper returned an unexpected result")
+    return [str(url) for url in tagged]
+
+
+def write_go_page(product: dict, destination: str) -> None:
+    dest = html.escape(destination, quote=True)
     title = html.escape(product["title"])
     merchant = html.escape(product["merchant"])
     product_id = html.escape(product["id"])
@@ -265,16 +288,20 @@ def main() -> None:
     }
     (ASSETS / "catalog.json").write_text(json.dumps(catalog, indent=2) + "\n", encoding="utf-8")
 
+    live = [product for product in products if product.get("status") != "expired"]
+    hops = {
+        product["id"]: tagged
+        for product, tagged in zip(live, apply_amazon_tags([product["destination"] for product in live]))
+    }
     outbound = {
         product["id"]: {
-            "destination": product["destination"],
+            "destination": hops[product["id"]],
             "product_url": product["product_url"],
             "affiliate_url": product["affiliate_url"],
             "merchant": product["merchant"],
             "title": product["title"],
         }
-        for product in products
-        if product.get("status") != "expired"
+        for product in live
     }
     (ASSETS / "outbound.json").write_text(json.dumps(outbound, indent=2) + "\n", encoding="utf-8")
 
@@ -288,11 +315,11 @@ def main() -> None:
     for product in products:
         if product.get("status") == "expired":
             continue
-        dest = product["destination"]
+        dest = hops[product["id"]]
         product_id = product["id"]
         redirect_lines.append(f"/go/{product_id} {dest} 302")
         redirect_lines.append(f"/go/{product_id}/ {dest} 302")
-        write_go_page(product)
+        write_go_page(product, dest)
     (ROOT / "_redirects").write_text("\n".join(redirect_lines) + "\n", encoding="utf-8")
 
     search_items = existing_search_items()
