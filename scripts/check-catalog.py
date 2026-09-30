@@ -129,7 +129,7 @@ def main() -> None:
 
     footer_disclosure = (
         "As an Amazon Associate and affiliate for other websites, we earn from qualifying purchases. "
-        "This site contains affiliate links, and we may receive a commission if you make a purchase through my links at no extra cost to you."
+        "This site contains affiliate links, and we may receive a commission if you make a purchase through our links at no extra cost to you."
     )
     old_footer = "As an Amazon Associate I earn from qualifying purchases."
     footer_pages = 0
