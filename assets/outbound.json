@@ -118,13 +118,6 @@
     "merchant": "Amazon",
     "title": "Craftsman 20 oz. Fiberglass Hammer"
   },
-  "channellock-12in-tongue-groove-amazon": {
-    "destination": "https://www.amazon.com/dp/B00820N746?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B00820N746",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Channellock 12\" Tongue & Groove Pliers"
-  },
   "craftsman-8in-long-nose-pliers-amazon": {
     "destination": "https://www.craftsman.com/en-us/product/cmht81645/craftsman-8-inch-long-nose-pliers",
     "product_url": "https://www.craftsman.com/en-us/product/cmht81645/craftsman-8-inch-long-nose-pliers",
@@ -314,13 +307,6 @@
     "merchant": "Target",
     "title": "up&up AA Alkaline Batteries, 48-Pack"
   },
-  "command-large-hooks-variety-pending": {
-    "destination": "https://www.amazon.com/dp/B000M3V8XI?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B000M3V8XI",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Command Large Utility Hooks, 3-Pack (17003-3ES)"
-  },
   "scotch-magic-tape-multipack-pending": {
     "destination": "https://www.target.com/p/scotch-6pk-magic-tape-3-4-34-x800-34/-/A-13356402",
     "product_url": "https://www.target.com/p/scotch-6pk-magic-tape-3-4-34-x800-34/-/A-13356402",
@@ -413,8 +399,8 @@
     "title": "IRWIN VISE-GRIP Original 11\" Locking C-Clamp (11R)"
   },
   "oxo-good-grips-swivel-peeler-amazon": {
-    "destination": "https://www.amazon.com/dp/B000I1ZVPA?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B000I1ZVPA",
+    "destination": "https://www.amazon.com/dp/B00004OCIP?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00004OCIP",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "OXO Good Grips Swivel Peeler"
@@ -572,5 +558,75 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack"
+  },
+  "community-coffee-breakfast-blend-12oz": {
+    "destination": "https://www.amazon.com/dp/B00EC8EVG0?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00EC8EVG0",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Community Coffee Breakfast Blend Ground Coffee, 12 oz"
+  },
+  "amazon-fresh-french-vanilla-kcups-80": {
+    "destination": "https://www.amazon.com/dp/B07BF1HHTQ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07BF1HHTQ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Fresh French Vanilla Coffee Pods, 80 Count"
+  },
+  "amazon-basics-lotion-facial-tissues-18pk": {
+    "destination": "https://www.amazon.com/dp/B09BXT3J9Z?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09BXT3J9Z",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics Lotion Facial Tissues, 18 Boxes"
+  },
+  "amazon-basics-gallon-food-bags-120": {
+    "destination": "https://www.amazon.com/dp/B093WMWKBP?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B093WMWKBP",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics Gallon Food Storage Bags, 120 Count"
+  },
+  "amazon-basics-disinfecting-wipes-255": {
+    "destination": "https://www.amazon.com/dp/B07F246YG1?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07F246YG1",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics Disinfecting Wipes, 255 Count"
+  },
+  "zojirushi-micom-3cup-rice-cooker-amazon": {
+    "destination": "https://www.amazon.com/dp/B01EVHWNVG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01EVHWNVG",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Zojirushi Micom 3-Cup Rice Cooker"
+  },
+  "crock-pot-7qt-manual-slow-cooker-amazon": {
+    "destination": "https://www.amazon.com/dp/B00HDE4PYS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00HDE4PYS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Crock-Pot 7-Quart Manual Slow Cooker, Charcoal"
+  },
+  "shark-navigator-lift-away-nv352-amazon": {
+    "destination": "https://www.amazon.com/dp/B004Q4DRJW?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B004Q4DRJW",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Shark Navigator Lift-Away Upright Vacuum, NV352"
+  },
+  "amazon-basics-23in-checked-luggage-amazon": {
+    "destination": "https://www.amazon.com/dp/B072F91DNR?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B072F91DNR",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics 23-Inch Checked Softside Luggage, Black"
+  },
+  "stouchi-rfid-passport-holder-amazon": {
+    "destination": "https://www.amazon.com/dp/B0C7CDFQ81?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0C7CDFQ81",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Stouchi Passport Holder with AirTag Slot"
   }
 }

@@ -231,13 +231,6 @@
     "topic": "Home"
   },
   {
-    "title": "Channellock 12\" Tongue & Groove Pliers",
-    "summary": "Adjustable groove-joint pliers for plumbing fittings and stubborn fasteners. Sold at Amazon.",
-    "url": "/deals/#channellock-12in-tongue-groove-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Craftsman 8-Inch Long Nose Pliers (CMHT81645)",
     "summary": "Needle-nose pliers for electrical boxes, jewelry-scale tasks, and tight spaces. Sold at CRAFTSMAN.",
     "url": "/deals/#craftsman-8in-long-nose-pliers-amazon",
@@ -416,13 +409,6 @@
     "title": "up&up AA Alkaline Batteries, 48-Pack",
     "summary": "Target house-brand bulk AAs\u2014compare per-cell price against Amazon Basics before buying. Sold at Target.",
     "url": "/deals/#up-and-up-aa-batteries-48pk-target",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Command Large Utility Hooks, 3-Pack (17003-3ES)",
-    "summary": "Damage-free hanging hooks for renters\u2014match weight rating to the object. Sold at Amazon.",
-    "url": "/deals/#command-large-hooks-variety-pending",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -647,6 +633,76 @@
     "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack",
     "summary": "Six black compression cubes with two zippers each, for squeezing clothes into a carry-on. Sold at Amazon.",
     "url": "/deals/#amazon-essentials-compression-packing-cubes-6pk",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Community Coffee Breakfast Blend Ground Coffee, 12 oz",
+    "summary": "A 12-ounce bag of Community's medium-roast Breakfast Blend, ground for drip, pour-over, or a French press. Sold at Amazon.",
+    "url": "/deals/#community-coffee-breakfast-blend-12oz",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Amazon Fresh French Vanilla Coffee Pods, 80 Count",
+    "summary": "Eighty Amazon Fresh French vanilla pods, medium roast, for a Keurig-style brewer. Sold at Amazon.",
+    "url": "/deals/#amazon-fresh-french-vanilla-kcups-80",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Amazon Basics Lotion Facial Tissues, 18 Boxes",
+    "summary": "Eighteen cube boxes of 2-ply lotion tissues, 75 sheets in each box. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-lotion-facial-tissues-18pk",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Amazon Basics Gallon Food Storage Bags, 120 Count",
+    "summary": "A 120-count box of gallon food bags with a double zipper and a base that stands up. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-gallon-food-bags-120",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Amazon Basics Disinfecting Wipes, 255 Count",
+    "summary": "Three canisters of Amazon Basics disinfecting wipes, 85 sheets each, in lemon and fresh scents. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-disinfecting-wipes-255",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Zojirushi Micom 3-Cup Rice Cooker",
+    "summary": "Zojirushi's compact 3-cup Micom rice cooker, with a stainless body and a cord that pulls back into the base. Sold at Amazon.",
+    "url": "/deals/#zojirushi-micom-3cup-rice-cooker-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Crock-Pot 7-Quart Manual Slow Cooker, Charcoal",
+    "summary": "A charcoal 7-quart Crock-Pot with high, low, and warm. The listing sizes it for a 6-pound roast. Sold at Amazon.",
+    "url": "/deals/#crock-pot-7qt-manual-slow-cooker-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Shark Navigator Lift-Away Upright Vacuum, NV352",
+    "summary": "Shark Navigator Lift-Away upright, model NV352 in lavender, with a pod that comes off for stairs and upholstery. Sold at Amazon.",
+    "url": "/deals/#shark-navigator-lift-away-nv352-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Amazon Basics 23-Inch Checked Softside Luggage, Black",
+    "summary": "A black 23-inch softside checked suitcase with spinner wheels and a shell that expands. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-23in-checked-luggage-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Stouchi Passport Holder with AirTag Slot",
+    "summary": "A slim Stouchi passport holder with an AirTag slot and RFID-blocking material, according to the listing. Sold at Amazon.",
+    "url": "/deals/#stouchi-rfid-passport-holder-amazon",
     "type": "Product",
     "topic": "Travel"
   }
