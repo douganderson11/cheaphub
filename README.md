@@ -44,13 +44,13 @@ python3 scripts/check-catalog.py
 
 Hotlinked CDNs are Amazon (`m.media-amazon.com`), Target Scene7, Home Depot (`images.thdstatic.com`), and Walmart (`i5.walmartimages.com`). `_headers` allows those hosts in `img-src`. Official brand photos are downloaded to `assets/products/` only when the merchant CDN cannot be hotlinked. **Do not list a product without a photo:** `build-catalog.py` publishes only rows with `image_url`, and `catalog.js` will not render a card without one. Rows still missing a verified photo stay in `data/excluded-pending-photo.json`. Never use a guessed or cross-SKU picture.
 
-Outbound product links use `/go/{id}/`. Destination is `affiliate_url` when set, otherwise the clean `product_url`. Do not invent discounts or percentages; a **Verified discount** badge is rendered only when `is_verified_discount` is true.
+Outbound product links use `/go/{id}/`. The catalog keeps the clean `product_url`. Amazon product clicks append `tag=` from `AMAZON_ASSOCIATE_TAG` in `netlify/functions/lib/go.mjs` (`cheaphubus-20` on the MarshMack Associates store). Target, Walmart, and Home Depot are not tagged. Destination is `affiliate_url` when set, otherwise the clean `product_url`, plus that Amazon tag when the URL is an Amazon product page. Do not invent discounts or percentages; a **Verified discount** badge is rendered only when `is_verified_discount` is true.
 
 ## Live price search
 
 `/find/` asks `/.netlify/functions/deal-search` (rewritten from `/api/deal-search`) to open Amazon, Target, Walmart, and Home Depot. A price is shown only when that request read a selling price from the product page. Catalog matches are opened first, and their saved prices are not reused. Stores that block or time out are named in the response and left unpriced.
 
-New product clicks use `/go/out/?u=…`, which 302s to a clean product URL on those four stores. Catalog clicks stay on `/go/{id}/`. An affiliate tag is used only when `data/affiliate-overrides.json` already has one for that catalog id.
+New product clicks use `/go/out/?u=…`, which 302s to the product URL. The stored token stays a clean product URL; Amazon product hops add `tag=cheaphubus-20` on the way out. Catalog clicks stay on `/go/{id}/`. Other stores stay untagged unless `data/affiliate-overrides.json` already has a link for that catalog id.
 
 ```bash
 node --test tests/deal-search.test.mjs

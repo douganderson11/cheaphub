@@ -55,6 +55,18 @@
     }
   }
 
+  function linkRel(item) {
+    return item.uses_affiliate || item.amazon_associate
+      ? "sponsored noopener noreferrer"
+      : "noopener noreferrer";
+  }
+
+  function disclosureText(item) {
+    if (item.amazon_associate) return "This click uses the Amazon affiliate tag.";
+    if (item.uses_affiliate) return "Affiliate link. We may earn a commission if you buy through it.";
+    return "Plain product link. No affiliate tag on this one.";
+  }
+
   function card(item, priced) {
     const href = safeHref(item.href);
     if (!href || !item.title || !item.merchant) return null;
@@ -63,7 +75,7 @@
     if (image) {
       const link = el("a", "offer-media-link");
       link.href = href;
-      link.rel = item.uses_affiliate ? "sponsored noopener noreferrer" : "noopener noreferrer";
+      link.rel = linkRel(item);
       const media = el("div", "offer-media");
       const img = document.createElement("img");
       img.src = image;
@@ -89,7 +101,7 @@
     const heading = el("h3");
     const titleLink = el("a");
     titleLink.href = href;
-    titleLink.rel = item.uses_affiliate ? "sponsored noopener noreferrer" : "noopener noreferrer";
+    titleLink.rel = linkRel(item);
     titleLink.textContent = item.title;
     heading.append(titleLink);
     article.append(heading);
@@ -108,14 +120,12 @@
 
     const button = el("a", "button");
     button.href = href;
-    button.rel = item.uses_affiliate ? "sponsored noopener noreferrer" : "noopener noreferrer";
+    button.rel = linkRel(item);
     button.textContent = priced ? `See at ${item.merchant}` : `Open the ${item.merchant} page`;
     article.append(button);
 
     const disclosure = el("p", "disclosure");
-    disclosure.textContent = item.uses_affiliate
-      ? "Affiliate link. We may earn a commission if you buy through it."
-      : "Plain product link. No affiliate tag on this one.";
+    disclosure.textContent = disclosureText(item);
     article.append(disclosure);
     return article;
   }

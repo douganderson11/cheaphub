@@ -1,6 +1,6 @@
 import https from "node:https";
 import { loadCatalog, loadOverrides } from "./catalog.mjs";
-import { cleanProductUrl, goHref, usesAffiliate } from "./go.mjs";
+import { AMAZON_ASSOCIATE_TAG, appendAmazonAssociateTag, cleanProductUrl, goHref, usesAffiliate } from "./go.mjs";
 import {
   amazonAsin,
   amazonSearchHits,
@@ -169,16 +169,17 @@ export async function searchDeals(rawQuery, deps = {}) {
   const overrides = deps.overrides || loadOverrides();
   const fetchPage = deps.fetchPage || defaultFetch;
   const budgetMs = deps.budgetMs ?? 8500;
+  const amazonTag = Object.prototype.hasOwnProperty.call(deps, "amazonTag") ? deps.amazonTag : AMAZON_ASSOCIATE_TAG;
   const started = Date.now();
   const remaining = () => budgetMs - (Date.now() - started);
   const matches = matchCatalog(parsedQuery.tokens, parsedQuery.ceiling, catalog).slice(0, 2);
   const knownKeys = new Set(matches.map((product) => productKey(product.product_url)).filter(Boolean));
 
   const catalogReads = Promise.all(
-    matches.map((product) => readCatalogProduct(product, overrides, fetchPage, remaining))
+    matches.map((product) => readCatalogProduct(product, overrides, fetchPage, remaining, amazonTag))
   );
   const storeReads = Promise.all(
-    STORES.map((store) => readStore(store, parsedQuery.keywords, fetchPage, remaining, knownKeys))
+    STORES.map((store) => readStore(store, parsedQuery.keywords, fetchPage, remaining, knownKeys, amazonTag))
   );
   const [catalogItems, storeItems] = await Promise.all([catalogReads, storeReads]);
 
@@ -225,10 +226,23 @@ export async function searchDeals(rawQuery, deps = {}) {
 }
 
 function linkNote(items) {
+  if (items.some((item) => item.amazon_associate)) {
+    return "Amazon product clicks use the CheapHub Amazon affiliate tag. Other stores stay on a plain product URL unless that product already has an affiliate link saved.";
+  }
   if (items.some((item) => item.uses_affiliate)) {
     return "Clicks go through /go/. An affiliate tag is attached only when that product already has one in the site's affiliate overrides.";
   }
   return "Clicks go through /go/. None of these products have an affiliate tag saved, so each click is a plain product URL.";
+}
+
+function affiliateFlags(url, productId, overrides, amazonTag) {
+  const saved = productId ? usesAffiliate(productId, overrides) : false;
+  const source = saved ? overrides[productId] : url;
+  const tagged = appendAmazonAssociateTag(source, amazonTag);
+  return {
+    usesAffiliate: saved,
+    amazonAssociate: typeof source === "string" && tagged !== source,
+  };
 }
 
 function publicResult(item) {
@@ -246,6 +260,7 @@ function publicResult(item) {
     image_alt: item.title,
     href: item.href,
     uses_affiliate: item.usesAffiliate,
+    amazon_associate: Boolean(item.amazonAssociate),
   };
 }
 
@@ -259,15 +274,16 @@ function publicUncheckedItem(item) {
     image_alt: item.title,
     href: item.href,
     uses_affiliate: item.usesAffiliate,
+    amazon_associate: Boolean(item.amazonAssociate),
     reason: item.reason,
   };
 }
 
-async function readCatalogProduct(product, overrides, fetchPage, remaining) {
+async function readCatalogProduct(product, overrides, fetchPage, remaining, amazonTag) {
   const store = hostStore(product.product_url);
   const key = productKey(product.product_url) || `catalog:${product.id}`;
   const href = goHref({ catalogId: product.id, productUrl: product.product_url });
-  const affiliate = usesAffiliate(product.id, overrides);
+  const flags = affiliateFlags(product.product_url, product.id, overrides, amazonTag);
   const catalogImage = allowedCatalogImage(product.image_url);
   const base = {
     key,
@@ -275,7 +291,8 @@ async function readCatalogProduct(product, overrides, fetchPage, remaining) {
     title: product.title,
     merchant: product.merchant || storeLabel(store),
     href,
-    usesAffiliate: affiliate,
+    usesAffiliate: flags.usesAffiliate,
+    amazonAssociate: flags.amazonAssociate,
     imageUrl: catalogImage,
   };
   if (!store || !href) {
@@ -318,7 +335,7 @@ function allowedCatalogImage(url) {
   return null;
 }
 
-async function readStore(store, keywords, fetchPage, remaining, knownKeys) {
+async function readStore(store, keywords, fetchPage, remaining, knownKeys, amazonTag) {
   const label = storeLabel(store);
   if (remaining() < 1200) {
     return {
@@ -366,7 +383,7 @@ async function readStore(store, keywords, fetchPage, remaining, knownKeys) {
       skipped: { merchant: label, reason: `${label}'s search loaded, but time ran out before a product page opened.` },
     };
   }
-  const reads = await Promise.all(fresh.map((hit) => readNewProduct(store, hit, fetchPage, remaining)));
+  const reads = await Promise.all(fresh.map((hit) => readNewProduct(store, hit, fetchPage, remaining, amazonTag)));
   const priced = [];
   const unchecked = [];
   for (const read of reads) {
@@ -390,19 +407,21 @@ function searchHits(store, html) {
   return [];
 }
 
-async function readNewProduct(store, hit, fetchPage, remaining) {
+async function readNewProduct(store, hit, fetchPage, remaining, amazonTag) {
   const label = storeLabel(store);
   const href = goHref({ productUrl: hit.url });
   const key = productKey(hit.url);
   if (!href || !key) return {};
   const response = await fetchPage(hit.url, Math.min(4500, remaining()));
+  const flags = affiliateFlags(hit.url, null, null, amazonTag);
   const base = {
     key,
     source: store,
     title: hit.title || label,
     merchant: label,
     href,
-    usesAffiliate: false,
+    usesAffiliate: flags.usesAffiliate,
+    amazonAssociate: flags.amazonAssociate,
     imageUrl: null,
   };
   return classifyRead(base, store, response, { allowCatalogImage: false });

@@ -1,7 +1,10 @@
 /**
  * Outbound clicks stay on /go/.
  * An affiliate destination is used only when data/affiliate-overrides.json already has one.
+ * Amazon product clicks also pick up AMAZON_ASSOCIATE_TAG when that value is set.
  */
+
+import { pathToFileURL } from "node:url";
 
 const PRODUCT_PATH = {
   amazon: /^\/(?:[^/]+\/)*dp\/[A-Z0-9]{10}\/?$|^\/gp\/product\/[A-Z0-9]{10}\/?$/,
@@ -17,6 +20,34 @@ function storeFromHost(hostname) {
   if (host === "walmart.com") return "walmart";
   if (host === "homedepot.com") return "homedepot";
   return null;
+}
+
+// CheapHub's tracking ID on the existing MarshMack Media LLC Associates store.
+// https://cheaphub.com is an approved site. Appended only to Amazon product URLs.
+export const AMAZON_ASSOCIATE_TAG = "cheaphubus-20";
+
+export function normalizeAssociateTag(tag) {
+  if (typeof tag !== "string") return "";
+  const value = tag.trim();
+  if (!value || !/^[A-Za-z0-9-]+$/.test(value)) return "";
+  return value;
+}
+
+export function appendAmazonAssociateTag(url, tag = AMAZON_ASSOCIATE_TAG) {
+  const value = normalizeAssociateTag(tag);
+  if (!value || typeof url !== "string" || !url) return url;
+  let parsed;
+  try {
+    parsed = new URL(url);
+  } catch {
+    return url;
+  }
+  if (parsed.protocol !== "https:") return url;
+  if (storeFromHost(parsed.hostname) !== "amazon") return url;
+  if (!PRODUCT_PATH.amazon.test(parsed.pathname)) return url;
+  if (parsed.searchParams.has("tag")) return url;
+  parsed.searchParams.set("tag", value);
+  return parsed.toString();
 }
 
 export function cleanProductUrl(url) {
@@ -54,7 +85,9 @@ export function resolveOutbound(token) {
   } catch {
     return null;
   }
-  return cleanProductUrl(decoded);
+  const clean = cleanProductUrl(decoded);
+  if (!clean) return null;
+  return appendAmazonAssociateTag(clean);
 }
 
 export function usesAffiliate(productId, overrides) {
@@ -67,4 +100,23 @@ export function goHref({ catalogId, productUrl }) {
   const token = encodeOutbound(productUrl);
   if (!token) return null;
   return `/go/out/?u=${token}`;
+}
+
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href && process.argv[2] === "tag-urls") {
+  const chunks = [];
+  process.stdin.on("data", (chunk) => chunks.push(chunk));
+  process.stdin.on("end", () => {
+    let urls = [];
+    try {
+      urls = JSON.parse(Buffer.concat(chunks).toString("utf8") || "[]");
+    } catch {
+      process.stderr.write("deny\n");
+      process.exit(2);
+    }
+    if (!Array.isArray(urls)) {
+      process.stderr.write("deny\n");
+      process.exit(2);
+    }
+    process.stdout.write(JSON.stringify(urls.map((url) => appendAmazonAssociateTag(url))));
+  });
 }
