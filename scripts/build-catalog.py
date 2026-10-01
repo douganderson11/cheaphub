@@ -180,6 +180,18 @@ def apply_amazon_tags(urls: list[str]) -> list[str]:
     return [str(url) for url in tagged]
 
 
+# Website Titans Google Analytics. First child of <head> on every generated /go/ page.
+GTAG_SNIPPET = """<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5YT1Y0TFBR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5YT1Y0TFBR');
+</script>
+"""
+
+
 def write_go_page(product: dict, destination: str) -> None:
     dest = html.escape(destination, quote=True)
     title = html.escape(product["title"])
@@ -188,7 +200,7 @@ def write_go_page(product: dict, destination: str) -> None:
     page = f"""<!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
+{GTAG_SNIPPET}<meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Continue to {merchant} | CheapHub</title>
 <meta name="robots" content="noindex,nofollow">
