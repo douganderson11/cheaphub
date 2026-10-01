@@ -559,13 +559,6 @@
     "merchant": "Amazon",
     "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack"
   },
-  "community-coffee-breakfast-blend-12oz": {
-    "destination": "https://www.amazon.com/dp/B00EC8EVG0?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B00EC8EVG0",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Community Coffee Breakfast Blend Ground Coffee, 12 oz"
-  },
   "amazon-fresh-french-vanilla-kcups-80": {
     "destination": "https://www.amazon.com/dp/B07BF1HHTQ?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B07BF1HHTQ",
@@ -615,18 +608,60 @@
     "merchant": "Amazon",
     "title": "Shark Navigator Lift-Away Upright Vacuum, NV352"
   },
-  "amazon-basics-23in-checked-luggage-amazon": {
-    "destination": "https://www.amazon.com/dp/B072F91DNR?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B072F91DNR",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Amazon Basics 23-Inch Checked Softside Luggage, Black"
-  },
   "stouchi-rfid-passport-holder-amazon": {
     "destination": "https://www.amazon.com/dp/B0C7CDFQ81?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0C7CDFQ81",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Stouchi Passport Holder with AirTag Slot"
+  },
+  "bissell-cleanview-rewind-pet-3534-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BFJP4BDM?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BFJP4BDM",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Bissell CleanView Rewind Pet Bagless Vacuum, 3534"
+  },
+  "kitchenaid-classic-can-opener-empire-red-amazon": {
+    "destination": "https://www.amazon.com/dp/B07YP1TB6P?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07YP1TB6P",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "KitchenAid Classic Can Opener with Bottle Opener, Empire Red"
+  },
+  "nescafe-tasters-choice-house-blend-2-jars-amazon": {
+    "destination": "https://www.amazon.com/dp/B01FDLA52I?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01FDLA52I",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "NESCAF\u00c9 Taster's Choice House Blend Instant Coffee, 2 Jars"
+  },
+  "lavazza-house-blend-perfetto-12oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B00PQKRVFG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00PQKRVFG",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Lavazza House Blend Perfetto Ground Coffee, 12 oz"
+  },
+  "amazon-basics-26in-hardside-checked-luggage-amazon": {
+    "destination": "https://www.amazon.com/dp/B071VG5HKQ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B071VG5HKQ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics 26-Inch Hardside Checked Luggage, Orange"
+  },
+  "bagsmart-toiletry-bag-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CKYYDHLS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CKYYDHLS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "BAGSMART Travel Toiletry Bag, Black"
+  },
+  "swissgear-sion-softside-checked-luggage-amazon": {
+    "destination": "https://www.amazon.com/dp/B014TDH23G?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B014TDH23G",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "SwissGear Sion Softside Expandable Spinner, Dark Grey"
   }
 }

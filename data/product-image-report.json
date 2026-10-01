@@ -56,7 +56,42 @@
     "irwin-vise-grip-11in-locking-c-clamp-amazon",
     "oxo-good-grips-swivel-peeler-amazon",
     "dewalt-tough-tape-25ft-homedepot",
-    "room-essentials-6pc-dorm-towel-set-target"
+    "room-essentials-6pc-dorm-towel-set-target",
+    "rubbermaid-brilliance-9-6cup-2pk-amazon",
+    "rubbermaid-brilliance-tritan-5pk-amazon",
+    "amazon-basics-mini-dutch-oven-2qt-amazon",
+    "amazon-basics-oversize-bath-towel-2pk-amazon",
+    "amazon-basics-lr44-12pk-amazon",
+    "tsa-30ml-travel-dispenser-4pk-amazon",
+    "amazon-basics-21in-hardside-carry-on-amazon",
+    "european-type-c-plug-adapter-2pk-amazon",
+    "amazon-basics-toilet-paper-30-roll",
+    "amazon-basics-flex-sheets-paper-towels-12",
+    "amazon-basics-13gal-trash-bags-120",
+    "amazon-elements-baby-wipes-810",
+    "happy-belly-house-blend-kcups-100",
+    "amazon-fresh-colombia-whole-bean-32oz",
+    "lodge-square-panini-press-amazon",
+    "gourmia-6qt-window-air-fryer-target",
+    "anker-20000mah-45w-power-bank-amazon",
+    "amazon-essentials-compression-packing-cubes-6pk",
+    "community-coffee-breakfast-blend-12oz",
+    "amazon-fresh-french-vanilla-kcups-80",
+    "amazon-basics-lotion-facial-tissues-18pk",
+    "amazon-basics-gallon-food-bags-120",
+    "amazon-basics-disinfecting-wipes-255",
+    "zojirushi-micom-3cup-rice-cooker-amazon",
+    "crock-pot-7qt-manual-slow-cooker-amazon",
+    "shark-navigator-lift-away-nv352-amazon",
+    "amazon-basics-23in-checked-luggage-amazon",
+    "stouchi-rfid-passport-holder-amazon",
+    "bissell-cleanview-rewind-pet-3534-amazon",
+    "kitchenaid-classic-can-opener-empire-red-amazon",
+    "nescafe-tasters-choice-house-blend-2-jars-amazon",
+    "lavazza-house-blend-perfetto-12oz-amazon",
+    "amazon-basics-26in-hardside-checked-luggage-amazon",
+    "bagsmart-toiletry-bag-black-amazon",
+    "swissgear-sion-softside-checked-luggage-amazon"
   ],
   "skipped_unlocked_url": [
     "hart-2-position-ratcheting-screwdriver-walmart",
@@ -323,7 +358,7 @@
     {
       "id": "oxo-good-grips-salad-spinner-amazon",
       "merchant": "Amazon",
-      "image_url": "https://m.media-amazon.com/images/I/81llIkiRB8L._AC_SL500_.jpg",
+      "image_url": "https://m.media-amazon.com/images/I/818Y0pTgRrL._AC_SL500_.jpg",
       "image_alt": "OXO Good Grips Salad Spinner (Large ~6.22 qt)",
       "image_source": "amazon",
       "status": "ok",
@@ -386,7 +421,7 @@
     {
       "id": "amazon-basics-microfiber-cloths-24pk",
       "merchant": "Amazon",
-      "image_url": "https://m.media-amazon.com/images/I/91WjG1lqmLL._AC_SL500_.jpg",
+      "image_url": "https://m.media-amazon.com/images/I/914E9wjBWsL._AC_SL500_.jpg",
       "image_alt": "Amazon Basics Microfiber Cleaning Cloths, 24-Pack (16\" x 12\")",
       "image_source": "amazon",
       "status": "ok",
@@ -477,7 +512,7 @@
       "id": "amazon-basics-aa-batteries-48pk",
       "merchant": "Amazon",
       "image_url": "https://m.media-amazon.com/images/I/715RL6A12gL._AC_SL500_.jpg",
-      "image_alt": "Amazon Basics AA Alkaline Batteries, 48-Pack",
+      "image_alt": "Amazon Basics 48-Count AA and AAA Alkaline Batteries",
       "image_source": "amazon",
       "status": "ok",
       "detail": ""
@@ -576,7 +611,7 @@
       "id": "amazon-basics-packing-cubes-4pc",
       "merchant": "Amazon",
       "image_url": "https://m.media-amazon.com/images/I/71GCQqyqpRL._AC_SL500_.jpg",
-      "image_alt": "Amazon Basics 4-Piece Packing Cubes Set",
+      "image_alt": "Amazon Essentials 4-Piece Packing Cubes",
       "image_source": "amazon",
       "status": "ok",
       "detail": ""
@@ -621,7 +656,7 @@
       "id": "nalgene-32oz-wide-mouth-amazon",
       "merchant": "Amazon",
       "image_url": "https://m.media-amazon.com/images/P/B0B9T4KCV7.01._SCLZZZZZZZ_.jpg",
-      "image_alt": "Nalgene 32 oz Wide Mouth Bottle (Tritan)",
+      "image_alt": "Nalgene 32 oz Wide Mouth Bottle, Gray with Black Lid",
       "image_source": "amazon",
       "status": "ok",
       "detail": "Locked current Nalgene 32 oz Wide Mouth Tritan listing ASIN B0B9T4KCV7."
@@ -674,7 +709,7 @@
     {
       "id": "oxo-good-grips-swivel-peeler-amazon",
       "merchant": "Amazon",
-      "image_url": "https://m.media-amazon.com/images/I/71UBG06NKFL._AC_SL500_.jpg",
+      "image_url": "https://m.media-amazon.com/images/I/51C5YC8mf3L._AC_SL500_.jpg",
       "image_alt": "OXO Good Grips Swivel Peeler",
       "image_source": "amazon",
       "status": "ok",
@@ -715,11 +750,321 @@
       "image_source": "target",
       "status": "ok",
       "detail": ""
+    },
+    {
+      "id": "rubbermaid-brilliance-9-6cup-2pk-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/81t07qUYo4L._AC_SL500_.jpg",
+      "image_alt": "Rubbermaid Brilliance 9.6-Cup Food Storage Containers, 2-Count",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "rubbermaid-brilliance-tritan-5pk-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/81qikuKGJZL._AC_SL500_.jpg",
+      "image_alt": "Rubbermaid Brilliance 3.2-Cup Tritan Containers, Set of 5",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-basics-mini-dutch-oven-2qt-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71dTJI7Ye6L._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics 2-Quart Pre-Seasoned Cast Iron Mini Dutch Oven",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-basics-oversize-bath-towel-2pk-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/81gq2iKDiFL._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics Quick-Dry Oversize Bath Towels, 2-Piece, Platinum",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-basics-lr44-12pk-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71MW5JmWO2L._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics LR44 Alkaline Button Cell Batteries, 12-Pack",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "tsa-30ml-travel-dispenser-4pk-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/51eZ+SvIhPL._AC_SL500_.jpg",
+      "image_alt": "30ml Leak-Resistant Travel Dispenser Bottles, 4-Pack",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-basics-21in-hardside-carry-on-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/715LkyjYJtL._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics 21-Inch Hardside Carry-On, Rose Gold",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "european-type-c-plug-adapter-2pk-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/51xDIvr7yiL._AC_SL500_.jpg",
+      "image_alt": "European Type C Travel Plug Adapter, 2-Pack",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-basics-toilet-paper-30-roll",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71OrNzZA+JL._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics 2-Ply Toilet Paper, 30 Rolls",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-basics-flex-sheets-paper-towels-12",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71v-pTar1AL._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics Flex-Sheets Paper Towels, 12 Rolls",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-basics-13gal-trash-bags-120",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/61+Fx83MXyL._SL1500_.jpg",
+      "image_alt": "Amazon Basics 13-Gallon Drawstring Trash Bags, 120 Count",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-elements-baby-wipes-810",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71gbIUpYmcL._SL1500_.jpg",
+      "image_alt": "Amazon Elements Unscented Baby Wipes, 810 Count",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "happy-belly-house-blend-kcups-100",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71XqE4fOIsL._SL1500_.jpg",
+      "image_alt": "Happy Belly House Blend Coffee Pods, 100 Count",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-fresh-colombia-whole-bean-32oz",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/7121M8H6isL._SL1500_.jpg",
+      "image_alt": "Amazon Fresh Colombia Whole Bean Coffee, 32 oz",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "lodge-square-panini-press-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71eHqa74ipL._AC_SL500_.jpg",
+      "image_alt": "Lodge Pre-Seasoned Cast Iron Square Panini Press",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "gourmia-6qt-window-air-fryer-target",
+      "merchant": "Target",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_33d23cc1-0d51-43b8-9152-e1be3be14ed2?wid=600&hei=600&qlt=85",
+      "image_alt": "Gourmia 6 qt Digital Window Air Fryer, Black",
+      "image_source": "target",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "anker-20000mah-45w-power-bank-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71iQIOCsEzL._AC_SL500_.jpg",
+      "image_alt": "Anker 20,000mAh 45W Power Bank with Built-in USB-C Cables",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-essentials-compression-packing-cubes-6pk",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/61gYV84L2zL._AC_SL500_.jpg",
+      "image_alt": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "community-coffee-breakfast-blend-12oz",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71fXSRJ1ujL._SL1500_.jpg",
+      "image_alt": "Community Coffee Breakfast Blend Ground Coffee, 12 oz",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-fresh-french-vanilla-kcups-80",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/81nkHuR1+4L._SL1500_.jpg",
+      "image_alt": "Amazon Fresh French Vanilla Coffee Pods, 80 Count",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-basics-lotion-facial-tissues-18pk",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/719diQ+ix6L._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics Lotion Facial Tissues, 18 Boxes",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-basics-gallon-food-bags-120",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71luLBOr8dL._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics Gallon Food Storage Bags, 120 Count",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-basics-disinfecting-wipes-255",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71HKpJPcVML._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics Disinfecting Wipes, 255 Count",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "zojirushi-micom-3cup-rice-cooker-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/61dNySbeVWL._AC_SL500_.jpg",
+      "image_alt": "Zojirushi Micom 3-Cup Rice Cooker",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "crock-pot-7qt-manual-slow-cooker-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/91Efej53gdL._AC_SL500_.jpg",
+      "image_alt": "Crock-Pot 7-Quart Manual Slow Cooker, Charcoal",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "shark-navigator-lift-away-nv352-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/61FHRTjiT3L._AC_SL500_.jpg",
+      "image_alt": "Shark Navigator Lift-Away Upright Vacuum, NV352",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-basics-23in-checked-luggage-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/61sEzWbF5YL._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics 23-Inch Checked Softside Luggage, Black",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "stouchi-rfid-passport-holder-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71TH9TmCzWL._AC_SL500_.jpg",
+      "image_alt": "Stouchi Passport Holder with AirTag Slot",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "bissell-cleanview-rewind-pet-3534-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/71qgStRusIL._AC_SL500_.jpg",
+      "image_alt": "Bissell CleanView Rewind Pet Bagless Vacuum, 3534",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "kitchenaid-classic-can-opener-empire-red-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/613jvH9+M9L._AC_SL500_.jpg",
+      "image_alt": "KitchenAid Classic Can Opener with Bottle Opener, Empire Red",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "nescafe-tasters-choice-house-blend-2-jars-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/912ewjn64rL._SL1500_.jpg",
+      "image_alt": "NESCAF\u00c9 Taster's Choice House Blend Instant Coffee, 2 Jars",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "lavazza-house-blend-perfetto-12oz-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/61-amoVHDIL._SL1500_.jpg",
+      "image_alt": "Lavazza House Blend Perfetto Ground Coffee, 12 oz",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "amazon-basics-26in-hardside-checked-luggage-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/6149iPwBS0L._AC_SL500_.jpg",
+      "image_alt": "Amazon Basics 26-Inch Hardside Checked Luggage, Orange",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "bagsmart-toiletry-bag-black-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/61DtJR4vcqL._AC_SL500_.jpg",
+      "image_alt": "BAGSMART Travel Toiletry Bag, Black",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
+    },
+    {
+      "id": "swissgear-sion-softside-checked-luggage-amazon",
+      "merchant": "Amazon",
+      "image_url": "https://m.media-amazon.com/images/I/81F5vd8vFAL._AC_SL500_.jpg",
+      "image_alt": "SwissGear Sion Softside Expandable Spinner, Dark Grey",
+      "image_source": "amazon",
+      "status": "ok",
+      "detail": ""
     }
-  ],
-  "published_with_photo": 57,
-  "excluded_pending_photo": 14,
-  "seed_count": 71,
-  "photos_added_this_pass": 27,
-  "prior_verified_photos": 30
+  ]
 }
