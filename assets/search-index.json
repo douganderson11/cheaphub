@@ -637,13 +637,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Community Coffee Breakfast Blend Ground Coffee, 12 oz",
-    "summary": "A 12-ounce bag of Community's medium-roast Breakfast Blend, ground for drip, pour-over, or a French press. Sold at Amazon.",
-    "url": "/deals/#community-coffee-breakfast-blend-12oz",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Amazon Fresh French Vanilla Coffee Pods, 80 Count",
     "summary": "Eighty Amazon Fresh French vanilla pods, medium roast, for a Keurig-style brewer. Sold at Amazon.",
     "url": "/deals/#amazon-fresh-french-vanilla-kcups-80",
@@ -693,16 +686,58 @@
     "topic": "Home"
   },
   {
-    "title": "Amazon Basics 23-Inch Checked Softside Luggage, Black",
-    "summary": "A black 23-inch softside checked suitcase with spinner wheels and a shell that expands. Sold at Amazon.",
-    "url": "/deals/#amazon-basics-23in-checked-luggage-amazon",
+    "title": "Stouchi Passport Holder with AirTag Slot",
+    "summary": "A slim Stouchi passport holder with an AirTag slot and RFID-blocking material, according to the listing. Sold at Amazon.",
+    "url": "/deals/#stouchi-rfid-passport-holder-amazon",
     "type": "Product",
     "topic": "Travel"
   },
   {
-    "title": "Stouchi Passport Holder with AirTag Slot",
-    "summary": "A slim Stouchi passport holder with an AirTag slot and RFID-blocking material, according to the listing. Sold at Amazon.",
-    "url": "/deals/#stouchi-rfid-passport-holder-amazon",
+    "title": "Bissell CleanView Rewind Pet Bagless Vacuum, 3534",
+    "summary": "Bissell CleanView Rewind Pet, model 3534, is a bagless upright with a 25-foot cord that rewinds and a wand the listing says reaches about 10 feet. Sold at Amazon.",
+    "url": "/deals/#bissell-cleanview-rewind-pet-3534-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "KitchenAid Classic Can Opener with Bottle Opener, Empire Red",
+    "summary": "KitchenAid's Empire Red Classic can opener, with a stainless cutting wheel and a bottle opener on the same tool. Sold at Amazon.",
+    "url": "/deals/#kitchenaid-classic-can-opener-empire-red-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "NESCAF\u00c9 Taster's Choice House Blend Instant Coffee, 2 Jars",
+    "summary": "Two 7-ounce jars of NESCAF\u00c9 Taster's Choice House Blend instant coffee, a light-to-medium roast. Sold at Amazon.",
+    "url": "/deals/#nescafe-tasters-choice-house-blend-2-jars-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Lavazza House Blend Perfetto Ground Coffee, 12 oz",
+    "summary": "A 12-ounce bag of Lavazza House Blend Perfetto ground coffee, medium roast, for a drip brewer. Sold at Amazon.",
+    "url": "/deals/#lavazza-house-blend-perfetto-12oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Amazon Basics 26-Inch Hardside Checked Luggage, Orange",
+    "summary": "An orange 26-inch Amazon Basics hardside checked suitcase. The listing measures it at 17.8 x 11.3 x 26.8 inches with the wheels, and says it expands about 15%. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-26in-hardside-checked-luggage-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "BAGSMART Travel Toiletry Bag, Black",
+    "summary": "A black BAGSMART toiletry bag, listed at about 11.8 by 7.3 by 8.7 inches, with four compartments and a waterproof pocket. Sold at Amazon.",
+    "url": "/deals/#bagsmart-toiletry-bag-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "SwissGear Sion Softside Expandable Spinner, Dark Grey",
+    "summary": "SwissGear's dark grey Sion softside spinner, a medium checked bag. The listing puts the outside size, wheels included, at about 26.25 x 16.75 x 11 inches. Sold at Amazon.",
+    "url": "/deals/#swissgear-sion-softside-checked-luggage-amazon",
     "type": "Product",
     "topic": "Travel"
   }
