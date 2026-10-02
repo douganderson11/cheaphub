@@ -740,5 +740,68 @@
     "url": "/deals/#swissgear-sion-softside-checked-luggage-amazon",
     "type": "Product",
     "topic": "Travel"
+  },
+  {
+    "title": "Wrangler Astral 20-Inch Hardside Carry-On, Hydro",
+    "summary": "A 20-inch Wrangler Astral hardside carry-on in Hydro, with four spinner wheels and a combination lock. Sold at Amazon.",
+    "url": "/deals/#wrangler-astral-20in-carry-on-hydro-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Zinus 12-Inch Green Tea Memory Foam Mattress, King",
+    "summary": "A king-size, 12-inch Zinus memory foam mattress that shows up compressed in one box. Sold at Amazon.",
+    "url": "/deals/#zinus-12in-green-tea-king-mattress-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Yankee Candle Spiced Pumpkin, 22 oz Large Jar",
+    "summary": "Yankee Candle's Spiced Pumpkin in the 22-ounce jar, a pumpkin scent with cinnamon, nutmeg, and clove. Sold at Amazon.",
+    "url": "/deals/#yankee-candle-spiced-pumpkin-22oz-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Amazon Basics Gel Odor Eliminator, Lavender, 17 oz",
+    "summary": "A single 17-ounce tub of Amazon Basics lavender gel odor eliminator with activated charcoal. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-gel-odor-eliminator-lavender-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "OxiClean Max Force Laundry Stain Spray, 12 oz, 3-Pack",
+    "summary": "Three 12-ounce bottles of OxiClean Max Force, a bleach-free spray for set-in laundry stains. Sold at Amazon.",
+    "url": "/deals/#oxiclean-max-force-spray-3pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "ARM & HAMMER Plus OxiClean Laundry Detergent Paks, 72 Count",
+    "summary": "A 72-count bag of ARM & HAMMER Plus OxiClean detergent paks, scented Fresh Burst. Sold at Amazon.",
+    "url": "/deals/#arm-hammer-oxiclean-laundry-paks-72-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Happy Belly Colombian Coffee Pods, Medium Roast, 24 Count",
+    "summary": "Twenty-four Happy Belly Colombian pods, medium roast, for a Keurig-style machine. Sold at Amazon.",
+    "url": "/deals/#happy-belly-colombian-kcups-24-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Lavazza Dolcevita Classico K-Cup Pods, 88 Count",
+    "summary": "An 88-count box of Lavazza Dolcevita Classico pods, sold as four packs of 22. Sold at Amazon.",
+    "url": "/deals/#lavazza-dolcevita-classico-kcups-88-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "La Colombe Triple Draft Latte, 11 fl oz, 12-Pack",
+    "summary": "A 12-pack of La Colombe Triple Draft Latte in 11-ounce cans, ready to drink. Sold at Amazon.",
+    "url": "/deals/#la-colombe-triple-draft-latte-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
   }
 ]
