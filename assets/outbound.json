@@ -663,5 +663,68 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "SwissGear Sion Softside Expandable Spinner, Dark Grey"
+  },
+  "wrangler-astral-20in-carry-on-hydro-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CBNM82TQ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CBNM82TQ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Wrangler Astral 20-Inch Hardside Carry-On, Hydro"
+  },
+  "zinus-12in-green-tea-king-mattress-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CKZ1CK1H?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CKZ1CK1H",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Zinus 12-Inch Green Tea Memory Foam Mattress, King"
+  },
+  "yankee-candle-spiced-pumpkin-22oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F3DRTCB2?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F3DRTCB2",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Yankee Candle Spiced Pumpkin, 22 oz Large Jar"
+  },
+  "amazon-basics-gel-odor-eliminator-lavender-amazon": {
+    "destination": "https://www.amazon.com/dp/B09B1QWDCY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09B1QWDCY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics Gel Odor Eliminator, Lavender, 17 oz"
+  },
+  "oxiclean-max-force-spray-3pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BVY2XKJX?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BVY2XKJX",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "OxiClean Max Force Laundry Stain Spray, 12 oz, 3-Pack"
+  },
+  "arm-hammer-oxiclean-laundry-paks-72-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FNBTCFPY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FNBTCFPY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "ARM & HAMMER Plus OxiClean Laundry Detergent Paks, 72 Count"
+  },
+  "happy-belly-colombian-kcups-24-amazon": {
+    "destination": "https://www.amazon.com/dp/B07NYQNBLH?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07NYQNBLH",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Happy Belly Colombian Coffee Pods, Medium Roast, 24 Count"
+  },
+  "lavazza-dolcevita-classico-kcups-88-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BFFPLLD5?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BFFPLLD5",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Lavazza Dolcevita Classico K-Cup Pods, 88 Count"
+  },
+  "la-colombe-triple-draft-latte-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CVSK3PDP?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CVSK3PDP",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "La Colombe Triple Draft Latte, 11 fl oz, 12-Pack"
   }
 }
