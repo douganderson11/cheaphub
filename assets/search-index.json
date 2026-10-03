@@ -693,13 +693,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Bissell CleanView Rewind Pet Bagless Vacuum, 3534",
-    "summary": "Bissell CleanView Rewind Pet, model 3534, is a bagless upright with a 25-foot cord that rewinds and a wand the listing says reaches about 10 feet. Sold at Amazon.",
-    "url": "/deals/#bissell-cleanview-rewind-pet-3534-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "KitchenAid Classic Can Opener with Bottle Opener, Empire Red",
     "summary": "KitchenAid's Empire Red Classic can opener, with a stainless cutting wheel and a bottle opener on the same tool. Sold at Amazon.",
     "url": "/deals/#kitchenaid-classic-can-opener-empire-red-amazon",
@@ -784,13 +777,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Happy Belly Colombian Coffee Pods, Medium Roast, 24 Count",
-    "summary": "Twenty-four Happy Belly Colombian pods, medium roast, for a Keurig-style machine. Sold at Amazon.",
-    "url": "/deals/#happy-belly-colombian-kcups-24-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Lavazza Dolcevita Classico K-Cup Pods, 88 Count",
     "summary": "An 88-count box of Lavazza Dolcevita Classico pods, sold as four packs of 22. Sold at Amazon.",
     "url": "/deals/#lavazza-dolcevita-classico-kcups-88-amazon",
@@ -801,6 +787,55 @@
     "title": "La Colombe Triple Draft Latte, 11 fl oz, 12-Pack",
     "summary": "A 12-pack of La Colombe Triple Draft Latte in 11-ounce cans, ready to drink. Sold at Amazon.",
     "url": "/deals/#la-colombe-triple-draft-latte-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Calphalon Classic Stainless Steel Cookware Set, 10-Piece",
+    "summary": "Ten pieces of Calphalon Classic stainless, with an impact-bonded aluminum base and glass lids. Sold at Amazon.",
+    "url": "/deals/#calphalon-classic-stainless-10pc-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Rachael Ray Cucina Nonstick Cookware Set, 12-Piece, Purple",
+    "summary": "Rachael Ray's Cucina nonstick set, 12 pieces, in purple. Sold at Amazon.",
+    "url": "/deals/#rachael-ray-cucina-12pc-purple-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Green Mountain Dark Magic K-Cup Pods, Dark Roast, 72 Count",
+    "summary": "A 72-count box of Green Mountain Dark Magic K-Cups, dark roast. Sold at Amazon.",
+    "url": "/deals/#green-mountain-dark-magic-kcups-72-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Peet's Major Dickason's Blend Whole Bean Coffee, 18 oz",
+    "summary": "Peet's Major Dickason's Blend, whole bean, in an 18-ounce bag. Sold at Amazon.",
+    "url": "/deals/#peets-major-dickasons-whole-bean-18oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Happy Belly French Roast Coffee Pods, Dark Roast, 24 Count",
+    "summary": "Twenty-four Happy Belly French Roast pods if you want a dark cup without the 100-count box. Sold at Amazon.",
+    "url": "/deals/#happy-belly-french-roast-kcups-24-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Caribou Coffee Caribou Blend K-Cup Pods, Medium Roast, 96 Count",
+    "summary": "Caribou Blend K-Cup pods, medium roast, in a 96-count box. Sold at Amazon.",
+    "url": "/deals/#caribou-blend-kcups-96-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Dr Pepper Zero Sugar, 12 fl oz, 12-Pack",
+    "summary": "Twelve 12-ounce cans of Dr Pepper Zero Sugar. Sold at Amazon.",
+    "url": "/deals/#dr-pepper-zero-sugar-12pk-amazon",
     "type": "Product",
     "topic": "Everyday"
   }
