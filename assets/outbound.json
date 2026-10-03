@@ -615,13 +615,6 @@
     "merchant": "Amazon",
     "title": "Stouchi Passport Holder with AirTag Slot"
   },
-  "bissell-cleanview-rewind-pet-3534-amazon": {
-    "destination": "https://www.amazon.com/dp/B0BFJP4BDM?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0BFJP4BDM",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Bissell CleanView Rewind Pet Bagless Vacuum, 3534"
-  },
   "kitchenaid-classic-can-opener-empire-red-amazon": {
     "destination": "https://www.amazon.com/dp/B07YP1TB6P?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B07YP1TB6P",
@@ -706,13 +699,6 @@
     "merchant": "Amazon",
     "title": "ARM & HAMMER Plus OxiClean Laundry Detergent Paks, 72 Count"
   },
-  "happy-belly-colombian-kcups-24-amazon": {
-    "destination": "https://www.amazon.com/dp/B07NYQNBLH?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07NYQNBLH",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Happy Belly Colombian Coffee Pods, Medium Roast, 24 Count"
-  },
   "lavazza-dolcevita-classico-kcups-88-amazon": {
     "destination": "https://www.amazon.com/dp/B0BFFPLLD5?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0BFFPLLD5",
@@ -726,5 +712,54 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "La Colombe Triple Draft Latte, 11 fl oz, 12-Pack"
+  },
+  "calphalon-classic-stainless-10pc-amazon": {
+    "destination": "https://www.amazon.com/dp/B00HQWONBW?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00HQWONBW",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Calphalon Classic Stainless Steel Cookware Set, 10-Piece"
+  },
+  "rachael-ray-cucina-12pc-purple-amazon": {
+    "destination": "https://www.amazon.com/dp/B00UD6YKES?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00UD6YKES",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rachael Ray Cucina Nonstick Cookware Set, 12-Piece, Purple"
+  },
+  "green-mountain-dark-magic-kcups-72-amazon": {
+    "destination": "https://www.amazon.com/dp/B00I5FWWPI?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00I5FWWPI",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Green Mountain Dark Magic K-Cup Pods, Dark Roast, 72 Count"
+  },
+  "peets-major-dickasons-whole-bean-18oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B087K8DC6X?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B087K8DC6X",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Peet's Major Dickason's Blend Whole Bean Coffee, 18 oz"
+  },
+  "happy-belly-french-roast-kcups-24-amazon": {
+    "destination": "https://www.amazon.com/dp/B07NZTX69L?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07NZTX69L",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Happy Belly French Roast Coffee Pods, Dark Roast, 24 Count"
+  },
+  "caribou-blend-kcups-96-amazon": {
+    "destination": "https://www.amazon.com/dp/B07GNZZ25C?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07GNZZ25C",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Caribou Coffee Caribou Blend K-Cup Pods, Medium Roast, 96 Count"
+  },
+  "dr-pepper-zero-sugar-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B08XXGB5NK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08XXGB5NK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Dr Pepper Zero Sugar, 12 fl oz, 12-Pack"
   }
 }
