@@ -3,4 +3,4 @@
   Referrer-Policy: strict-origin-when-cross-origin
   X-Frame-Options: DENY
   Permissions-Policy: camera=(), microphone=(), geolocation=()
-  Content-Security-Policy: default-src 'self'; img-src 'self' data: https://m.media-amazon.com https://images-na.ssl-images-amazon.com https://target.scene7.com https://images.thdstatic.com https://images.homedepot-static.com https://i5.walmartimages.com https://i.walmartimages.com; style-src 'self'; script-src 'self'; form-action 'self'; base-uri 'self'; frame-ancestors 'none'
+  Content-Security-Policy: default-src 'self'; img-src 'self' data: https://m.media-amazon.com https://images-na.ssl-images-amazon.com https://target.scene7.com https://images.thdstatic.com https://images.homedepot-static.com https://i5.walmartimages.com https://i.walmartimages.com https://www.googletagmanager.com https://*.google-analytics.com; style-src 'self'; script-src 'self' https://www.googletagmanager.com 'sha256-+F3mxSo74+GVoYG0J3khj/S6tw4FjTKwfrIzBc/eewc='; connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com; form-action 'self'; base-uri 'self'; frame-ancestors 'none'
