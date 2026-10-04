@@ -447,13 +447,6 @@
     "merchant": "Amazon",
     "title": "Rubbermaid Brilliance 3.2-Cup Tritan Containers, Set of 5"
   },
-  "amazon-basics-mini-dutch-oven-2qt-amazon": {
-    "destination": "https://www.amazon.com/dp/B074DFMR8K?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B074DFMR8K",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Amazon Basics 2-Quart Pre-Seasoned Cast Iron Mini Dutch Oven"
-  },
   "amazon-basics-oversize-bath-towel-2pk-amazon": {
     "destination": "https://www.amazon.com/dp/B07B6CHRF8?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B07B6CHRF8",
@@ -685,13 +678,6 @@
     "merchant": "Amazon",
     "title": "Amazon Basics Gel Odor Eliminator, Lavender, 17 oz"
   },
-  "oxiclean-max-force-spray-3pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0BVY2XKJX?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0BVY2XKJX",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "OxiClean Max Force Laundry Stain Spray, 12 oz, 3-Pack"
-  },
   "arm-hammer-oxiclean-laundry-paks-72-amazon": {
     "destination": "https://www.amazon.com/dp/B0FNBTCFPY?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0FNBTCFPY",
@@ -705,13 +691,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Lavazza Dolcevita Classico K-Cup Pods, 88 Count"
-  },
-  "la-colombe-triple-draft-latte-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0CVSK3PDP?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0CVSK3PDP",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "La Colombe Triple Draft Latte, 11 fl oz, 12-Pack"
   },
   "calphalon-classic-stainless-10pc-amazon": {
     "destination": "https://www.amazon.com/dp/B00HQWONBW?tag=cheaphubus-20",
@@ -755,11 +734,60 @@
     "merchant": "Amazon",
     "title": "Caribou Coffee Caribou Blend K-Cup Pods, Medium Roast, 96 Count"
   },
-  "dr-pepper-zero-sugar-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B08XXGB5NK?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B08XXGB5NK",
+  "vitamix-5200-blender-white-amazon": {
+    "destination": "https://www.amazon.com/dp/B004F9L4EI?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B004F9L4EI",
     "affiliate_url": null,
     "merchant": "Amazon",
-    "title": "Dr Pepper Zero Sugar, 12 fl oz, 12-Pack"
+    "title": "Vitamix 5200 Blender, 64 oz, White"
+  },
+  "pfaltzgraff-kenna-red-16pc-amazon": {
+    "destination": "https://www.amazon.com/dp/B01J7H34M2?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01J7H34M2",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Pfaltzgraff Kenna Red 16-Piece Dinnerware Set"
+  },
+  "chicago-metallic-round-cake-pan-3pc-amazon": {
+    "destination": "https://www.amazon.com/dp/B07JWKDW8Z?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07JWKDW8Z",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Chicago Metallic Professional Round Cake Pan Set, 3-Piece"
+  },
+  "chicago-metallic-6cup-muffin-pan-amazon": {
+    "destination": "https://www.amazon.com/dp/B003YKGRDM?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B003YKGRDM",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Chicago Metallic Professional 6-Cup Muffin Pan"
+  },
+  "simplihome-harrison-lift-top-ottoman-amazon": {
+    "destination": "https://www.amazon.com/dp/B06VT9WFZQ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B06VT9WFZQ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "SIMPLIHOME Harrison 36 in. Lift-Top Ottoman, Crimson Red"
+  },
+  "serta-ergonomic-executive-chair-amazon": {
+    "destination": "https://www.amazon.com/dp/B00EUU5G82?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00EUU5G82",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Serta Ergonomic Executive Office Chair with Lumbar Support"
+  },
+  "premier-protein-coffeehouse-macchiato-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FQ8RJN8S?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FQ8RJN8S",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Premier Protein Coffeehouse Shake, Caramel Macchiato, 12-Pack"
+  },
+  "samsonite-omni-2-hardside-3pc-nova-teal-amazon": {
+    "destination": "https://www.amazon.com/dp/B08BX83MDZ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08BX83MDZ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Omni 2 Hardside 3-Piece Set, Nova Teal"
   }
 }

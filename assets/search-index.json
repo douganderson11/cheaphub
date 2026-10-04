@@ -525,13 +525,6 @@
     "topic": "Home"
   },
   {
-    "title": "Amazon Basics 2-Quart Pre-Seasoned Cast Iron Mini Dutch Oven",
-    "summary": "A 2-quart pre-seasoned cast iron pot with a lid and two side handles, sized for a side dish. Sold at Amazon.",
-    "url": "/deals/#amazon-basics-mini-dutch-oven-2qt-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Amazon Basics Quick-Dry Oversize Bath Towels, 2-Piece, Platinum",
     "summary": "Two cotton bath towels, 54 by 30 inches, in platinum. Sold at Amazon.",
     "url": "/deals/#amazon-basics-oversize-bath-towel-2pk-amazon",
@@ -763,13 +756,6 @@
     "topic": "Home"
   },
   {
-    "title": "OxiClean Max Force Laundry Stain Spray, 12 oz, 3-Pack",
-    "summary": "Three 12-ounce bottles of OxiClean Max Force, a bleach-free spray for set-in laundry stains. Sold at Amazon.",
-    "url": "/deals/#oxiclean-max-force-spray-3pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "ARM & HAMMER Plus OxiClean Laundry Detergent Paks, 72 Count",
     "summary": "A 72-count bag of ARM & HAMMER Plus OxiClean detergent paks, scented Fresh Burst. Sold at Amazon.",
     "url": "/deals/#arm-hammer-oxiclean-laundry-paks-72-amazon",
@@ -780,13 +766,6 @@
     "title": "Lavazza Dolcevita Classico K-Cup Pods, 88 Count",
     "summary": "An 88-count box of Lavazza Dolcevita Classico pods, sold as four packs of 22. Sold at Amazon.",
     "url": "/deals/#lavazza-dolcevita-classico-kcups-88-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "La Colombe Triple Draft Latte, 11 fl oz, 12-Pack",
-    "summary": "A 12-pack of La Colombe Triple Draft Latte in 11-ounce cans, ready to drink. Sold at Amazon.",
-    "url": "/deals/#la-colombe-triple-draft-latte-12pk-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -833,10 +812,59 @@
     "topic": "Everyday"
   },
   {
-    "title": "Dr Pepper Zero Sugar, 12 fl oz, 12-Pack",
-    "summary": "Twelve 12-ounce cans of Dr Pepper Zero Sugar. Sold at Amazon.",
-    "url": "/deals/#dr-pepper-zero-sugar-12pk-amazon",
+    "title": "Vitamix 5200 Blender, 64 oz, White",
+    "summary": "Vitamix's 5200 in white, with a 64-ounce container, a tamper, and 10 speeds plus a high setting. Sold at Amazon.",
+    "url": "/deals/#vitamix-5200-blender-white-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Pfaltzgraff Kenna Red 16-Piece Dinnerware Set",
+    "summary": "A 16-piece Kenna Red set for four, with dinner plates, salad plates, bowls, and mugs. Sold at Amazon.",
+    "url": "/deals/#pfaltzgraff-kenna-red-16pc-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Chicago Metallic Professional Round Cake Pan Set, 3-Piece",
+    "summary": "Three Chicago Metallic round cake pans, in 6-, 8-, and 10-inch sizes, in nonstick aluminized steel. Sold at Amazon.",
+    "url": "/deals/#chicago-metallic-round-cake-pan-3pc-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Chicago Metallic Professional 6-Cup Muffin Pan",
+    "summary": "A Chicago Metallic 6-cup jumbo muffin pan in carbon steel, with cups about 3.75 by 1.75 inches. Sold at Amazon.",
+    "url": "/deals/#chicago-metallic-6cup-muffin-pan-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "SIMPLIHOME Harrison 36 in. Lift-Top Ottoman, Crimson Red",
+    "summary": "A 36-inch square lift-top ottoman in crimson red vegan leather, with a split lid and storage underneath. Sold at Amazon.",
+    "url": "/deals/#simplihome-harrison-lift-top-ottoman-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Serta Ergonomic Executive Office Chair with Lumbar Support",
+    "summary": "A bonded-leather executive chair with a pivoting air lumbar, memory foam, and pocket coils in the seat. Sold at Amazon.",
+    "url": "/deals/#serta-ergonomic-executive-chair-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Premier Protein Coffeehouse Shake, Caramel Macchiato, 12-Pack",
+    "summary": "Twelve Premier Protein Coffeehouse shakes in caramel macchiato, with 30 grams of protein in each bottle. Sold at Amazon.",
+    "url": "/deals/#premier-protein-coffeehouse-macchiato-12pk-amazon",
     "type": "Product",
     "topic": "Everyday"
+  },
+  {
+    "title": "Samsonite Omni 2 Hardside 3-Piece Set, Nova Teal",
+    "summary": "Samsonite's Omni 2 set in Nova Teal: a global carry-on plus medium and large checked spinners. Sold at Amazon.",
+    "url": "/deals/#samsonite-omni-2-hardside-3pc-nova-teal-amazon",
+    "type": "Product",
+    "topic": "Travel"
   }
 ]
