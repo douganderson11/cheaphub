@@ -251,13 +251,6 @@
     "merchant": "Amazon",
     "title": "Amazon Basics HDMI Cable, 6 ft (4K@60Hz / HDMI 2.0)"
   },
-  "anker-powercore-10000-amazon": {
-    "destination": "https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Anker PowerCore 10000 Portable Charger"
-  },
   "tide-pods-42ct-amazon": {
     "destination": "https://www.amazon.com/Tide-Pods-Orginal-Tub-Count/dp/B0747ZC625?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/Tide-Pods-Orginal-Tub-Count/dp/B0747ZC625",
@@ -369,13 +362,6 @@
     "affiliate_url": null,
     "merchant": "Target",
     "title": "Packit Freezable Lunch Bag (travel day-trip use)"
-  },
-  "anker-powercore-10000-travel-slice": {
-    "destination": "https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Anker PowerCore 10000 (travel carry)"
   },
   "klein-3pc-adjustable-wrench-set-amazon": {
     "destination": "https://www.amazon.com/Klein-Tools-D5073-Adjustable-Capacity/dp/B0CYHLQ7FW?tag=cheaphubus-20",
@@ -538,13 +524,6 @@
     "merchant": "Target",
     "title": "Gourmia 6 qt Digital Window Air Fryer, Black"
   },
-  "anker-20000mah-45w-power-bank-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DSZKKJTK?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DSZKKJTK",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Anker 20,000mAh 45W Power Bank with Built-in USB-C Cables"
-  },
   "amazon-essentials-compression-packing-cubes-6pk": {
     "destination": "https://www.amazon.com/dp/B0DRNGLGFB?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DRNGLGFB",
@@ -558,13 +537,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Amazon Fresh French Vanilla Coffee Pods, 80 Count"
-  },
-  "amazon-basics-lotion-facial-tissues-18pk": {
-    "destination": "https://www.amazon.com/dp/B09BXT3J9Z?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B09BXT3J9Z",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Amazon Basics Lotion Facial Tissues, 18 Boxes"
   },
   "amazon-basics-gallon-food-bags-120": {
     "destination": "https://www.amazon.com/dp/B093WMWKBP?tag=cheaphubus-20",
@@ -608,13 +580,6 @@
     "merchant": "Amazon",
     "title": "Stouchi Passport Holder with AirTag Slot"
   },
-  "kitchenaid-classic-can-opener-empire-red-amazon": {
-    "destination": "https://www.amazon.com/dp/B07YP1TB6P?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07YP1TB6P",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "KitchenAid Classic Can Opener with Bottle Opener, Empire Red"
-  },
   "nescafe-tasters-choice-house-blend-2-jars-amazon": {
     "destination": "https://www.amazon.com/dp/B01FDLA52I?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01FDLA52I",
@@ -649,13 +614,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "SwissGear Sion Softside Expandable Spinner, Dark Grey"
-  },
-  "wrangler-astral-20in-carry-on-hydro-amazon": {
-    "destination": "https://www.amazon.com/dp/B0CBNM82TQ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0CBNM82TQ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Wrangler Astral 20-Inch Hardside Carry-On, Hydro"
   },
   "zinus-12in-green-tea-king-mattress-amazon": {
     "destination": "https://www.amazon.com/dp/B0CKZ1CK1H?tag=cheaphubus-20",
@@ -789,5 +747,61 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Samsonite Omni 2 Hardside 3-Piece Set, Nova Teal"
+  },
+  "breville-barista-express-bes870xl-amazon": {
+    "destination": "https://www.amazon.com/dp/B00CH9QWOU?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00CH9QWOU",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Breville Barista Express Espresso Machine, BES870XL, Brushed Stainless"
+  },
+  "brita-elite-10cup-pitcher-white-amazon": {
+    "destination": "https://www.amazon.com/dp/B0B3GK9RW6?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0B3GK9RW6",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Brita Elite 10-Cup Water Filter Pitcher, White"
+  },
+  "slimfast-milk-chocolate-shake-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DPNKFJ61?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DPNKFJ61",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "SlimFast Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack"
+  },
+  "lavazza-crema-gusto-whole-bean-2lb-amazon": {
+    "destination": "https://www.amazon.com/dp/B082VXLF3H?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B082VXLF3H",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Lavazza Crema e Gusto Whole Bean Coffee, 2.2 lb"
+  },
+  "victor-allens-colombian-kcups-120-amazon": {
+    "destination": "https://www.amazon.com/dp/B07MT5V21G?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07MT5V21G",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Victor Allen's 100% Colombian Coffee Pods, Medium Roast, 120 Count"
+  },
+  "torani-coffeehouse-syrup-4pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B01NAV05XS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01NAV05XS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Torani Coffeehouse Syrup Variety Pack, 25.4 fl oz, Set of 4"
+  },
+  "samsonite-omni-pc-hardside-3pc-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B013WFOBYA?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B013WFOBYA",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Omni PC Hardside 3-Piece Set, Black"
+  },
+  "american-tourister-4kix-2-softside-3pc-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BH9DL82Y?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BH9DL82Y",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "American Tourister 4 KIX 2.0 Softside 3-Piece Set, Black"
   }
 }
