@@ -693,13 +693,6 @@
     "topic": "Travel"
   },
   {
-    "title": "BAGSMART Travel Toiletry Bag, Black",
-    "summary": "A black BAGSMART toiletry bag, listed at about 11.8 by 7.3 by 8.7 inches, with four compartments and a waterproof pocket. Sold at Amazon.",
-    "url": "/deals/#bagsmart-toiletry-bag-black-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "SwissGear Sion Softside Expandable Spinner, Dark Grey",
     "summary": "SwissGear's dark grey Sion softside spinner, a medium checked bag. The listing puts the outside size, wheels included, at about 26.25 x 16.75 x 11 inches. Sold at Amazon.",
     "url": "/deals/#swissgear-sion-softside-checked-luggage-amazon",
@@ -787,13 +780,6 @@
     "title": "Vitamix 5200 Blender, 64 oz, White",
     "summary": "Vitamix's 5200 in white, with a 64-ounce container, a tamper, and 10 speeds plus a high setting. Sold at Amazon.",
     "url": "/deals/#vitamix-5200-blender-white-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "Pfaltzgraff Kenna Red 16-Piece Dinnerware Set",
-    "summary": "A 16-piece Kenna Red set for four, with dinner plates, salad plates, bowls, and mugs. Sold at Amazon.",
-    "url": "/deals/#pfaltzgraff-kenna-red-16pc-amazon",
     "type": "Product",
     "topic": "Home"
   },
@@ -894,5 +880,68 @@
     "url": "/deals/#american-tourister-4kix-2-softside-3pc-amazon",
     "type": "Product",
     "topic": "Travel"
+  },
+  {
+    "title": "Corelle Vitrelle 18-Piece Dinnerware Set, Winter Frost White",
+    "summary": "Eighteen Winter Frost White pieces for six: dinner plates, snack plates, and soup bowls in Corelle's triple-layer glass. Sold at Amazon.",
+    "url": "/deals/#corelle-vitrelle-18pc-winter-frost-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Samsonite Freeform 24-Inch Checked Spinner, Black",
+    "summary": "A black 24-inch Samsonite Freeform checked spinner with a TSA lock and four spinner wheels. Sold at Amazon.",
+    "url": "/deals/#samsonite-freeform-24in-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Amazon Basics 30-Inch Hardside Checked Luggage, Navy",
+    "summary": "A navy 30-inch Amazon Basics hardside checked bag with four spinner wheels. The listing says it expands by up to 15%. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-30in-hardside-navy-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Yankee Candle Bayside Cedar, 22 oz Large Jar",
+    "summary": "A 22-ounce Yankee Candle jar in Bayside Cedar. The listing says it burns for up to 150 hours. Sold at Amazon.",
+    "url": "/deals/#yankee-candle-bayside-cedar-22oz-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Yankee Candle Sugared Cinnamon Apple, 14.5 oz 3-Wick",
+    "summary": "A 14.5-ounce three-wick Yankee Candle in Sugared Cinnamon Apple, with a metal lid. The listing says the burn time is up to 40 hours. Sold at Amazon.",
+    "url": "/deals/#yankee-candle-sugared-cinnamon-apple-3wick-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Amazon Basics 5-Shelf Wire Rack, 36 x 14 x 72 Inches, Chrome",
+    "summary": "A chrome Amazon Basics wire rack with five shelves, 36 by 14 by 72 inches. The listing says it assembles without tools. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-5-shelf-wire-rack-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Amazon Basics Disinfecting Wipes, Lemon and Fresh, 340 Count",
+    "summary": "Four canisters of Amazon Basics disinfecting wipes, two lemon and two fresh, with 85 wipes in each. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-disinfecting-wipes-lemon-fresh-340-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Amazon Basics Ultra-Force 13-Gallon Trash Bags, Lavender, 80 Count",
+    "summary": "Eighty 13-gallon Amazon Basics Ultra-Force kitchen bags with a lavender scent and a red drawstring. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-ultra-force-trash-bags-80-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Dutch Bros Coconut Mocha Coffee Pods, 32 Count",
+    "summary": "A 32-count box of Dutch Bros Coconut Mocha coffee pods, medium roast. Sold at Amazon.",
+    "url": "/deals/#dutch-bros-coconut-mocha-kcups-32-amazon",
+    "type": "Product",
+    "topic": "Everyday"
   }
 ]

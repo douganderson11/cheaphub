@@ -601,13 +601,6 @@
     "merchant": "Amazon",
     "title": "Amazon Basics 26-Inch Hardside Checked Luggage, Orange"
   },
-  "bagsmart-toiletry-bag-black-amazon": {
-    "destination": "https://www.amazon.com/dp/B0CKYYDHLS?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0CKYYDHLS",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "BAGSMART Travel Toiletry Bag, Black"
-  },
   "swissgear-sion-softside-checked-luggage-amazon": {
     "destination": "https://www.amazon.com/dp/B014TDH23G?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B014TDH23G",
@@ -698,13 +691,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Vitamix 5200 Blender, 64 oz, White"
-  },
-  "pfaltzgraff-kenna-red-16pc-amazon": {
-    "destination": "https://www.amazon.com/dp/B01J7H34M2?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B01J7H34M2",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Pfaltzgraff Kenna Red 16-Piece Dinnerware Set"
   },
   "chicago-metallic-round-cake-pan-3pc-amazon": {
     "destination": "https://www.amazon.com/dp/B07JWKDW8Z?tag=cheaphubus-20",
@@ -803,5 +789,68 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "American Tourister 4 KIX 2.0 Softside 3-Piece Set, Black"
+  },
+  "corelle-vitrelle-18pc-winter-frost-amazon": {
+    "destination": "https://www.amazon.com/dp/B00R790CLY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00R790CLY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Corelle Vitrelle 18-Piece Dinnerware Set, Winter Frost White"
+  },
+  "samsonite-freeform-24in-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B01LXOCPFG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01LXOCPFG",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Freeform 24-Inch Checked Spinner, Black"
+  },
+  "amazon-basics-30in-hardside-navy-amazon": {
+    "destination": "https://www.amazon.com/dp/B0711F4437?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0711F4437",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics 30-Inch Hardside Checked Luggage, Navy"
+  },
+  "yankee-candle-bayside-cedar-22oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F8KNMWZX?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F8KNMWZX",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Yankee Candle Bayside Cedar, 22 oz Large Jar"
+  },
+  "yankee-candle-sugared-cinnamon-apple-3wick-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F3DRN2KH?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F3DRN2KH",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Yankee Candle Sugared Cinnamon Apple, 14.5 oz 3-Wick"
+  },
+  "amazon-basics-5-shelf-wire-rack-amazon": {
+    "destination": "https://www.amazon.com/dp/B01M0A4B9M?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01M0A4B9M",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics 5-Shelf Wire Rack, 36 x 14 x 72 Inches, Chrome"
+  },
+  "amazon-basics-disinfecting-wipes-lemon-fresh-340-amazon": {
+    "destination": "https://www.amazon.com/dp/B08R17N9VV?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08R17N9VV",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics Disinfecting Wipes, Lemon and Fresh, 340 Count"
+  },
+  "amazon-basics-ultra-force-trash-bags-80-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CH91K11H?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CH91K11H",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics Ultra-Force 13-Gallon Trash Bags, Lavender, 80 Count"
+  },
+  "dutch-bros-coconut-mocha-kcups-32-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GCBD2BGK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GCBD2BGK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Dutch Bros Coconut Mocha Coffee Pods, 32 Count"
   }
 }
