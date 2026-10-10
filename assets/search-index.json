@@ -518,13 +518,6 @@
     "topic": "Home"
   },
   {
-    "title": "30ml Leak-Resistant Travel Dispenser Bottles, 4-Pack",
-    "summary": "Four 30ml refillable bottles for a short trip, small enough to fit a liquids bag. Sold at Amazon.",
-    "url": "/deals/#tsa-30ml-travel-dispenser-4pk-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "European Type C Travel Plug Adapter, 2-Pack",
     "summary": "A two-pack of Type C plug adapters for outlets used across much of Europe. Sold at Amazon.",
     "url": "/deals/#european-type-c-plug-adapter-2pk-amazon",
@@ -535,13 +528,6 @@
     "title": "Amazon Basics Flex-Sheets Paper Towels, 12 Rolls",
     "summary": "Twelve flex-sheet paper-towel rolls. The listing counts them as equal to about 40 regular rolls. Sold at Amazon.",
     "url": "/deals/#amazon-basics-flex-sheets-paper-towels-12",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Amazon Basics 13-Gallon Drawstring Trash Bags, 120 Count",
-    "summary": "Unscented 13-gallon drawstring bags, 120 in the box, for a normal kitchen can. Sold at Amazon.",
-    "url": "/deals/#amazon-basics-13gal-trash-bags-120",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -598,13 +584,6 @@
     "title": "Peet's Major Dickason's Blend Whole Bean Coffee, 18 oz",
     "summary": "Peet's Major Dickason's Blend, whole bean, in an 18-ounce bag. Sold at Amazon.",
     "url": "/deals/#peets-major-dickasons-whole-bean-18oz-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Happy Belly French Roast Coffee Pods, Dark Roast, 24 Count",
-    "summary": "Twenty-four Happy Belly French Roast pods if you want a dark cup without the 100-count box. Sold at Amazon.",
-    "url": "/deals/#happy-belly-french-roast-kcups-24-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -707,13 +686,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Oneida Tress 50-Piece Flatware Set, Service for 8",
-    "summary": "A 50-piece Oneida Tress set in 18/0 stainless, with place settings for eight plus serving pieces. Sold at Amazon.",
-    "url": "/deals/#oneida-tress-50pc-flatware-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Nespresso Vertuo Pop+ Deluxe Coffee and Espresso Maker, Black",
     "summary": "A compact black Nespresso Vertuo Pop+ Deluxe that brews coffee and espresso from Vertuo capsules. The listing includes a milk frother. Sold at Amazon.",
     "url": "/deals/#nespresso-vertuo-pop-plus-deluxe-black-amazon",
@@ -775,5 +747,68 @@
     "url": "/deals/#twinings-chai-black-tea-kcups-24-amazon",
     "type": "Product",
     "topic": "Everyday"
+  },
+  {
+    "title": "KitchenAid Artisan 5-Quart Tilt-Head Stand Mixer, Empire Red, KSM150PS",
+    "summary": "KitchenAid's Artisan tilt-head mixer in Empire Red, with a 5-quart bowl plus the flat beater, dough hook, and whisk. Sold at Amazon.",
+    "url": "/deals/#kitchenaid-artisan-5qt-ksm150ps-empire-red-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Crock-Pot 2.5-Quart Casserole Slow Cooker, White and Blue",
+    "summary": "A compact 2.5-quart Crock-Pot casserole cooker in white and blue, with a locking lid for taking it somewhere. Sold at Amazon.",
+    "url": "/deals/#crockpot-2-5qt-casserole-slow-cooker-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Keurig K-Express Single Serve Coffee Maker, Island Berry",
+    "summary": "Keurig's K-Express in Island Berry, for a single pod cup in 8, 10, or 12 ounces. Sold at Amazon.",
+    "url": "/deals/#keurig-k-express-island-berry-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Gevalia Signature Blend K-Cup Pods, Mild Light Roast, 84 Count",
+    "summary": "Eighty-four Gevalia Signature Blend light roast pods, for a milder Keurig cup. Sold at Amazon.",
+    "url": "/deals/#gevalia-signature-blend-kcups-84-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Pompeian Smooth Extra Virgin Olive Oil, 68 fl oz",
+    "summary": "A 68-ounce bottle of Pompeian Smooth extra virgin olive oil for saut\u00e9ing and salads. Sold at Amazon.",
+    "url": "/deals/#pompeian-smooth-evoo-68oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Persil Original Liquid Laundry Detergent, 110 Loads, 82.5 fl oz",
+    "summary": "Persil Original concentrated liquid detergent, an 82.5-ounce bottle sized for 110 loads. Sold at Amazon.",
+    "url": "/deals/#persil-original-liquid-110-loads-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Wrangler 22-Inch Hardside Spinner Carry-On, Olive",
+    "summary": "An olive 22-inch Wrangler hardside spinner with four wheels and an ABS shell. Sold at Amazon.",
+    "url": "/deals/#wrangler-22in-hardside-carry-on-olive-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "BAGAIL Compression Packing Cubes, 6-Piece Set, Matcha Green",
+    "summary": "Six BAGAIL compression cubes in matcha green, including a shoe bag. Sold at Amazon.",
+    "url": "/deals/#bagail-compression-packing-cubes-6pk-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Dot&Dot Twist Memory Foam Travel Pillow, 26-Inch, Gray",
+    "summary": "A 26-inch Dot&Dot memory-foam roll that bends around your neck or snaps onto a bag. Sold at Amazon.",
+    "url": "/deals/#dotdot-twist-memory-foam-travel-pillow-amazon",
+    "type": "Product",
+    "topic": "Travel"
   }
 ]
