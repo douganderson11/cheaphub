@@ -426,13 +426,6 @@
     "merchant": "Amazon",
     "title": "Rubbermaid Brilliance 3.2-Cup Tritan Containers, Set of 5"
   },
-  "tsa-30ml-travel-dispenser-4pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0GK6PN8V4?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0GK6PN8V4",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "30ml Leak-Resistant Travel Dispenser Bottles, 4-Pack"
-  },
   "european-type-c-plug-adapter-2pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0B3LZ5896?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0B3LZ5896",
@@ -446,13 +439,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Amazon Basics Flex-Sheets Paper Towels, 12 Rolls"
-  },
-  "amazon-basics-13gal-trash-bags-120": {
-    "destination": "https://www.amazon.com/dp/B093X8QQ12?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B093X8QQ12",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Amazon Basics 13-Gallon Drawstring Trash Bags, 120 Count"
   },
   "amazon-elements-baby-wipes-810": {
     "destination": "https://www.amazon.com/dp/B07H53W5WP?tag=cheaphubus-20",
@@ -509,13 +495,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Peet's Major Dickason's Blend Whole Bean Coffee, 18 oz"
-  },
-  "happy-belly-french-roast-kcups-24-amazon": {
-    "destination": "https://www.amazon.com/dp/B07NZTX69L?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07NZTX69L",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Happy Belly French Roast Coffee Pods, Dark Roast, 24 Count"
   },
   "caribou-blend-kcups-96-amazon": {
     "destination": "https://www.amazon.com/dp/B07GNZZ25C?tag=cheaphubus-20",
@@ -615,13 +594,6 @@
     "merchant": "Amazon",
     "title": "Travelpro Maxlite 5 Softside 2-Piece Set, Black"
   },
-  "oneida-tress-50pc-flatware-amazon": {
-    "destination": "https://www.amazon.com/dp/B09YVR2HQJ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B09YVR2HQJ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Oneida Tress 50-Piece Flatware Set, Service for 8"
-  },
   "nespresso-vertuo-pop-plus-deluxe-black-amazon": {
     "destination": "https://www.amazon.com/dp/B0DDVMTY88?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DDVMTY88",
@@ -684,5 +656,68 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Twinings Chai Black Tea K-Cup Pods, 24 Count"
+  },
+  "kitchenaid-artisan-5qt-ksm150ps-empire-red-amazon": {
+    "destination": "https://www.amazon.com/dp/B00005UP2P?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00005UP2P",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "KitchenAid Artisan 5-Quart Tilt-Head Stand Mixer, Empire Red, KSM150PS"
+  },
+  "crockpot-2-5qt-casserole-slow-cooker-amazon": {
+    "destination": "https://www.amazon.com/dp/B012CP15H2?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B012CP15H2",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Crock-Pot 2.5-Quart Casserole Slow Cooker, White and Blue"
+  },
+  "keurig-k-express-island-berry-amazon": {
+    "destination": "https://www.amazon.com/dp/B0D3MR4M4C?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0D3MR4M4C",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Keurig K-Express Single Serve Coffee Maker, Island Berry"
+  },
+  "gevalia-signature-blend-kcups-84-amazon": {
+    "destination": "https://www.amazon.com/dp/B00EY31166?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00EY31166",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Gevalia Signature Blend K-Cup Pods, Mild Light Roast, 84 Count"
+  },
+  "pompeian-smooth-evoo-68oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B07BCX2YNG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07BCX2YNG",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Pompeian Smooth Extra Virgin Olive Oil, 68 fl oz"
+  },
+  "persil-original-liquid-110-loads-amazon": {
+    "destination": "https://www.amazon.com/dp/B07L67Z4CQ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07L67Z4CQ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Persil Original Liquid Laundry Detergent, 110 Loads, 82.5 fl oz"
+  },
+  "wrangler-22in-hardside-carry-on-olive-amazon": {
+    "destination": "https://www.amazon.com/dp/B0C7YMQCKW?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0C7YMQCKW",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Wrangler 22-Inch Hardside Spinner Carry-On, Olive"
+  },
+  "bagail-compression-packing-cubes-6pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F6XZPQ1F?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F6XZPQ1F",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "BAGAIL Compression Packing Cubes, 6-Piece Set, Matcha Green"
+  },
+  "dotdot-twist-memory-foam-travel-pillow-amazon": {
+    "destination": "https://www.amazon.com/dp/B01IEJHJWK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01IEJHJWK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Dot&Dot Twist Memory Foam Travel Pillow, 26-Inch, Gray"
   }
 }
