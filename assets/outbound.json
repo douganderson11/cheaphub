@@ -307,13 +307,6 @@
     "merchant": "Target",
     "title": "Cabeau Evolution Classic Memory Foam Travel Neck Pillow"
   },
-  "amazon-basics-packing-cubes-4pc": {
-    "destination": "https://www.amazon.com/dp/B014VBICGC?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B014VBICGC",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Amazon Essentials 4-Piece Packing Cubes"
-  },
   "samsonite-luggage-tag-set-amazon": {
     "destination": "https://www.amazon.com/dp/B07QV7M9KY?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B07QV7M9KY",
@@ -419,13 +412,6 @@
     "merchant": "Amazon",
     "title": "Rubbermaid Brilliance 9.6-Cup Food Storage Containers, 2-Count"
   },
-  "rubbermaid-brilliance-tritan-5pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B079M8FPTW?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B079M8FPTW",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Rubbermaid Brilliance 3.2-Cup Tritan Containers, Set of 5"
-  },
   "european-type-c-plug-adapter-2pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0B3LZ5896?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0B3LZ5896",
@@ -439,13 +425,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Amazon Basics Flex-Sheets Paper Towels, 12 Rolls"
-  },
-  "amazon-elements-baby-wipes-810": {
-    "destination": "https://www.amazon.com/dp/B07H53W5WP?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07H53W5WP",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Amazon Elements Unscented Baby Wipes, 810 Count"
   },
   "gourmia-6qt-window-air-fryer-target": {
     "destination": "https://www.target.com/p/gourmia-6-qt-digital-window-air-fryer-with-12-presets-38-guided-cooking-black/-/A-89110863",
@@ -461,13 +440,6 @@
     "merchant": "Amazon",
     "title": "Amazon Basics Gallon Food Storage Bags, 120 Count"
   },
-  "zojirushi-micom-3cup-rice-cooker-amazon": {
-    "destination": "https://www.amazon.com/dp/B01EVHWNVG?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B01EVHWNVG",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Zojirushi Micom 3-Cup Rice Cooker"
-  },
   "stouchi-rfid-passport-holder-amazon": {
     "destination": "https://www.amazon.com/dp/B0C7CDFQ81?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0C7CDFQ81",
@@ -481,13 +453,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "NESCAF\u00c9 Taster's Choice House Blend Instant Coffee, 2 Jars"
-  },
-  "calphalon-classic-stainless-10pc-amazon": {
-    "destination": "https://www.amazon.com/dp/B00HQWONBW?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B00HQWONBW",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Calphalon Classic Stainless Steel Cookware Set, 10-Piece"
   },
   "peets-major-dickasons-whole-bean-18oz-amazon": {
     "destination": "https://www.amazon.com/dp/B087K8DC6X?tag=cheaphubus-20",
@@ -551,13 +516,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Breville Compact Smart Oven, BOV650XL, Brushed Stainless"
-  },
-  "calphalon-brushed-3ply-10pc-amazon": {
-    "destination": "https://www.amazon.com/dp/B0G59KM1YX?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0G59KM1YX",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Calphalon Brushed 3-Ply Stainless Cookware Set, 10-Piece"
   },
   "national-tree-4ft-dunhill-mini-amazon": {
     "destination": "https://www.amazon.com/dp/B0749YYZ7J?tag=cheaphubus-20",
@@ -706,18 +664,60 @@
     "merchant": "Amazon",
     "title": "Wrangler 22-Inch Hardside Spinner Carry-On, Olive"
   },
-  "bagail-compression-packing-cubes-6pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F6XZPQ1F?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F6XZPQ1F",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "BAGAIL Compression Packing Cubes, 6-Piece Set, Matcha Green"
-  },
   "dotdot-twist-memory-foam-travel-pillow-amazon": {
     "destination": "https://www.amazon.com/dp/B01IEJHJWK?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01IEJHJWK",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Dot&Dot Twist Memory Foam Travel Pillow, 26-Inch, Gray"
+  },
+  "folgers-black-silk-instant-singles-84-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GGW46Q2N?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GGW46Q2N",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Folgers Black Silk Instant Coffee Crystals, Single-Serve Packets, 7 Count (Pack of 12)"
+  },
+  "lotus-biscoff-cookies-10pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FDDKLWSM?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FDDKLWSM",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Lotus Biscoff Caramelized Biscuit Cookies, 4.4 oz, Pack of 10"
+  },
+  "lays-salt-vinegar-chips-40ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B07DQ46CLX?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07DQ46CLX",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Lay's Salt & Vinegar Potato Chips, 1 oz, 40 Count"
+  },
+  "mountain-dew-kickstart-black-cherry-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B07GDXN1Y3?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07GDXN1Y3",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Mountain Dew Kickstart, Black Cherry, 16 fl oz, 12 Count"
+  },
+  "coleman-back-home-screened-canopy-amazon": {
+    "destination": "https://www.amazon.com/dp/B0D96KMCTN?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0D96KMCTN",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Coleman Back Home Screened Canopy with Instant Setup"
+  },
+  "pixel-panda-winter-gloves-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FJDS4V86?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FJDS4V86",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Pixel Panda Winter Gloves with 3M Thinsulate"
+  },
+  "chex-corn-cereal-18oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B01K8STMFC?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01K8STMFC",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Corn Chex Gluten Free Cereal, Family Size, 18 oz"
   }
 }

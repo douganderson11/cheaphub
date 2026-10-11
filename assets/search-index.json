@@ -420,13 +420,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Amazon Essentials 4-Piece Packing Cubes",
-    "summary": "A gray four-piece cube set (small, medium, large, and slim) for splitting clothes inside a carry-on. Sold at Amazon.",
-    "url": "/deals/#amazon-basics-packing-cubes-4pc",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "Samsonite Luggage Tag (confirm set size)",
     "summary": "Simple ID tags so bags are identifiable at the carousel\u2014use a privacy flap for address details. Sold at Amazon.",
     "url": "/deals/#samsonite-luggage-tag-set-amazon",
@@ -511,13 +504,6 @@
     "topic": "Home"
   },
   {
-    "title": "Rubbermaid Brilliance 3.2-Cup Tritan Containers, Set of 5",
-    "summary": "Five 3.2-cup airtight Tritan containers for lunch portions and leftovers. Sold at Amazon.",
-    "url": "/deals/#rubbermaid-brilliance-tritan-5pk-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "European Type C Travel Plug Adapter, 2-Pack",
     "summary": "A two-pack of Type C plug adapters for outlets used across much of Europe. Sold at Amazon.",
     "url": "/deals/#european-type-c-plug-adapter-2pk-amazon",
@@ -528,13 +514,6 @@
     "title": "Amazon Basics Flex-Sheets Paper Towels, 12 Rolls",
     "summary": "Twelve flex-sheet paper-towel rolls. The listing counts them as equal to about 40 regular rolls. Sold at Amazon.",
     "url": "/deals/#amazon-basics-flex-sheets-paper-towels-12",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Amazon Elements Unscented Baby Wipes, 810 Count",
-    "summary": "A case of 810 unscented wipes with aloe and vitamin E, packed in flip-top packs. Sold at Amazon.",
-    "url": "/deals/#amazon-elements-baby-wipes-810",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -553,13 +532,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Zojirushi Micom 3-Cup Rice Cooker",
-    "summary": "Zojirushi's compact 3-cup Micom rice cooker, with a stainless body and a cord that pulls back into the base. Sold at Amazon.",
-    "url": "/deals/#zojirushi-micom-3cup-rice-cooker-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Stouchi Passport Holder with AirTag Slot",
     "summary": "A slim Stouchi passport holder with an AirTag slot and RFID-blocking material, according to the listing. Sold at Amazon.",
     "url": "/deals/#stouchi-rfid-passport-holder-amazon",
@@ -572,13 +544,6 @@
     "url": "/deals/#nescafe-tasters-choice-house-blend-2-jars-amazon",
     "type": "Product",
     "topic": "Everyday"
-  },
-  {
-    "title": "Calphalon Classic Stainless Steel Cookware Set, 10-Piece",
-    "summary": "Ten pieces of Calphalon Classic stainless, with an impact-bonded aluminum base and glass lids. Sold at Amazon.",
-    "url": "/deals/#calphalon-classic-stainless-10pc-amazon",
-    "type": "Product",
-    "topic": "Home"
   },
   {
     "title": "Peet's Major Dickason's Blend Whole Bean Coffee, 18 oz",
@@ -640,13 +605,6 @@
     "title": "Breville Compact Smart Oven, BOV650XL, Brushed Stainless",
     "summary": "A compact Breville countertop oven with toast, bagel, bake, broil, pizza, roast, cookies, and reheat. Sold at Amazon.",
     "url": "/deals/#breville-bov650xl-compact-smart-oven-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "Calphalon Brushed 3-Ply Stainless Cookware Set, 10-Piece",
-    "summary": "Calphalon's 10-piece brushed stainless set uses a 3-ply base and is oven-safe to 450\u00b0F. Sold at Amazon.",
-    "url": "/deals/#calphalon-brushed-3ply-10pc-amazon",
     "type": "Product",
     "topic": "Home"
   },
@@ -798,17 +756,59 @@
     "topic": "Travel"
   },
   {
-    "title": "BAGAIL Compression Packing Cubes, 6-Piece Set, Matcha Green",
-    "summary": "Six BAGAIL compression cubes in matcha green, including a shoe bag. Sold at Amazon.",
-    "url": "/deals/#bagail-compression-packing-cubes-6pk-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "Dot&Dot Twist Memory Foam Travel Pillow, 26-Inch, Gray",
     "summary": "A 26-inch Dot&Dot memory-foam roll that bends around your neck or snaps onto a bag. Sold at Amazon.",
     "url": "/deals/#dotdot-twist-memory-foam-travel-pillow-amazon",
     "type": "Product",
     "topic": "Travel"
+  },
+  {
+    "title": "Folgers Black Silk Instant Coffee Crystals, Single-Serve Packets, 7 Count (Pack of 12)",
+    "summary": "Eighty-four single-serve packets of Folgers Black Silk instant crystals, sold as 12 packs of 7. Sold at Amazon.",
+    "url": "/deals/#folgers-black-silk-instant-singles-84-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Lotus Biscoff Caramelized Biscuit Cookies, 4.4 oz, Pack of 10",
+    "summary": "Ten 4.4-ounce packs of Lotus Biscoff caramelized biscuits, about 16 cookies in each pack. Sold at Amazon.",
+    "url": "/deals/#lotus-biscoff-cookies-10pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Lay's Salt & Vinegar Potato Chips, 1 oz, 40 Count",
+    "summary": "Forty 1-ounce bags of Lay's salt and vinegar chips. Sold at Amazon.",
+    "url": "/deals/#lays-salt-vinegar-chips-40ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Mountain Dew Kickstart, Black Cherry, 16 fl oz, 12 Count",
+    "summary": "A 12-pack of 16 fl oz Mountain Dew Kickstart in Black Cherry. Sold at Amazon.",
+    "url": "/deals/#mountain-dew-kickstart-black-cherry-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Coleman Back Home Screened Canopy with Instant Setup",
+    "summary": "Coleman's Back Home screened canopy, with mesh walls and a one-push hub for setup. Sold at Amazon.",
+    "url": "/deals/#coleman-back-home-screened-canopy-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Pixel Panda Winter Gloves with 3M Thinsulate",
+    "summary": "Pixel Panda winter gloves with 3M Thinsulate. The listing says they fit men and women. Sold at Amazon.",
+    "url": "/deals/#pixel-panda-winter-gloves-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Corn Chex Gluten Free Cereal, Family Size, 18 oz",
+    "summary": "An 18-ounce family-size box of Corn Chex, the gluten-free corn squares. Sold at Amazon.",
+    "url": "/deals/#chex-corn-cereal-18oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
   }
 ]
