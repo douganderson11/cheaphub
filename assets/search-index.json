@@ -581,13 +581,6 @@
     "topic": "Home"
   },
   {
-    "title": "SlimFast Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack",
-    "summary": "Twelve 11 fl oz SlimFast milk chocolate shakes, with 20g of protein in each serving according to the listing. Sold at Amazon.",
-    "url": "/deals/#slimfast-milk-chocolate-shake-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Amazon Basics 5-Shelf Wire Rack, 36 x 14 x 72 Inches, Chrome",
     "summary": "A chrome Amazon Basics wire rack with five shelves, 36 by 14 by 72 inches. The listing says it assembles without tools. Sold at Amazon.",
     "url": "/deals/#amazon-basics-5-shelf-wire-rack-amazon",
@@ -619,13 +612,6 @@
     "title": "Maxwell House Breakfast Blend K-Cup Pods, 84 Count",
     "summary": "Eighty-four Maxwell House Breakfast Blend pods, a mild roast in K-Cup format. Sold at Amazon.",
     "url": "/deals/#maxwell-house-breakfast-kcups-84-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Reynolds Wrap Everyday Aluminum Foil, 225 sq ft, 2-Pack",
-    "summary": "Two 12-inch Reynolds Wrap rolls, 225 square feet each, with a tear edge on the box. Sold at Amazon.",
-    "url": "/deals/#reynolds-wrap-foil-2pk-225-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -763,34 +749,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Folgers Black Silk Instant Coffee Crystals, Single-Serve Packets, 7 Count (Pack of 12)",
-    "summary": "Eighty-four single-serve packets of Folgers Black Silk instant crystals, sold as 12 packs of 7. Sold at Amazon.",
-    "url": "/deals/#folgers-black-silk-instant-singles-84-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Lotus Biscoff Caramelized Biscuit Cookies, 4.4 oz, Pack of 10",
-    "summary": "Ten 4.4-ounce packs of Lotus Biscoff caramelized biscuits, about 16 cookies in each pack. Sold at Amazon.",
-    "url": "/deals/#lotus-biscoff-cookies-10pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Lay's Salt & Vinegar Potato Chips, 1 oz, 40 Count",
-    "summary": "Forty 1-ounce bags of Lay's salt and vinegar chips. Sold at Amazon.",
-    "url": "/deals/#lays-salt-vinegar-chips-40ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Mountain Dew Kickstart, Black Cherry, 16 fl oz, 12 Count",
-    "summary": "A 12-pack of 16 fl oz Mountain Dew Kickstart in Black Cherry. Sold at Amazon.",
-    "url": "/deals/#mountain-dew-kickstart-black-cherry-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Coleman Back Home Screened Canopy with Instant Setup",
     "summary": "Coleman's Back Home screened canopy, with mesh walls and a one-push hub for setup. Sold at Amazon.",
     "url": "/deals/#coleman-back-home-screened-canopy-amazon",
@@ -810,5 +768,61 @@
     "url": "/deals/#chex-corn-cereal-18oz-amazon",
     "type": "Product",
     "topic": "Everyday"
+  },
+  {
+    "title": "Delta Nicoli Matte Black Bridge Kitchen Faucet, 19867LF-BL",
+    "summary": "A matte black Delta Nicoli bridge faucet with two handles and a pull-down sprayer, model 19867LF-BL. Sold at Amazon.",
+    "url": "/deals/#delta-nicoli-matte-black-kitchen-faucet-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Hamilton Beach Power Elite Blender",
+    "summary": "Hamilton Beach's Power Elite blender, 700 watts, with stainless Ice Sabre blades and a glass jar the listing says is dishwasher safe. Sold at Amazon.",
+    "url": "/deals/#hamilton-beach-power-elite-blender-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "SimpleHome Cream Blackout Curtains, 63 Inch, 2 Panels",
+    "summary": "Two cream SimpleHome curtain panels, 40 by 63 inches, with grommets and a white-backed blackout weave. Sold at Amazon.",
+    "url": "/deals/#simplehome-cream-blackout-curtains-63in-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Pure Protein Chocolate Peanut Butter Bars, 20g, 12 Count",
+    "summary": "Twelve Pure Protein chocolate peanut butter bars, each with 20 grams of protein and 3 grams of sugar. Sold at Amazon.",
+    "url": "/deals/#pure-protein-chocolate-peanut-butter-bars-12ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "CELSIUS Sparkling Grape Rush, 12 fl oz, 12-Pack",
+    "summary": "Twelve 12-ounce cans of Celsius Sparkling Grape Rush, sugar-free, with 200 mg of caffeine in each can. Sold at Amazon.",
+    "url": "/deals/#celsius-sparkling-grape-rush-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Samsonite Omni PC 24-Inch Hardside Checked Luggage, Black",
+    "summary": "A black 24-inch Samsonite Omni PC checked spinner, scratch-resistant polycarbonate, with side TSA locks. Sold at Amazon.",
+    "url": "/deals/#samsonite-omni-pc-24in-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "OlarHike 8-Piece Packing Cube Set with Shoe and Toiletry Bags",
+    "summary": "OlarHike's eight-piece packing set, with mesh cubes plus a shoe bag and a hanging toiletry bag. Sold at Amazon.",
+    "url": "/deals/#olarhike-8pc-packing-cubes-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "40L Weekender Duffel Set with Crossbody and Cosmetic Bag",
+    "summary": "A 40-liter weekender set: one duffel, one crossbody, and a cosmetic bag, with a separate shoe compartment. Sold at Amazon.",
+    "url": "/deals/#weekender-40l-duffle-set-amazon",
+    "type": "Product",
+    "topic": "Travel"
   }
 ]

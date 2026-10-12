@@ -489,13 +489,6 @@
     "merchant": "Amazon",
     "title": "Breville Barista Express Espresso Machine, BES870XL, Brushed Stainless"
   },
-  "slimfast-milk-chocolate-shake-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DPNKFJ61?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DPNKFJ61",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "SlimFast Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack"
-  },
   "amazon-basics-5-shelf-wire-rack-amazon": {
     "destination": "https://www.amazon.com/dp/B01M0A4B9M?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01M0A4B9M",
@@ -530,13 +523,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Maxwell House Breakfast Blend K-Cup Pods, 84 Count"
-  },
-  "reynolds-wrap-foil-2pk-225-amazon": {
-    "destination": "https://www.amazon.com/dp/B0GZ14VBMW?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0GZ14VBMW",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Reynolds Wrap Everyday Aluminum Foil, 225 sq ft, 2-Pack"
   },
   "poppi-classic-cola-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B08T6NT456?tag=cheaphubus-20",
@@ -671,34 +657,6 @@
     "merchant": "Amazon",
     "title": "Dot&Dot Twist Memory Foam Travel Pillow, 26-Inch, Gray"
   },
-  "folgers-black-silk-instant-singles-84-amazon": {
-    "destination": "https://www.amazon.com/dp/B0GGW46Q2N?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0GGW46Q2N",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Folgers Black Silk Instant Coffee Crystals, Single-Serve Packets, 7 Count (Pack of 12)"
-  },
-  "lotus-biscoff-cookies-10pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0FDDKLWSM?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0FDDKLWSM",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Lotus Biscoff Caramelized Biscuit Cookies, 4.4 oz, Pack of 10"
-  },
-  "lays-salt-vinegar-chips-40ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B07DQ46CLX?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07DQ46CLX",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Lay's Salt & Vinegar Potato Chips, 1 oz, 40 Count"
-  },
-  "mountain-dew-kickstart-black-cherry-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B07GDXN1Y3?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07GDXN1Y3",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Mountain Dew Kickstart, Black Cherry, 16 fl oz, 12 Count"
-  },
   "coleman-back-home-screened-canopy-amazon": {
     "destination": "https://www.amazon.com/dp/B0D96KMCTN?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0D96KMCTN",
@@ -719,5 +677,61 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Corn Chex Gluten Free Cereal, Family Size, 18 oz"
+  },
+  "delta-nicoli-matte-black-kitchen-faucet-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DJWS3RGM?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DJWS3RGM",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Delta Nicoli Matte Black Bridge Kitchen Faucet, 19867LF-BL"
+  },
+  "hamilton-beach-power-elite-blender-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GQCFRD95?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GQCFRD95",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Hamilton Beach Power Elite Blender"
+  },
+  "simplehome-cream-blackout-curtains-63in-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GWZX6LVZ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GWZX6LVZ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "SimpleHome Cream Blackout Curtains, 63 Inch, 2 Panels"
+  },
+  "pure-protein-chocolate-peanut-butter-bars-12ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B00GJ82VK4?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00GJ82VK4",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Pure Protein Chocolate Peanut Butter Bars, 20g, 12 Count"
+  },
+  "celsius-sparkling-grape-rush-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B019XDR3UY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B019XDR3UY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "CELSIUS Sparkling Grape Rush, 12 fl oz, 12-Pack"
+  },
+  "samsonite-omni-pc-24in-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B013WFNVGY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B013WFNVGY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Omni PC 24-Inch Hardside Checked Luggage, Black"
+  },
+  "olarhike-8pc-packing-cubes-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BGWZN7MV?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BGWZN7MV",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "OlarHike 8-Piece Packing Cube Set with Shoe and Toiletry Bags"
+  },
+  "weekender-40l-duffle-set-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FCSB42JX?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FCSB42JX",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "40L Weekender Duffel Set with Crossbody and Cosmetic Bag"
   }
 }
