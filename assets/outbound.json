@@ -503,20 +503,6 @@
     "merchant": "Amazon",
     "title": "Dutch Bros Coconut Mocha Coffee Pods, 32 Count"
   },
-  "breville-bov650xl-compact-smart-oven-amazon": {
-    "destination": "https://www.amazon.com/dp/B00357YS3A?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B00357YS3A",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Breville Compact Smart Oven, BOV650XL, Brushed Stainless"
-  },
-  "national-tree-4ft-dunhill-mini-amazon": {
-    "destination": "https://www.amazon.com/dp/B0749YYZ7J?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0749YYZ7J",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "National Tree Company 4 ft Pre-Lit Dunhill Fir Mini Christmas Tree"
-  },
   "maxwell-house-breakfast-kcups-84-amazon": {
     "destination": "https://www.amazon.com/dp/B01MXRCTIH?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01MXRCTIH",
@@ -524,26 +510,12 @@
     "merchant": "Amazon",
     "title": "Maxwell House Breakfast Blend K-Cup Pods, 84 Count"
   },
-  "poppi-classic-cola-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B08T6NT456?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B08T6NT456",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Poppi Prebiotic Soda, Classic Cola, 12-Pack"
-  },
   "travelpro-maxlite-5-2pc-black-amazon": {
     "destination": "https://www.amazon.com/dp/B0B12Q3SZC?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0B12Q3SZC",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Travelpro Maxlite 5 Softside 2-Piece Set, Black"
-  },
-  "nespresso-vertuo-pop-plus-deluxe-black-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DDVMTY88?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DDVMTY88",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Nespresso Vertuo Pop+ Deluxe Coffee and Espresso Maker, Black"
   },
   "tabasco-original-2oz-24pk-amazon": {
     "destination": "https://www.amazon.com/dp/B01KAQ929I?tag=cheaphubus-20",
@@ -586,13 +558,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "BISSELL Little Green Pet Deluxe Portable Carpet Cleaner, 3353"
-  },
-  "breville-smart-grinder-pro-bcg820bss-amazon": {
-    "destination": "https://www.amazon.com/dp/B00OXGXW8O?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B00OXGXW8O",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Breville Smart Grinder Pro, BCG820BSS, Brushed Stainless"
   },
   "twinings-chai-black-tea-kcups-24-amazon": {
     "destination": "https://www.amazon.com/dp/B008X60YEA?tag=cheaphubus-20",
@@ -643,13 +608,6 @@
     "merchant": "Amazon",
     "title": "Persil Original Liquid Laundry Detergent, 110 Loads, 82.5 fl oz"
   },
-  "wrangler-22in-hardside-carry-on-olive-amazon": {
-    "destination": "https://www.amazon.com/dp/B0C7YMQCKW?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0C7YMQCKW",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Wrangler 22-Inch Hardside Spinner Carry-On, Olive"
-  },
   "dotdot-twist-memory-foam-travel-pillow-amazon": {
     "destination": "https://www.amazon.com/dp/B01IEJHJWK?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01IEJHJWK",
@@ -699,20 +657,6 @@
     "merchant": "Amazon",
     "title": "SimpleHome Cream Blackout Curtains, 63 Inch, 2 Panels"
   },
-  "pure-protein-chocolate-peanut-butter-bars-12ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B00GJ82VK4?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B00GJ82VK4",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Pure Protein Chocolate Peanut Butter Bars, 20g, 12 Count"
-  },
-  "celsius-sparkling-grape-rush-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B019XDR3UY?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B019XDR3UY",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "CELSIUS Sparkling Grape Rush, 12 fl oz, 12-Pack"
-  },
   "samsonite-omni-pc-24in-black-amazon": {
     "destination": "https://www.amazon.com/dp/B013WFNVGY?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B013WFNVGY",
@@ -733,5 +677,68 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "40L Weekender Duffel Set with Crossbody and Cosmetic Bag"
+  },
+  "flairosol-olivia-oil-sprayer-amazon": {
+    "destination": "https://www.amazon.com/dp/B0D5H6GFVJ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0D5H6GFVJ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "FLAIROSOL Olivia Signature Oil Sprayer, 200 ml, Green/Gold"
+  },
+  "filterbuy-20x25x1-merv8-4pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B00CJZ8PGU?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00CJZ8PGU",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Filterbuy 20x25x1 MERV 8 Air Filter, 4-Pack"
+  },
+  "plushdeluxe-bamboo-mattress-protector-queen-amazon": {
+    "destination": "https://www.amazon.com/dp/B07HC2WHS1?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07HC2WHS1",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "PlushDeluxe Bamboo Waterproof Mattress Protector, Queen"
+  },
+  "matcha-dna-organic-16oz-tin-amazon": {
+    "destination": "https://www.amazon.com/dp/B077572GG8?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B077572GG8",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Matcha DNA Organic Matcha Powder, 16 oz Tin"
+  },
+  "bulletproof-original-kcups-24-amazon": {
+    "destination": "https://www.amazon.com/dp/B073WDBTL3?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B073WDBTL3",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Bulletproof Original Medium-Roast Coffee Pods, 24 Count"
+  },
+  "hellmanns-real-mayo-20oz-3pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B091DCC2CH?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B091DCC2CH",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Hellmann's Real Mayonnaise, 20 oz Squeeze, 3-Pack"
+  },
+  "rip-van-crispy-dunes-wafer-sticks-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DJCJ51YK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DJCJ51YK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rip Van Crispy Dunes Dark Chocolate Wafer Sticks, 12-Pack"
+  },
+  "oghom-travel-steamer-iron-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FYF2X322?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FYF2X322",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "OGHom 1000W Travel Steamer and Iron, 110-240V"
+  },
+  "samsonite-freeform-2pc-luggage-set-amazon": {
+    "destination": "https://www.amazon.com/dp/B01NBHSM8M?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01NBHSM8M",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Freeform 2-Piece Luggage Set, Carry-On and Large Checked"
   }
 }

@@ -595,30 +595,9 @@
     "topic": "Everyday"
   },
   {
-    "title": "Breville Compact Smart Oven, BOV650XL, Brushed Stainless",
-    "summary": "A compact Breville countertop oven with toast, bagel, bake, broil, pizza, roast, cookies, and reheat. Sold at Amazon.",
-    "url": "/deals/#breville-bov650xl-compact-smart-oven-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "National Tree Company 4 ft Pre-Lit Dunhill Fir Mini Christmas Tree",
-    "summary": "A 4-foot pre-lit Dunhill Fir with 200 white lights already strung on hinged branches. Sold at Amazon.",
-    "url": "/deals/#national-tree-4ft-dunhill-mini-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Maxwell House Breakfast Blend K-Cup Pods, 84 Count",
     "summary": "Eighty-four Maxwell House Breakfast Blend pods, a mild roast in K-Cup format. Sold at Amazon.",
     "url": "/deals/#maxwell-house-breakfast-kcups-84-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Poppi Prebiotic Soda, Classic Cola, 12-Pack",
-    "summary": "Twelve 12-ounce cans of Poppi Classic Cola. Each can lists 5 grams of sugar. Sold at Amazon.",
-    "url": "/deals/#poppi-classic-cola-12pk-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -628,13 +607,6 @@
     "url": "/deals/#travelpro-maxlite-5-2pc-black-amazon",
     "type": "Product",
     "topic": "Travel"
-  },
-  {
-    "title": "Nespresso Vertuo Pop+ Deluxe Coffee and Espresso Maker, Black",
-    "summary": "A compact black Nespresso Vertuo Pop+ Deluxe that brews coffee and espresso from Vertuo capsules. The listing includes a milk frother. Sold at Amazon.",
-    "url": "/deals/#nespresso-vertuo-pop-plus-deluxe-black-amazon",
-    "type": "Product",
-    "topic": "Home"
   },
   {
     "title": "Tabasco Original Pepper Sauce, 2 oz, 24-Pack",
@@ -675,13 +647,6 @@
     "title": "BISSELL Little Green Pet Deluxe Portable Carpet Cleaner, 3353",
     "summary": "BISSELL's Little Green Pet Deluxe, model 3353, a portable spot cleaner for carpets, upholstery, and car seats. Sold at Amazon.",
     "url": "/deals/#bissell-little-green-pet-deluxe-3353-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "Breville Smart Grinder Pro, BCG820BSS, Brushed Stainless",
-    "summary": "Breville's Smart Grinder Pro, a conical-burr grinder with 60 settings and a dosing timer. Sold at Amazon.",
-    "url": "/deals/#breville-smart-grinder-pro-bcg820bss-amazon",
     "type": "Product",
     "topic": "Home"
   },
@@ -735,13 +700,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Wrangler 22-Inch Hardside Spinner Carry-On, Olive",
-    "summary": "An olive 22-inch Wrangler hardside spinner with four wheels and an ABS shell. Sold at Amazon.",
-    "url": "/deals/#wrangler-22in-hardside-carry-on-olive-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "Dot&Dot Twist Memory Foam Travel Pillow, 26-Inch, Gray",
     "summary": "A 26-inch Dot&Dot memory-foam roll that bends around your neck or snaps onto a bag. Sold at Amazon.",
     "url": "/deals/#dotdot-twist-memory-foam-travel-pillow-amazon",
@@ -791,20 +749,6 @@
     "topic": "Home"
   },
   {
-    "title": "Pure Protein Chocolate Peanut Butter Bars, 20g, 12 Count",
-    "summary": "Twelve Pure Protein chocolate peanut butter bars, each with 20 grams of protein and 3 grams of sugar. Sold at Amazon.",
-    "url": "/deals/#pure-protein-chocolate-peanut-butter-bars-12ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "CELSIUS Sparkling Grape Rush, 12 fl oz, 12-Pack",
-    "summary": "Twelve 12-ounce cans of Celsius Sparkling Grape Rush, sugar-free, with 200 mg of caffeine in each can. Sold at Amazon.",
-    "url": "/deals/#celsius-sparkling-grape-rush-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Samsonite Omni PC 24-Inch Hardside Checked Luggage, Black",
     "summary": "A black 24-inch Samsonite Omni PC checked spinner, scratch-resistant polycarbonate, with side TSA locks. Sold at Amazon.",
     "url": "/deals/#samsonite-omni-pc-24in-black-amazon",
@@ -822,6 +766,69 @@
     "title": "40L Weekender Duffel Set with Crossbody and Cosmetic Bag",
     "summary": "A 40-liter weekender set: one duffel, one crossbody, and a cosmetic bag, with a separate shoe compartment. Sold at Amazon.",
     "url": "/deals/#weekender-40l-duffle-set-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "FLAIROSOL Olivia Signature Oil Sprayer, 200 ml, Green/Gold",
+    "summary": "A 200 ml glass cooking oil sprayer in green and gold. Sold at Amazon.",
+    "url": "/deals/#flairosol-olivia-oil-sprayer-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Filterbuy 20x25x1 MERV 8 Air Filter, 4-Pack",
+    "summary": "Four pleated 20x25x1 MERV 8 furnace filters in one pack. Sold at Amazon.",
+    "url": "/deals/#filterbuy-20x25x1-merv8-4pk-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "PlushDeluxe Bamboo Waterproof Mattress Protector, Queen",
+    "summary": "A queen mattress protector with a bamboo cover, sold as waterproof. Sold at Amazon.",
+    "url": "/deals/#plushdeluxe-bamboo-mattress-protector-queen-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Matcha DNA Organic Matcha Powder, 16 oz Tin",
+    "summary": "A 16-ounce tin of unsweetened organic matcha powder. Sold at Amazon.",
+    "url": "/deals/#matcha-dna-organic-16oz-tin-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Bulletproof Original Medium-Roast Coffee Pods, 24 Count",
+    "summary": "Twenty-four medium-roast single-serve pods of Bulletproof's Original blend. Sold at Amazon.",
+    "url": "/deals/#bulletproof-original-kcups-24-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Hellmann's Real Mayonnaise, 20 oz Squeeze, 3-Pack",
+    "summary": "Three 20-ounce squeeze bottles of Hellmann's real mayonnaise. Sold at Amazon.",
+    "url": "/deals/#hellmanns-real-mayo-20oz-3pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Rip Van Crispy Dunes Dark Chocolate Wafer Sticks, 12-Pack",
+    "summary": "A 12-pack of Rip Van's dark chocolate wafer sticks, marked 90 calories on the listing. Sold at Amazon.",
+    "url": "/deals/#rip-van-crispy-dunes-wafer-sticks-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "OGHom 1000W Travel Steamer and Iron, 110-240V",
+    "summary": "A 1000-watt handheld steamer that also works as a dry iron, on 110\u2013240V. Sold at Amazon.",
+    "url": "/deals/#oghom-travel-steamer-iron-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Samsonite Freeform 2-Piece Luggage Set, Carry-On and Large Checked",
+    "summary": "Samsonite's Freeform set pairs a carry-on with a large checked spinner. Sold at Amazon.",
+    "url": "/deals/#samsonite-freeform-2pc-luggage-set-amazon",
     "type": "Product",
     "topic": "Travel"
   }
