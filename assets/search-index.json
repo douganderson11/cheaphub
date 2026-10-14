@@ -99,7 +99,7 @@
   },
   {
     "title": "Travel accessories under $50",
-    "summary": "Spend $50 on one packing problem you already have. Amazon listings were price-checked on October 5, 2026; the Target listings were last checked September 28, 2026.",
+    "summary": "Spend $50 on one packing problem you already have. Amazon listings were price-checked on October 14, 2026. The Cabeau pillow and Packit lunch bag still carry a September 28 check, because those Target pages opened without a selling price in the HTML.",
     "url": "/best/travel-accessories-under-50/",
     "type": "Best Under",
     "topic": "Travel"
@@ -420,9 +420,9 @@
     "topic": "Travel"
   },
   {
-    "title": "Travelon RFID Anti-Theft Mini Shoulder Bag",
-    "summary": "Small anti-theft day bag with RFID-blocking pocket for passports and cards in crowded cities. Sold at Target.",
-    "url": "/deals/#travelon-rfid-anti-theft-mini-shoulder-target",
+    "title": "Amazon Essentials 4-Piece Packing Cubes",
+    "summary": "A gray four-piece cube set (small, medium, large, and slim) for splitting clothes inside a carry-on. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-packing-cubes-4pc",
     "type": "Product",
     "topic": "Travel"
   },
@@ -497,6 +497,13 @@
     "topic": "Home"
   },
   {
+    "title": "30ml Leak-Resistant Travel Dispenser Bottles, 4-Pack",
+    "summary": "Four 30ml refillable bottles for a short trip, small enough to fit a liquids bag. Sold at Amazon.",
+    "url": "/deals/#tsa-30ml-travel-dispenser-4pk-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
     "title": "European Type C Travel Plug Adapter, 2-Pack",
     "summary": "A two-pack of Type C plug adapters for outlets used across much of Europe. Sold at Amazon.",
     "url": "/deals/#european-type-c-plug-adapter-2pk-amazon",
@@ -509,6 +516,20 @@
     "url": "/deals/#gourmia-6qt-window-air-fryer-target",
     "type": "Product",
     "topic": "Home"
+  },
+  {
+    "title": "Anker 20,000mAh 45W Power Bank with Built-in USB-C Cables",
+    "summary": "Anker's 20,000mAh pack with two USB-C cables built in and a 45W top output, for a phone and a laptop on the same trip. Sold at Amazon.",
+    "url": "/deals/#anker-20000mah-45w-power-bank-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack",
+    "summary": "Six black compression cubes with two zippers each, for squeezing clothes into a carry-on. Sold at Amazon.",
+    "url": "/deals/#amazon-essentials-compression-packing-cubes-6pk",
+    "type": "Product",
+    "topic": "Travel"
   },
   {
     "title": "Amazon Basics Gallon Food Storage Bags, 120 Count",
@@ -530,6 +551,13 @@
     "url": "/deals/#nescafe-tasters-choice-house-blend-2-jars-amazon",
     "type": "Product",
     "topic": "Everyday"
+  },
+  {
+    "title": "BAGSMART Travel Toiletry Bag, Black",
+    "summary": "A black BAGSMART toiletry bag, listed at about 11.8 by 7.3 by 8.7 inches, with four compartments and a waterproof pocket. Sold at Amazon.",
+    "url": "/deals/#bagsmart-toiletry-bag-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
   },
   {
     "title": "Peet's Major Dickason's Blend Whole Bean Coffee, 18 oz",
