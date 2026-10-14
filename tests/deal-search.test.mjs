@@ -155,8 +155,8 @@ test("catalog matches rank known products first and ignore the remembered price 
   const lodge = matchCatalog(["lodge", "cast", "iron", "skillet"], null, products);
   assert.equal(lodge[0].id, "lodge-8in-cast-iron-skillet-amazon");
   assert.ok(lodge.some((product) => product.id === "lodge-10-25-cast-iron-skillet-walmart"));
-  const cubes = matchCatalog(["packing", "cubes"], 25, products);
-  assert.ok(cubes.some((product) => /packing cubes/i.test(product.title)));
+  const peeler = matchCatalog(["swivel", "peeler"], 25, products);
+  assert.ok(peeler.some((product) => product.id === "oxo-good-grips-swivel-peeler-amazon"));
 
   const catalog = [{
     id: "lodge-8in-cast-iron-skillet-amazon",

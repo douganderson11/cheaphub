@@ -41,7 +41,7 @@
     },
     "home-comfort-under-100": {
       ceiling: ["under_25", "under_50", "under_100"],
-      subcategory: ["lighting", "bath", "cleaning-tools"]
+      subcategory: ["lighting", "bath", "cleaning-tools", "cleaning", "home-decor", "furniture"]
     },
     priority: {
       priorityOnly: true
