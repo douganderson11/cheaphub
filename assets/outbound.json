@@ -307,12 +307,12 @@
     "merchant": "Target",
     "title": "Cabeau Evolution Classic Memory Foam Travel Neck Pillow"
   },
-  "travelon-rfid-anti-theft-mini-shoulder-target": {
-    "destination": "https://www.target.com/p/travelon-rfid-anti-theft-mini-shoulder-bag-black/-/A-54541018",
-    "product_url": "https://www.target.com/p/travelon-rfid-anti-theft-mini-shoulder-bag-black/-/A-54541018",
+  "amazon-basics-packing-cubes-4pc": {
+    "destination": "https://www.amazon.com/dp/B014VBICGC?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B014VBICGC",
     "affiliate_url": null,
-    "merchant": "Target",
-    "title": "Travelon RFID Anti-Theft Mini Shoulder Bag"
+    "merchant": "Amazon",
+    "title": "Amazon Essentials 4-Piece Packing Cubes"
   },
   "travelon-self-laminating-luggage-tags-3pk-amazon": {
     "destination": "https://www.amazon.com/dp/B078M2Q7XW?tag=cheaphubus-20",
@@ -405,6 +405,13 @@
     "merchant": "Amazon",
     "title": "Rubbermaid Brilliance 9.6-Cup Food Storage Containers, 2-Count"
   },
+  "tsa-30ml-travel-dispenser-4pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GK6PN8V4?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GK6PN8V4",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "30ml Leak-Resistant Travel Dispenser Bottles, 4-Pack"
+  },
   "european-type-c-plug-adapter-2pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0B3LZ5896?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0B3LZ5896",
@@ -418,6 +425,20 @@
     "affiliate_url": null,
     "merchant": "Target",
     "title": "Gourmia 6 qt Digital Window Air Fryer, Black"
+  },
+  "anker-20000mah-45w-power-bank-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DSZKKJTK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DSZKKJTK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Anker 20,000mAh 45W Power Bank with Built-in USB-C Cables"
+  },
+  "amazon-essentials-compression-packing-cubes-6pk": {
+    "destination": "https://www.amazon.com/dp/B0DRNGLGFB?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DRNGLGFB",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack"
   },
   "amazon-basics-gallon-food-bags-120": {
     "destination": "https://www.amazon.com/dp/B093WMWKBP?tag=cheaphubus-20",
@@ -439,6 +460,13 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "NESCAF\u00c9 Taster's Choice House Blend Instant Coffee, 2 Jars"
+  },
+  "bagsmart-toiletry-bag-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CKYYDHLS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CKYYDHLS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "BAGSMART Travel Toiletry Bag, Black"
   },
   "peets-major-dickasons-whole-bean-18oz-amazon": {
     "destination": "https://www.amazon.com/dp/B087K8DC6X?tag=cheaphubus-20",
