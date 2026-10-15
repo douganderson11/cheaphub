@@ -553,20 +553,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "BAGSMART Travel Toiletry Bag, Black",
-    "summary": "A black BAGSMART toiletry bag, listed at about 11.8 by 7.3 by 8.7 inches, with four compartments and a waterproof pocket. Sold at Amazon.",
-    "url": "/deals/#bagsmart-toiletry-bag-black-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
-    "title": "Peet's Major Dickason's Blend Whole Bean Coffee, 18 oz",
-    "summary": "Peet's Major Dickason's Blend, whole bean, in an 18-ounce bag. Sold at Amazon.",
-    "url": "/deals/#peets-major-dickasons-whole-bean-18oz-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Caribou Coffee Caribou Blend K-Cup Pods, Medium Roast, 96 Count",
     "summary": "Caribou Blend K-Cup pods, medium roast, in a 96-count box. Sold at Amazon.",
     "url": "/deals/#caribou-blend-kcups-96-amazon",
@@ -663,20 +649,6 @@
     "url": "/deals/#keurig-k-express-island-berry-amazon",
     "type": "Product",
     "topic": "Home"
-  },
-  {
-    "title": "Gevalia Signature Blend K-Cup Pods, Mild Light Roast, 84 Count",
-    "summary": "Eighty-four Gevalia Signature Blend light roast pods, for a milder Keurig cup. Sold at Amazon.",
-    "url": "/deals/#gevalia-signature-blend-kcups-84-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Pompeian Smooth Extra Virgin Olive Oil, 68 fl oz",
-    "summary": "A 68-ounce bottle of Pompeian Smooth extra virgin olive oil for saut\u00e9ing and salads. Sold at Amazon.",
-    "url": "/deals/#pompeian-smooth-evoo-68oz-amazon",
-    "type": "Product",
-    "topic": "Everyday"
   },
   {
     "title": "Persil Original Liquid Laundry Detergent, 110 Loads, 82.5 fl oz",
@@ -805,13 +777,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Samsonite Freeform 2-Piece Luggage Set, Carry-On and Large Checked",
-    "summary": "Samsonite's Freeform set pairs a carry-on with a large checked spinner. Sold at Amazon.",
-    "url": "/deals/#samsonite-freeform-2pc-luggage-set-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "Coleman Skydome Dark Room Tent with Rainfly",
     "summary": "Coleman's Skydome Dark Room tent with a rainfly. The listing is labeled for 4, 6, 8, or 10 people. Sold at Amazon.",
     "url": "/deals/#coleman-skydome-dark-room-tent-amazon",
@@ -880,5 +845,75 @@
     "url": "/deals/#coffee-mate-original-singles-180-amazon",
     "type": "Product",
     "topic": "Everyday"
+  },
+  {
+    "title": "Coleman Skydome Tent with Full-Fly Weather Vestibule, 4/6 Person",
+    "summary": "Coleman's Skydome with a full-fly vestibule, labeled for 4 or 6 people, with the poles already attached. Sold at Amazon.",
+    "url": "/deals/#coleman-skydome-vestibule-tent-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Coleman Pro 45-Quart Hard Cooler with Wheels, Blue Sky",
+    "summary": "A blue 45-quart Coleman Pro hard cooler on wheels. Sold at Amazon.",
+    "url": "/deals/#coleman-pro-45qt-cooler-blue-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Energizer Max AA Batteries, 20 Count",
+    "summary": "A 20-pack of Energizer Max AA alkaline batteries. Sold at Amazon.",
+    "url": "/deals/#energizer-max-aa-20pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Energizer Alkaline Power AAA Batteries, 32 Count",
+    "summary": "A 32-pack of Energizer Alkaline Power AAA batteries. Sold at Amazon.",
+    "url": "/deals/#energizer-alkaline-power-aaa-32-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Quest Tortilla Protein Chips, Game Day Variety Pack, 12 Count",
+    "summary": "A 12-bag Game Day variety pack of Quest tortilla-style protein chips. Sold at Amazon.",
+    "url": "/deals/#quest-tortilla-chips-gameday-12-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Happy Belly French Roast Coffee Pods, 100 Count",
+    "summary": "One hundred Happy Belly French Roast pods for a Keurig-style brewer. Sold at Amazon.",
+    "url": "/deals/#happy-belly-french-roast-kcups-100-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Waykar 150 Pint Dehumidifier with Drain Hose and Tank",
+    "summary": "Waykar's 150-pint dehumidifier, with a drain hose and a tank, for a damp basement. Sold at Amazon.",
+    "url": "/deals/#waykar-150-pint-dehumidifier-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Mercer Culinary Pre-Seasoned Cast Iron Skillet, 12-Inch",
+    "summary": "A 12-inch pre-seasoned cast iron skillet from Mercer Culinary, with a helper handle. Sold at Amazon.",
+    "url": "/deals/#mercer-12in-cast-iron-skillet-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Utopia Bedding Waterproof Mattress Protector, King",
+    "summary": "A king waterproof mattress protector. The listing calls the cover noiseless. Sold at Amazon.",
+    "url": "/deals/#utopia-bedding-waterproof-king-protector-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Amazon Basics 32-Quart Latching Storage Bins, 6-Pack",
+    "summary": "Six clear 32-quart Amazon Basics bins with grey latching lids. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-32qt-latching-bins-6pk-amazon",
+    "type": "Product",
+    "topic": "Home"
   }
 ]
