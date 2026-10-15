@@ -461,20 +461,6 @@
     "merchant": "Amazon",
     "title": "NESCAF\u00c9 Taster's Choice House Blend Instant Coffee, 2 Jars"
   },
-  "bagsmart-toiletry-bag-black-amazon": {
-    "destination": "https://www.amazon.com/dp/B0CKYYDHLS?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0CKYYDHLS",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "BAGSMART Travel Toiletry Bag, Black"
-  },
-  "peets-major-dickasons-whole-bean-18oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B087K8DC6X?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B087K8DC6X",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Peet's Major Dickason's Blend Whole Bean Coffee, 18 oz"
-  },
   "caribou-blend-kcups-96-amazon": {
     "destination": "https://www.amazon.com/dp/B07GNZZ25C?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B07GNZZ25C",
@@ -572,20 +558,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Keurig K-Express Single Serve Coffee Maker, Island Berry"
-  },
-  "gevalia-signature-blend-kcups-84-amazon": {
-    "destination": "https://www.amazon.com/dp/B00EY31166?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B00EY31166",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Gevalia Signature Blend K-Cup Pods, Mild Light Roast, 84 Count"
-  },
-  "pompeian-smooth-evoo-68oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B07BCX2YNG?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07BCX2YNG",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Pompeian Smooth Extra Virgin Olive Oil, 68 fl oz"
   },
   "persil-original-liquid-110-loads-amazon": {
     "destination": "https://www.amazon.com/dp/B07L67Z4CQ?tag=cheaphubus-20",
@@ -713,13 +685,6 @@
     "merchant": "Amazon",
     "title": "OGHom 1000W Travel Steamer and Iron, 110-240V"
   },
-  "samsonite-freeform-2pc-luggage-set-amazon": {
-    "destination": "https://www.amazon.com/dp/B01NBHSM8M?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B01NBHSM8M",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Samsonite Freeform 2-Piece Luggage Set, Carry-On and Large Checked"
-  },
   "coleman-skydome-dark-room-tent-amazon": {
     "destination": "https://www.amazon.com/dp/B0D7QG7HQ5?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0D7QG7HQ5",
@@ -789,5 +754,75 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Coffee mate Original Creamer Singles, 180 Count"
+  },
+  "coleman-skydome-vestibule-tent-amazon": {
+    "destination": "https://www.amazon.com/dp/B0D7QG7QS2?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0D7QG7QS2",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Coleman Skydome Tent with Full-Fly Weather Vestibule, 4/6 Person"
+  },
+  "coleman-pro-45qt-cooler-blue-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DMW2Z6BP?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DMW2Z6BP",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Coleman Pro 45-Quart Hard Cooler with Wheels, Blue Sky"
+  },
+  "energizer-max-aa-20pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B005GIQXCU?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B005GIQXCU",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Energizer Max AA Batteries, 20 Count"
+  },
+  "energizer-alkaline-power-aaa-32-amazon": {
+    "destination": "https://www.amazon.com/dp/B09RTVN5GN?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09RTVN5GN",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Energizer Alkaline Power AAA Batteries, 32 Count"
+  },
+  "quest-tortilla-chips-gameday-12-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F79V6JMV?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F79V6JMV",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Quest Tortilla Protein Chips, Game Day Variety Pack, 12 Count"
+  },
+  "happy-belly-french-roast-kcups-100-amazon": {
+    "destination": "https://www.amazon.com/dp/B07NQFC1G9?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07NQFC1G9",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Happy Belly French Roast Coffee Pods, 100 Count"
+  },
+  "waykar-150-pint-dehumidifier-amazon": {
+    "destination": "https://www.amazon.com/dp/B0B5V3NC1T?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0B5V3NC1T",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Waykar 150 Pint Dehumidifier with Drain Hose and Tank"
+  },
+  "mercer-12in-cast-iron-skillet-amazon": {
+    "destination": "https://www.amazon.com/dp/B09C2Q1T8Z?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09C2Q1T8Z",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Mercer Culinary Pre-Seasoned Cast Iron Skillet, 12-Inch"
+  },
+  "utopia-bedding-waterproof-king-protector-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CPYF9GX4?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CPYF9GX4",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Utopia Bedding Waterproof Mattress Protector, King"
+  },
+  "amazon-basics-32qt-latching-bins-6pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B09V5KXQ1J?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09V5KXQ1J",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics 32-Quart Latching Storage Bins, 6-Pack"
   }
 }
