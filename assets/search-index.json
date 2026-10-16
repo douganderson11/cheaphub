@@ -532,13 +532,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Amazon Basics Gallon Food Storage Bags, 120 Count",
-    "summary": "A 120-count box of gallon food bags with a double zipper and a base that stands up. Sold at Amazon.",
-    "url": "/deals/#amazon-basics-gallon-food-bags-120",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Stouchi Passport Holder with AirTag Slot",
     "summary": "A slim Stouchi passport holder with an AirTag slot and RFID-blocking material, according to the listing. Sold at Amazon.",
     "url": "/deals/#stouchi-rfid-passport-holder-amazon",
@@ -558,13 +551,6 @@
     "url": "/deals/#caribou-blend-kcups-96-amazon",
     "type": "Product",
     "topic": "Everyday"
-  },
-  {
-    "title": "Amazon Basics 5-Shelf Wire Rack, 36 x 14 x 72 Inches, Chrome",
-    "summary": "A chrome Amazon Basics wire rack with five shelves, 36 by 14 by 72 inches. The listing says it assembles without tools. Sold at Amazon.",
-    "url": "/deals/#amazon-basics-5-shelf-wire-rack-amazon",
-    "type": "Product",
-    "topic": "Home"
   },
   {
     "title": "Dutch Bros Coconut Mocha Coffee Pods, 32 Count",
@@ -651,13 +637,6 @@
     "topic": "Home"
   },
   {
-    "title": "Persil Original Liquid Laundry Detergent, 110 Loads, 82.5 fl oz",
-    "summary": "Persil Original concentrated liquid detergent, an 82.5-ounce bottle sized for 110 loads. Sold at Amazon.",
-    "url": "/deals/#persil-original-liquid-110-loads-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Dot&Dot Twist Memory Foam Travel Pillow, 26-Inch, Gray",
     "summary": "A 26-inch Dot&Dot memory-foam roll that bends around your neck or snaps onto a bag. Sold at Amazon.",
     "url": "/deals/#dotdot-twist-memory-foam-travel-pillow-amazon",
@@ -689,13 +668,6 @@
     "title": "Delta Nicoli Matte Black Bridge Kitchen Faucet, 19867LF-BL",
     "summary": "A matte black Delta Nicoli bridge faucet with two handles and a pull-down sprayer, model 19867LF-BL. Sold at Amazon.",
     "url": "/deals/#delta-nicoli-matte-black-kitchen-faucet-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "Hamilton Beach Power Elite Blender",
-    "summary": "Hamilton Beach's Power Elite blender, 700 watts, with stainless Ice Sabre blades and a glass jar the listing says is dishwasher safe. Sold at Amazon.",
-    "url": "/deals/#hamilton-beach-power-elite-blender-amazon",
     "type": "Product",
     "topic": "Home"
   },
@@ -826,13 +798,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "illy Classico Medium Roast Ground Espresso, 8.8 oz",
-    "summary": "An 8.8 oz can of illy Classico medium-roast ground espresso. Sold at Amazon.",
-    "url": "/deals/#illy-classico-ground-espresso-8oz-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Rip Van Dubai Choco Bars, 12-Pack",
     "summary": "A 12-pack of Rip Van Dubai chocolate bars. The listing describes pistachio cream and toasted kunafa. Sold at Amazon.",
     "url": "/deals/#rip-van-dubai-choco-bars-12-amazon",
@@ -915,5 +880,61 @@
     "url": "/deals/#amazon-basics-32qt-latching-bins-6pk-amazon",
     "type": "Product",
     "topic": "Home"
+  },
+  {
+    "title": "Starbucks French Roast Ground Coffee, 18 oz",
+    "summary": "An 18-ounce bag of Starbucks French Roast ground coffee. The bag describes it as a dark roast with caramel and sweet smoke. Sold at Amazon.",
+    "url": "/deals/#starbucks-french-roast-ground-18oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Starbucks Medium Roast Ground Coffee Variety Pack, 3 Bags",
+    "summary": "Three 12-ounce bags of Starbucks medium roast: Breakfast Blend, House Blend, and Pike Place. Sold at Amazon.",
+    "url": "/deals/#starbucks-medium-roast-variety-3pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Pure Organic Layered Fruit Bars, Strawberry Banana and Pineapple Passionfruit, 24 Count",
+    "summary": "Twenty-four Pure Organic layered fruit bars, strawberry banana and pineapple passionfruit, packed as two boxes. Sold at Amazon.",
+    "url": "/deals/#pure-organic-layered-fruit-bars-24-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Kellogg's Raisin Bran Original, 20.9 oz",
+    "summary": "A 20.9-ounce box of Kellogg's Raisin Bran Original. Sold at Amazon.",
+    "url": "/deals/#kelloggs-raisin-bran-20-9oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Poppi Prebiotic Soda, Major Mix, 12-Pack",
+    "summary": "Twelve 12-ounce cans of Poppi Major Mix: two each of Shirley Temple, root beer, orange cream, lemon lime, cream soda, and cherry cola. Sold at Amazon.",
+    "url": "/deals/#poppi-prebiotic-soda-major-mix-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Like Air Drizzled Rice Cakes, 4-Flavor Variety Pack, 10 Count",
+    "summary": "Ten bags of Like Air drizzled mini rice cakes: birthday cake, cookie dough, cinnamon bun, and brownie. Sold at Amazon.",
+    "url": "/deals/#like-air-drizzled-rice-cakes-10ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Bedsure Queen Sheet Set, 4-Piece",
+    "summary": "A four-piece Bedsure queen sheet set in polyester microfiber, with a ruched hem on the flat sheet and pillowcases. Sold at Amazon.",
+    "url": "/deals/#bedsure-queen-sheet-set-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Contigo Cortland Chill 2.0 Stainless Steel Water Bottle, 24 oz",
+    "summary": "A 24-ounce Contigo Cortland Chill 2.0 stainless bottle with an AUTOSEAL lid. Different model from the SnapSeal bottle already listed. Sold at Amazon.",
+    "url": "/deals/#contigo-cortland-chill-24oz-amazon",
+    "type": "Product",
+    "topic": "Travel"
   }
 ]

@@ -440,13 +440,6 @@
     "merchant": "Amazon",
     "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack"
   },
-  "amazon-basics-gallon-food-bags-120": {
-    "destination": "https://www.amazon.com/dp/B093WMWKBP?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B093WMWKBP",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Amazon Basics Gallon Food Storage Bags, 120 Count"
-  },
   "stouchi-rfid-passport-holder-amazon": {
     "destination": "https://www.amazon.com/dp/B0C7CDFQ81?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0C7CDFQ81",
@@ -467,13 +460,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Caribou Coffee Caribou Blend K-Cup Pods, Medium Roast, 96 Count"
-  },
-  "amazon-basics-5-shelf-wire-rack-amazon": {
-    "destination": "https://www.amazon.com/dp/B01M0A4B9M?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B01M0A4B9M",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Amazon Basics 5-Shelf Wire Rack, 36 x 14 x 72 Inches, Chrome"
   },
   "dutch-bros-coconut-mocha-kcups-32-amazon": {
     "destination": "https://www.amazon.com/dp/B0GCBD2BGK?tag=cheaphubus-20",
@@ -559,13 +545,6 @@
     "merchant": "Amazon",
     "title": "Keurig K-Express Single Serve Coffee Maker, Island Berry"
   },
-  "persil-original-liquid-110-loads-amazon": {
-    "destination": "https://www.amazon.com/dp/B07L67Z4CQ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07L67Z4CQ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Persil Original Liquid Laundry Detergent, 110 Loads, 82.5 fl oz"
-  },
   "dotdot-twist-memory-foam-travel-pillow-amazon": {
     "destination": "https://www.amazon.com/dp/B01IEJHJWK?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01IEJHJWK",
@@ -600,13 +579,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Delta Nicoli Matte Black Bridge Kitchen Faucet, 19867LF-BL"
-  },
-  "hamilton-beach-power-elite-blender-amazon": {
-    "destination": "https://www.amazon.com/dp/B0GQCFRD95?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0GQCFRD95",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Hamilton Beach Power Elite Blender"
   },
   "simplehome-cream-blackout-curtains-63in-amazon": {
     "destination": "https://www.amazon.com/dp/B0GWZX6LVZ?tag=cheaphubus-20",
@@ -734,13 +706,6 @@
     "merchant": "Amazon",
     "title": "The Original Donut Shop Regular K-Cup Pods, 72 Count"
   },
-  "illy-classico-ground-espresso-8oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B00DTR9R9Q?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B00DTR9R9Q",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "illy Classico Medium Roast Ground Espresso, 8.8 oz"
-  },
   "rip-van-dubai-choco-bars-12-amazon": {
     "destination": "https://www.amazon.com/dp/B0G6FYQ8GJ?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0G6FYQ8GJ",
@@ -824,5 +789,61 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Amazon Basics 32-Quart Latching Storage Bins, 6-Pack"
+  },
+  "starbucks-french-roast-ground-18oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B0936DPF8Y?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0936DPF8Y",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Starbucks French Roast Ground Coffee, 18 oz"
+  },
+  "starbucks-medium-roast-variety-3pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B07LFYX6TX?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07LFYX6TX",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Starbucks Medium Roast Ground Coffee Variety Pack, 3 Bags"
+  },
+  "pure-organic-layered-fruit-bars-24-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F18MYVY3?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F18MYVY3",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Pure Organic Layered Fruit Bars, Strawberry Banana and Pineapple Passionfruit, 24 Count"
+  },
+  "kelloggs-raisin-bran-20-9oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F15SQ8HY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F15SQ8HY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Kellogg's Raisin Bran Original, 20.9 oz"
+  },
+  "poppi-prebiotic-soda-major-mix-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FYHCK8CR?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FYHCK8CR",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Poppi Prebiotic Soda, Major Mix, 12-Pack"
+  },
+  "like-air-drizzled-rice-cakes-10ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0H1SXNCFK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0H1SXNCFK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Like Air Drizzled Rice Cakes, 4-Flavor Variety Pack, 10 Count"
+  },
+  "bedsure-queen-sheet-set-amazon": {
+    "destination": "https://www.amazon.com/dp/B07P5NBRL5?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07P5NBRL5",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Bedsure Queen Sheet Set, 4-Piece"
+  },
+  "contigo-cortland-chill-24oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B0D113PPWL?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0D113PPWL",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Contigo Cortland Chill 2.0 Stainless Steel Water Bottle, 24 oz"
   }
 }
