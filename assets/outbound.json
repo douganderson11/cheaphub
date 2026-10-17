@@ -482,13 +482,6 @@
     "merchant": "Amazon",
     "title": "Travelpro Maxlite 5 Softside 2-Piece Set, Black"
   },
-  "tabasco-original-2oz-24pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B01KAQ929I?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B01KAQ929I",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Tabasco Original Pepper Sauce, 2 oz, 24-Pack"
-  },
   "furinno-simple-design-side-tables-2pk-amazon": {
     "destination": "https://www.amazon.com/dp/B01D30R1RS?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01D30R1RS",
@@ -769,13 +762,6 @@
     "merchant": "Amazon",
     "title": "Waykar 150 Pint Dehumidifier with Drain Hose and Tank"
   },
-  "mercer-12in-cast-iron-skillet-amazon": {
-    "destination": "https://www.amazon.com/dp/B09C2Q1T8Z?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B09C2Q1T8Z",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Mercer Culinary Pre-Seasoned Cast Iron Skillet, 12-Inch"
-  },
   "utopia-bedding-waterproof-king-protector-amazon": {
     "destination": "https://www.amazon.com/dp/B0CPYF9GX4?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0CPYF9GX4",
@@ -803,13 +789,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Starbucks Medium Roast Ground Coffee Variety Pack, 3 Bags"
-  },
-  "pure-organic-layered-fruit-bars-24-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F18MYVY3?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F18MYVY3",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Pure Organic Layered Fruit Bars, Strawberry Banana and Pineapple Passionfruit, 24 Count"
   },
   "kelloggs-raisin-bran-20-9oz-amazon": {
     "destination": "https://www.amazon.com/dp/B0F15SQ8HY?tag=cheaphubus-20",
@@ -845,5 +824,75 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Contigo Cortland Chill 2.0 Stainless Steel Water Bottle, 24 oz"
+  },
+  "counter-culture-slow-motion-decaf-12oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B0767PW9T7?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0767PW9T7",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Counter Culture Slow Motion Decaf Whole Bean Coffee, 12 oz"
+  },
+  "happy-belly-breakfast-blend-kcups-24-amazon": {
+    "destination": "https://www.amazon.com/dp/B07NZVBVG3?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07NZVBVG3",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Happy Belly Breakfast Blend Light Roast Coffee Pods, 24 Count"
+  },
+  "utopia-bedding-king-fitted-sheet-grey-amazon": {
+    "destination": "https://www.amazon.com/dp/B00XK9CCBI?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00XK9CCBI",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Utopia Bedding King Fitted Sheet, Grey"
+  },
+  "bulletproof-french-kick-kcups-24-amazon": {
+    "destination": "https://www.amazon.com/dp/B07LFVGSNB?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07LFVGSNB",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Bulletproof French Kick Dark Roast Coffee Pods, 24 Count"
+  },
+  "samsonite-manual-luggage-scale-amazon": {
+    "destination": "https://www.amazon.com/dp/B01MQEWQE9?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01MQEWQE9",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Manual Luggage Scale, Black"
+  },
+  "clif-builders-oreo-protein-bars-12-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DZXJ7LJG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DZXJ7LJG",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "CLIF BUILDERS Protein Bars, OREO-Flavored, 12 Count"
+  },
+  "dots-pretzels-variety-18ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DL2LVM8Z?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DL2LVM8Z",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Dot's Pretzels Twists Variety Pack, 18 Count"
+  },
+  "hefty-party-on-cups-16oz-100-amazon": {
+    "destination": "https://www.amazon.com/dp/B00OCGUG02?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00OCGUG02",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Hefty Party On Disposable Cups, 16 oz, 100 Count"
+  },
+  "lepro-rechargeable-headlamp-orange-amazon": {
+    "destination": "https://www.amazon.com/dp/B0H3ZKSSPD?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0H3ZKSSPD",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Lepro Rechargeable LED Headlamp, Orange"
+  },
+  "jack-links-original-jerky-20pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B07NR7694X?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07NR7694X",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Jack Link's Original Beef Jerky, 20-Pack"
   }
 }

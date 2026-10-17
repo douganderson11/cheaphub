@@ -574,13 +574,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Tabasco Original Pepper Sauce, 2 oz, 24-Pack",
-    "summary": "A case of 24 little 2-ounce bottles of original Tabasco pepper sauce. Sold at Amazon.",
-    "url": "/deals/#tabasco-original-2oz-24pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Furinno Simple Design Side Tables, Set of 2, French Oak",
     "summary": "Two French-oak-finish Furinno side tables, each with a top and an open lower shelf. Sold at Amazon.",
     "url": "/deals/#furinno-simple-design-side-tables-2pk-amazon",
@@ -861,13 +854,6 @@
     "topic": "Home"
   },
   {
-    "title": "Mercer Culinary Pre-Seasoned Cast Iron Skillet, 12-Inch",
-    "summary": "A 12-inch pre-seasoned cast iron skillet from Mercer Culinary, with a helper handle. Sold at Amazon.",
-    "url": "/deals/#mercer-12in-cast-iron-skillet-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Utopia Bedding Waterproof Mattress Protector, King",
     "summary": "A king waterproof mattress protector. The listing calls the cover noiseless. Sold at Amazon.",
     "url": "/deals/#utopia-bedding-waterproof-king-protector-amazon",
@@ -892,13 +878,6 @@
     "title": "Starbucks Medium Roast Ground Coffee Variety Pack, 3 Bags",
     "summary": "Three 12-ounce bags of Starbucks medium roast: Breakfast Blend, House Blend, and Pike Place. Sold at Amazon.",
     "url": "/deals/#starbucks-medium-roast-variety-3pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Pure Organic Layered Fruit Bars, Strawberry Banana and Pineapple Passionfruit, 24 Count",
-    "summary": "Twenty-four Pure Organic layered fruit bars, strawberry banana and pineapple passionfruit, packed as two boxes. Sold at Amazon.",
-    "url": "/deals/#pure-organic-layered-fruit-bars-24-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -936,5 +915,75 @@
     "url": "/deals/#contigo-cortland-chill-24oz-amazon",
     "type": "Product",
     "topic": "Travel"
+  },
+  {
+    "title": "Counter Culture Slow Motion Decaf Whole Bean Coffee, 12 oz",
+    "summary": "A 12-ounce bag of Counter Culture Slow Motion decaf, whole bean. The bag's tasting notes are molasses, cocoa, and smooth. Sold at Amazon.",
+    "url": "/deals/#counter-culture-slow-motion-decaf-12oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Happy Belly Breakfast Blend Light Roast Coffee Pods, 24 Count",
+    "summary": "A 24-count box of Happy Belly Breakfast Blend light roast pods. The listing says the coffee is 100% Arabica and works in 1.0 and 2.0 K-Cup brewers. Sold at Amazon.",
+    "url": "/deals/#happy-belly-breakfast-blend-kcups-24-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Utopia Bedding King Fitted Sheet, Grey",
+    "summary": "A grey Utopia Bedding king fitted sheet, 78 by 80 inches, with a 15-inch pocket. It's the fitted sheet only, in microfiber. Sold at Amazon.",
+    "url": "/deals/#utopia-bedding-king-fitted-sheet-grey-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Bulletproof French Kick Dark Roast Coffee Pods, 24 Count",
+    "summary": "A 24-count box of Bulletproof French Kick dark roast pods. This is a different box from the Original and High Achiever pods already listed. Sold at Amazon.",
+    "url": "/deals/#bulletproof-french-kick-kcups-24-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Samsonite Manual Luggage Scale, Black",
+    "summary": "A black Samsonite manual luggage scale. The listing says it weighs bags up to 80 pounds and includes a tape measure. Sold at Amazon.",
+    "url": "/deals/#samsonite-manual-luggage-scale-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "CLIF BUILDERS Protein Bars, OREO-Flavored, 12 Count",
+    "summary": "Twelve CLIF BUILDERS bars in the OREO flavor. The box says each bar has 20 grams of plant protein. Sold at Amazon.",
+    "url": "/deals/#clif-builders-oreo-protein-bars-12-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Dot's Pretzels Twists Variety Pack, 18 Count",
+    "summary": "Eighteen 1-ounce bags of Dot's pretzel twists: eight original, five honey mustard, and five parmesan garlic. Sold at Amazon.",
+    "url": "/deals/#dots-pretzels-variety-18ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Hefty Party On Disposable Cups, 16 oz, 100 Count",
+    "summary": "A 100-count pack of Hefty Party On 16-ounce plastic cups in assorted colors. Sold at Amazon.",
+    "url": "/deals/#hefty-party-on-cups-16oz-100-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Lepro Rechargeable LED Headlamp, Orange",
+    "summary": "An orange Lepro rechargeable headlamp. The listing says 300 lumens, five modes, and an IPX4 splash rating. Sold at Amazon.",
+    "url": "/deals/#lepro-rechargeable-headlamp-orange-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Jack Link's Original Beef Jerky, 20-Pack",
+    "summary": "Twenty 0.625-ounce bags of Jack Link's Original beef jerky. The box says a serving has 7 grams of protein. Sold at Amazon.",
+    "url": "/deals/#jack-links-original-jerky-20pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
   }
 ]
