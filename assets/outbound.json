@@ -426,13 +426,6 @@
     "merchant": "Target",
     "title": "Gourmia 6 qt Digital Window Air Fryer, Black"
   },
-  "anker-20000mah-45w-power-bank-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DSZKKJTK?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DSZKKJTK",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Anker 20,000mAh 45W Power Bank with Built-in USB-C Cables"
-  },
   "amazon-essentials-compression-packing-cubes-6pk": {
     "destination": "https://www.amazon.com/dp/B0DRNGLGFB?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DRNGLGFB",
@@ -446,13 +439,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Stouchi Passport Holder with AirTag Slot"
-  },
-  "nescafe-tasters-choice-house-blend-2-jars-amazon": {
-    "destination": "https://www.amazon.com/dp/B01FDLA52I?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B01FDLA52I",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "NESCAF\u00c9 Taster's Choice House Blend Instant Coffee, 2 Jars"
   },
   "caribou-blend-kcups-96-amazon": {
     "destination": "https://www.amazon.com/dp/B07GNZZ25C?tag=cheaphubus-20",
@@ -727,26 +713,12 @@
     "merchant": "Amazon",
     "title": "Coleman Pro 45-Quart Hard Cooler with Wheels, Blue Sky"
   },
-  "energizer-max-aa-20pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B005GIQXCU?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B005GIQXCU",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Energizer Max AA Batteries, 20 Count"
-  },
   "energizer-alkaline-power-aaa-32-amazon": {
     "destination": "https://www.amazon.com/dp/B09RTVN5GN?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B09RTVN5GN",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Energizer Alkaline Power AAA Batteries, 32 Count"
-  },
-  "quest-tortilla-chips-gameday-12-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F79V6JMV?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F79V6JMV",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Quest Tortilla Protein Chips, Game Day Variety Pack, 12 Count"
   },
   "happy-belly-french-roast-kcups-100-amazon": {
     "destination": "https://www.amazon.com/dp/B07NQFC1G9?tag=cheaphubus-20",
@@ -825,20 +797,6 @@
     "merchant": "Amazon",
     "title": "Contigo Cortland Chill 2.0 Stainless Steel Water Bottle, 24 oz"
   },
-  "counter-culture-slow-motion-decaf-12oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B0767PW9T7?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0767PW9T7",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Counter Culture Slow Motion Decaf Whole Bean Coffee, 12 oz"
-  },
-  "happy-belly-breakfast-blend-kcups-24-amazon": {
-    "destination": "https://www.amazon.com/dp/B07NZVBVG3?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07NZVBVG3",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Happy Belly Breakfast Blend Light Roast Coffee Pods, 24 Count"
-  },
   "utopia-bedding-king-fitted-sheet-grey-amazon": {
     "destination": "https://www.amazon.com/dp/B00XK9CCBI?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B00XK9CCBI",
@@ -894,5 +852,68 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Jack Link's Original Beef Jerky, 20-Pack"
+  },
+  "bulletproof-coffee-butter-kcups-24-amazon": {
+    "destination": "https://www.amazon.com/dp/B0B2C3F61V?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0B2C3F61V",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Bulletproof Coffee + Organic Grass-Fed Butter Pods, 24 Count"
+  },
+  "premier-protein-chocolate-peanut-butter-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B08SRSRN7G?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08SRSRN7G",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Premier Protein Shake, Chocolate Peanut Butter, 12-Pack"
+  },
+  "starbucks-french-roast-ground-28oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B07B48MWZJ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07B48MWZJ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Starbucks French Roast Ground Coffee, 28 oz"
+  },
+  "maxwell-house-house-blend-kcups-84-amazon": {
+    "destination": "https://www.amazon.com/dp/B00NLVFO2O?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00NLVFO2O",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Maxwell House House Blend Coffee Pods, 84 Count"
+  },
+  "micro-ingredients-organic-matcha-16oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B08PY3Q8XS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08PY3Q8XS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Micro Ingredients Organic Matcha Green Tea Powder, 1 lb"
+  },
+  "butterfinger-assorted-bars-28ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B09XWX849T?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09XWX849T",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Butterfinger, CRUNCH, Baby Ruth, and 100 Grand Bars, 28 Count"
+  },
+  "bonsenkitchen-battery-milk-frother-amazon": {
+    "destination": "https://www.amazon.com/dp/B076F3C4XP?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B076F3C4XP",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Bonsenkitchen Battery Milk Frother, Black"
+  },
+  "olcorife-flat-plug-power-strip-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BJ1SWDNB?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BJ1SWDNB",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Olcorife Flat Plug Power Strip, 6 Outlets, 3 USB"
+  },
+  "wfiia-travel-vacuum-bags-15pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FF9B5NVC?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FF9B5NVC",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Wfiia Travel Vacuum Bags with Rechargeable Pump, 15-Pack"
   }
 }

@@ -518,13 +518,6 @@
     "topic": "Home"
   },
   {
-    "title": "Anker 20,000mAh 45W Power Bank with Built-in USB-C Cables",
-    "summary": "Anker's 20,000mAh pack with two USB-C cables built in and a 45W top output, for a phone and a laptop on the same trip. Sold at Amazon.",
-    "url": "/deals/#anker-20000mah-45w-power-bank-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack",
     "summary": "Six black compression cubes with two zippers each, for squeezing clothes into a carry-on. Sold at Amazon.",
     "url": "/deals/#amazon-essentials-compression-packing-cubes-6pk",
@@ -537,13 +530,6 @@
     "url": "/deals/#stouchi-rfid-passport-holder-amazon",
     "type": "Product",
     "topic": "Travel"
-  },
-  {
-    "title": "NESCAF\u00c9 Taster's Choice House Blend Instant Coffee, 2 Jars",
-    "summary": "Two 7-ounce jars of NESCAF\u00c9 Taster's Choice House Blend instant coffee, a light-to-medium roast. Sold at Amazon.",
-    "url": "/deals/#nescafe-tasters-choice-house-blend-2-jars-amazon",
-    "type": "Product",
-    "topic": "Everyday"
   },
   {
     "title": "Caribou Coffee Caribou Blend K-Cup Pods, Medium Roast, 96 Count",
@@ -819,23 +805,9 @@
     "topic": "Travel"
   },
   {
-    "title": "Energizer Max AA Batteries, 20 Count",
-    "summary": "A 20-pack of Energizer Max AA alkaline batteries. Sold at Amazon.",
-    "url": "/deals/#energizer-max-aa-20pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Energizer Alkaline Power AAA Batteries, 32 Count",
     "summary": "A 32-pack of Energizer Alkaline Power AAA batteries. Sold at Amazon.",
     "url": "/deals/#energizer-alkaline-power-aaa-32-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Quest Tortilla Protein Chips, Game Day Variety Pack, 12 Count",
-    "summary": "A 12-bag Game Day variety pack of Quest tortilla-style protein chips. Sold at Amazon.",
-    "url": "/deals/#quest-tortilla-chips-gameday-12-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -917,20 +889,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Counter Culture Slow Motion Decaf Whole Bean Coffee, 12 oz",
-    "summary": "A 12-ounce bag of Counter Culture Slow Motion decaf, whole bean. The bag's tasting notes are molasses, cocoa, and smooth. Sold at Amazon.",
-    "url": "/deals/#counter-culture-slow-motion-decaf-12oz-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Happy Belly Breakfast Blend Light Roast Coffee Pods, 24 Count",
-    "summary": "A 24-count box of Happy Belly Breakfast Blend light roast pods. The listing says the coffee is 100% Arabica and works in 1.0 and 2.0 K-Cup brewers. Sold at Amazon.",
-    "url": "/deals/#happy-belly-breakfast-blend-kcups-24-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Utopia Bedding King Fitted Sheet, Grey",
     "summary": "A grey Utopia Bedding king fitted sheet, 78 by 80 inches, with a 15-inch pocket. It's the fitted sheet only, in microfiber. Sold at Amazon.",
     "url": "/deals/#utopia-bedding-king-fitted-sheet-grey-amazon",
@@ -985,5 +943,68 @@
     "url": "/deals/#jack-links-original-jerky-20pk-amazon",
     "type": "Product",
     "topic": "Everyday"
+  },
+  {
+    "title": "Bulletproof Coffee + Organic Grass-Fed Butter Pods, 24 Count",
+    "summary": "A 24-count box of Bulletproof pods that already include organic grass-fed butter and MCT oil, so the cup comes out creamy without a separate stir-in. Sold at Amazon.",
+    "url": "/deals/#bulletproof-coffee-butter-kcups-24-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Premier Protein Shake, Chocolate Peanut Butter, 12-Pack",
+    "summary": "A 12-pack of Premier Protein shakes in chocolate peanut butter. The carton says 30 grams of protein per shake. Sold at Amazon.",
+    "url": "/deals/#premier-protein-chocolate-peanut-butter-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Starbucks French Roast Ground Coffee, 28 oz",
+    "summary": "A 28-ounce bag of Starbucks French Roast ground coffee, dark roast, for hot or iced cups. This is a bigger bag than the 18-ounce French Roast already listed. Sold at Amazon.",
+    "url": "/deals/#starbucks-french-roast-ground-28oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Maxwell House House Blend Coffee Pods, 84 Count",
+    "summary": "An 84-count box of Maxwell House House Blend medium-roast pods. This is the House Blend, not the Breakfast Blend box already listed. Sold at Amazon.",
+    "url": "/deals/#maxwell-house-house-blend-kcups-84-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Micro Ingredients Organic Matcha Green Tea Powder, 1 lb",
+    "summary": "A 1-pound pouch of Micro Ingredients organic culinary-grade matcha. The listing says it is first-harvest tea from Japan, and it is a different product from the Matcha DNA tin already listed. Sold at Amazon.",
+    "url": "/deals/#micro-ingredients-organic-matcha-16oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Butterfinger, CRUNCH, Baby Ruth, and 100 Grand Bars, 28 Count",
+    "summary": "A 28-count, 48-ounce assortment of Butterfinger, CRUNCH, Baby Ruth, and 100 Grand bars. Sold at Amazon.",
+    "url": "/deals/#butterfinger-assorted-bars-28ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Bonsenkitchen Battery Milk Frother, Black",
+    "summary": "A black handheld milk frother from Bonsenkitchen. The listing says it is battery operated and the whisk is stainless steel. Sold at Amazon.",
+    "url": "/deals/#bonsenkitchen-battery-milk-frother-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Olcorife Flat Plug Power Strip, 6 Outlets, 3 USB",
+    "summary": "A compact Olcorife power strip with a flat plug, six outlets, and three USB ports on a 5-foot cord. Sold at Amazon.",
+    "url": "/deals/#olcorife-flat-plug-power-strip-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Wfiia Travel Vacuum Bags with Rechargeable Pump, 15-Pack",
+    "summary": "A travel set of compression bags with a rechargeable pump. The listing says you get 15 bags plus one extra large refill, in three sizes. Sold at Amazon.",
+    "url": "/deals/#wfiia-travel-vacuum-bags-15pk-amazon",
+    "type": "Product",
+    "topic": "Travel"
   }
 ]
