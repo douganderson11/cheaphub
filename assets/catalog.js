@@ -43,6 +43,22 @@
       ceiling: ["under_25", "under_50", "under_100"],
       subcategory: ["lighting", "bath", "cleaning-tools", "cleaning", "home-decor", "furniture"]
     },
+    "thanksgiving-hosting": {
+      ids: [
+        "crockpot-2-5qt-casserole-slow-cooker-amazon",
+        "gourmia-6qt-window-air-fryer-target",
+        "ninja-blender-pro-plus-bl660-amazon",
+        "keurig-k-express-island-berry-amazon",
+        "happy-belly-french-roast-kcups-100-amazon",
+        "coffee-mate-original-singles-180-amazon",
+        "hefty-party-on-cups-16oz-100-amazon",
+        "poppi-prebiotic-soda-major-mix-12pk-amazon",
+        "oxo-good-grips-salad-spinner-amazon",
+        "rubbermaid-brilliance-9-6cup-2pk-amazon",
+        "bedsure-queen-sheet-set-amazon",
+        "room-essentials-6pc-dorm-towel-set-target"
+      ]
+    },
     priority: {
       priorityOnly: true
     },
@@ -96,6 +112,7 @@
     if (rules.ceiling && !rules.ceiling.includes(product.ceiling_bucket)) return false;
     if (rules.subcategory && !rules.subcategory.includes(product.subcategory)) return false;
     if (rules.merchant && product.merchant !== rules.merchant) return false;
+    if (Array.isArray(rules.ids) && rules.ids.length && !rules.ids.includes(product.id)) return false;
     return true;
   }
 
