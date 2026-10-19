@@ -426,6 +426,13 @@
     "merchant": "Target",
     "title": "Gourmia 6 qt Digital Window Air Fryer, Black"
   },
+  "anker-20000mah-45w-power-bank-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DSZKKJTK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DSZKKJTK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Anker 20,000mAh 45W Power Bank with Built-in USB-C Cables"
+  },
   "amazon-essentials-compression-packing-cubes-6pk": {
     "destination": "https://www.amazon.com/dp/B0DRNGLGFB?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DRNGLGFB",
@@ -440,12 +447,12 @@
     "merchant": "Amazon",
     "title": "Stouchi Passport Holder with AirTag Slot"
   },
-  "caribou-blend-kcups-96-amazon": {
-    "destination": "https://www.amazon.com/dp/B07GNZZ25C?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07GNZZ25C",
+  "slimfast-milk-chocolate-shake-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DPNKFJ61?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DPNKFJ61",
     "affiliate_url": null,
     "merchant": "Amazon",
-    "title": "Caribou Coffee Caribou Blend K-Cup Pods, Medium Roast, 96 Count"
+    "title": "SlimFast Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack"
   },
   "dutch-bros-coconut-mocha-kcups-32-amazon": {
     "destination": "https://www.amazon.com/dp/B0GCBD2BGK?tag=cheaphubus-20",
@@ -524,13 +531,6 @@
     "merchant": "Amazon",
     "title": "Keurig K-Express Single Serve Coffee Maker, Island Berry"
   },
-  "dotdot-twist-memory-foam-travel-pillow-amazon": {
-    "destination": "https://www.amazon.com/dp/B01IEJHJWK?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B01IEJHJWK",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Dot&Dot Twist Memory Foam Travel Pillow, 26-Inch, Gray"
-  },
   "coleman-back-home-screened-canopy-amazon": {
     "destination": "https://www.amazon.com/dp/B0D96KMCTN?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0D96KMCTN",
@@ -566,26 +566,12 @@
     "merchant": "Amazon",
     "title": "SimpleHome Cream Blackout Curtains, 63 Inch, 2 Panels"
   },
-  "samsonite-omni-pc-24in-black-amazon": {
-    "destination": "https://www.amazon.com/dp/B013WFNVGY?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B013WFNVGY",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Samsonite Omni PC 24-Inch Hardside Checked Luggage, Black"
-  },
   "olarhike-8pc-packing-cubes-amazon": {
     "destination": "https://www.amazon.com/dp/B0BGWZN7MV?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0BGWZN7MV",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "OlarHike 8-Piece Packing Cube Set with Shoe and Toiletry Bags"
-  },
-  "weekender-40l-duffle-set-amazon": {
-    "destination": "https://www.amazon.com/dp/B0FCSB42JX?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0FCSB42JX",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "40L Weekender Duffel Set with Crossbody and Cosmetic Bag"
   },
   "filterbuy-20x25x1-merv8-4pk-amazon": {
     "destination": "https://www.amazon.com/dp/B00CJZ8PGU?tag=cheaphubus-20",
@@ -608,26 +594,12 @@
     "merchant": "Amazon",
     "title": "Matcha DNA Organic Matcha Powder, 16 oz Tin"
   },
-  "bulletproof-original-kcups-24-amazon": {
-    "destination": "https://www.amazon.com/dp/B073WDBTL3?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B073WDBTL3",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Bulletproof Original Medium-Roast Coffee Pods, 24 Count"
-  },
   "hellmanns-real-mayo-20oz-3pk-amazon": {
     "destination": "https://www.amazon.com/dp/B091DCC2CH?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B091DCC2CH",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Hellmann's Real Mayonnaise, 20 oz Squeeze, 3-Pack"
-  },
-  "rip-van-crispy-dunes-wafer-sticks-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DJCJ51YK?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DJCJ51YK",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Rip Van Crispy Dunes Dark Chocolate Wafer Sticks, 12-Pack"
   },
   "oghom-travel-steamer-iron-amazon": {
     "destination": "https://www.amazon.com/dp/B0FYF2X322?tag=cheaphubus-20",
@@ -664,13 +636,6 @@
     "merchant": "Amazon",
     "title": "Energizer Max AA and AAA Batteries, 48 Count"
   },
-  "bulletproof-high-achiever-kcups-24-amazon": {
-    "destination": "https://www.amazon.com/dp/B0B2X739PW?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0B2X739PW",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Bulletproof High Achiever Coffee Pods, 24 Count"
-  },
   "maxwell-house-original-ground-27oz-amazon": {
     "destination": "https://www.amazon.com/dp/B0CXYYWL6G?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0CXYYWL6G",
@@ -684,13 +649,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "The Original Donut Shop Regular K-Cup Pods, 72 Count"
-  },
-  "rip-van-dubai-choco-bars-12-amazon": {
-    "destination": "https://www.amazon.com/dp/B0G6FYQ8GJ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0G6FYQ8GJ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Rip Van Dubai Choco Bars, 12-Pack"
   },
   "coffee-mate-original-singles-180-amazon": {
     "destination": "https://www.amazon.com/dp/B00451SGZ6?tag=cheaphubus-20",
@@ -846,20 +804,6 @@
     "merchant": "Amazon",
     "title": "Lepro Rechargeable LED Headlamp, Orange"
   },
-  "jack-links-original-jerky-20pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B07NR7694X?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07NR7694X",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Jack Link's Original Beef Jerky, 20-Pack"
-  },
-  "bulletproof-coffee-butter-kcups-24-amazon": {
-    "destination": "https://www.amazon.com/dp/B0B2C3F61V?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0B2C3F61V",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Bulletproof Coffee + Organic Grass-Fed Butter Pods, 24 Count"
-  },
   "premier-protein-chocolate-peanut-butter-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B08SRSRN7G?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B08SRSRN7G",
@@ -915,5 +859,40 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Wfiia Travel Vacuum Bags with Rechargeable Pump, 15-Pack"
+  },
+  "hawaiian-tropic-sheer-touch-spf30-2oz-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FR574WTL?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FR574WTL",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Hawaiian Tropic Sheer Touch Lotion, SPF 30, 2 oz, 12-Pack"
+  },
+  "kinder-bueno-bars-30ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B07W46FC3N?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07W46FC3N",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Kinder Bueno Milk Chocolate Bars, 30 Count"
+  },
+  "premier-protein-chocolate-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B07MJL8NXR?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07MJL8NXR",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Premier Protein Shake, Chocolate, 12-Pack"
+  },
+  "magic-mill-pro-dehydrator-10-tray-amazon": {
+    "destination": "https://www.amazon.com/dp/B0D1TJGWND?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0D1TJGWND",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Magic Mill Pro Food Dehydrator, 10 Stainless Steel Trays"
+  },
+  "luggex-28in-checked-spinner-charcoal-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BWQRG7MG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BWQRG7MG",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "LUGGEX 28-Inch Checked Spinner Luggage, Charcoal Metallic"
   }
 }
