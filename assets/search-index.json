@@ -539,6 +539,13 @@
     "topic": "Travel"
   },
   {
+    "title": "Caribou Coffee Caribou Blend K-Cup Pods, Medium Roast, 96 Count",
+    "summary": "Caribou Blend K-Cup pods, medium roast, in a 96-count box. Sold at Amazon.",
+    "url": "/deals/#caribou-blend-kcups-96-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
     "title": "SlimFast Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack",
     "summary": "Twelve 11 fl oz SlimFast milk chocolate shakes, with 20g of protein in each serving according to the listing. Sold at Amazon.",
     "url": "/deals/#slimfast-milk-chocolate-shake-12pk-amazon",
@@ -658,6 +665,13 @@
     "topic": "Home"
   },
   {
+    "title": "Samsonite Omni PC 24-Inch Hardside Checked Luggage, Black",
+    "summary": "A black 24-inch Samsonite Omni PC checked spinner, scratch-resistant polycarbonate, with side TSA locks. Sold at Amazon.",
+    "url": "/deals/#samsonite-omni-pc-24in-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
     "title": "OlarHike 8-Piece Packing Cube Set with Shoe and Toiletry Bags",
     "summary": "OlarHike's eight-piece packing set, with mesh cubes plus a shoe bag and a hanging toiletry bag. Sold at Amazon.",
     "url": "/deals/#olarhike-8pc-packing-cubes-amazon",
@@ -679,13 +693,6 @@
     "topic": "Home"
   },
   {
-    "title": "Matcha DNA Organic Matcha Powder, 16 oz Tin",
-    "summary": "A 16-ounce tin of unsweetened organic matcha powder. Sold at Amazon.",
-    "url": "/deals/#matcha-dna-organic-16oz-tin-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Hellmann's Real Mayonnaise, 20 oz Squeeze, 3-Pack",
     "summary": "Three 20-ounce squeeze bottles of Hellmann's real mayonnaise. Sold at Amazon.",
     "url": "/deals/#hellmanns-real-mayo-20oz-3pk-amazon",
@@ -696,13 +703,6 @@
     "title": "OGHom 1000W Travel Steamer and Iron, 110-240V",
     "summary": "A 1000-watt handheld steamer that also works as a dry iron, on 110\u2013240V. Sold at Amazon.",
     "url": "/deals/#oghom-travel-steamer-iron-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
-    "title": "Coleman Skydome Dark Room Tent with Rainfly",
-    "summary": "Coleman's Skydome Dark Room tent with a rainfly. The listing is labeled for 4, 6, 8, or 10 people. Sold at Amazon.",
-    "url": "/deals/#coleman-skydome-dark-room-tent-amazon",
     "type": "Product",
     "topic": "Travel"
   },
@@ -728,16 +728,16 @@
     "topic": "Everyday"
   },
   {
-    "title": "Maxwell House Original Roast Ground Coffee, 27.5 oz",
-    "summary": "A 27.5 oz canister of Maxwell House Original Roast ground coffee. Sold at Amazon.",
-    "url": "/deals/#maxwell-house-original-ground-27oz-amazon",
+    "title": "The Original Donut Shop Regular K-Cup Pods, 72 Count",
+    "summary": "72 Original Donut Shop regular K-Cup pods. Sold at Amazon.",
+    "url": "/deals/#donut-shop-regular-kcups-72-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
   {
-    "title": "The Original Donut Shop Regular K-Cup Pods, 72 Count",
-    "summary": "72 Original Donut Shop regular K-Cup pods. Sold at Amazon.",
-    "url": "/deals/#donut-shop-regular-kcups-72-amazon",
+    "title": "Rip Van Dubai Choco Bars, 12-Pack",
+    "summary": "A 12-pack of Rip Van Dubai chocolate bars. The listing describes pistachio cream and toasted kunafa. Sold at Amazon.",
+    "url": "/deals/#rip-van-dubai-choco-bars-12-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -749,30 +749,16 @@
     "topic": "Everyday"
   },
   {
-    "title": "Coleman Skydome Tent with Full-Fly Weather Vestibule, 4/6 Person",
-    "summary": "Coleman's Skydome with a full-fly vestibule, labeled for 4 or 6 people, with the poles already attached. Sold at Amazon.",
-    "url": "/deals/#coleman-skydome-vestibule-tent-amazon",
+    "title": "Energizer Max AA Batteries, 20 Count",
+    "summary": "A 20-pack of Energizer Max AA alkaline batteries. Sold at Amazon.",
+    "url": "/deals/#energizer-max-aa-20pk-amazon",
     "type": "Product",
-    "topic": "Travel"
-  },
-  {
-    "title": "Coleman Pro 45-Quart Hard Cooler with Wheels, Blue Sky",
-    "summary": "A blue 45-quart Coleman Pro hard cooler on wheels. Sold at Amazon.",
-    "url": "/deals/#coleman-pro-45qt-cooler-blue-amazon",
-    "type": "Product",
-    "topic": "Travel"
+    "topic": "Everyday"
   },
   {
     "title": "Energizer Alkaline Power AAA Batteries, 32 Count",
     "summary": "A 32-pack of Energizer Alkaline Power AAA batteries. Sold at Amazon.",
     "url": "/deals/#energizer-alkaline-power-aaa-32-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Happy Belly French Roast Coffee Pods, 100 Count",
-    "summary": "One hundred Happy Belly French Roast pods for a Keurig-style brewer. Sold at Amazon.",
-    "url": "/deals/#happy-belly-french-roast-kcups-100-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -787,13 +773,6 @@
     "title": "Utopia Bedding Waterproof Mattress Protector, King",
     "summary": "A king waterproof mattress protector. The listing calls the cover noiseless. Sold at Amazon.",
     "url": "/deals/#utopia-bedding-waterproof-king-protector-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "Amazon Basics 32-Quart Latching Storage Bins, 6-Pack",
-    "summary": "Six clear 32-quart Amazon Basics bins with grey latching lids. Sold at Amazon.",
-    "url": "/deals/#amazon-basics-32qt-latching-bins-6pk-amazon",
     "type": "Product",
     "topic": "Home"
   },
@@ -918,7 +897,7 @@
   },
   {
     "title": "Micro Ingredients Organic Matcha Green Tea Powder, 1 lb",
-    "summary": "A 1-pound pouch of Micro Ingredients organic culinary-grade matcha. The listing says it is first-harvest tea from Japan, and it is a different product from the Matcha DNA tin already listed. Sold at Amazon.",
+    "summary": "A 1-pound pouch of Micro Ingredients organic culinary-grade matcha. The listing says it is first-harvest tea from Japan. It is a different product from the Matcha DNA tin. Sold at Amazon.",
     "url": "/deals/#micro-ingredients-organic-matcha-16oz-amazon",
     "type": "Product",
     "topic": "Everyday"
@@ -985,5 +964,47 @@
     "url": "/deals/#luggex-28in-checked-spinner-charcoal-amazon",
     "type": "Product",
     "topic": "Travel"
+  },
+  {
+    "title": "UKEIN PRO 20-Inch Expandable Carry-On Set with Backpack",
+    "summary": "A three-piece UKEIN PRO set: a 20-inch hard-shell carry-on, a backpack, and a removable toiletry bag. Sold at Amazon.",
+    "url": "/deals/#ukein-pro-20in-carry-on-set-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Rip Van Romeos Dark Chocolate Fudge Cookies, 18 Count",
+    "summary": "Rip Van Romeos dark chocolate fudge cookies, sold as 18 individually wrapped two-cookie packs. Sold at Amazon.",
+    "url": "/deals/#rip-van-romeos-dark-chocolate-cookies-18-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Premier Protein +Energy Shake, Caf\u00e9 Latte, 12-Pack",
+    "summary": "A 12-pack of Premier Protein +Energy shakes in caf\u00e9 latte. The listing says each shake has 30 grams of protein and the caffeine of one cup of coffee. Sold at Amazon.",
+    "url": "/deals/#premier-protein-energy-cafe-latte-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Community Coffee Half-Caff Ground Coffee, 12 oz, 6 Bags",
+    "summary": "Six 12-ounce bags of Community Coffee Half-Caff, a medium-dark roast the listing describes as half the caffeine. Sold at Amazon.",
+    "url": "/deals/#community-coffee-half-caff-72oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Starbucks Holiday Blend Ground Coffee, Medium Roast, 17 oz",
+    "summary": "A 17-ounce bag of Starbucks Holiday Blend, medium roast and ground. The page lists honey and Madagascar vanilla notes. Sold at Amazon.",
+    "url": "/deals/#starbucks-holiday-blend-ground-17oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "LANE LINEN Organic Cotton Percale Full Sheets, 4-Piece, White",
+    "summary": "A white full-size 4-piece sheet set. The listing says the fabric is GOTS-certified organic cotton percale. Sold at Amazon.",
+    "url": "/deals/#lane-linen-organic-full-sheets-amazon",
+    "type": "Product",
+    "topic": "Home"
   }
 ]

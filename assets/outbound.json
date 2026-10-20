@@ -447,6 +447,13 @@
     "merchant": "Amazon",
     "title": "Stouchi Passport Holder with AirTag Slot"
   },
+  "caribou-blend-kcups-96-amazon": {
+    "destination": "https://www.amazon.com/dp/B07GNZZ25C?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07GNZZ25C",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Caribou Coffee Caribou Blend K-Cup Pods, Medium Roast, 96 Count"
+  },
   "slimfast-milk-chocolate-shake-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0DPNKFJ61?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DPNKFJ61",
@@ -566,6 +573,13 @@
     "merchant": "Amazon",
     "title": "SimpleHome Cream Blackout Curtains, 63 Inch, 2 Panels"
   },
+  "samsonite-omni-pc-24in-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B013WFNVGY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B013WFNVGY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Omni PC 24-Inch Hardside Checked Luggage, Black"
+  },
   "olarhike-8pc-packing-cubes-amazon": {
     "destination": "https://www.amazon.com/dp/B0BGWZN7MV?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0BGWZN7MV",
@@ -587,13 +601,6 @@
     "merchant": "Amazon",
     "title": "PlushDeluxe Bamboo Waterproof Mattress Protector, Queen"
   },
-  "matcha-dna-organic-16oz-tin-amazon": {
-    "destination": "https://www.amazon.com/dp/B077572GG8?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B077572GG8",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Matcha DNA Organic Matcha Powder, 16 oz Tin"
-  },
   "hellmanns-real-mayo-20oz-3pk-amazon": {
     "destination": "https://www.amazon.com/dp/B091DCC2CH?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B091DCC2CH",
@@ -607,13 +614,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "OGHom 1000W Travel Steamer and Iron, 110-240V"
-  },
-  "coleman-skydome-dark-room-tent-amazon": {
-    "destination": "https://www.amazon.com/dp/B0D7QG7HQ5?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0D7QG7HQ5",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Coleman Skydome Dark Room Tent with Rainfly"
   },
   "filter-king-16x22x1-merv8-6pk-amazon": {
     "destination": "https://www.amazon.com/dp/B07HFHH9NL?tag=cheaphubus-20",
@@ -636,19 +636,19 @@
     "merchant": "Amazon",
     "title": "Energizer Max AA and AAA Batteries, 48 Count"
   },
-  "maxwell-house-original-ground-27oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B0CXYYWL6G?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0CXYYWL6G",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Maxwell House Original Roast Ground Coffee, 27.5 oz"
-  },
   "donut-shop-regular-kcups-72-amazon": {
     "destination": "https://www.amazon.com/dp/B00I08JAYG?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B00I08JAYG",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "The Original Donut Shop Regular K-Cup Pods, 72 Count"
+  },
+  "rip-van-dubai-choco-bars-12-amazon": {
+    "destination": "https://www.amazon.com/dp/B0G6FYQ8GJ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0G6FYQ8GJ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rip Van Dubai Choco Bars, 12-Pack"
   },
   "coffee-mate-original-singles-180-amazon": {
     "destination": "https://www.amazon.com/dp/B00451SGZ6?tag=cheaphubus-20",
@@ -657,19 +657,12 @@
     "merchant": "Amazon",
     "title": "Coffee mate Original Creamer Singles, 180 Count"
   },
-  "coleman-skydome-vestibule-tent-amazon": {
-    "destination": "https://www.amazon.com/dp/B0D7QG7QS2?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0D7QG7QS2",
+  "energizer-max-aa-20pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B005GIQXCU?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B005GIQXCU",
     "affiliate_url": null,
     "merchant": "Amazon",
-    "title": "Coleman Skydome Tent with Full-Fly Weather Vestibule, 4/6 Person"
-  },
-  "coleman-pro-45qt-cooler-blue-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DMW2Z6BP?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DMW2Z6BP",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Coleman Pro 45-Quart Hard Cooler with Wheels, Blue Sky"
+    "title": "Energizer Max AA Batteries, 20 Count"
   },
   "energizer-alkaline-power-aaa-32-amazon": {
     "destination": "https://www.amazon.com/dp/B09RTVN5GN?tag=cheaphubus-20",
@@ -677,13 +670,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Energizer Alkaline Power AAA Batteries, 32 Count"
-  },
-  "happy-belly-french-roast-kcups-100-amazon": {
-    "destination": "https://www.amazon.com/dp/B07NQFC1G9?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07NQFC1G9",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Happy Belly French Roast Coffee Pods, 100 Count"
   },
   "waykar-150-pint-dehumidifier-amazon": {
     "destination": "https://www.amazon.com/dp/B0B5V3NC1T?tag=cheaphubus-20",
@@ -698,13 +684,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Utopia Bedding Waterproof Mattress Protector, King"
-  },
-  "amazon-basics-32qt-latching-bins-6pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B09V5KXQ1J?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B09V5KXQ1J",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Amazon Basics 32-Quart Latching Storage Bins, 6-Pack"
   },
   "starbucks-french-roast-ground-18oz-amazon": {
     "destination": "https://www.amazon.com/dp/B0936DPF8Y?tag=cheaphubus-20",
@@ -894,5 +873,47 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "LUGGEX 28-Inch Checked Spinner Luggage, Charcoal Metallic"
+  },
+  "ukein-pro-20in-carry-on-set-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GZW2FCKC?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GZW2FCKC",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "UKEIN PRO 20-Inch Expandable Carry-On Set with Backpack"
+  },
+  "rip-van-romeos-dark-chocolate-cookies-18-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CHCHFQ44?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CHCHFQ44",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rip Van Romeos Dark Chocolate Fudge Cookies, 18 Count"
+  },
+  "premier-protein-energy-cafe-latte-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B07W8KHTGL?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07W8KHTGL",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Premier Protein +Energy Shake, Caf\u00e9 Latte, 12-Pack"
+  },
+  "community-coffee-half-caff-72oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B07SQBM1RV?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07SQBM1RV",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Community Coffee Half-Caff Ground Coffee, 12 oz, 6 Bags"
+  },
+  "starbucks-holiday-blend-ground-17oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B09BWMP3Z2?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09BWMP3Z2",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Starbucks Holiday Blend Ground Coffee, Medium Roast, 17 oz"
+  },
+  "lane-linen-organic-full-sheets-amazon": {
+    "destination": "https://www.amazon.com/dp/B07RZ3NVWZ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07RZ3NVWZ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "LANE LINEN Organic Cotton Percale Full Sheets, 4-Piece, White"
   }
 }
