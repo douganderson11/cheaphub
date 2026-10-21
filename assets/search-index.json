@@ -574,13 +574,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Furinno Simple Design Side Tables, Set of 2, French Oak",
-    "summary": "Two French-oak-finish Furinno side tables, each with a top and an open lower shelf. Sold at Amazon.",
-    "url": "/deals/#furinno-simple-design-side-tables-2pk-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Ninja Blender Pro+, 1100W, 72 oz Pitcher, BL660",
     "summary": "Ninja's BL660 blender, with a 1,100-watt motor, a 72-ounce pitcher, and two to-go cups. Sold at Amazon.",
     "url": "/deals/#ninja-blender-pro-plus-bl660-amazon",
@@ -714,13 +707,6 @@
     "topic": "Home"
   },
   {
-    "title": "Utopia Bedding Waterproof Mattress Protector, Queen",
-    "summary": "A queen waterproof mattress protector. The listing calls the cover noiseless. Sold at Amazon.",
-    "url": "/deals/#utopia-bedding-waterproof-queen-protector-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Energizer Max AA and AAA Batteries, 48 Count",
     "summary": "A 48-count mix of Energizer Max batteries, 24 AA and 24 AAA. Sold at Amazon.",
     "url": "/deals/#energizer-max-aa-aaa-48-combo-amazon",
@@ -749,32 +735,11 @@
     "topic": "Everyday"
   },
   {
-    "title": "Energizer Max AA Batteries, 20 Count",
-    "summary": "A 20-pack of Energizer Max AA alkaline batteries. Sold at Amazon.",
-    "url": "/deals/#energizer-max-aa-20pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Energizer Alkaline Power AAA Batteries, 32 Count",
     "summary": "A 32-pack of Energizer Alkaline Power AAA batteries. Sold at Amazon.",
     "url": "/deals/#energizer-alkaline-power-aaa-32-amazon",
     "type": "Product",
     "topic": "Everyday"
-  },
-  {
-    "title": "Waykar 150 Pint Dehumidifier with Drain Hose and Tank",
-    "summary": "Waykar's 150-pint dehumidifier, with a drain hose and a tank, for a damp basement. Sold at Amazon.",
-    "url": "/deals/#waykar-150-pint-dehumidifier-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "Utopia Bedding Waterproof Mattress Protector, King",
-    "summary": "A king waterproof mattress protector. The listing calls the cover noiseless. Sold at Amazon.",
-    "url": "/deals/#utopia-bedding-waterproof-king-protector-amazon",
-    "type": "Product",
-    "topic": "Home"
   },
   {
     "title": "Starbucks French Roast Ground Coffee, 18 oz",
@@ -798,13 +763,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Poppi Prebiotic Soda, Major Mix, 12-Pack",
-    "summary": "Twelve 12-ounce cans of Poppi Major Mix: two each of Shirley Temple, root beer, orange cream, lemon lime, cream soda, and cherry cola. Sold at Amazon.",
-    "url": "/deals/#poppi-prebiotic-soda-major-mix-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Like Air Drizzled Rice Cakes, 4-Flavor Variety Pack, 10 Count",
     "summary": "Ten bags of Like Air drizzled mini rice cakes: birthday cake, cookie dough, cinnamon bun, and brownie. Sold at Amazon.",
     "url": "/deals/#like-air-drizzled-rice-cakes-10ct-amazon",
@@ -817,13 +775,6 @@
     "url": "/deals/#bedsure-queen-sheet-set-amazon",
     "type": "Product",
     "topic": "Home"
-  },
-  {
-    "title": "Contigo Cortland Chill 2.0 Stainless Steel Water Bottle, 24 oz",
-    "summary": "A 24-ounce Contigo Cortland Chill 2.0 stainless bottle with an AUTOSEAL lid. Different model from the SnapSeal bottle already listed. Sold at Amazon.",
-    "url": "/deals/#contigo-cortland-chill-24oz-amazon",
-    "type": "Product",
-    "topic": "Travel"
   },
   {
     "title": "Utopia Bedding King Fitted Sheet, Grey",
@@ -899,13 +850,6 @@
     "title": "Micro Ingredients Organic Matcha Green Tea Powder, 1 lb",
     "summary": "A 1-pound pouch of Micro Ingredients organic culinary-grade matcha. The listing says it is first-harvest tea from Japan. It is a different product from the Matcha DNA tin. Sold at Amazon.",
     "url": "/deals/#micro-ingredients-organic-matcha-16oz-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Butterfinger, CRUNCH, Baby Ruth, and 100 Grand Bars, 28 Count",
-    "summary": "A 28-count, 48-ounce assortment of Butterfinger, CRUNCH, Baby Ruth, and 100 Grand bars. Sold at Amazon.",
-    "url": "/deals/#butterfinger-assorted-bars-28ct-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -1004,6 +948,69 @@
     "title": "LANE LINEN Organic Cotton Percale Full Sheets, 4-Piece, White",
     "summary": "A white full-size 4-piece sheet set. The listing says the fabric is GOTS-certified organic cotton percale. Sold at Amazon.",
     "url": "/deals/#lane-linen-organic-full-sheets-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Jack Link's Spicy Beef Jerky Variety Pack, 15 Count",
+    "summary": "A 15-piece Jack Link's spicy variety: sweet and hot jerky and steaks, peppered jerky and steaks, and jalape\u00f1o beef stick and cheese combos. Sold at Amazon.",
+    "url": "/deals/#jack-links-spicy-jerky-variety-15-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Sour Jacks Sour Gummy Wedges Variety Pack, 75 Count",
+    "summary": "Seventy-five 0.5-ounce pouches of Sour Jacks wedges in watermelon, blue raspberry, and assorted fruit. Sold at Amazon.",
+    "url": "/deals/#sour-jacks-gummy-wedges-75ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Tony's Chocolonely Tiny Variety Pack, 36 Count",
+    "summary": "Thirty-six individually wrapped Tony's Chocolonely pieces in an assorted mix of milk and dark chocolate. Sold at Amazon.",
+    "url": "/deals/#tonys-chocolonely-tiny-36ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Spicy World Cinnamon Sticks, 14 oz",
+    "summary": "A 14-ounce bag of Spicy World cassia cinnamon sticks, listed at about 100 sticks, each longer than 3 inches. Sold at Amazon.",
+    "url": "/deals/#spicy-world-cinnamon-sticks-14oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Amber Home Retro Wooden Coat Hangers, 30-Pack",
+    "summary": "Thirty retro-finish wooden hangers with a chrome hook and a vinyl-covered pants bar. Sold at Amazon.",
+    "url": "/deals/#amber-home-wooden-hangers-30-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Kelamayi Broom and Dustpan Set, Gray and Orange",
+    "summary": "A Kelamayi upright broom and dustpan in gray and orange, with an extendable handle and a comb on the dustpan for cleaning the bristles. Sold at Amazon.",
+    "url": "/deals/#kelamayi-broom-dustpan-gray-orange-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Smiry Couch Cover, Dark Grey, 27.6 x 59 Inches",
+    "summary": "A dark grey Smiry couch cover, 27.6 by 59 inches, with a non-slip backing. The listing says it can go in the washing machine. Sold at Amazon.",
+    "url": "/deals/#smiry-couch-cover-dark-grey-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Jack & Rose K1 Travel Steamer, Purple",
+    "summary": "A purple Jack & Rose K1 handheld steamer and dry iron. The listing says it runs on 100-220V and heats in about 15 seconds. Sold at Amazon.",
+    "url": "/deals/#jack-rose-k1-travel-steamer-purple-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Bedsure King Duvet Cover Set, White",
+    "summary": "A white Bedsure king duvet cover with two pillow shams. The listing says the cover is 104 by 90 inches and the shams are 20 by 36. The insert isn't included. Sold at Amazon.",
+    "url": "/deals/#bedsure-king-duvet-cover-white-amazon",
     "type": "Product",
     "topic": "Home"
   }
