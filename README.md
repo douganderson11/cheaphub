@@ -46,6 +46,14 @@ Hotlinked CDNs are Amazon (`m.media-amazon.com`), Target Scene7, Home Depot (`im
 
 Outbound product links use `/go/{id}/`. The catalog keeps the clean `product_url`. Amazon product clicks append `tag=` from `AMAZON_ASSOCIATE_TAG` in `netlify/functions/lib/go.mjs` (`cheaphubus-20` on the MarshMack Associates store). Target, Walmart, and Home Depot are not tagged. Destination is `affiliate_url` when set, otherwise the clean `product_url`, plus that Amazon tag when the URL is an Amazon product page. Do not invent discounts or percentages; a **Verified discount** badge is rendered only when `is_verified_discount` is true.
 
+`/today/` is the link-in-bio page for Instagram, TikTok, and YouTube Shorts. The same catalog build writes it from the published rows in `assets/catalog.json`, so the next daily deal run refreshes the cards. It shows the newest verified discounts (16 when that many are in the catalog). Each of those deals keeps a `deal_number` in `data/deal-numbers.json` and on the catalog row. A caption can say “link in bio, deal #12” and that number stays on the card. The same number is shown on catalog cards elsewhere.
+
+- https://cheaphub.com/today/?utm_source=instagram&utm_medium=social
+- https://cheaphub.com/today/?utm_source=tiktok&utm_medium=social
+- https://cheaphub.com/today/?utm_source=youtube&utm_medium=social
+
+The page loads Google tag `G-5YT1Y0TFBR` once and passes those parameters into that tag. Deal buttons stay on `/go/{id}/`.
+
 ## Live price search
 
 `/find/` asks `/.netlify/functions/deal-search` (rewritten from `/api/deal-search`) to open Amazon, Target, Walmart, and Home Depot. A price is shown only when that request read a selling price from the product page. Catalog matches are opened first, and their saved prices are not reused. Stores that block or time out are named in the response and left unpriced.

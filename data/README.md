@@ -10,6 +10,7 @@
 | `product-image-locks.json` | Verified PDP + photo locks applied by the image pass |
 | `excluded-pending-photo.json` | Seed rows omitted from the public catalog until they have a photo |
 | `affiliate-overrides.json` | Optional map of `product-id` → affiliate URL |
+| `deal-numbers.json` | Stable deal numbers (`product-id` → integer). Assigned once by the catalog build and never reused. |
 | `ENTITY.md` | Affiliate operator vs domain/IP owner |
 
 Leave override values empty (or omit the id) to send `/go/{id}/` to the clean `product_url`. After editing the seed file or overrides, run:

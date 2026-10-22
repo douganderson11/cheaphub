@@ -28,6 +28,14 @@ Field definitions for the Netlify site / CMS ingest of `seed-catalog.csv` / `see
 | `image_source` | enum or null | no | Merchant/brand source for the photo: `amazon` \| `target` \| `homedepot` \| `walmart` \| `oxo` \| `klein` \| `milwaukee` \| `channellock` \| `craftsman` \| `command`. |
 | `status` | enum | yes | Seed rows are `draft`. Promote to `ready` / `live` / `expired` in CMS after re-verification. |
 
+## Generated catalog fields
+
+These are written by `scripts/build-catalog.py`. They are not seed columns.
+
+| Field | Type | Notes |
+|-------|------|-------|
+| `deal_number` | integer or null | Stable social deal number (`#12`). Assigned once to a published verified discount that has a photo and both prices. Stored in `data/deal-numbers.json` and copied onto `assets/catalog.json`. The number stays with that product id permanently. Ids that leave the catalog remain in the ledger so the number is never reused. Null on published rows that are price checks. |
+
 ## Trust / publish gates (must pass before `live`)
 
 1. Confirm merchant + destination URL resolves to the intended SKU.
