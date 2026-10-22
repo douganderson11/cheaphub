@@ -232,6 +232,273 @@ def existing_search_items() -> list[dict]:
     return [item for item in items if item.get("type") != "Product"]
 
 
+# Newest verified discounts on /today/. Kept inside 12–20 cards.
+TODAY_DEAL_LIMIT = 16
+DEAL_NUMBERS_PATH = DATA / "deal-numbers.json"
+TODAY_SITEMAP_LOC = "https://cheaphub.com/today/"
+FOOTER_DISCLOSURE = (
+    "As an Amazon Associate and affiliate for other websites, we earn from qualifying purchases. "
+    "This site contains affiliate links, and we may receive a commission if you make a purchase through our links at no extra cost to you."
+)
+MONTHS = (
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+)
+
+# One Google tag per page. utm_source / utm_medium on the landing URL are passed
+# into this single config call so Instagram, TikTok, and YouTube Shorts sessions
+# stay measurable. Deal clicks send one event with the same values; they do not
+# load a second tag and they do not add parameters to the merchant URL.
+TODAY_GTAG_SNIPPET = """<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5YT1Y0TFBR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  (function () {
+    var params = new URLSearchParams(location.search);
+    var source = (params.get('utm_source') || '').toLowerCase();
+    var medium = (params.get('utm_medium') || '').toLowerCase();
+    var allowedSource = { instagram: true, tiktok: true, youtube: true };
+    var fields = {};
+    if (allowedSource[source]) fields.campaign_source = source;
+    if (medium === 'social') fields.campaign_medium = medium;
+    gtag('config', 'G-5YT1Y0TFBR', fields);
+    document.addEventListener('click', function (event) {
+      var link = event.target && event.target.closest ? event.target.closest('a') : null;
+      if (!link || !link.closest) return;
+      var card = link.closest('[data-deal]');
+      if (!card) return;
+      gtag('event', 'deal_click', {
+        transport_type: 'beacon',
+        deal_number: card.getAttribute('data-deal'),
+        campaign_source: fields.campaign_source || '',
+        campaign_medium: fields.campaign_medium || '',
+        link_path: link.pathname || ''
+      });
+    });
+  })();
+</script>
+"""
+
+
+def is_live_deal(product: dict) -> bool:
+    """A published verified discount with a photo and both merchant prices."""
+    current = product.get("current_price")
+    typical = product.get("list_or_typical_price")
+    if current is None or typical is None:
+        return False
+    return bool(
+        product.get("image_url")
+        and product.get("status") != "expired"
+        and product.get("is_verified_discount") is True
+        and typical > current
+    )
+
+
+def load_deal_numbers() -> dict[str, int]:
+    if not DEAL_NUMBERS_PATH.exists():
+        return {}
+    raw = json.loads(DEAL_NUMBERS_PATH.read_text(encoding="utf-8"))
+    by_id = raw.get("by_id") if isinstance(raw, dict) else None
+    if not isinstance(by_id, dict):
+        raise SystemExit("data/deal-numbers.json must contain a by_id object")
+    cleaned: dict[str, int] = {}
+    for key, value in by_id.items():
+        if not isinstance(key, str) or not key:
+            raise SystemExit("deal number ids must be non-empty strings")
+        if isinstance(value, bool) or not isinstance(value, int) or value < 1:
+            raise SystemExit(f"deal number for {key} must be a positive integer")
+        cleaned[key] = value
+    if len(set(cleaned.values())) != len(cleaned):
+        raise SystemExit("deal numbers must be unique and are never reused")
+    return cleaned
+
+
+def assign_deal_numbers(products: list[dict], existing: dict[str, int]) -> dict[str, int]:
+    """Keep every existing id → number. New live deals take the next free integer."""
+    assigned = dict(existing)
+    used = set(assigned.values())
+    if len(used) != len(assigned):
+        raise SystemExit("deal numbers must be unique and are never reused")
+    nxt = max(used, default=0) + 1
+    newcomers = [product for product in products if is_live_deal(product) and product["id"] not in assigned]
+    newcomers.sort(key=lambda product: (product["last_checked_date"], product.get("sort_index") or 0, product["id"]))
+    for product in newcomers:
+        while nxt in used:
+            nxt += 1
+        assigned[product["id"]] = nxt
+        used.add(nxt)
+        nxt += 1
+    return assigned
+
+
+def save_deal_numbers(assigned: dict[str, int]) -> None:
+    if len(set(assigned.values())) != len(assigned):
+        raise SystemExit("refusing to save reused deal numbers")
+    ordered = dict(sorted(assigned.items(), key=lambda item: (item[1], item[0])))
+    payload = {
+        "note": (
+            "Stable deal numbers for social captions. A product id keeps its number permanently. "
+            "Ids that leave the catalog stay in this file so the number is never reused."
+        ),
+        "by_id": ordered,
+    }
+    DEAL_NUMBERS_PATH.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
+
+
+def merchant_price_label(product: dict) -> str:
+    basis = (product.get("discount_basis") or "").lower()
+    if "typical price" in basis:
+        return "Typical price"
+    if "regular price" in basis or " reg " in f" {basis} ":
+        return "Regular price"
+    return "List price"
+
+
+def format_money(value: float) -> str:
+    return f"${value:,.2f}"
+
+
+def format_checked(iso: str) -> str:
+    year, month, day = (int(part) for part in iso.split("-"))
+    return f"{MONTHS[month - 1]} {day}, {year}"
+
+
+def render_today_card(product: dict, index: int) -> str:
+    product_id = html.escape(product["id"], quote=True)
+    title = html.escape(product["title"], quote=True)
+    merchant = html.escape(product["merchant"], quote=True)
+    topic = html.escape(product["topic"], quote=True)
+    image_url = html.escape(product["image_url"], quote=True)
+    alt = html.escape(product.get("image_alt") or product["title"], quote=True)
+    number = int(product["deal_number"])
+    href = f"/go/{product_id}/"
+    label = html.escape(merchant_price_label(product), quote=True)
+    typical = html.escape(format_money(product["list_or_typical_price"]), quote=True)
+    current = html.escape(format_money(product["current_price"]), quote=True)
+    checked = html.escape(format_checked(product["last_checked_date"]), quote=True)
+    loading = "eager" if index < 2 else "lazy"
+    priority = ' fetchpriority="high"' if index == 0 else ""
+    return f"""<article class="offer-card today-card" id="deal-{number}" data-deal="{number}">
+<a class="offer-media-link" href="{href}" rel="sponsored noopener noreferrer">
+<div class="offer-media"><p class="deal-number">Deal #{number}</p><img src="{image_url}" alt="{alt}" width="400" height="400" loading="{loading}" decoding="async"{priority}></div>
+</a>
+<span class="kicker">{topic} · {merchant}</span>
+<span class="verified-badge">Verified discount</span>
+<h2><a href="{href}" rel="sponsored noopener noreferrer">{title}</a></h2>
+<p class="offer-price">{current}</p>
+<p class="offer-list">{label} on the merchant page {typical}</p>
+<p class="checked">Checked {checked}</p>
+<a class="button" href="{href}" rel="sponsored noopener noreferrer">See at {merchant}</a>
+</article>
+"""
+
+
+def select_today_deals(products: list[dict], limit: int = TODAY_DEAL_LIMIT) -> list[dict]:
+    eligible = [product for product in products if is_live_deal(product) and product.get("deal_number")]
+    eligible.sort(
+        key=lambda product: (
+            product["last_checked_date"],
+            product["deal_number"],
+            product.get("sort_index") or 0,
+        ),
+        reverse=True,
+    )
+    return eligible[:limit]
+
+
+def write_today_page(deals: list[dict]) -> None:
+    if deals:
+        cards = '<div class="offer-grid">\n' + "\n".join(
+            render_today_card(product, index) for index, product in enumerate(deals)
+        ) + "\n</div>"
+    else:
+        cards = '<p class="lede">Verified discounts from the catalog will appear here with their deal numbers.</p>'
+    page = f"""<!doctype html>
+<html lang="en">
+<head>
+{TODAY_GTAG_SNIPPET}<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Today's deals | CheapHub</title>
+<meta name="description" content="The newest verified discounts from CheapHub. Each card shows its deal number, the current price, and the typical price from the merchant page.">
+<link rel="canonical" href="https://cheaphub.com/today/">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/styles.css">
+<meta name="theme-color" content="#142842">
+</head>
+<body class="today-page">
+<a class="skip" href="#main">Skip to content</a>
+<div class="topline">CheapHub may earn a commission when you shop through a link here.</div>
+<header class="site-header">
+<div class="header-inner">
+<a class="brand" href="/" aria-label="CheapHub home">cheap<span>hub</span><i>.</i></a>
+<button class="menu-toggle" aria-expanded="false" aria-controls="nav">Menu <span aria-hidden="true">☰</span></button>
+<nav id="nav" aria-label="Primary">
+<a href="/deals/">Best Deals</a>
+<a href="/coupons/">Coupons</a>
+<a href="/best/">Best Under</a>
+<a href="/home-savings/">Home Savings</a>
+<a href="/travel/">Travel</a>
+<a href="/compare/">Compare</a>
+<a href="/guides/">Guides</a>
+</nav>
+<a class="header-news" href="/newsletter/">Weekly Best Deals <span aria-hidden="true">↗</span></a>
+</div>
+</header>
+<main id="main">
+<section class="page-intro wrap">
+<p class="eyebrow">Link in bio</p>
+<h1>Today's deals</h1>
+<p class="lede">The newest verified discounts, each with its deal number. A caption can say link in bio, deal #12, and that number is on the card.</p>
+<p class="today-note">The current price sits with the typical price shown on the merchant page. The date is the day that page was checked.</p>
+</section>
+<section class="wrap section today-deals">
+{cards}
+<p class="today-more"><a class="text-link" href="/deals/">Browse the full catalog on Best Deals</a></p>
+</section>
+</main>
+<footer>
+<div class="footer-inner">
+<div class="footer-brand"><a class="brand" href="/">cheap<span>hub</span><i>.</i></a><p>Find Better Deals. Spend Less.</p><p>Practical research for a smarter purchase.</p></div>
+<div><h2>Explore</h2><a href="/find/">Find a price</a><a href="/deals/">Best Deals</a><a href="/coupons/">Coupons</a><a href="/stores/">Stores</a><a href="/best/">Best Under</a><a href="/categories/">Categories</a></div>
+<div><h2>Learn</h2><a href="/guides/">Buying guides</a><a href="/compare/">Comparisons</a><a href="/seasonal/">Seasonal</a><a href="/newsletter/">Newsletter</a><a href="/methodology/">Our methodology</a></div>
+<div><h2>CheapHub</h2><a href="/about/">About</a><a href="/partner/">Partner with us</a><a href="/contact/">Contact</a><a href="/how-we-make-money/">How we make money</a><a href="/affiliate-disclosure/">Affiliate disclosure</a></div>
+<div><h2>Policies</h2><a href="/advertising-policy/">Advertising</a><a href="/corrections/">Corrections</a><a href="/accessibility/">Accessibility</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></div>
+</div>
+<div class="legal-line">Copyright © 2026 CheapHub. Operated by <a href="https://www.marshmack.com">MarshMack Media LLC</a>. CheapHub.com and associated intellectual property are owned by DBMM Anderson LLC and licensed to MarshMack Media LLC. Developed and Designed by <a href="https://www.websitetitans.com">Website Titans</a>. {FOOTER_DISCLOSURE}</div>
+</footer>
+<script src="/assets/app.js" defer></script>
+</body>
+</html>
+"""
+    target = ROOT / "today" / "index.html"
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_text(page, encoding="utf-8")
+
+
+def ensure_today_sitemap() -> None:
+    path = ROOT / "sitemap.xml"
+    text = path.read_text(encoding="utf-8")
+    loc = f"<loc>{TODAY_SITEMAP_LOC}</loc>"
+    if loc in text:
+        return
+    anchor = "<loc>https://cheaphub.com/deals/</loc></url>"
+    if anchor not in text:
+        raise SystemExit("sitemap.xml is missing the deals URL")
+    path.write_text(text.replace(anchor, anchor + f"<url>{loc}</url>", 1), encoding="utf-8")
+
+
 def exclusion_reason(row: dict) -> str:
     if row.get("image_exclusion_reason"):
         return row["image_exclusion_reason"]
@@ -288,6 +555,13 @@ def main() -> None:
         + "\n",
         encoding="utf-8",
     )
+
+    deal_numbers = assign_deal_numbers(published, load_deal_numbers())
+    if assign_deal_numbers(published, deal_numbers) != deal_numbers:
+        raise SystemExit("deal numbers changed on a second pass")
+    save_deal_numbers(deal_numbers)
+    for product in products:
+        product["deal_number"] = deal_numbers.get(product["id"])
 
     catalog = {
         "generated_from": "data/seed-catalog.json",
@@ -347,7 +621,15 @@ def main() -> None:
         )
     (ASSETS / "search-index.json").write_text(json.dumps(search_items, indent=2) + "\n", encoding="utf-8")
 
+    today = select_today_deals(published)
+    write_today_page(today)
+    ensure_today_sitemap()
+
     verified = [product["id"] for product in published if product["is_verified_discount"]]
+    print(
+        f"Today page: {len(today)} verified discounts. "
+        f"Deal numbers assigned: {len(deal_numbers)}."
+    )
     print(
         f"Published {len(published)} products with photos "
         f"({len(verified)} verified discounts). "

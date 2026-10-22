@@ -3,6 +3,8 @@
 
 from __future__ import annotations
 
+import html
+import importlib.util
 import json
 import re
 from pathlib import Path
@@ -160,6 +162,84 @@ def main() -> None:
     ):
         if host not in csp:
             fail(f"_headers CSP is missing img-src host {host}")
+    build_spec = importlib.util.spec_from_file_location(
+        "build_catalog", ROOT / "scripts" / "build-catalog.py"
+    )
+    build_catalog = importlib.util.module_from_spec(build_spec)
+    build_spec.loader.exec_module(build_catalog)
+
+    ledger = build_catalog.load_deal_numbers()
+    if build_catalog.assign_deal_numbers(PRODUCTS, ledger) != ledger:
+        fail("deal number ledger is behind the catalog; run build-catalog.py")
+    seen_numbers = set()
+    for product in PRODUCTS:
+        if "deal_number" not in product:
+            fail(f"{product['id']} is missing deal_number")
+        number = product["deal_number"]
+        if build_catalog.is_live_deal(product):
+            if not isinstance(number, int) or isinstance(number, bool) or number < 1:
+                fail(f"{product['id']} live deal is missing a stable deal number")
+        if number is None:
+            continue
+        if ledger.get(product["id"]) != number:
+            fail(f"{product['id']} deal_number does not match data/deal-numbers.json")
+        if number in seen_numbers:
+            fail(f"deal number {number} is reused")
+        seen_numbers.add(number)
+
+    today_path = ROOT / "today" / "index.html"
+    if not today_path.is_file():
+        fail("today/index.html is missing")
+    today = today_path.read_text(encoding="utf-8")
+    if today.count("https://www.googletagmanager.com/gtag/js?id=G-5YT1Y0TFBR") != 1:
+        fail("today page must load G-5YT1Y0TFBR exactly once")
+    if today.count("gtag('config', 'G-5YT1Y0TFBR'") != 1:
+        fail("today page must configure GA once")
+    for token in ("utm_source", "instagram", "tiktok", "youtube", "utm_medium", "social", "campaign_source"):
+        if token not in today:
+            fail(f"today page does not pass through {token}")
+    if footer_disclosure not in today.split("<footer", 1)[1]:
+        fail("today page footer disclosure changed")
+    if "CheapHub may earn a commission when you shop through a link here." not in today:
+        fail("today page is missing the commission line")
+    copy = today.split('<div class="topline">', 1)[1].split("</main>", 1)[0]
+    if re.search(r"\b(don't|do not|no other|never|cannot|can't|isn't|won't|aren't|not|no)\b", copy, re.I):
+        fail("today page copy uses a negative word")
+    expected = build_catalog.select_today_deals(PRODUCTS)
+    found = [int(value) for value in re.findall(r'data-deal="(\d+)"', today)]
+    if found != [product["deal_number"] for product in expected]:
+        fail("today page deals are not the newest verified discounts")
+    if len(expected) > 20 or (len([p for p in PRODUCTS if build_catalog.is_live_deal(p)]) >= 12 and not 12 <= len(expected) <= 20):
+        fail(f"today page should list about 12-20 deals, found {len(expected)}")
+    for product in expected:
+        if f'/go/{product["id"]}/' not in today:
+            fail(f"today card for {product['id']} is missing its /go/ link")
+        if html.escape(product["image_url"], quote=True) not in today:
+            fail(f"today card for {product['id']} is missing its photo")
+        if f'Deal #{product["deal_number"]}' not in today:
+            fail(f"today card for {product['id']} is missing its deal number")
+    if "catalog.js" in today:
+        fail("today page should be static catalog HTML, without a second catalog fetch")
+    sitemap = (ROOT / "sitemap.xml").read_text(encoding="utf-8")
+    if "<loc>https://cheaphub.com/today/</loc>" not in sitemap:
+        fail("sitemap is missing https://cheaphub.com/today/")
+
+    forbidden_tags = ("luxuryhom06-20", "uniqueinamer-20")
+    for rel in ("assets/outbound.json", "_redirects", "netlify/functions/lib/go.mjs", "today/index.html"):
+        blob = (ROOT / rel).read_text(encoding="utf-8")
+        for tag in forbidden_tags:
+            if tag in blob:
+                fail(f"{rel} contains forbidden associate tag {tag}")
+    go_source = (ROOT / "netlify/functions/lib/go.mjs").read_text(encoding="utf-8")
+    if "cheaphubus-20" not in go_source:
+        fail("Amazon associate tag is no longer cheaphubus-20")
+    for line in (ROOT / "_redirects").read_text(encoding="utf-8").splitlines():
+        if any(host in line for host in ("target.com", "walmart.com", "homedepot.com")) and "tag=" in line:
+            fail(f"non-Amazon redirect is tagged: {line}")
+
+    if "deal_number" not in catalog_js or "Deal #" not in catalog_js:
+        fail("catalog.js does not show deal numbers on cards")
+
     print("Catalog checks passed.")
 
 

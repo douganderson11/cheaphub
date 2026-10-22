@@ -33,7 +33,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": 9,
-      "sort_index": 0
+      "sort_index": 0,
+      "deal_number": null
     },
     {
       "id": "stanley-fatmax-25ft-tape-homedepot",
@@ -62,7 +63,8 @@
       "image_source": "homedepot",
       "status": "draft",
       "priority_rank": 15,
-      "sort_index": 1
+      "sort_index": 1,
+      "deal_number": null
     },
     {
       "id": "milwaukee-9in1-multi-nut-driver-homedepot",
@@ -91,7 +93,8 @@
       "image_source": "milwaukee",
       "status": "draft",
       "priority_rank": null,
-      "sort_index": 3
+      "sort_index": 3,
+      "deal_number": null
     },
     {
       "id": "craftsman-25ft-tape-amazon",
@@ -120,7 +123,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 14
+      "sort_index": 14,
+      "deal_number": null
     },
     {
       "id": "craftsman-26pc-ratcheting-screwdriver-amazon",
@@ -149,7 +153,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 15
+      "sort_index": 15,
+      "deal_number": null
     },
     {
       "id": "klein-16ft-compact-tape-amazon",
@@ -178,7 +183,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 16
+      "sort_index": 16,
+      "deal_number": null
     },
     {
       "id": "estwing-16oz-rip-hammer-amazon",
@@ -207,7 +213,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 17
+      "sort_index": 17,
+      "deal_number": null
     },
     {
       "id": "craftsman-20oz-fiberglass-hammer-amazon",
@@ -236,7 +243,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 18
+      "sort_index": 18,
+      "deal_number": null
     },
     {
       "id": "craftsman-8in-long-nose-pliers-amazon",
@@ -265,7 +273,8 @@
       "image_source": "craftsman",
       "status": "draft",
       "priority_rank": null,
-      "sort_index": 20
+      "sort_index": 20,
+      "deal_number": null
     },
     {
       "id": "klein-15in1-multibit-ratcheting-screwdriver-amazon",
@@ -294,7 +303,8 @@
       "image_source": "klein",
       "status": "draft",
       "priority_rank": null,
-      "sort_index": 22
+      "sort_index": 22,
+      "deal_number": null
     },
     {
       "id": "klein-11in1-screwdriver-nut-driver-amazon",
@@ -323,7 +333,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 23
+      "sort_index": 23,
+      "deal_number": null
     },
     {
       "id": "irwin-7in-locking-pliers-cutter-amazon",
@@ -352,7 +363,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 24
+      "sort_index": 24,
+      "deal_number": null
     },
     {
       "id": "oxo-good-grips-kitchen-scissors-amazon",
@@ -381,7 +393,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": 12,
-      "sort_index": 25
+      "sort_index": 25,
+      "deal_number": null
     },
     {
       "id": "oxo-swivel-peeler-target",
@@ -410,7 +423,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 26
+      "sort_index": 26,
+      "deal_number": null
     },
     {
       "id": "oxo-good-grips-salad-spinner-amazon",
@@ -439,7 +453,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 27
+      "sort_index": 27,
+      "deal_number": null
     },
     {
       "id": "lodge-8in-cast-iron-skillet-amazon",
@@ -468,7 +483,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": 14,
-      "sort_index": 28
+      "sort_index": 28,
+      "deal_number": null
     },
     {
       "id": "lodge-10-25-cast-iron-skillet-walmart",
@@ -497,7 +513,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 29
+      "sort_index": 29,
+      "deal_number": null
     },
     {
       "id": "pyrex-3pc-measuring-cup-set-amazon",
@@ -526,7 +543,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": 25,
-      "sort_index": 30
+      "sort_index": 30,
+      "deal_number": null
     },
     {
       "id": "microplane-premium-classic-zester-target",
@@ -555,7 +573,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": 26,
-      "sort_index": 31
+      "sort_index": 31,
+      "deal_number": null
     },
     {
       "id": "rubbermaid-brilliance-glass-8cup-target",
@@ -584,7 +603,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": 10,
-      "sort_index": 32
+      "sort_index": 32,
+      "deal_number": null
     },
     {
       "id": "oxo-kitchen-herb-scissors-oxo-com",
@@ -613,7 +633,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 33
+      "sort_index": 33,
+      "deal_number": null
     },
     {
       "id": "amazon-basics-microfiber-cloths-24pk",
@@ -642,7 +663,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": 17,
-      "sort_index": 34
+      "sort_index": 34,
+      "deal_number": null
     },
     {
       "id": "scotch-brite-heavy-duty-sponges-3ct-target",
@@ -671,7 +693,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": 18,
-      "sort_index": 35
+      "sort_index": 35,
+      "deal_number": null
     },
     {
       "id": "scotch-brite-zero-scratch-sponges-3ct-target",
@@ -700,7 +723,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 36
+      "sort_index": 36,
+      "deal_number": null
     },
     {
       "id": "clorox-fresh-scent-wipes-75ct-target",
@@ -729,7 +753,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": 24,
-      "sort_index": 37
+      "sort_index": 37,
+      "deal_number": null
     },
     {
       "id": "room-essentials-storage-crate-target",
@@ -758,7 +783,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": 27,
-      "sort_index": 38
+      "sort_index": 38,
+      "deal_number": null
     },
     {
       "id": "amazon-basics-hdmi-cable-6ft",
@@ -787,7 +813,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": 19,
-      "sort_index": 39
+      "sort_index": 39,
+      "deal_number": null
     },
     {
       "id": "tide-pods-42ct-amazon",
@@ -816,7 +843,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 42
+      "sort_index": 42,
+      "deal_number": null
     },
     {
       "id": "crest-3d-whitestrips-professional-effects-amazon",
@@ -845,7 +873,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 43
+      "sort_index": 43,
+      "deal_number": null
     },
     {
       "id": "packit-freezable-lunch-bag-gray-fog-target",
@@ -874,7 +903,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": 11,
-      "sort_index": 45
+      "sort_index": 45,
+      "deal_number": null
     },
     {
       "id": "swiffer-wetjet-starter-kit-target",
@@ -903,7 +933,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 48
+      "sort_index": 48,
+      "deal_number": null
     },
     {
       "id": "anker-hdmi-usb-c-cable-6ft-target",
@@ -932,7 +963,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 49
+      "sort_index": 49,
+      "deal_number": null
     },
     {
       "id": "up-and-up-aa-batteries-48pk-target",
@@ -961,7 +993,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 50
+      "sort_index": 50,
+      "deal_number": null
     },
     {
       "id": "scotch-magic-tape-multipack-pending",
@@ -990,7 +1023,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 52
+      "sort_index": 52,
+      "deal_number": null
     },
     {
       "id": "cabeau-evolution-classic-travel-pillow-target",
@@ -1019,7 +1053,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": 21,
-      "sort_index": 53
+      "sort_index": 53,
+      "deal_number": null
     },
     {
       "id": "amazon-basics-packing-cubes-4pc",
@@ -1048,7 +1083,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 55
+      "sort_index": 55,
+      "deal_number": null
     },
     {
       "id": "travelon-self-laminating-luggage-tags-3pk-amazon",
@@ -1077,7 +1113,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 58
+      "sort_index": 58,
+      "deal_number": null
     },
     {
       "id": "nalgene-32oz-wide-mouth-amazon",
@@ -1106,7 +1143,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 60
+      "sort_index": 60,
+      "deal_number": null
     },
     {
       "id": "packit-freezable-lunch-bag-travel-note",
@@ -1135,7 +1173,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 61
+      "sort_index": 61,
+      "deal_number": null
     },
     {
       "id": "klein-3pc-adjustable-wrench-set-amazon",
@@ -1164,7 +1203,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 63
+      "sort_index": 63,
+      "deal_number": null
     },
     {
       "id": "klein-flickblade-utility-knife-amazon",
@@ -1193,7 +1233,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 64
+      "sort_index": 64,
+      "deal_number": null
     },
     {
       "id": "irwin-vise-grip-11in-locking-c-clamp-amazon",
@@ -1222,7 +1263,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 65
+      "sort_index": 65,
+      "deal_number": null
     },
     {
       "id": "oxo-good-grips-swivel-peeler-amazon",
@@ -1251,7 +1293,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": 13,
-      "sort_index": 66
+      "sort_index": 66,
+      "deal_number": null
     },
     {
       "id": "dewalt-tough-tape-25ft-homedepot",
@@ -1280,7 +1323,8 @@
       "image_source": "homedepot",
       "status": "draft",
       "priority_rank": null,
-      "sort_index": 68
+      "sort_index": 68,
+      "deal_number": null
     },
     {
       "id": "room-essentials-6pc-dorm-towel-set-target",
@@ -1309,7 +1353,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 70
+      "sort_index": 70,
+      "deal_number": null
     },
     {
       "id": "rubbermaid-brilliance-9-6cup-2pk-amazon",
@@ -1338,7 +1383,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": 1,
-      "sort_index": 71
+      "sort_index": 71,
+      "deal_number": 2
     },
     {
       "id": "tsa-30ml-travel-dispenser-4pk-amazon",
@@ -1367,7 +1413,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": 5,
-      "sort_index": 76
+      "sort_index": 76,
+      "deal_number": 3
     },
     {
       "id": "european-type-c-plug-adapter-2pk-amazon",
@@ -1396,7 +1443,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": 7,
-      "sort_index": 78
+      "sort_index": 78,
+      "deal_number": null
     },
     {
       "id": "gourmia-6qt-window-air-fryer-target",
@@ -1425,7 +1473,8 @@
       "image_source": "target",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 86
+      "sort_index": 86,
+      "deal_number": 1
     },
     {
       "id": "anker-20000mah-45w-power-bank-amazon",
@@ -1454,7 +1503,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 87
+      "sort_index": 87,
+      "deal_number": 4
     },
     {
       "id": "amazon-essentials-compression-packing-cubes-6pk",
@@ -1483,7 +1533,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 88
+      "sort_index": 88,
+      "deal_number": null
     },
     {
       "id": "stouchi-rfid-passport-holder-amazon",
@@ -1512,7 +1563,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 98
+      "sort_index": 98,
+      "deal_number": 5
     },
     {
       "id": "caribou-blend-kcups-96-amazon",
@@ -1541,7 +1593,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 120
+      "sort_index": 120,
+      "deal_number": 6
     },
     {
       "id": "slimfast-milk-chocolate-shake-12pk-amazon",
@@ -1570,7 +1623,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 132
+      "sort_index": 132,
+      "deal_number": 7
     },
     {
       "id": "maxwell-house-breakfast-kcups-84-amazon",
@@ -1599,7 +1653,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 161
+      "sort_index": 161,
+      "deal_number": 8
     },
     {
       "id": "travelpro-maxlite-5-2pc-black-amazon",
@@ -1628,7 +1683,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 164
+      "sort_index": 164,
+      "deal_number": 9
     },
     {
       "id": "ninja-blender-pro-plus-bl660-amazon",
@@ -1657,7 +1713,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 170
+      "sort_index": 170,
+      "deal_number": 10
     },
     {
       "id": "contigo-snapseal-24oz-amazon",
@@ -1686,7 +1743,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 171
+      "sort_index": 171,
+      "deal_number": 11
     },
     {
       "id": "bubba-64oz-insulated-jug-office-siren-amazon",
@@ -1715,7 +1773,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 172
+      "sort_index": 172,
+      "deal_number": 12
     },
     {
       "id": "bissell-little-green-pet-deluxe-3353-amazon",
@@ -1744,7 +1803,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 173
+      "sort_index": 173,
+      "deal_number": 13
     },
     {
       "id": "twinings-chai-black-tea-kcups-24-amazon",
@@ -1773,7 +1833,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 175
+      "sort_index": 175,
+      "deal_number": 14
     },
     {
       "id": "crockpot-2-5qt-casserole-slow-cooker-amazon",
@@ -1802,7 +1863,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 177
+      "sort_index": 177,
+      "deal_number": 15
     },
     {
       "id": "keurig-k-express-island-berry-amazon",
@@ -1831,7 +1893,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 178
+      "sort_index": 178,
+      "deal_number": 16
     },
     {
       "id": "coleman-back-home-screened-canopy-amazon",
@@ -1860,7 +1923,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 189
+      "sort_index": 189,
+      "deal_number": 17
     },
     {
       "id": "pixel-panda-winter-gloves-amazon",
@@ -1889,7 +1953,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 190
+      "sort_index": 190,
+      "deal_number": 18
     },
     {
       "id": "chex-corn-cereal-18oz-amazon",
@@ -1918,7 +1983,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 191
+      "sort_index": 191,
+      "deal_number": 19
     },
     {
       "id": "delta-nicoli-matte-black-kitchen-faucet-amazon",
@@ -1947,7 +2013,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 192
+      "sort_index": 192,
+      "deal_number": 20
     },
     {
       "id": "simplehome-cream-blackout-curtains-63in-amazon",
@@ -1976,7 +2043,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 194
+      "sort_index": 194,
+      "deal_number": 21
     },
     {
       "id": "samsonite-omni-pc-24in-black-amazon",
@@ -2005,7 +2073,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 197
+      "sort_index": 197,
+      "deal_number": 22
     },
     {
       "id": "olarhike-8pc-packing-cubes-amazon",
@@ -2034,7 +2103,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 198
+      "sort_index": 198,
+      "deal_number": 23
     },
     {
       "id": "filterbuy-20x25x1-merv8-4pk-amazon",
@@ -2063,7 +2133,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 201
+      "sort_index": 201,
+      "deal_number": 24
     },
     {
       "id": "hellmanns-real-mayo-20oz-3pk-amazon",
@@ -2092,7 +2163,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 205
+      "sort_index": 205,
+      "deal_number": 25
     },
     {
       "id": "oghom-travel-steamer-iron-amazon",
@@ -2121,7 +2193,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 207
+      "sort_index": 207,
+      "deal_number": 26
     },
     {
       "id": "donut-shop-regular-kcups-72-amazon",
@@ -2150,7 +2223,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 215
+      "sort_index": 215,
+      "deal_number": 27
     },
     {
       "id": "rip-van-dubai-choco-bars-12-amazon",
@@ -2179,7 +2253,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 217
+      "sort_index": 217,
+      "deal_number": 28
     },
     {
       "id": "coffee-mate-original-singles-180-amazon",
@@ -2208,7 +2283,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 218
+      "sort_index": 218,
+      "deal_number": 29
     },
     {
       "id": "energizer-alkaline-power-aaa-32-amazon",
@@ -2237,7 +2313,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 222
+      "sort_index": 222,
+      "deal_number": 30
     },
     {
       "id": "starbucks-french-roast-ground-18oz-amazon",
@@ -2266,7 +2343,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 229
+      "sort_index": 229,
+      "deal_number": 31
     },
     {
       "id": "starbucks-medium-roast-variety-3pk-amazon",
@@ -2295,7 +2373,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 230
+      "sort_index": 230,
+      "deal_number": 32
     },
     {
       "id": "kelloggs-raisin-bran-20-9oz-amazon",
@@ -2324,7 +2403,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 232
+      "sort_index": 232,
+      "deal_number": 33
     },
     {
       "id": "bedsure-queen-sheet-set-amazon",
@@ -2353,7 +2433,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 235
+      "sort_index": 235,
+      "deal_number": 34
     },
     {
       "id": "utopia-bedding-king-fitted-sheet-grey-amazon",
@@ -2382,7 +2463,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 239
+      "sort_index": 239,
+      "deal_number": 35
     },
     {
       "id": "samsonite-manual-luggage-scale-amazon",
@@ -2411,7 +2493,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 241
+      "sort_index": 241,
+      "deal_number": 36
     },
     {
       "id": "dots-pretzels-variety-18ct-amazon",
@@ -2440,7 +2523,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 243
+      "sort_index": 243,
+      "deal_number": 37
     },
     {
       "id": "hefty-party-on-cups-16oz-100-amazon",
@@ -2469,7 +2553,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 244
+      "sort_index": 244,
+      "deal_number": 38
     },
     {
       "id": "lepro-rechargeable-headlamp-orange-amazon",
@@ -2498,7 +2583,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 245
+      "sort_index": 245,
+      "deal_number": 39
     },
     {
       "id": "premier-protein-chocolate-peanut-butter-12pk-amazon",
@@ -2527,7 +2613,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 248
+      "sort_index": 248,
+      "deal_number": 40
     },
     {
       "id": "starbucks-french-roast-ground-28oz-amazon",
@@ -2556,7 +2643,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 249
+      "sort_index": 249,
+      "deal_number": 41
     },
     {
       "id": "maxwell-house-house-blend-kcups-84-amazon",
@@ -2585,7 +2673,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 250
+      "sort_index": 250,
+      "deal_number": 42
     },
     {
       "id": "bonsenkitchen-battery-milk-frother-amazon",
@@ -2614,7 +2703,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 253
+      "sort_index": 253,
+      "deal_number": 43
     },
     {
       "id": "olcorife-flat-plug-power-strip-amazon",
@@ -2643,7 +2733,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 254
+      "sort_index": 254,
+      "deal_number": 44
     },
     {
       "id": "wfiia-travel-vacuum-bags-15pk-amazon",
@@ -2672,7 +2763,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 255
+      "sort_index": 255,
+      "deal_number": 45
     },
     {
       "id": "hawaiian-tropic-sheer-touch-spf30-2oz-12pk-amazon",
@@ -2701,7 +2793,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 256
+      "sort_index": 256,
+      "deal_number": 46
     },
     {
       "id": "kinder-bueno-bars-30ct-amazon",
@@ -2730,7 +2823,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 257
+      "sort_index": 257,
+      "deal_number": 47
     },
     {
       "id": "premier-protein-chocolate-12pk-amazon",
@@ -2759,7 +2853,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 258
+      "sort_index": 258,
+      "deal_number": 48
     },
     {
       "id": "magic-mill-pro-dehydrator-10-tray-amazon",
@@ -2788,7 +2883,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 259
+      "sort_index": 259,
+      "deal_number": 49
     },
     {
       "id": "luggex-28in-checked-spinner-charcoal-amazon",
@@ -2817,7 +2913,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 260
+      "sort_index": 260,
+      "deal_number": 50
     },
     {
       "id": "ukein-pro-20in-carry-on-set-amazon",
@@ -2846,7 +2943,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 261
+      "sort_index": 261,
+      "deal_number": 51
     },
     {
       "id": "rip-van-romeos-dark-chocolate-cookies-18-amazon",
@@ -2875,7 +2973,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 262
+      "sort_index": 262,
+      "deal_number": 52
     },
     {
       "id": "premier-protein-energy-cafe-latte-12pk-amazon",
@@ -2904,7 +3003,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 263
+      "sort_index": 263,
+      "deal_number": 53
     },
     {
       "id": "community-coffee-half-caff-72oz-amazon",
@@ -2933,7 +3033,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 264
+      "sort_index": 264,
+      "deal_number": 54
     },
     {
       "id": "lane-linen-organic-full-sheets-amazon",
@@ -2962,7 +3063,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 266
+      "sort_index": 266,
+      "deal_number": 55
     },
     {
       "id": "jack-links-spicy-jerky-variety-15-amazon",
@@ -2991,7 +3093,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 267
+      "sort_index": 267,
+      "deal_number": 56
     },
     {
       "id": "sour-jacks-gummy-wedges-75ct-amazon",
@@ -3020,7 +3123,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 268
+      "sort_index": 268,
+      "deal_number": 57
     },
     {
       "id": "tonys-chocolonely-tiny-36ct-amazon",
@@ -3049,7 +3153,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 269
+      "sort_index": 269,
+      "deal_number": 58
     },
     {
       "id": "spicy-world-cinnamon-sticks-14oz-amazon",
@@ -3078,7 +3183,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 270
+      "sort_index": 270,
+      "deal_number": 59
     },
     {
       "id": "amber-home-wooden-hangers-30-amazon",
@@ -3107,7 +3213,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 271
+      "sort_index": 271,
+      "deal_number": 60
     },
     {
       "id": "smiry-couch-cover-dark-grey-amazon",
@@ -3136,7 +3243,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 273
+      "sort_index": 273,
+      "deal_number": 61
     },
     {
       "id": "jack-rose-k1-travel-steamer-purple-amazon",
@@ -3165,7 +3273,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 274
+      "sort_index": 274,
+      "deal_number": 62
     },
     {
       "id": "bedsure-king-duvet-cover-white-amazon",
@@ -3194,7 +3303,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 275
+      "sort_index": 275,
+      "deal_number": 63
     },
     {
       "id": "cream-of-wheat-high-protein-original-6pk-amazon",
@@ -3223,7 +3333,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 276
+      "sort_index": 276,
+      "deal_number": 64
     },
     {
       "id": "kashi-go-protein-cereal-original-amazon",
@@ -3252,7 +3363,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 277
+      "sort_index": 277,
+      "deal_number": 65
     },
     {
       "id": "premier-protein-vanilla-12pk-amazon",
@@ -3281,7 +3393,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 278
+      "sort_index": 278,
+      "deal_number": 66
     },
     {
       "id": "nature-valley-blueberry-muffin-bars-6pk-amazon",
@@ -3310,7 +3423,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 279
+      "sort_index": 279,
+      "deal_number": 67
     },
     {
       "id": "lilys-crispy-rice-dark-chocolate-12ct-amazon",
@@ -3339,7 +3453,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 280
+      "sort_index": 280,
+      "deal_number": 68
     },
     {
       "id": "leftys-left-handed-tape-25ft-amazon",
@@ -3368,7 +3483,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 281
+      "sort_index": 281,
+      "deal_number": 69
     },
     {
       "id": "bagail-9pc-packing-cubes-flamingo-amazon",
@@ -3397,7 +3513,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 282
+      "sort_index": 282,
+      "deal_number": 70
     },
     {
       "id": "9threads-turkish-beach-towel-6pk-mix-amazon",
@@ -3426,7 +3543,8 @@
       "image_source": "amazon",
       "status": "live",
       "priority_rank": null,
-      "sort_index": 283
+      "sort_index": 283,
+      "deal_number": 71
     }
   ]
 }

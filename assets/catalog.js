@@ -179,6 +179,10 @@
     card.id = product.id;
     card.append(renderMedia(product));
 
+    if (Number.isInteger(product.deal_number) && product.deal_number > 0) {
+      card.append(text(el("p", "deal-number"), `Deal #${product.deal_number}`));
+    }
+
     const kicker = el("span", "kicker");
     text(kicker, `${product.topic} · ${product.merchant}`);
     card.append(kicker);
