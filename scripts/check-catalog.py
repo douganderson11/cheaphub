@@ -86,6 +86,7 @@ def main() -> None:
         "deals/index.html": 'data-module="all"',
         "best/useful-home-tools-under-25/index.html": "home-tools-under-25",
         "best/kitchen-essentials-under-50/index.html": "kitchen-under-50",
+        "seasonal/thanksgiving-hosting-under-100/index.html": "thanksgiving-hosting",
         "best/travel-accessories-under-50/index.html": "travel-under-50",
         "categories/home-savings/index.html": 'data-category="home"',
         "categories/everyday/index.html": "everyday-staples",
@@ -111,6 +112,8 @@ def main() -> None:
     catalog_js = (ROOT / "assets" / "catalog.js").read_text(encoding="utf-8")
     if "No photo yet" in catalog_js:
         fail("catalog.js still renders a public No photo yet state")
+    if "thanksgiving-hosting" not in catalog_js:
+        fail("catalog.js missing thanksgiving-hosting module")
 
     operator_pages = [
         "about/index.html",
