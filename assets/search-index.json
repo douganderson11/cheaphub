@@ -504,13 +504,6 @@
     "topic": "Home"
   },
   {
-    "title": "30ml Leak-Resistant Travel Dispenser Bottles, 4-Pack",
-    "summary": "Four 30ml refillable bottles for a short trip, small enough to fit a liquids bag. Sold at Amazon.",
-    "url": "/deals/#tsa-30ml-travel-dispenser-4pk-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "European Type C Travel Plug Adapter, 2-Pack",
     "summary": "A two-pack of Type C plug adapters for outlets used across much of Europe. Sold at Amazon.",
     "url": "/deals/#european-type-c-plug-adapter-2pk-amazon",
@@ -630,13 +623,6 @@
     "topic": "Home"
   },
   {
-    "title": "Pixel Panda Winter Gloves with 3M Thinsulate",
-    "summary": "Pixel Panda winter gloves with 3M Thinsulate. The listing says they fit men and women. Sold at Amazon.",
-    "url": "/deals/#pixel-panda-winter-gloves-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "Corn Chex Gluten Free Cereal, Family Size, 18 oz",
     "summary": "An 18-ounce family-size box of Corn Chex, the gluten-free corn squares. Sold at Amazon.",
     "url": "/deals/#chex-corn-cereal-18oz-amazon",
@@ -749,13 +735,6 @@
     "topic": "Home"
   },
   {
-    "title": "Utopia Bedding King Fitted Sheet, Grey",
-    "summary": "A grey Utopia Bedding king fitted sheet, 78 by 80 inches, with a 15-inch pocket. It's the fitted sheet only, in microfiber. Sold at Amazon.",
-    "url": "/deals/#utopia-bedding-king-fitted-sheet-grey-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Samsonite Manual Luggage Scale, Black",
     "summary": "A black Samsonite manual luggage scale. The listing says it weighs bags up to 80 pounds and includes a tape measure. Sold at Amazon.",
     "url": "/deals/#samsonite-manual-luggage-scale-amazon",
@@ -822,13 +801,6 @@
     "title": "Wfiia Travel Vacuum Bags with Rechargeable Pump, 15-Pack",
     "summary": "A travel set of compression bags with a rechargeable pump. The listing says you get 15 bags plus one extra large refill, in three sizes. Sold at Amazon.",
     "url": "/deals/#wfiia-travel-vacuum-bags-15pk-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
-    "title": "Hawaiian Tropic Sheer Touch Lotion, SPF 30, 2 oz, 12-Pack",
-    "summary": "A 12-pack of Hawaiian Tropic Sheer Touch SPF 30 lotion in 2-ounce bottles. The listing says the lotion is oil-free and includes vitamins C and E. Sold at Amazon.",
-    "url": "/deals/#hawaiian-tropic-sheer-touch-spf30-2oz-12pk-amazon",
     "type": "Product",
     "topic": "Travel"
   },
@@ -924,13 +896,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Amber Home Retro Wooden Coat Hangers, 30-Pack",
-    "summary": "Thirty retro-finish wooden hangers with a chrome hook and a vinyl-covered pants bar. Sold at Amazon.",
-    "url": "/deals/#amber-home-wooden-hangers-30-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Smiry Couch Cover, Dark Grey, 27.6 x 59 Inches",
     "summary": "A dark grey Smiry couch cover, 27.6 by 59 inches, with a non-slip backing. The listing says it can go in the washing machine. Sold at Amazon.",
     "url": "/deals/#smiry-couch-cover-dark-grey-amazon",
@@ -1004,6 +969,55 @@
     "title": "9Threads Turkish Beach Towels, 36 x 72 Inches, Mix, 6 Pack",
     "summary": "A six-pack of 9Threads cotton beach towels, 36 by 72 inches, in the Mix color. The listing says they dry quickly. Sold at Amazon.",
     "url": "/deals/#9threads-turkish-beach-towel-6pk-mix-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "DEWALT 45-Piece Screwdriver Bit Set with Tough Case, DW2166",
+    "summary": "A 45-piece DEWALT screwdriver bit set, model DW2166, in a grey and silver tough case. Sold at Amazon.",
+    "url": "/deals/#dewalt-45pc-screwdriver-bit-set-dw2166-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "DEWALT 40-Piece FlexTorq Impact Screwdriver Bit Set, DWA2T40IR",
+    "summary": "A 40-piece DEWALT impact bit set, model DWA2T40IR, in a storage case. The listing says the bits have a magnetic screw lock sleeve. Sold at Amazon.",
+    "url": "/deals/#dewalt-40pc-flextorq-impact-bit-set-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Gatorade G Zero, Lemon Lime, 12 fl oz, 12 Pack",
+    "summary": "Twelve 12-ounce bottles of Gatorade G Zero in Lemon Lime. Sold at Amazon.",
+    "url": "/deals/#gatorade-g-zero-lemon-lime-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Quest Peanut Butter Cups, 12 Count",
+    "summary": "A 12-count box of Quest peanut butter cups. The label lists 11g of protein and 1g of sugar. Sold at Amazon.",
+    "url": "/deals/#quest-peanut-butter-cups-12ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "La Colombe Vanilla Draft Latte, 9 fl oz, 4 Pack",
+    "summary": "A four-pack of La Colombe vanilla draft lattes, 9 fl oz each. The listing says a can is 110 calories. Sold at Amazon.",
+    "url": "/deals/#la-colombe-vanilla-draft-latte-4pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "La Colombe Double Draft Latte, 11 fl oz, 12 Pack",
+    "summary": "A 12-pack of La Colombe Double Draft Latte in 11 fl oz cans. The listing says each can has 120mg of caffeine. Sold at Amazon.",
+    "url": "/deals/#la-colombe-double-draft-latte-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "adidas Excelerator Lunch Bag",
+    "summary": "An adidas Excelerator lunch bag lined with insulated cooler material. The listing says it has a zippered mesh pocket for an ice pack. Sold at Amazon.",
+    "url": "/deals/#adidas-excelerator-lunch-bag-amazon",
     "type": "Product",
     "topic": "Travel"
   }
