@@ -405,13 +405,6 @@
     "merchant": "Amazon",
     "title": "Rubbermaid Brilliance 9.6-Cup Food Storage Containers, 2-Count"
   },
-  "tsa-30ml-travel-dispenser-4pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0GK6PN8V4?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0GK6PN8V4",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "30ml Leak-Resistant Travel Dispenser Bottles, 4-Pack"
-  },
   "european-type-c-plug-adapter-2pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0B3LZ5896?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0B3LZ5896",
@@ -531,13 +524,6 @@
     "merchant": "Amazon",
     "title": "Coleman Back Home Screened Canopy with Instant Setup"
   },
-  "pixel-panda-winter-gloves-amazon": {
-    "destination": "https://www.amazon.com/dp/B0FJDS4V86?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0FJDS4V86",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Pixel Panda Winter Gloves with 3M Thinsulate"
-  },
   "chex-corn-cereal-18oz-amazon": {
     "destination": "https://www.amazon.com/dp/B01K8STMFC?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01K8STMFC",
@@ -650,13 +636,6 @@
     "merchant": "Amazon",
     "title": "Bedsure Queen Sheet Set, 4-Piece"
   },
-  "utopia-bedding-king-fitted-sheet-grey-amazon": {
-    "destination": "https://www.amazon.com/dp/B00XK9CCBI?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B00XK9CCBI",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Utopia Bedding King Fitted Sheet, Grey"
-  },
   "samsonite-manual-luggage-scale-amazon": {
     "destination": "https://www.amazon.com/dp/B01MQEWQE9?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01MQEWQE9",
@@ -726,13 +705,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Wfiia Travel Vacuum Bags with Rechargeable Pump, 15-Pack"
-  },
-  "hawaiian-tropic-sheer-touch-spf30-2oz-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0FR574WTL?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0FR574WTL",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Hawaiian Tropic Sheer Touch Lotion, SPF 30, 2 oz, 12-Pack"
   },
   "kinder-bueno-bars-30ct-amazon": {
     "destination": "https://www.amazon.com/dp/B07W46FC3N?tag=cheaphubus-20",
@@ -825,13 +797,6 @@
     "merchant": "Amazon",
     "title": "Spicy World Cinnamon Sticks, 14 oz"
   },
-  "amber-home-wooden-hangers-30-amazon": {
-    "destination": "https://www.amazon.com/dp/B08W2BHHKC?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B08W2BHHKC",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Amber Home Retro Wooden Coat Hangers, 30-Pack"
-  },
   "smiry-couch-cover-dark-grey-amazon": {
     "destination": "https://www.amazon.com/dp/B0F8N6DY7H?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0F8N6DY7H",
@@ -908,5 +873,54 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "9Threads Turkish Beach Towels, 36 x 72 Inches, Mix, 6 Pack"
+  },
+  "dewalt-45pc-screwdriver-bit-set-dw2166-amazon": {
+    "destination": "https://www.amazon.com/dp/B002JWSNIS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B002JWSNIS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "DEWALT 45-Piece Screwdriver Bit Set with Tough Case, DW2166"
+  },
+  "dewalt-40pc-flextorq-impact-bit-set-amazon": {
+    "destination": "https://www.amazon.com/dp/B00GMXFK3G?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00GMXFK3G",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "DEWALT 40-Piece FlexTorq Impact Screwdriver Bit Set, DWA2T40IR"
+  },
+  "gatorade-g-zero-lemon-lime-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BG3PXRFS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BG3PXRFS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Gatorade G Zero, Lemon Lime, 12 fl oz, 12 Pack"
+  },
+  "quest-peanut-butter-cups-12ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B06XHSZHL1?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B06XHSZHL1",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Quest Peanut Butter Cups, 12 Count"
+  },
+  "la-colombe-vanilla-draft-latte-4pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B074PZDS2K?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B074PZDS2K",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "La Colombe Vanilla Draft Latte, 9 fl oz, 4 Pack"
+  },
+  "la-colombe-double-draft-latte-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CVSJT83F?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CVSJT83F",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "La Colombe Double Draft Latte, 11 fl oz, 12 Pack"
+  },
+  "adidas-excelerator-lunch-bag-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DGZLGMX1?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DGZLGMX1",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "adidas Excelerator Lunch Bag"
   }
 }
