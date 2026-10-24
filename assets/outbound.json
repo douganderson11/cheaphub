@@ -482,13 +482,6 @@
     "merchant": "Amazon",
     "title": "Contigo SnapSeal Vacuum-Insulated Water Bottle, 24 oz"
   },
-  "bubba-64oz-insulated-jug-office-siren-amazon": {
-    "destination": "https://www.amazon.com/dp/B0G8QW3VN4?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0G8QW3VN4",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "bubba Insulated Stainless Steel Water Jug, 64 oz, Office Siren"
-  },
   "bissell-little-green-pet-deluxe-3353-amazon": {
     "destination": "https://www.amazon.com/dp/B09XFGWM2B?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B09XFGWM2B",
@@ -502,13 +495,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Twinings Chai Black Tea K-Cup Pods, 24 Count"
-  },
-  "crockpot-2-5qt-casserole-slow-cooker-amazon": {
-    "destination": "https://www.amazon.com/dp/B012CP15H2?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B012CP15H2",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Crock-Pot 2.5-Quart Casserole Slow Cooker, White and Blue"
   },
   "keurig-k-express-island-berry-amazon": {
     "destination": "https://www.amazon.com/dp/B0D3MR4M4C?tag=cheaphubus-20",
@@ -537,13 +523,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Delta Nicoli Matte Black Bridge Kitchen Faucet, 19867LF-BL"
-  },
-  "simplehome-cream-blackout-curtains-63in-amazon": {
-    "destination": "https://www.amazon.com/dp/B0GWZX6LVZ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0GWZX6LVZ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "SimpleHome Cream Blackout Curtains, 63 Inch, 2 Panels"
   },
   "samsonite-omni-pc-24in-black-amazon": {
     "destination": "https://www.amazon.com/dp/B013WFNVGY?tag=cheaphubus-20",
@@ -692,13 +671,6 @@
     "merchant": "Amazon",
     "title": "Bonsenkitchen Battery Milk Frother, Black"
   },
-  "olcorife-flat-plug-power-strip-amazon": {
-    "destination": "https://www.amazon.com/dp/B0BJ1SWDNB?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0BJ1SWDNB",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Olcorife Flat Plug Power Strip, 6 Outlets, 3 USB"
-  },
   "wfiia-travel-vacuum-bags-15pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0FF9B5NVC?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0FF9B5NVC",
@@ -727,13 +699,6 @@
     "merchant": "Amazon",
     "title": "Magic Mill Pro Food Dehydrator, 10 Stainless Steel Trays"
   },
-  "luggex-28in-checked-spinner-charcoal-amazon": {
-    "destination": "https://www.amazon.com/dp/B0BWQRG7MG?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0BWQRG7MG",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "LUGGEX 28-Inch Checked Spinner Luggage, Charcoal Metallic"
-  },
   "ukein-pro-20in-carry-on-set-amazon": {
     "destination": "https://www.amazon.com/dp/B0GZW2FCKC?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0GZW2FCKC",
@@ -761,13 +726,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Community Coffee Half-Caff Ground Coffee, 12 oz, 6 Bags"
-  },
-  "lane-linen-organic-full-sheets-amazon": {
-    "destination": "https://www.amazon.com/dp/B07RZ3NVWZ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07RZ3NVWZ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "LANE LINEN Organic Cotton Percale Full Sheets, 4-Piece, White"
   },
   "jack-links-spicy-jerky-variety-15-amazon": {
     "destination": "https://www.amazon.com/dp/B0D1H4YFQJ?tag=cheaphubus-20",
@@ -874,26 +832,12 @@
     "merchant": "Amazon",
     "title": "9Threads Turkish Beach Towels, 36 x 72 Inches, Mix, 6 Pack"
   },
-  "dewalt-45pc-screwdriver-bit-set-dw2166-amazon": {
-    "destination": "https://www.amazon.com/dp/B002JWSNIS?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B002JWSNIS",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "DEWALT 45-Piece Screwdriver Bit Set with Tough Case, DW2166"
-  },
   "dewalt-40pc-flextorq-impact-bit-set-amazon": {
     "destination": "https://www.amazon.com/dp/B00GMXFK3G?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B00GMXFK3G",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "DEWALT 40-Piece FlexTorq Impact Screwdriver Bit Set, DWA2T40IR"
-  },
-  "gatorade-g-zero-lemon-lime-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0BG3PXRFS?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0BG3PXRFS",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Gatorade G Zero, Lemon Lime, 12 fl oz, 12 Pack"
   },
   "quest-peanut-butter-cups-12ct-amazon": {
     "destination": "https://www.amazon.com/dp/B06XHSZHL1?tag=cheaphubus-20",
@@ -902,13 +846,6 @@
     "merchant": "Amazon",
     "title": "Quest Peanut Butter Cups, 12 Count"
   },
-  "la-colombe-vanilla-draft-latte-4pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B074PZDS2K?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B074PZDS2K",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "La Colombe Vanilla Draft Latte, 9 fl oz, 4 Pack"
-  },
   "la-colombe-double-draft-latte-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0CVSJT83F?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0CVSJT83F",
@@ -916,11 +853,60 @@
     "merchant": "Amazon",
     "title": "La Colombe Double Draft Latte, 11 fl oz, 12 Pack"
   },
-  "adidas-excelerator-lunch-bag-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DGZLGMX1?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DGZLGMX1",
+  "realinn-l-shaped-under-sink-organizer-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B0C5DBMYZF?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0C5DBMYZF",
     "affiliate_url": null,
     "merchant": "Amazon",
-    "title": "adidas Excelerator Lunch Bag"
+    "title": "REALINN L-Shaped Under Sink Organizer, Black"
+  },
+  "threadmill-king-herringbone-blanket-espresso-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GTRCZYBF?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GTRCZYBF",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Threadmill Cotton King Herringbone Blanket, Espresso"
+  },
+  "epicka-pulse-duo-65w-travel-adapter-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FNM3CM11?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FNM3CM11",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Epicka Pulse Duo 65W Universal Travel Adapter"
+  },
+  "bagail-8-set-packing-cubes-wine-red-amazon": {
+    "destination": "https://www.amazon.com/dp/B08S324MKS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08S324MKS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "BAGAIL 8-Piece Packing Cubes, Wine Red"
+  },
+  "misfits-protein-bar-variety-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BZWSR74Z?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BZWSR74Z",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Misfits Protein Bar Variety Pack, 12 Count"
+  },
+  "durelife-allulose-powder-5lb-amazon": {
+    "destination": "https://www.amazon.com/dp/B0D6P46547?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0D6P46547",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "DureLife Allulose Powdered Sweetener, 5 lb"
+  },
+  "black-forest-stretch-island-fruit-strips-48ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B08JG2W24S?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08JG2W24S",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Black Forest Stretch Island Fruit Strips, 48 Count"
+  },
+  "welchs-fruit-snacks-mixed-summer-60ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BMGXK1DY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BMGXK1DY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Welch's Fruit Snacks, Mixed Fruit and Summer Fruits, 60 Count"
   }
 }
