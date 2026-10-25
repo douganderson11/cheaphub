@@ -602,13 +602,6 @@
     "topic": "Home"
   },
   {
-    "title": "Coleman Back Home Screened Canopy with Instant Setup",
-    "summary": "Coleman's Back Home screened canopy, with mesh walls and a one-push hub for setup. Sold at Amazon.",
-    "url": "/deals/#coleman-back-home-screened-canopy-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Corn Chex Gluten Free Cereal, Family Size, 18 oz",
     "summary": "An 18-ounce family-size box of Corn Chex, the gluten-free corn squares. Sold at Amazon.",
     "url": "/deals/#chex-corn-cereal-18oz-amazon",
@@ -649,13 +642,6 @@
     "url": "/deals/#hellmanns-real-mayo-20oz-3pk-amazon",
     "type": "Product",
     "topic": "Everyday"
-  },
-  {
-    "title": "OGHom 1000W Travel Steamer and Iron, 110-240V",
-    "summary": "A 1000-watt handheld steamer that also works as a dry iron, on 110\u2013240V. Sold at Amazon.",
-    "url": "/deals/#oghom-travel-steamer-iron-amazon",
-    "type": "Product",
-    "topic": "Travel"
   },
   {
     "title": "The Original Donut Shop Regular K-Cup Pods, 72 Count",
@@ -700,13 +686,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Kellogg's Raisin Bran Original, 20.9 oz",
-    "summary": "A 20.9-ounce box of Kellogg's Raisin Bran Original. Sold at Amazon.",
-    "url": "/deals/#kelloggs-raisin-bran-20-9oz-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Bedsure Queen Sheet Set, 4-Piece",
     "summary": "A four-piece Bedsure queen sheet set in polyester microfiber, with a ruched hem on the flat sheet and pillowcases. Sold at Amazon.",
     "url": "/deals/#bedsure-queen-sheet-set-amazon",
@@ -719,13 +698,6 @@
     "url": "/deals/#samsonite-manual-luggage-scale-amazon",
     "type": "Product",
     "topic": "Travel"
-  },
-  {
-    "title": "Dot's Pretzels Twists Variety Pack, 18 Count",
-    "summary": "Eighteen 1-ounce bags of Dot's pretzel twists: eight original, five honey mustard, and five parmesan garlic. Sold at Amazon.",
-    "url": "/deals/#dots-pretzels-variety-18ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
   },
   {
     "title": "Hefty Party On Disposable Cups, 16 oz, 100 Count",
@@ -882,13 +854,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Kashi GO Protein Cereal, Original, 12.3 oz",
-    "summary": "One 12.3-ounce box of Kashi GO Original. The listing says a serving has 12g of protein and 12g of fiber. Sold at Amazon.",
-    "url": "/deals/#kashi-go-protein-cereal-original-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Premier Protein Shake, Vanilla, 12 Pack",
     "summary": "A 12-pack of Premier Protein vanilla shakes, 11.5 fl oz each. The listing says a shake has 30g of protein and no added sugar. Sold at Amazon.",
     "url": "/deals/#premier-protein-vanilla-12pk-amazon",
@@ -1006,5 +971,47 @@
     "url": "/deals/#welchs-fruit-snacks-mixed-summer-60ct-amazon",
     "type": "Product",
     "topic": "Everyday"
+  },
+  {
+    "title": "Frito-Lay Fun Times Mix Variety Pack, 40 Count",
+    "summary": "Forty single-serve bags in one Frito-Lay box, with Doritos, Lay's, Cheetos, Rold Gold, Smartfood, and SunChips. Sold at Amazon.",
+    "url": "/deals/#frito-lay-fun-times-mix-40ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "9-Piece SAE Ratcheting Wrench Set, 5/16 to 3/4 Inch",
+    "summary": "A 9-piece SAE ratcheting wrench set that comes with a roll pouch and a bolt gauge. The listing says the box ends are 72-tooth. Sold at Amazon.",
+    "url": "/deals/#gren-pro-9pc-sae-ratcheting-wrench-set-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Seventh Generation Paper Towels, 140 Sheets, 1 Regular Roll",
+    "summary": "One regular roll of Seventh Generation paper towels, 140 sheets, 2-ply, whitened without chlorine. Sold at Amazon.",
+    "url": "/deals/#seventh-generation-paper-towels-140ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Amazon Basics 21-Inch Hardside Carry-On, Black",
+    "summary": "A black Amazon Basics 21-inch hardside spinner. The listing puts it at 14.8 by 10 by 21.7 inches with the wheels, and says the shell expands by up to 25%. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-21in-hardside-carry-on-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "POWCAN 26 oz Insulated Water Bottle, Cotton Candy",
+    "summary": "A 26-ounce POWCAN stainless bottle in Cotton Candy, with a straw and a spout on the same lid. The listing says it fits a car cup holder. Sold at Amazon.",
+    "url": "/deals/#powcan-26oz-bottle-cotton-candy-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "SUNHOUSE 2-Quart Stainless Steel Saucepan with Lid",
+    "summary": "A 2-quart SUNHOUSE stainless saucepan with a glass lid. The listing says the base works on induction as well as gas and electric. Sold at Amazon.",
+    "url": "/deals/#sunhouse-2qt-stainless-saucepan-amazon",
+    "type": "Product",
+    "topic": "Home"
   }
 ]

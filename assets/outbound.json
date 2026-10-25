@@ -503,13 +503,6 @@
     "merchant": "Amazon",
     "title": "Keurig K-Express Single Serve Coffee Maker, Island Berry"
   },
-  "coleman-back-home-screened-canopy-amazon": {
-    "destination": "https://www.amazon.com/dp/B0D96KMCTN?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0D96KMCTN",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Coleman Back Home Screened Canopy with Instant Setup"
-  },
   "chex-corn-cereal-18oz-amazon": {
     "destination": "https://www.amazon.com/dp/B01K8STMFC?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01K8STMFC",
@@ -551,13 +544,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Hellmann's Real Mayonnaise, 20 oz Squeeze, 3-Pack"
-  },
-  "oghom-travel-steamer-iron-amazon": {
-    "destination": "https://www.amazon.com/dp/B0FYF2X322?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0FYF2X322",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "OGHom 1000W Travel Steamer and Iron, 110-240V"
   },
   "donut-shop-regular-kcups-72-amazon": {
     "destination": "https://www.amazon.com/dp/B00I08JAYG?tag=cheaphubus-20",
@@ -601,13 +587,6 @@
     "merchant": "Amazon",
     "title": "Starbucks Medium Roast Ground Coffee Variety Pack, 3 Bags"
   },
-  "kelloggs-raisin-bran-20-9oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F15SQ8HY?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F15SQ8HY",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Kellogg's Raisin Bran Original, 20.9 oz"
-  },
   "bedsure-queen-sheet-set-amazon": {
     "destination": "https://www.amazon.com/dp/B07P5NBRL5?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B07P5NBRL5",
@@ -621,13 +600,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Samsonite Manual Luggage Scale, Black"
-  },
-  "dots-pretzels-variety-18ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DL2LVM8Z?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DL2LVM8Z",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Dot's Pretzels Twists Variety Pack, 18 Count"
   },
   "hefty-party-on-cups-16oz-100-amazon": {
     "destination": "https://www.amazon.com/dp/B00OCGUG02?tag=cheaphubus-20",
@@ -783,13 +755,6 @@
     "merchant": "Amazon",
     "title": "Cream of Wheat Instant High Protein Hot Cereal, Original, Pack of 6"
   },
-  "kashi-go-protein-cereal-original-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DT1JJ9H1?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DT1JJ9H1",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Kashi GO Protein Cereal, Original, 12.3 oz"
-  },
   "premier-protein-vanilla-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B07MCCVZYC?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B07MCCVZYC",
@@ -908,5 +873,47 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Welch's Fruit Snacks, Mixed Fruit and Summer Fruits, 60 Count"
+  },
+  "frito-lay-fun-times-mix-40ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B076H6F974?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B076H6F974",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Frito-Lay Fun Times Mix Variety Pack, 40 Count"
+  },
+  "gren-pro-9pc-sae-ratcheting-wrench-set-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F9YBVD8X?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F9YBVD8X",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "9-Piece SAE Ratcheting Wrench Set, 5/16 to 3/4 Inch"
+  },
+  "seventh-generation-paper-towels-140ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B004JXDER0?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B004JXDER0",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Seventh Generation Paper Towels, 140 Sheets, 1 Regular Roll"
+  },
+  "amazon-basics-21in-hardside-carry-on-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B071VG5N9D?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B071VG5N9D",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics 21-Inch Hardside Carry-On, Black"
+  },
+  "powcan-26oz-bottle-cotton-candy-amazon": {
+    "destination": "https://www.amazon.com/dp/B0D8J37DHP?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0D8J37DHP",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "POWCAN 26 oz Insulated Water Bottle, Cotton Candy"
+  },
+  "sunhouse-2qt-stainless-saucepan-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DRPDC84W?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DRPDC84W",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "SUNHOUSE 2-Quart Stainless Steel Saucepan with Lid"
   }
 }
