@@ -89,6 +89,7 @@ def main() -> None:
         "best/useful-home-tools-under-25/index.html": "home-tools-under-25",
         "best/kitchen-essentials-under-50/index.html": "kitchen-under-50",
         "seasonal/thanksgiving-hosting-under-100/index.html": "thanksgiving-hosting",
+        "best/everyday-restock-under-25/index.html": "everyday-restock-under-25",
         "best/travel-accessories-under-50/index.html": "travel-under-50",
         "categories/home-savings/index.html": 'data-category="home"',
         "categories/everyday/index.html": "everyday-staples",
@@ -116,6 +117,8 @@ def main() -> None:
         fail("catalog.js still renders a public No photo yet state")
     if "thanksgiving-hosting" not in catalog_js:
         fail("catalog.js missing thanksgiving-hosting module")
+    if "everyday-restock-under-25" not in catalog_js:
+        fail("catalog.js missing everyday-restock-under-25 module")
 
     operator_pages = [
         "about/index.html",
