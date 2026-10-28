@@ -43,6 +43,22 @@
       ceiling: ["under_25", "under_50", "under_100"],
       subcategory: ["lighting", "bath", "cleaning-tools", "cleaning", "home-decor", "furniture"]
     },
+    "everyday-restock-under-25": {
+      ids: [
+        "chex-corn-cereal-18oz-amazon",
+        "hellmanns-real-mayo-20oz-3pk-amazon",
+        "starbucks-french-roast-ground-18oz-amazon",
+        "starbucks-medium-roast-variety-3pk-amazon",
+        "goldfish-cheddar-30ct-amazon",
+        "general-mills-classic-mix-20ct-amazon",
+        "welchs-fruit-snacks-mixed-summer-60ct-amazon",
+        "frito-lay-fun-times-mix-40ct-amazon",
+        "black-forest-stretch-island-fruit-strips-48ct-amazon",
+        "energizer-alkaline-power-aaa-32-amazon",
+        "tide-pods-42ct-amazon",
+        "seventh-generation-paper-towels-140ct-amazon"
+      ]
+    },
     "thanksgiving-hosting": {
       ids: [
         "crockpot-2-5qt-casserole-slow-cooker-amazon",
