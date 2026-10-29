@@ -433,13 +433,6 @@
     "merchant": "Amazon",
     "title": "SlimFast Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack"
   },
-  "contigo-snapseal-24oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B0GH8V8RS1?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0GH8V8RS1",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Contigo SnapSeal Vacuum-Insulated Water Bottle, 24 oz"
-  },
   "bissell-little-green-pet-deluxe-3353-amazon": {
     "destination": "https://www.amazon.com/dp/B09XFGWM2B?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B09XFGWM2B",
@@ -517,13 +510,6 @@
     "merchant": "Amazon",
     "title": "Starbucks French Roast Ground Coffee, 18 oz"
   },
-  "bedsure-queen-sheet-set-amazon": {
-    "destination": "https://www.amazon.com/dp/B07P5NBRL5?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07P5NBRL5",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Bedsure Queen Sheet Set, 4-Piece"
-  },
   "samsonite-manual-luggage-scale-amazon": {
     "destination": "https://www.amazon.com/dp/B01MQEWQE9?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01MQEWQE9",
@@ -537,13 +523,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Hefty Party On Disposable Cups, 16 oz, 100 Count"
-  },
-  "lepro-rechargeable-headlamp-orange-amazon": {
-    "destination": "https://www.amazon.com/dp/B0H3ZKSSPD?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0H3ZKSSPD",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Lepro Rechargeable LED Headlamp, Orange"
   },
   "premier-protein-chocolate-peanut-butter-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B08SRSRN7G?tag=cheaphubus-20",
@@ -608,13 +587,6 @@
     "merchant": "Amazon",
     "title": "Jack & Rose K1 Travel Steamer, Purple"
   },
-  "bedsure-king-duvet-cover-white-amazon": {
-    "destination": "https://www.amazon.com/dp/B08CXB9K79?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B08CXB9K79",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Bedsure King Duvet Cover Set, White"
-  },
   "cream-of-wheat-high-protein-original-6pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0FL86BXTS?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0FL86BXTS",
@@ -657,26 +629,12 @@
     "merchant": "Amazon",
     "title": "DEWALT 40-Piece FlexTorq Impact Screwdriver Bit Set, DWA2T40IR"
   },
-  "quest-peanut-butter-cups-12ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B06XHSZHL1?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B06XHSZHL1",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Quest Peanut Butter Cups, 12 Count"
-  },
   "la-colombe-double-draft-latte-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0CVSJT83F?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0CVSJT83F",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "La Colombe Double Draft Latte, 11 fl oz, 12 Pack"
-  },
-  "realinn-l-shaped-under-sink-organizer-black-amazon": {
-    "destination": "https://www.amazon.com/dp/B0C5DBMYZF?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0C5DBMYZF",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "REALINN L-Shaped Under Sink Organizer, Black"
   },
   "epicka-pulse-duo-65w-travel-adapter-amazon": {
     "destination": "https://www.amazon.com/dp/B0FNM3CM11?tag=cheaphubus-20",
@@ -692,13 +650,6 @@
     "merchant": "Amazon",
     "title": "BAGAIL 8-Piece Packing Cubes, Wine Red"
   },
-  "misfits-protein-bar-variety-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0BZWSR74Z?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0BZWSR74Z",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Misfits Protein Bar Variety Pack, 12 Count"
-  },
   "durelife-allulose-powder-5lb-amazon": {
     "destination": "https://www.amazon.com/dp/B0D6P46547?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0D6P46547",
@@ -712,20 +663,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Black Forest Stretch Island Fruit Strips, 48 Count"
-  },
-  "welchs-fruit-snacks-mixed-summer-60ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B0BMGXK1DY?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0BMGXK1DY",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Welch's Fruit Snacks, Mixed Fruit and Summer Fruits, 60 Count"
-  },
-  "gren-pro-9pc-sae-ratcheting-wrench-set-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F9YBVD8X?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F9YBVD8X",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "9-Piece SAE Ratcheting Wrench Set, 5/16 to 3/4 Inch"
   },
   "seventh-generation-paper-towels-140ct-amazon": {
     "destination": "https://www.amazon.com/dp/B004JXDER0?tag=cheaphubus-20",
@@ -783,13 +720,6 @@
     "merchant": "Amazon",
     "title": "Biz Stain and Odor Eliminator Powder, 37.5 oz, 2-Pack"
   },
-  "bagsmart-20in-carry-on-dark-blue-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DJXS9GKX?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DJXS9GKX",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "BAGSMART 20-Inch Expandable Carry-On, Dark Blue"
-  },
   "tocelffe-18pc-travel-bottle-set-amazon": {
     "destination": "https://www.amazon.com/dp/B0BZWMJM2F?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0BZWMJM2F",
@@ -803,20 +733,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "3M Scotch H180 Box Sealing Tape Dispenser, Gray"
-  },
-  "aowei-21v-angle-grinder-kit-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F631RCFM?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F631RCFM",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "AOWEI 21V Cordless 4-1/2 Inch Angle Grinder Kit"
-  },
-  "suretivian-twist-chicken-shredder-amazon": {
-    "destination": "https://www.amazon.com/dp/B0CGRGRXPY?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0CGRGRXPY",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "SURETIVIAN Twist Chicken Shredder, Black"
   },
   "micro-ingredients-lemon-juice-powder-10oz-amazon": {
     "destination": "https://www.amazon.com/dp/B07NY4MF5Y?tag=cheaphubus-20",
@@ -860,18 +776,46 @@
     "merchant": "Amazon",
     "title": "Kinder Bueno Snack Size Bars, 6.8 Ounce"
   },
-  "accelerator-energy-drink-variety-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B09YDS9KBH?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B09YDS9KBH",
+  "blink-outdoor-4-addon-camera-amazon": {
+    "destination": "https://www.amazon.com/dp/B0B1N7LJD3?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0B1N7LJD3",
     "affiliate_url": null,
     "merchant": "Amazon",
-    "title": "Accelerator Active Energy Drink Variety Pack, 12 Cans"
+    "title": "Blink Outdoor 4 Add-on Security Camera"
   },
-  "milwaukee-6-10in-adjustable-wrench-set-amazon": {
-    "destination": "https://www.amazon.com/dp/B01CRHGJDU?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B01CRHGJDU",
+  "blink-mini-2k-plus-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F3BB8D37?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F3BB8D37",
     "affiliate_url": null,
     "merchant": "Amazon",
-    "title": "Milwaukee 6-Inch and 10-Inch Adjustable Wrench Set"
+    "title": "Blink Mini 2K+ Indoor Camera, Black"
+  },
+  "ring-battery-doorbell-2k-speckled-gray-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FHJ7TKZM?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FHJ7TKZM",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Ring Battery Doorbell 2K, Speckled Gray"
+  },
+  "fire-hd-10-32gb-black-like-new-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GVTPKJVT?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GVTPKJVT",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Fire HD 10 Tablet 32 GB, Black, Like-New"
+  },
+  "fire-hd-8-kids-64gb-blue-amazon": {
+    "destination": "https://www.amazon.com/dp/B0D38FT41H?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0D38FT41H",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Fire HD 8 Kids Tablet, 64 GB, Blue"
+  },
+  "first-aid-only-313-piece-kit-amazon": {
+    "destination": "https://www.amazon.com/dp/B07JPCQN2M?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07JPCQN2M",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "First Aid Only 313-Piece Kit"
   }
 }
