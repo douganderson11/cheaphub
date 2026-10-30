@@ -602,13 +602,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Energizer Alkaline Power AAA Batteries, 32 Count",
-    "summary": "A 32-pack of Energizer Alkaline Power AAA batteries. Sold at Amazon.",
-    "url": "/deals/#energizer-alkaline-power-aaa-32-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Starbucks French Roast Ground Coffee, 18 oz",
     "summary": "An 18-ounce bag of Starbucks French Roast ground coffee. The bag describes it as a dark roast with caramel and sweet smoke. Sold at Amazon.",
     "url": "/deals/#starbucks-french-roast-ground-18oz-amazon",
@@ -868,20 +861,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "GIN GINS Original Ginger Chews, 1 Pound",
-    "summary": "A 1-pound pack of GIN GINS original ginger chews made with fresh ginger. The pieces are individually wrapped. Sold at Amazon.",
-    "url": "/deals/#gin-gins-original-ginger-chews-1lb-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Kinder Bueno Snack Size Bars, 6.8 Ounce",
-    "summary": "A 6.8-ounce bag of snack-size Kinder Bueno bars. The listing describes milk chocolate, a crispy wafer, and a hazelnut filling. Sold at Amazon.",
-    "url": "/deals/#kinder-bueno-snack-size-6-8oz-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Blink Outdoor 4 Add-on Security Camera",
     "summary": "Blink's Outdoor 4 add-on camera. The listing says it does 1080p live view, infrared night vision, and two-way audio, and the box includes two AA lithium batteries plus a mounting kit. Sold at Amazon.",
     "url": "/deals/#blink-outdoor-4-addon-camera-amazon",
@@ -920,6 +899,27 @@
     "title": "First Aid Only 313-Piece Kit",
     "summary": "First Aid Only kit model 91081 in a soft fabric case. The product title calls it a 313-piece kit for home, car, and travel. Sold at Amazon.",
     "url": "/deals/#first-aid-only-313-piece-kit-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Organic Hibiscus Tea Bags, 200 Count",
+    "summary": "A 200-count pouch of caffeine-free hibiscus tea bags. The listing says the bags are hemp paper and a serving is 2,000 mg of hibiscus flowers. Sold at Amazon.",
+    "url": "/deals/#organic-hibiscus-tea-200ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Mullein Leaf Tea Bags, 40 Count",
+    "summary": "Forty string-free mullein leaf tea bags. The listing says the leaves are wild mullein and each bag is food-grade material. Sold at Amazon.",
+    "url": "/deals/#mullein-leaf-tea-bags-40ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Travel Inspira Digital Luggage Scale",
+    "summary": "A hanging digital luggage scale with a backlit screen. The listing says it reads up to 110 pounds and the box includes a battery. Sold at Amazon.",
+    "url": "/deals/#travel-inspira-digital-luggage-scale-amazon",
     "type": "Product",
     "topic": "Travel"
   }
