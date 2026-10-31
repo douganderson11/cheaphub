@@ -588,13 +588,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Rip Van Dubai Choco Bars, 12-Pack",
-    "summary": "A 12-pack of Rip Van Dubai chocolate bars. The listing describes pistachio cream and toasted kunafa. Sold at Amazon.",
-    "url": "/deals/#rip-van-dubai-choco-bars-12-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Coffee mate Original Creamer Singles, 180 Count",
     "summary": "180 single-serve packets of Coffee mate Original powdered creamer. Sold at Amazon.",
     "url": "/deals/#coffee-mate-original-singles-180-amazon",
@@ -922,5 +915,68 @@
     "url": "/deals/#travel-inspira-digital-luggage-scale-amazon",
     "type": "Product",
     "topic": "Travel"
+  },
+  {
+    "title": "BAGSMART Expandable Carry-On Luggage, Black",
+    "summary": "A black BAGSMART hard-shell spinner. The listing puts it at 22 by 14 by 9 inches and 6.83 pounds before the expander is unzipped. Sold at Amazon.",
+    "url": "/deals/#bagsmart-expandable-carry-on-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "CRAFTSMAN Folding Metal Sawhorse",
+    "summary": "One CRAFTSMAN folding metal sawhorse, model CMST11154, with a side latch so two of them can clip together for carrying. Sold at Amazon.",
+    "url": "/deals/#craftsman-folding-metal-sawhorse-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Nissin Top Ramen, Soy Sauce, 24 Pack",
+    "summary": "A 24-pack of Nissin Top Ramen in soy sauce. Each pack is 3 ounces. Sold at Amazon.",
+    "url": "/deals/#nissin-top-ramen-soy-sauce-24pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Laffy Taffy Banana Mini Bars, 145 Count",
+    "summary": "A jar of banana Laffy Taffy mini bars. The listing says there are 145 individually wrapped pieces. Sold at Amazon.",
+    "url": "/deals/#laffy-taffy-banana-145ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Cheez-It Hot and Spicy Crackers, 12 Boxes",
+    "summary": "A 12-box case of Cheez-It hot and spicy crackers, 7 ounces a box. Sold at Amazon.",
+    "url": "/deals/#cheez-it-hot-spicy-12ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Tropicana Orange Blend, 12 Pack",
+    "summary": "Twelve 15.2 fl oz bottles of Tropicana orange blend, made from concentrate. Sold at Amazon.",
+    "url": "/deals/#tropicana-orange-blend-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "McCormick Culinary Minced Onion, 17 Ounce",
+    "summary": "A 17-ounce container of McCormick Culinary dried minced onion. The listing says 3 tablespoons stand in for a half cup of fresh onion. Sold at Amazon.",
+    "url": "/deals/#mccormick-minced-onion-17oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Silicone Small Spatula Set, 4 Piece",
+    "summary": "Four small silicone spatulas for nonstick pans. The product title doesn't name a brand. Sold at Amazon.",
+    "url": "/deals/#silicone-small-spatula-4pk-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Phillips #2 Impact Bit Set, 12 Piece",
+    "summary": "A 12-piece Phillips #2 impact set: mixed-length bits plus a magnetic holder. The listing says the bits are S2 steel. Sold at Amazon.",
+    "url": "/deals/#ph2-phillips-impact-bit-12pk-amazon",
+    "type": "Product",
+    "topic": "Home"
   }
 ]
