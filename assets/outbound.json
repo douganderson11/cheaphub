@@ -482,13 +482,6 @@
     "merchant": "Amazon",
     "title": "Hellmann's Real Mayonnaise, 20 oz Squeeze, 3-Pack"
   },
-  "rip-van-dubai-choco-bars-12-amazon": {
-    "destination": "https://www.amazon.com/dp/B0G6FYQ8GJ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0G6FYQ8GJ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Rip Van Dubai Choco Bars, 12-Pack"
-  },
   "coffee-mate-original-singles-180-amazon": {
     "destination": "https://www.amazon.com/dp/B00451SGZ6?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B00451SGZ6",
@@ -817,5 +810,68 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Travel Inspira Digital Luggage Scale"
+  },
+  "bagsmart-expandable-carry-on-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CT85HVXK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CT85HVXK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "BAGSMART Expandable Carry-On Luggage, Black"
+  },
+  "craftsman-folding-metal-sawhorse-amazon": {
+    "destination": "https://www.amazon.com/dp/B09BDL3224?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09BDL3224",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "CRAFTSMAN Folding Metal Sawhorse"
+  },
+  "nissin-top-ramen-soy-sauce-24pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B079T2XN1B?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B079T2XN1B",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Nissin Top Ramen, Soy Sauce, 24 Pack"
+  },
+  "laffy-taffy-banana-145ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B005K5GQ9O?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B005K5GQ9O",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Laffy Taffy Banana Mini Bars, 145 Count"
+  },
+  "cheez-it-hot-spicy-12ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B00XOOPMF2?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00XOOPMF2",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Cheez-It Hot and Spicy Crackers, 12 Boxes"
+  },
+  "tropicana-orange-blend-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F2GP89VJ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F2GP89VJ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Tropicana Orange Blend, 12 Pack"
+  },
+  "mccormick-minced-onion-17oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B008OGCMTY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B008OGCMTY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "McCormick Culinary Minced Onion, 17 Ounce"
+  },
+  "silicone-small-spatula-4pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GTWNQ5YM?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GTWNQ5YM",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Silicone Small Spatula Set, 4 Piece"
+  },
+  "ph2-phillips-impact-bit-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F4QMDKQR?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F4QMDKQR",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Phillips #2 Impact Bit Set, 12 Piece"
   }
 }
