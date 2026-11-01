@@ -454,13 +454,6 @@
     "merchant": "Amazon",
     "title": "Keurig K-Express Single Serve Coffee Maker, Island Berry"
   },
-  "chex-corn-cereal-18oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B01K8STMFC?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B01K8STMFC",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Corn Chex Gluten Free Cereal, Family Size, 18 oz"
-  },
   "delta-nicoli-matte-black-kitchen-faucet-amazon": {
     "destination": "https://www.amazon.com/dp/B0DJWS3RGM?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DJWS3RGM",
@@ -488,13 +481,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Coffee mate Original Creamer Singles, 180 Count"
-  },
-  "starbucks-french-roast-ground-18oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B0936DPF8Y?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0936DPF8Y",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Starbucks French Roast Ground Coffee, 18 oz"
   },
   "samsonite-manual-luggage-scale-amazon": {
     "destination": "https://www.amazon.com/dp/B01MQEWQE9?tag=cheaphubus-20",
@@ -538,26 +524,12 @@
     "merchant": "Amazon",
     "title": "Premier Protein Shake, Chocolate, 12-Pack"
   },
-  "ukein-pro-20in-carry-on-set-amazon": {
-    "destination": "https://www.amazon.com/dp/B0GZW7R26Q?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0GZW7R26Q",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "UKEIN PRO 20-Inch Expandable Carry-On Set with Backpack"
-  },
   "premier-protein-energy-cafe-latte-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B07W8KHTGL?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B07W8KHTGL",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Premier Protein +Energy Shake, Caf\u00e9 Latte, 12-Pack"
-  },
-  "jack-links-spicy-jerky-variety-15-amazon": {
-    "destination": "https://www.amazon.com/dp/B0D1H4YFQJ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0D1H4YFQJ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Jack Link's Spicy Beef Jerky Variety Pack, 15 Count"
   },
   "smiry-couch-cover-dark-grey-amazon": {
     "destination": "https://www.amazon.com/dp/B0F8N6DY7H?tag=cheaphubus-20",
@@ -593,13 +565,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Lily's Crispy Rice Dark Chocolate Style Bars, 12 Count"
-  },
-  "leftys-left-handed-tape-25ft-amazon": {
-    "destination": "https://www.amazon.com/dp/B078VVQSB2?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B078VVQSB2",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Lefty's Left-Handed Tape Measure, 25 ft"
   },
   "bagail-9pc-packing-cubes-flamingo-amazon": {
     "destination": "https://www.amazon.com/dp/B0F4RBWGTY?tag=cheaphubus-20",
@@ -783,13 +748,6 @@
     "merchant": "Amazon",
     "title": "Amazon Fire HD 8 Kids Tablet, 64 GB, Blue"
   },
-  "first-aid-only-313-piece-kit-amazon": {
-    "destination": "https://www.amazon.com/dp/B07JPCQN2M?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07JPCQN2M",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "First Aid Only 313-Piece Kit"
-  },
   "organic-hibiscus-tea-200ct-amazon": {
     "destination": "https://www.amazon.com/dp/B0C35TKL3M?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0C35TKL3M",
@@ -803,13 +761,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Mullein Leaf Tea Bags, 40 Count"
-  },
-  "travel-inspira-digital-luggage-scale-amazon": {
-    "destination": "https://www.amazon.com/dp/B07QFTGGYF?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07QFTGGYF",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Travel Inspira Digital Luggage Scale"
   },
   "bagsmart-expandable-carry-on-black-amazon": {
     "destination": "https://www.amazon.com/dp/B0CT85HVXK?tag=cheaphubus-20",
@@ -867,11 +818,46 @@
     "merchant": "Amazon",
     "title": "Silicone Small Spatula Set, 4 Piece"
   },
-  "ph2-phillips-impact-bit-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F4QMDKQR?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F4QMDKQR",
+  "national-tree-dunhill-fir-prelit-amazon": {
+    "destination": "https://www.amazon.com/dp/B00FADLVAK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00FADLVAK",
     "affiliate_url": null,
     "merchant": "Amazon",
-    "title": "Phillips #2 Impact Bit Set, 12 Piece"
+    "title": "National Tree Company Dunhill Fir Pre-Lit Christmas Tree"
+  },
+  "kingstone-65pc-silverware-set-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GY76T5ZK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GY76T5ZK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "KINGSTONE 65-Piece Silverware Set for 12"
+  },
+  "nahida-usb-milk-frother-cement-gray-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CQ2CZTJ9?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CQ2CZTJ9",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Nahida USB Rechargeable Milk Frother, Cement Gray"
+  },
+  "lars-nysom-24oz-food-jar-carbon-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FSLVRX1H?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FSLVRX1H",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "LARS NYS\u00d8M 24 oz Vacuum Insulated Food Jar, Carbon Black"
+  },
+  "micro-ingredients-mushroom-coffee-24oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B0C9PNDL22?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0C9PNDL22",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Micro Ingredients Organic 10-in-1 Mushroom Coffee, 24 oz"
+  },
+  "true-bamboo-cal-king-sheets-light-gray-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GK2FJ2TN?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GK2FJ2TN",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "TRUE BAMBOO California King Sheet Set, Light Gray"
   }
 }
