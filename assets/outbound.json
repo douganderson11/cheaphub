@@ -405,13 +405,6 @@
     "merchant": "Amazon",
     "title": "European Type C Travel Plug Adapter, 2-Pack"
   },
-  "gourmia-6qt-window-air-fryer-target": {
-    "destination": "https://www.target.com/p/gourmia-6-qt-digital-window-air-fryer-with-12-presets-38-guided-cooking-black/-/A-89110863",
-    "product_url": "https://www.target.com/p/gourmia-6-qt-digital-window-air-fryer-with-12-presets-38-guided-cooking-black/-/A-89110863",
-    "affiliate_url": null,
-    "merchant": "Target",
-    "title": "Gourmia 6 qt Digital Window Air Fryer, Black"
-  },
   "amazon-essentials-compression-packing-cubes-6pk": {
     "destination": "https://www.amazon.com/dp/B0DRNGLGFB?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DRNGLGFB",
@@ -524,26 +517,12 @@
     "merchant": "Amazon",
     "title": "Premier Protein Shake, Chocolate, 12-Pack"
   },
-  "premier-protein-energy-cafe-latte-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B07W8KHTGL?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07W8KHTGL",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Premier Protein +Energy Shake, Caf\u00e9 Latte, 12-Pack"
-  },
   "smiry-couch-cover-dark-grey-amazon": {
     "destination": "https://www.amazon.com/dp/B0F8N6DY7H?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0F8N6DY7H",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Smiry Couch Cover, Dark Grey, 27.6 x 59 Inches"
-  },
-  "jack-rose-k1-travel-steamer-purple-amazon": {
-    "destination": "https://www.amazon.com/dp/B0CF88RN17?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0CF88RN17",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Jack & Rose K1 Travel Steamer, Purple"
   },
   "cream-of-wheat-high-protein-original-6pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0FL86BXTS?tag=cheaphubus-20",
@@ -593,20 +572,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Epicka Pulse Duo 65W Universal Travel Adapter"
-  },
-  "bagail-8-set-packing-cubes-wine-red-amazon": {
-    "destination": "https://www.amazon.com/dp/B08S324MKS?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B08S324MKS",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "BAGAIL 8-Piece Packing Cubes, Wine Red"
-  },
-  "durelife-allulose-powder-5lb-amazon": {
-    "destination": "https://www.amazon.com/dp/B0D6P46547?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0D6P46547",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "DureLife Allulose Powdered Sweetener, 5 lb"
   },
   "black-forest-stretch-island-fruit-strips-48ct-amazon": {
     "destination": "https://www.amazon.com/dp/B08JG2W24S?tag=cheaphubus-20",
@@ -712,20 +677,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Maruchan Yakisoba Cheddar Cheese Noodles, 8 Pack"
-  },
-  "blink-outdoor-4-addon-camera-amazon": {
-    "destination": "https://www.amazon.com/dp/B0B1N7LJD3?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0B1N7LJD3",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Blink Outdoor 4 Add-on Security Camera"
-  },
-  "blink-mini-2k-plus-black-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F3BB8D37?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F3BB8D37",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Blink Mini 2K+ Indoor Camera, Black"
   },
   "ring-battery-doorbell-2k-speckled-gray-amazon": {
     "destination": "https://www.amazon.com/dp/B0FHJ7TKZM?tag=cheaphubus-20",
@@ -859,5 +810,54 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "TRUE BAMBOO California King Sheet Set, Light Gray"
+  },
+  "premier-protein-energy-cafe-latte-11oz-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DFJP6LZF?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DFJP6LZF",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Premier Protein +Energy Shake, Caf\u00e9 Latte, 11 oz, 12-Pack"
+  },
+  "ensure-max-protein-chocolate-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0791Y2LMB?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0791Y2LMB",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Ensure Max Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack"
+  },
+  "halloween-bulk-candy-variety-2lb-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FJ2YQK11?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FJ2YQK11",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Halloween Bulk Candy Variety Pack, 2 lb, 100 Count"
+  },
+  "calphalon-3ply-stainless-13pc-cookware-amazon": {
+    "destination": "https://www.amazon.com/dp/B07MQCKFY2?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07MQCKFY2",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Calphalon 3-Ply Stainless Steel Cookware Set, 13 Piece"
+  },
+  "jansport-superbreak-one-backpack-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B0007QCQGI?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0007QCQGI",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "JanSport SuperBreak One Backpack, Black"
+  },
+  "adidas-alliance-sackpack-power-red-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DHT1RNGC?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DHT1RNGC",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "adidas Alliance Sackpack, Team Power Red"
+  },
+  "hyted-1600w-220v-to-110v-converter-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F5NPXGCB?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F5NPXGCB",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "HYTED 1600W 220V to 110V Travel Converter"
   }
 }

@@ -511,13 +511,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Gourmia 6 qt Digital Window Air Fryer, Black",
-    "summary": "A 6-quart Gourmia air fryer with a window in the basket and 12 one-touch presets. Sold at Target.",
-    "url": "/deals/#gourmia-6qt-window-air-fryer-target",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack",
     "summary": "Six black compression cubes with two zippers each, for squeezing clothes into a carry-on. Sold at Amazon.",
     "url": "/deals/#amazon-essentials-compression-packing-cubes-6pk",
@@ -630,25 +623,11 @@
     "topic": "Everyday"
   },
   {
-    "title": "Premier Protein +Energy Shake, Caf\u00e9 Latte, 12-Pack",
-    "summary": "A 12-pack of Premier Protein +Energy shakes in caf\u00e9 latte. The listing says each shake has 30 grams of protein and the caffeine of one cup of coffee. Sold at Amazon.",
-    "url": "/deals/#premier-protein-energy-cafe-latte-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Smiry Couch Cover, Dark Grey, 27.6 x 59 Inches",
     "summary": "A dark grey Smiry couch cover, 27.6 by 59 inches, with a non-slip backing. The listing says it can go in the washing machine. Sold at Amazon.",
     "url": "/deals/#smiry-couch-cover-dark-grey-amazon",
     "type": "Product",
     "topic": "Home"
-  },
-  {
-    "title": "Jack & Rose K1 Travel Steamer, Purple",
-    "summary": "A purple Jack & Rose K1 handheld steamer and dry iron. The listing says it runs on 100-220V and heats in about 15 seconds. Sold at Amazon.",
-    "url": "/deals/#jack-rose-k1-travel-steamer-purple-amazon",
-    "type": "Product",
-    "topic": "Travel"
   },
   {
     "title": "Cream of Wheat Instant High Protein Hot Cereal, Original, Pack of 6",
@@ -698,20 +677,6 @@
     "url": "/deals/#epicka-pulse-duo-65w-travel-adapter-amazon",
     "type": "Product",
     "topic": "Travel"
-  },
-  {
-    "title": "BAGAIL 8-Piece Packing Cubes, Wine Red",
-    "summary": "Eight BAGAIL packing cubes in Wine Red, with mesh tops. This set is separate from the 9-piece Flamingo cubes. Sold at Amazon.",
-    "url": "/deals/#bagail-8-set-packing-cubes-wine-red-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
-    "title": "DureLife Allulose Powdered Sweetener, 5 lb",
-    "summary": "A 5-pound bag of DureLife powdered allulose. The listing says the bag has no erythritol in it. Sold at Amazon.",
-    "url": "/deals/#durelife-allulose-powder-5lb-amazon",
-    "type": "Product",
-    "topic": "Everyday"
   },
   {
     "title": "Black Forest Stretch Island Fruit Strips, 48 Count",
@@ -817,20 +782,6 @@
     "url": "/deals/#maruchan-yakisoba-cheddar-8pk-amazon",
     "type": "Product",
     "topic": "Everyday"
-  },
-  {
-    "title": "Blink Outdoor 4 Add-on Security Camera",
-    "summary": "Blink's Outdoor 4 add-on camera. The listing says it does 1080p live view, infrared night vision, and two-way audio, and the box includes two AA lithium batteries plus a mounting kit. Sold at Amazon.",
-    "url": "/deals/#blink-outdoor-4-addon-camera-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "Blink Mini 2K+ Indoor Camera, Black",
-    "summary": "A black Blink Mini 2K+ plug-in camera for indoors. The box includes the camera, a stand, a USB cable, and a power adapter. Sold at Amazon.",
-    "url": "/deals/#blink-mini-2k-plus-black-amazon",
-    "type": "Product",
-    "topic": "Home"
   },
   {
     "title": "Ring Battery Doorbell 2K, Speckled Gray",
@@ -964,5 +915,54 @@
     "url": "/deals/#true-bamboo-cal-king-sheets-light-gray-amazon",
     "type": "Product",
     "topic": "Home"
+  },
+  {
+    "title": "Premier Protein +Energy Shake, Caf\u00e9 Latte, 11 oz, 12-Pack",
+    "summary": "A 12-pack of Premier Protein +Energy caf\u00e9 latte shakes in 11 oz cartons. The page says each shake has 30 grams of protein and about as much caffeine as a cup of coffee. Sold at Amazon.",
+    "url": "/deals/#premier-protein-energy-cafe-latte-11oz-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Ensure Max Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack",
+    "summary": "Twelve 11 fl oz Ensure Max Protein shakes in milk chocolate. The listing says each shake has 30 grams of protein and 1 gram of sugar. Sold at Amazon.",
+    "url": "/deals/#ensure-max-protein-chocolate-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Halloween Bulk Candy Variety Pack, 2 lb, 100 Count",
+    "summary": "A 2-pound bag of individually wrapped candy, about 100 pieces, with gummies, taffy, hard candy, and lollipops in the mix. Sold at Amazon.",
+    "url": "/deals/#halloween-bulk-candy-variety-2lb-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Calphalon 3-Ply Stainless Steel Cookware Set, 13 Piece",
+    "summary": "A 13-piece Calphalon stainless set with 3-ply construction. The title says the pans are induction-ready and safe for metal utensils. Sold at Amazon.",
+    "url": "/deals/#calphalon-3ply-stainless-13pc-cookware-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "JanSport SuperBreak One Backpack, Black",
+    "summary": "A black JanSport SuperBreak One. The product name describes one main compartment and a front pocket with a built-in organizer. Sold at Amazon.",
+    "url": "/deals/#jansport-superbreak-one-backpack-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "adidas Alliance Sackpack, Team Power Red",
+    "summary": "An adidas Alliance drawstring sack in Team Power Red. The feature list says the cords close the top and work as shoulder straps. Sold at Amazon.",
+    "url": "/deals/#adidas-alliance-sackpack-power-red-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "HYTED 1600W 220V to 110V Travel Converter",
+    "summary": "A HYTED step-down converter for running a 110\u2013120V appliance from a 220\u2013250V outlet. The listing rates it at 1600 watts. Sold at Amazon.",
+    "url": "/deals/#hyted-1600w-220v-to-110v-converter-amazon",
+    "type": "Product",
+    "topic": "Travel"
   }
 ]
