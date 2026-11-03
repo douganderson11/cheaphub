@@ -616,30 +616,9 @@
     "topic": "Travel"
   },
   {
-    "title": "Premier Protein Shake, Chocolate, 12-Pack",
-    "summary": "A 12-pack of Premier Protein chocolate shakes. The carton says 30 grams of protein and no added sugar per shake. This is the chocolate flavor, not the chocolate peanut butter 12-pack already listed. Sold at Amazon.",
-    "url": "/deals/#premier-protein-chocolate-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Smiry Couch Cover, Dark Grey, 27.6 x 59 Inches",
-    "summary": "A dark grey Smiry couch cover, 27.6 by 59 inches, with a non-slip backing. The listing says it can go in the washing machine. Sold at Amazon.",
-    "url": "/deals/#smiry-couch-cover-dark-grey-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Cream of Wheat Instant High Protein Hot Cereal, Original, Pack of 6",
     "summary": "Six boxes of Cream of Wheat instant high-protein cereal in the original flavor. Each box holds six 1.34-ounce packets. Sold at Amazon.",
     "url": "/deals/#cream-of-wheat-high-protein-original-6pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Premier Protein Shake, Vanilla, 12 Pack",
-    "summary": "A 12-pack of Premier Protein vanilla shakes, 11.5 fl oz each. The listing says a shake has 30g of protein and no added sugar. Sold at Amazon.",
-    "url": "/deals/#premier-protein-vanilla-12pk-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -812,13 +791,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Mullein Leaf Tea Bags, 40 Count",
-    "summary": "Forty string-free mullein leaf tea bags. The listing says the leaves are wild mullein and each bag is food-grade material. Sold at Amazon.",
-    "url": "/deals/#mullein-leaf-tea-bags-40ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "BAGSMART Expandable Carry-On Luggage, Black",
     "summary": "A black BAGSMART hard-shell spinner. The listing puts it at 22 by 14 by 9 inches and 6.83 pounds before the expander is unzipped. Sold at Amazon.",
     "url": "/deals/#bagsmart-expandable-carry-on-black-amazon",
@@ -917,32 +889,11 @@
     "topic": "Home"
   },
   {
-    "title": "Premier Protein +Energy Shake, Caf\u00e9 Latte, 11 oz, 12-Pack",
-    "summary": "A 12-pack of Premier Protein +Energy caf\u00e9 latte shakes in 11 oz cartons. The page says each shake has 30 grams of protein and about as much caffeine as a cup of coffee. Sold at Amazon.",
-    "url": "/deals/#premier-protein-energy-cafe-latte-11oz-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Ensure Max Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack",
-    "summary": "Twelve 11 fl oz Ensure Max Protein shakes in milk chocolate. The listing says each shake has 30 grams of protein and 1 gram of sugar. Sold at Amazon.",
-    "url": "/deals/#ensure-max-protein-chocolate-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Halloween Bulk Candy Variety Pack, 2 lb, 100 Count",
     "summary": "A 2-pound bag of individually wrapped candy, about 100 pieces, with gummies, taffy, hard candy, and lollipops in the mix. Sold at Amazon.",
     "url": "/deals/#halloween-bulk-candy-variety-2lb-amazon",
     "type": "Product",
     "topic": "Everyday"
-  },
-  {
-    "title": "Calphalon 3-Ply Stainless Steel Cookware Set, 13 Piece",
-    "summary": "A 13-piece Calphalon stainless set with 3-ply construction. The title says the pans are induction-ready and safe for metal utensils. Sold at Amazon.",
-    "url": "/deals/#calphalon-3ply-stainless-13pc-cookware-amazon",
-    "type": "Product",
-    "topic": "Home"
   },
   {
     "title": "JanSport SuperBreak One Backpack, Black",
@@ -964,5 +915,47 @@
     "url": "/deals/#hyted-1600w-220v-to-110v-converter-amazon",
     "type": "Product",
     "topic": "Travel"
+  },
+  {
+    "title": "Tramontina Signature Tri-Ply 12-Inch Frying Pan",
+    "summary": "A 12-inch Tramontina Signature frying pan. The listing says the body is tri-ply clad stainless with an aluminum core, and that the pan is oven-safe to 500\u00b0F. Sold at Amazon.",
+    "url": "/deals/#tramontina-signature-12in-frying-pan-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "CRAFTSMAN 12-Piece Screwdriver Set, CMHT65130",
+    "summary": "CRAFTSMAN's 12-piece screwdriver set, model CMHT65130. The product title includes flathead and Phillips drivers, an offset, and a magnetizer/demagnetizer. Sold at Amazon.",
+    "url": "/deals/#craftsman-12pc-screwdriver-set-cmht65130-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Glad ForceFlex MaxStrength Tall Kitchen Bags, 13 Gallon, 90 Count",
+    "summary": "A 90-count box of Glad ForceFlex MaxStrength tall kitchen bags. The product title says they are 13-gallon, cherry-blossom scented, and have a drawstring close. Sold at Amazon.",
+    "url": "/deals/#glad-forceflex-maxstrength-90ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Ring Indoor Cam 2K, Plug-In, White",
+    "summary": "Ring's white plug-in Indoor Cam 2K. The listing describes Retinal 2K video, up to 6x zoom, and color video in low light. Sold at Amazon.",
+    "url": "/deals/#ring-indoor-cam-2k-plug-in-white-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Ring Outdoor Cam 2K, Battery, White",
+    "summary": "Ring's white battery Outdoor Cam 2K. The listing describes wide-angle Retinal 2K video and a siren you can start from the Ring app. Sold at Amazon.",
+    "url": "/deals/#ring-outdoor-cam-2k-battery-white-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Tim Hortons Original Blend Ground Coffee, 48 oz",
+    "summary": "A 48-ounce canister of Tim Hortons Original Blend ground coffee, medium roast, made with arabica beans. Sold at Amazon.",
+    "url": "/deals/#tim-hortons-original-blend-48oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
   }
 ]
