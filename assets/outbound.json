@@ -510,33 +510,12 @@
     "merchant": "Amazon",
     "title": "Wfiia Travel Vacuum Bags with Rechargeable Pump, 15-Pack"
   },
-  "premier-protein-chocolate-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B07MJL8NXR?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07MJL8NXR",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Premier Protein Shake, Chocolate, 12-Pack"
-  },
-  "smiry-couch-cover-dark-grey-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F8N6DY7H?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F8N6DY7H",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Smiry Couch Cover, Dark Grey, 27.6 x 59 Inches"
-  },
   "cream-of-wheat-high-protein-original-6pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0FL86BXTS?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0FL86BXTS",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Cream of Wheat Instant High Protein Hot Cereal, Original, Pack of 6"
-  },
-  "premier-protein-vanilla-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B07MCCVZYC?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07MCCVZYC",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Premier Protein Shake, Vanilla, 12 Pack"
   },
   "lilys-crispy-rice-dark-chocolate-12ct-amazon": {
     "destination": "https://www.amazon.com/dp/B07HL95NCG?tag=cheaphubus-20",
@@ -706,13 +685,6 @@
     "merchant": "Amazon",
     "title": "Organic Hibiscus Tea Bags, 200 Count"
   },
-  "mullein-leaf-tea-bags-40ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B09Q6DFWRB?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B09Q6DFWRB",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Mullein Leaf Tea Bags, 40 Count"
-  },
   "bagsmart-expandable-carry-on-black-amazon": {
     "destination": "https://www.amazon.com/dp/B0CT85HVXK?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0CT85HVXK",
@@ -811,33 +783,12 @@
     "merchant": "Amazon",
     "title": "TRUE BAMBOO California King Sheet Set, Light Gray"
   },
-  "premier-protein-energy-cafe-latte-11oz-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DFJP6LZF?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DFJP6LZF",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Premier Protein +Energy Shake, Caf\u00e9 Latte, 11 oz, 12-Pack"
-  },
-  "ensure-max-protein-chocolate-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0791Y2LMB?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0791Y2LMB",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Ensure Max Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack"
-  },
   "halloween-bulk-candy-variety-2lb-amazon": {
     "destination": "https://www.amazon.com/dp/B0FJ2YQK11?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0FJ2YQK11",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Halloween Bulk Candy Variety Pack, 2 lb, 100 Count"
-  },
-  "calphalon-3ply-stainless-13pc-cookware-amazon": {
-    "destination": "https://www.amazon.com/dp/B07MQCKFY2?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07MQCKFY2",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Calphalon 3-Ply Stainless Steel Cookware Set, 13 Piece"
   },
   "jansport-superbreak-one-backpack-black-amazon": {
     "destination": "https://www.amazon.com/dp/B0007QCQGI?tag=cheaphubus-20",
@@ -859,5 +810,47 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "HYTED 1600W 220V to 110V Travel Converter"
+  },
+  "tramontina-signature-12in-frying-pan-amazon": {
+    "destination": "https://www.amazon.com/dp/B00JAP44MQ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00JAP44MQ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Tramontina Signature Tri-Ply 12-Inch Frying Pan"
+  },
+  "craftsman-12pc-screwdriver-set-cmht65130-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GQJKYVPZ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GQJKYVPZ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "CRAFTSMAN 12-Piece Screwdriver Set, CMHT65130"
+  },
+  "glad-forceflex-maxstrength-90ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0D6D4K2G8?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0D6D4K2G8",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Glad ForceFlex MaxStrength Tall Kitchen Bags, 13 Gallon, 90 Count"
+  },
+  "ring-indoor-cam-2k-plug-in-white-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DXM9Y8J1?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DXM9Y8J1",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Ring Indoor Cam 2K, Plug-In, White"
+  },
+  "ring-outdoor-cam-2k-battery-white-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FWDSZ6Q2?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FWDSZ6Q2",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Ring Outdoor Cam 2K, Battery, White"
+  },
+  "tim-hortons-original-blend-48oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B07YCWBRS8?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07YCWBRS8",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Tim Hortons Original Blend Ground Coffee, 48 oz"
   }
 }
