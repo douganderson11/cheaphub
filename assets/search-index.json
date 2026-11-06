@@ -658,13 +658,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Micro Ingredients Organic Lemon Juice Powder, 10 oz",
-    "summary": "A 10-ounce pouch of Micro Ingredients organic lemon juice powder, with a scoop in the bag. Sold at Amazon.",
-    "url": "/deals/#micro-ingredients-lemon-juice-powder-10oz-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Biena Roasted Edamame Variety Pack, 21 Count",
     "summary": "Twenty-one single-serve bags of Biena roasted edamame. The listing says each 1.05 oz bag has 12g of protein. Sold at Amazon.",
     "url": "/deals/#biena-edamame-variety-21ct-amazon",
@@ -693,25 +686,11 @@
     "topic": "Home"
   },
   {
-    "title": "Organic Hibiscus Tea Bags, 200 Count",
-    "summary": "A 200-count pouch of caffeine-free hibiscus tea bags. The listing says the bags are hemp paper and a serving is 2,000 mg of hibiscus flowers. Sold at Amazon.",
-    "url": "/deals/#organic-hibiscus-tea-200ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "BAGSMART Expandable Carry-On Luggage, Black",
     "summary": "A black BAGSMART hard-shell spinner. The listing puts it at 22 by 14 by 9 inches and 6.83 pounds before the expander is unzipped. Sold at Amazon.",
     "url": "/deals/#bagsmart-expandable-carry-on-black-amazon",
     "type": "Product",
     "topic": "Travel"
-  },
-  {
-    "title": "CRAFTSMAN Folding Metal Sawhorse",
-    "summary": "One CRAFTSMAN folding metal sawhorse, model CMST11154, with a side latch so two of them can clip together for carrying. Sold at Amazon.",
-    "url": "/deals/#craftsman-folding-metal-sawhorse-amazon",
-    "type": "Product",
-    "topic": "Home"
   },
   {
     "title": "Laffy Taffy Banana Mini Bars, 145 Count",
@@ -754,13 +733,6 @@
     "url": "/deals/#lars-nysom-24oz-food-jar-carbon-black-amazon",
     "type": "Product",
     "topic": "Travel"
-  },
-  {
-    "title": "Micro Ingredients Organic 10-in-1 Mushroom Coffee, 24 oz",
-    "summary": "A 24 oz bag of Micro Ingredients ground coffee, arabica mixed with mushrooms that include lion's mane, chaga, reishi, and cordyceps. Sold at Amazon.",
-    "url": "/deals/#micro-ingredients-mushroom-coffee-24oz-amazon",
-    "type": "Product",
-    "topic": "Everyday"
   },
   {
     "title": "TRUE BAMBOO California King Sheet Set, Light Gray",
@@ -896,13 +868,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "A&W Root Beer, 7.5 oz Mini Cans, 10 Count",
-    "summary": "Ten 7.5-ounce mini cans of A&W root beer. Sold at Amazon.",
-    "url": "/deals/#aw-root-beer-mini-cans-10ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Bedsure Full Comforter, Burnt Orange",
     "summary": "A full-size Bedsure down-alternative comforter in burnt orange, 86 by 82 inches, with eight tabs so it can sit inside a duvet cover. Sold at Amazon.",
     "url": "/deals/#bedsure-full-comforter-burnt-orange-amazon",
@@ -927,6 +892,62 @@
     "title": "Yankee Candle Sugared Cinnamon Apple, 22 oz",
     "summary": "A 22-ounce Yankee Candle jar in Sugared Cinnamon Apple. Sold at Amazon.",
     "url": "/deals/#yankee-candle-sugared-cinnamon-apple-22oz-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Tempur-Pedic TEMPUR-Adapt + Cooling 3-Inch King Mattress Topper",
+    "summary": "A 3-inch king Tempur-Pedic TEMPUR-Adapt topper. The listing sizes it at 79 by 75 inches, calls the feel medium, and says the cover is washable. Sold at Amazon.",
+    "url": "/deals/#tempur-pedic-adapt-cooling-3in-king-topper-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "OLIXIS 3-Inch Queen Memory Foam Mattress Topper",
+    "summary": "A 3-inch queen memory-foam topper from OLIXIS. A feature bullet says the foam is gel-infused and ventilated, and that it sits on a mattress you already own. Sold at Amazon.",
+    "url": "/deals/#olixis-3in-queen-memory-foam-topper-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Smeg 50's Retro Style Drip Coffee Machine, 10-Cup, Black",
+    "summary": "Smeg's black 10-cup drip machine, with a glass carafe, a programmable start, and a keep-warm plate. The listing says the carafe holds 1.4 liters. Sold at Amazon.",
+    "url": "/deals/#smeg-50s-retro-drip-coffee-maker-black-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Amazon Basics Cotton Jersey Sheet Set, Queen, Oatmeal",
+    "summary": "A queen jersey sheet set in oatmeal from Amazon Basics. The page says it is 100% cotton and includes a fitted sheet, a flat sheet, and pillowcases, for mattresses up to 14 inches deep. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-jersey-sheet-set-queen-oatmeal-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Rip Van Wafels Dutch Caramel Mini Stroopwafels, 32-Pack",
+    "summary": "A 32-pack of Rip Van Dutch caramel mini stroopwafels. The product title says each one is 34 calories, with 1 gram of sugar and 3 grams of net carbs. Sold at Amazon.",
+    "url": "/deals/#rip-van-dutch-caramel-mini-stroopwafels-32ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Samsonite Freeform Hardside Carry-On Spinner, Pine Green",
+    "summary": "Samsonite Freeform hardside spinner in pine green. The listing puts the outside, wheels included, at 23 by 15.3 by 9.8 inches. Sold at Amazon.",
+    "url": "/deals/#samsonite-freeform-carry-on-pine-green-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Zeoprix Memory Foam Travel Neck Pillow, Black",
+    "summary": "A black U-shaped memory-foam neck pillow from Zeoprix. The listing describes a nylon and spandex cover and says it is for upright sleep on a plane. Sold at Amazon.",
+    "url": "/deals/#zeoprix-memory-foam-travel-neck-pillow-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "SALAV Commercial Garment Steamer, 3-Liter Tank, Navy",
+    "summary": "SALAV's navy standing garment steamer, with foot pedals and a 3-liter tank. The title rates it at 1,800 watts, and a bullet says a light and a beep warn you when the water is low. Sold at Amazon.",
+    "url": "/deals/#salav-commercial-garment-steamer-navy-amazon",
     "type": "Product",
     "topic": "Home"
   }

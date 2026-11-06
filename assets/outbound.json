@@ -552,13 +552,6 @@
     "merchant": "Amazon",
     "title": "Goldfish Cheddar Crackers, 1.5 oz Snack Packs, 30 Count"
   },
-  "micro-ingredients-lemon-juice-powder-10oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B07NY4MF5Y?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07NY4MF5Y",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Micro Ingredients Organic Lemon Juice Powder, 10 oz"
-  },
   "biena-edamame-variety-21ct-amazon": {
     "destination": "https://www.amazon.com/dp/B0HBT2SW9V?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0HBT2SW9V",
@@ -587,26 +580,12 @@
     "merchant": "Amazon",
     "title": "Ring Battery Doorbell 2K, Speckled Gray"
   },
-  "organic-hibiscus-tea-200ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B0C35TKL3M?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0C35TKL3M",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Organic Hibiscus Tea Bags, 200 Count"
-  },
   "bagsmart-expandable-carry-on-black-amazon": {
     "destination": "https://www.amazon.com/dp/B0CT85HVXK?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0CT85HVXK",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "BAGSMART Expandable Carry-On Luggage, Black"
-  },
-  "craftsman-folding-metal-sawhorse-amazon": {
-    "destination": "https://www.amazon.com/dp/B09BDL3224?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B09BDL3224",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "CRAFTSMAN Folding Metal Sawhorse"
   },
   "laffy-taffy-banana-145ct-amazon": {
     "destination": "https://www.amazon.com/dp/B005K5GQ9O?tag=cheaphubus-20",
@@ -649,13 +628,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "LARS NYS\u00d8M 24 oz Vacuum Insulated Food Jar, Carbon Black"
-  },
-  "micro-ingredients-mushroom-coffee-24oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B0C9PNDL22?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0C9PNDL22",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Micro Ingredients Organic 10-in-1 Mushroom Coffee, 24 oz"
   },
   "true-bamboo-cal-king-sheets-light-gray-amazon": {
     "destination": "https://www.amazon.com/dp/B0GK2FJ2TN?tag=cheaphubus-20",
@@ -790,13 +762,6 @@
     "merchant": "Amazon",
     "title": "SlimFast Protein Shake, Mocha Latte, 12-Pack"
   },
-  "aw-root-beer-mini-cans-10ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B086RBS99Z?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B086RBS99Z",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "A&W Root Beer, 7.5 oz Mini Cans, 10 Count"
-  },
   "bedsure-full-comforter-burnt-orange-amazon": {
     "destination": "https://www.amazon.com/dp/B0CV7FZRRW?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0CV7FZRRW",
@@ -824,5 +789,61 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Yankee Candle Sugared Cinnamon Apple, 22 oz"
+  },
+  "tempur-pedic-adapt-cooling-3in-king-topper-amazon": {
+    "destination": "https://www.amazon.com/dp/B07V5K36FL?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07V5K36FL",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Tempur-Pedic TEMPUR-Adapt + Cooling 3-Inch King Mattress Topper"
+  },
+  "olixis-3in-queen-memory-foam-topper-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GQ2T3LRP?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GQ2T3LRP",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "OLIXIS 3-Inch Queen Memory Foam Mattress Topper"
+  },
+  "smeg-50s-retro-drip-coffee-maker-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B07RLR97QQ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07RLR97QQ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Smeg 50's Retro Style Drip Coffee Machine, 10-Cup, Black"
+  },
+  "amazon-basics-jersey-sheet-set-queen-oatmeal-amazon": {
+    "destination": "https://www.amazon.com/dp/B01BTBS6LS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01BTBS6LS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics Cotton Jersey Sheet Set, Queen, Oatmeal"
+  },
+  "rip-van-dutch-caramel-mini-stroopwafels-32ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B07RPCSP9L?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07RPCSP9L",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rip Van Wafels Dutch Caramel Mini Stroopwafels, 32-Pack"
+  },
+  "samsonite-freeform-carry-on-pine-green-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DM2SHRPT?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DM2SHRPT",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Freeform Hardside Carry-On Spinner, Pine Green"
+  },
+  "zeoprix-memory-foam-travel-neck-pillow-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FCSM9THX?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FCSM9THX",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Zeoprix Memory Foam Travel Neck Pillow, Black"
+  },
+  "salav-commercial-garment-steamer-navy-amazon": {
+    "destination": "https://www.amazon.com/dp/B0H8ZK6SWG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0H8ZK6SWG",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "SALAV Commercial Garment Steamer, 3-Liter Tank, Navy"
   }
 }
