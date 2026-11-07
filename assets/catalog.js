@@ -66,8 +66,6 @@
         "ninja-blender-pro-plus-bl660-amazon",
         "keurig-k-express-island-berry-amazon",
         "happy-belly-french-roast-kcups-100-amazon",
-        "coffee-mate-original-singles-180-amazon",
-        "hefty-party-on-cups-16oz-100-amazon",
         "poppi-prebiotic-soda-major-mix-12pk-amazon",
         "oxo-good-grips-salad-spinner-amazon",
         "rubbermaid-brilliance-9-6cup-2pk-amazon",
