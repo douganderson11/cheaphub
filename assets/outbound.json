@@ -454,26 +454,12 @@
     "merchant": "Amazon",
     "title": "Hellmann's Real Mayonnaise, 20 oz Squeeze, 3-Pack"
   },
-  "coffee-mate-original-singles-180-amazon": {
-    "destination": "https://www.amazon.com/dp/B00451SGZ6?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B00451SGZ6",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Coffee mate Original Creamer Singles, 180 Count"
-  },
   "samsonite-manual-luggage-scale-amazon": {
     "destination": "https://www.amazon.com/dp/B01MQEWQE9?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01MQEWQE9",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Samsonite Manual Luggage Scale, Black"
-  },
-  "hefty-party-on-cups-16oz-100-amazon": {
-    "destination": "https://www.amazon.com/dp/B00OCGUG02?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B00OCGUG02",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Hefty Party On Disposable Cups, 16 oz, 100 Count"
   },
   "wfiia-travel-vacuum-bags-15pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0FF9B5NVC?tag=cheaphubus-20",
@@ -580,13 +566,6 @@
     "merchant": "Amazon",
     "title": "Ring Battery Doorbell 2K, Speckled Gray"
   },
-  "bagsmart-expandable-carry-on-black-amazon": {
-    "destination": "https://www.amazon.com/dp/B0CT85HVXK?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0CT85HVXK",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "BAGSMART Expandable Carry-On Luggage, Black"
-  },
   "laffy-taffy-banana-145ct-amazon": {
     "destination": "https://www.amazon.com/dp/B005K5GQ9O?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B005K5GQ9O",
@@ -600,13 +579,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Tropicana Orange Blend, 12 Pack"
-  },
-  "mccormick-minced-onion-17oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B008OGCMTY?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B008OGCMTY",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "McCormick Culinary Minced Onion, 17 Ounce"
   },
   "national-tree-dunhill-fir-prelit-amazon": {
     "destination": "https://www.amazon.com/dp/B00FADLVAK?tag=cheaphubus-20",
@@ -628,13 +600,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "LARS NYS\u00d8M 24 oz Vacuum Insulated Food Jar, Carbon Black"
-  },
-  "true-bamboo-cal-king-sheets-light-gray-amazon": {
-    "destination": "https://www.amazon.com/dp/B0GK2FJ2TN?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0GK2FJ2TN",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "TRUE BAMBOO California King Sheet Set, Light Gray"
   },
   "jansport-superbreak-one-backpack-black-amazon": {
     "destination": "https://www.amazon.com/dp/B0007QCQGI?tag=cheaphubus-20",
@@ -720,13 +685,6 @@
     "merchant": "Amazon",
     "title": "IRIS Instant White Rice, Japanese Short Grain, 24-Pack"
   },
-  "philips-sonicare-6700-pink-amazon": {
-    "destination": "https://www.amazon.com/dp/B0G3QRC7YK?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0G3QRC7YK",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Philips Sonicare 6700 Rechargeable Electric Toothbrush, Pink, 3 Brush Heads"
-  },
   "pronounce-dishwasher-powder-160-loads-amazon": {
     "destination": "https://www.amazon.com/dp/B0FBP44MFN?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0FBP44MFN",
@@ -804,13 +762,6 @@
     "merchant": "Amazon",
     "title": "OLIXIS 3-Inch Queen Memory Foam Mattress Topper"
   },
-  "smeg-50s-retro-drip-coffee-maker-black-amazon": {
-    "destination": "https://www.amazon.com/dp/B07RLR97QQ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07RLR97QQ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Smeg 50's Retro Style Drip Coffee Machine, 10-Cup, Black"
-  },
   "amazon-basics-jersey-sheet-set-queen-oatmeal-amazon": {
     "destination": "https://www.amazon.com/dp/B01BTBS6LS?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01BTBS6LS",
@@ -845,5 +796,75 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "SALAV Commercial Garment Steamer, 3-Liter Tank, Navy"
+  },
+  "yankee-candle-balsam-cedar-3wick-14-5oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F3DRQ2P9?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F3DRQ2P9",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Yankee Candle Balsam & Cedar, 14.5 oz 3-Wick"
+  },
+  "extra-deep-pocket-queen-sheets-light-grey-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FSTGKR62?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FSTGKR62",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Extra Deep Pocket Queen Sheet Set, Light Grey"
+  },
+  "paudin-8in-chef-knife-amazon": {
+    "destination": "https://www.amazon.com/dp/B07BK4YVB3?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07BK4YVB3",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "PAUDIN 8-Inch Chef Knife"
+  },
+  "national-tree-24in-crestwood-spruce-wreath-amazon": {
+    "destination": "https://www.amazon.com/dp/B00LKRMNWK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00LKRMNWK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "National Tree 24-Inch Pre-Lit Crestwood Spruce Wreath"
+  },
+  "annas-thins-caramel-pepparkakor-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FPP89X7L?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FPP89X7L",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Anna's Thins Caramel Pepparkakor, 12-Pack"
+  },
+  "rip-van-gluten-free-stroopwafel-caramel-vanilla-12ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0979H4CQZ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0979H4CQZ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rip Van Gluten-Free Stroopwafels, Caramel & Vanilla, 12 Count"
+  },
+  "lorissas-kitchen-smoke-show-sticks-24ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F6PYYRZ6?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F6PYYRZ6",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Lorissa's Kitchen Smoke Show Sticks, 24 Count"
+  },
+  "sunkist-orange-soda-mini-cans-10ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0867V1X2S?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0867V1X2S",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Sunkist Orange Soda, 7.5 oz Mini Cans, 10 Count"
+  },
+  "tim-hortons-kcup-variety-90ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B08Q8RRBPY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08Q8RRBPY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Tim Hortons K-Cup Variety Pack, 90 Count"
+  },
+  "nostalgia-theater-popcorn-24pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0C66Z275V?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0C66Z275V",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Nostalgia Theater Popcorn Kit, 24 Pack"
   }
 }

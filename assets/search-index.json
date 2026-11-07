@@ -560,25 +560,11 @@
     "topic": "Everyday"
   },
   {
-    "title": "Coffee mate Original Creamer Singles, 180 Count",
-    "summary": "180 single-serve packets of Coffee mate Original powdered creamer. Sold at Amazon.",
-    "url": "/deals/#coffee-mate-original-singles-180-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Samsonite Manual Luggage Scale, Black",
     "summary": "A black Samsonite manual luggage scale. The listing says it weighs bags up to 80 pounds and includes a tape measure. Sold at Amazon.",
     "url": "/deals/#samsonite-manual-luggage-scale-amazon",
     "type": "Product",
     "topic": "Travel"
-  },
-  {
-    "title": "Hefty Party On Disposable Cups, 16 oz, 100 Count",
-    "summary": "A 100-count pack of Hefty Party On 16-ounce plastic cups in assorted colors. Sold at Amazon.",
-    "url": "/deals/#hefty-party-on-cups-16oz-100-amazon",
-    "type": "Product",
-    "topic": "Everyday"
   },
   {
     "title": "Wfiia Travel Vacuum Bags with Rechargeable Pump, 15-Pack",
@@ -686,13 +672,6 @@
     "topic": "Home"
   },
   {
-    "title": "BAGSMART Expandable Carry-On Luggage, Black",
-    "summary": "A black BAGSMART hard-shell spinner. The listing puts it at 22 by 14 by 9 inches and 6.83 pounds before the expander is unzipped. Sold at Amazon.",
-    "url": "/deals/#bagsmart-expandable-carry-on-black-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "Laffy Taffy Banana Mini Bars, 145 Count",
     "summary": "A jar of banana Laffy Taffy mini bars. The listing says there are 145 individually wrapped pieces. Sold at Amazon.",
     "url": "/deals/#laffy-taffy-banana-145ct-amazon",
@@ -703,13 +682,6 @@
     "title": "Tropicana Orange Blend, 12 Pack",
     "summary": "Twelve 15.2 fl oz bottles of Tropicana orange blend, made from concentrate. Sold at Amazon.",
     "url": "/deals/#tropicana-orange-blend-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "McCormick Culinary Minced Onion, 17 Ounce",
-    "summary": "A 17-ounce container of McCormick Culinary dried minced onion. The listing says 3 tablespoons stand in for a half cup of fresh onion. Sold at Amazon.",
-    "url": "/deals/#mccormick-minced-onion-17oz-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -733,13 +705,6 @@
     "url": "/deals/#lars-nysom-24oz-food-jar-carbon-black-amazon",
     "type": "Product",
     "topic": "Travel"
-  },
-  {
-    "title": "TRUE BAMBOO California King Sheet Set, Light Gray",
-    "summary": "A light gray California King sheet set from TRUE BAMBOO. The listing says the fabric is viscose from bamboo, in a sateen weave. Sold at Amazon.",
-    "url": "/deals/#true-bamboo-cal-king-sheets-light-gray-amazon",
-    "type": "Product",
-    "topic": "Home"
   },
   {
     "title": "JanSport SuperBreak One Backpack, Black",
@@ -826,13 +791,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Philips Sonicare 6700 Rechargeable Electric Toothbrush, Pink, 3 Brush Heads",
-    "summary": "Philips Sonicare 6700 in pink, with three brush heads. The listing says the handle has Clean, Sensitive, and White modes, plus a light that comes on if you press too hard. Sold at Amazon.",
-    "url": "/deals/#philips-sonicare-6700-pink-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Pronounce Dishwasher Detergent Powder, Unscented, 160 Loads",
     "summary": "A bag of unscented Pronounce dishwasher powder. The listing says the bag is 160 loads and that the powder has no added fragrance. Sold at Amazon.",
     "url": "/deals/#pronounce-dishwasher-powder-160-loads-amazon",
@@ -910,13 +868,6 @@
     "topic": "Home"
   },
   {
-    "title": "Smeg 50's Retro Style Drip Coffee Machine, 10-Cup, Black",
-    "summary": "Smeg's black 10-cup drip machine, with a glass carafe, a programmable start, and a keep-warm plate. The listing says the carafe holds 1.4 liters. Sold at Amazon.",
-    "url": "/deals/#smeg-50s-retro-drip-coffee-maker-black-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Amazon Basics Cotton Jersey Sheet Set, Queen, Oatmeal",
     "summary": "A queen jersey sheet set in oatmeal from Amazon Basics. The page says it is 100% cotton and includes a fitted sheet, a flat sheet, and pillowcases, for mattresses up to 14 inches deep. Sold at Amazon.",
     "url": "/deals/#amazon-basics-jersey-sheet-set-queen-oatmeal-amazon",
@@ -950,5 +901,75 @@
     "url": "/deals/#salav-commercial-garment-steamer-navy-amazon",
     "type": "Product",
     "topic": "Home"
+  },
+  {
+    "title": "Yankee Candle Balsam & Cedar, 14.5 oz 3-Wick",
+    "summary": "A 14.5-ounce Yankee Candle 3-wick in Balsam & Cedar. Sold at Amazon.",
+    "url": "/deals/#yankee-candle-balsam-cedar-3wick-14-5oz-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Extra Deep Pocket Queen Sheet Set, Light Grey",
+    "summary": "A 4-piece queen sheet set in light grey, with an extra-deep fitted sheet. Sold at Amazon.",
+    "url": "/deals/#extra-deep-pocket-queen-sheets-light-grey-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "PAUDIN 8-Inch Chef Knife",
+    "summary": "An 8-inch PAUDIN chef knife in high-carbon stainless steel, sold with a gift box. Sold at Amazon.",
+    "url": "/deals/#paudin-8in-chef-knife-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "National Tree 24-Inch Pre-Lit Crestwood Spruce Wreath",
+    "summary": "A 24-inch National Tree Crestwood Spruce wreath with 50 battery-operated white LEDs. Sold at Amazon.",
+    "url": "/deals/#national-tree-24in-crestwood-spruce-wreath-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Anna's Thins Caramel Pepparkakor, 12-Pack",
+    "summary": "Twelve 5.25-ounce boxes of Anna's caramel Swedish thins. Sold at Amazon.",
+    "url": "/deals/#annas-thins-caramel-pepparkakor-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Rip Van Gluten-Free Stroopwafels, Caramel & Vanilla, 12 Count",
+    "summary": "A 12-count box of Rip Van gluten-free caramel and vanilla stroopwafels. Sold at Amazon.",
+    "url": "/deals/#rip-van-gluten-free-stroopwafel-caramel-vanilla-12ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Lorissa's Kitchen Smoke Show Sticks, 24 Count",
+    "summary": "Twenty-four 0.5-ounce Lorissa's Kitchen Smoke Show beef sticks. Sold at Amazon.",
+    "url": "/deals/#lorissas-kitchen-smoke-show-sticks-24ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Sunkist Orange Soda, 7.5 oz Mini Cans, 10 Count",
+    "summary": "A 10-pack of Sunkist orange soda in 7.5-ounce mini cans. Sold at Amazon.",
+    "url": "/deals/#sunkist-orange-soda-mini-cans-10ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Tim Hortons K-Cup Variety Pack, 90 Count",
+    "summary": "A 90-count Tim Hortons K-Cup variety pack for Keurig brewers. Sold at Amazon.",
+    "url": "/deals/#tim-hortons-kcup-variety-90ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Nostalgia Theater Popcorn Kit, 24 Pack",
+    "summary": "A 24-pack of Nostalgia theater popcorn kits, each with kernels, seasoning salt, and butter-flavored oil. Sold at Amazon.",
+    "url": "/deals/#nostalgia-theater-popcorn-24pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
   }
 ]
