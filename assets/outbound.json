@@ -405,6 +405,13 @@
     "merchant": "Amazon",
     "title": "European Type C Travel Plug Adapter, 2-Pack"
   },
+  "anker-20000mah-45w-power-bank-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DSZKKJTK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DSZKKJTK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Anker 20,000mAh 45W Power Bank with Built-in USB-C Cables"
+  },
   "amazon-essentials-compression-packing-cubes-6pk": {
     "destination": "https://www.amazon.com/dp/B0DRNGLGFB?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DRNGLGFB",
@@ -593,13 +600,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "KINGSTONE 65-Piece Silverware Set for 12"
-  },
-  "lars-nysom-24oz-food-jar-carbon-black-amazon": {
-    "destination": "https://www.amazon.com/dp/B0FSLVRX1H?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0FSLVRX1H",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "LARS NYS\u00d8M 24 oz Vacuum Insulated Food Jar, Carbon Black"
   },
   "jansport-superbreak-one-backpack-black-amazon": {
     "destination": "https://www.amazon.com/dp/B0007QCQGI?tag=cheaphubus-20",
@@ -866,5 +866,47 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Nostalgia Theater Popcorn Kit, 24 Pack"
+  },
+  "shark-hv302-rocket-pet-vacuum-amazon": {
+    "destination": "https://www.amazon.com/dp/B00EUKHACW?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00EUKHACW",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Shark HV302 Rocket Pet Corded Stick Vacuum"
+  },
+  "ugg-whitecap-throw-seal-grey-amazon": {
+    "destination": "https://www.amazon.com/dp/B0B6FFGC25?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0B6FFGC25",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "UGG Whitecap Throw Blanket, Seal Grey, 50 x 70 Inches"
+  },
+  "folgers-colombian-ground-coffee-6pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B09HCV9LKC?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09HCV9LKC",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Folgers Colombian Ground Coffee, Medium Roast, 6 Canisters"
+  },
+  "cascade-free-clear-dishwasher-pods-47ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GMRBL49C?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GMRBL49C",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Cascade Free & Clear Dishwasher Pods, 47 Count"
+  },
+  "celsius-spritz-vibe-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0H2K3KGM5?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0H2K3KGM5",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "CELSIUS Sparkling Spritz Vibe, 12-Pack"
+  },
+  "brawny-tear-a-square-paper-towels-6-double-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CL7N32TM?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CL7N32TM",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Brawny Tear-A-Square Paper Towels, 6 Double Rolls"
   }
 }
