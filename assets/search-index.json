@@ -511,6 +511,13 @@
     "topic": "Travel"
   },
   {
+    "title": "Anker 20,000mAh 45W Power Bank with Built-in USB-C Cables",
+    "summary": "Anker's 20,000mAh pack with two USB-C cables built in and a 45W top output, for a phone and a laptop on the same trip. Sold at Amazon.",
+    "url": "/deals/#anker-20000mah-45w-power-bank-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
     "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack",
     "summary": "Six black compression cubes with two zippers each, for squeezing clothes into a carry-on. Sold at Amazon.",
     "url": "/deals/#amazon-essentials-compression-packing-cubes-6pk",
@@ -698,13 +705,6 @@
     "url": "/deals/#kingstone-65pc-silverware-set-amazon",
     "type": "Product",
     "topic": "Home"
-  },
-  {
-    "title": "LARS NYS\u00d8M 24 oz Vacuum Insulated Food Jar, Carbon Black",
-    "summary": "A carbon-black 24 oz food jar from LARS NYS\u00d8M. The listing says the stainless body is double-wall insulated and the mouth is wide enough to eat from. Sold at Amazon.",
-    "url": "/deals/#lars-nysom-24oz-food-jar-carbon-black-amazon",
-    "type": "Product",
-    "topic": "Travel"
   },
   {
     "title": "JanSport SuperBreak One Backpack, Black",
@@ -969,6 +969,48 @@
     "title": "Nostalgia Theater Popcorn Kit, 24 Pack",
     "summary": "A 24-pack of Nostalgia theater popcorn kits, each with kernels, seasoning salt, and butter-flavored oil. Sold at Amazon.",
     "url": "/deals/#nostalgia-theater-popcorn-24pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Shark HV302 Rocket Pet Corded Stick Vacuum",
+    "summary": "A corded Shark HV302 Rocket Pet stick vacuum in orange, with swivel steering and a handheld conversion. The listing includes a crevice tool, a pet multi-tool, and a precision duster. Sold at Amazon.",
+    "url": "/deals/#shark-hv302-rocket-pet-vacuum-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "UGG Whitecap Throw Blanket, Seal Grey, 50 x 70 Inches",
+    "summary": "A 50-by-70-inch UGG Whitecap throw in seal grey. The listing describes plush polyester fleece, fluffier on one side, and says it is machine washable. Sold at Amazon.",
+    "url": "/deals/#ugg-whitecap-throw-seal-grey-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Folgers Colombian Ground Coffee, Medium Roast, 6 Canisters",
+    "summary": "Six 22.6-ounce canisters of Folgers Colombian medium-roast ground coffee. Sold at Amazon.",
+    "url": "/deals/#folgers-colombian-ground-coffee-6pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Cascade Free & Clear Dishwasher Pods, 47 Count",
+    "summary": "A 47-count bag of unscented Cascade Free & Clear dishwasher pods. Sold at Amazon.",
+    "url": "/deals/#cascade-free-clear-dishwasher-pods-47ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "CELSIUS Sparkling Spritz Vibe, 12-Pack",
+    "summary": "Twelve 12-ounce cans of CELSIUS Sparkling Spritz Vibe. The listing says each can has 200mg of caffeine and is sugar-free. Sold at Amazon.",
+    "url": "/deals/#celsius-spritz-vibe-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Brawny Tear-A-Square Paper Towels, 6 Double Rolls",
+    "summary": "Six double rolls of Brawny Tear-A-Square paper towels, sold as equal to 12 regular rolls, with quarter, half, and full sheet sizes. Sold at Amazon.",
+    "url": "/deals/#brawny-tear-a-square-paper-towels-6-double-amazon",
     "type": "Product",
     "topic": "Everyday"
   }
