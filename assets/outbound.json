@@ -405,19 +405,19 @@
     "merchant": "Amazon",
     "title": "European Type C Travel Plug Adapter, 2-Pack"
   },
-  "anker-20000mah-45w-power-bank-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DSZKKJTK?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DSZKKJTK",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Anker 20,000mAh 45W Power Bank with Built-in USB-C Cables"
-  },
   "amazon-essentials-compression-packing-cubes-6pk": {
     "destination": "https://www.amazon.com/dp/B0DRNGLGFB?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DRNGLGFB",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack"
+  },
+  "yankee-candle-spiced-pumpkin-22oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F3DRTCB2?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F3DRTCB2",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Yankee Candle Spiced Pumpkin, 22 oz Large Jar"
   },
   "breville-barista-express-bes870xl-amazon": {
     "destination": "https://www.amazon.com/dp/B00CH9QWOU?tag=cheaphubus-20",
@@ -629,13 +629,6 @@
     "merchant": "Amazon",
     "title": "Tramontina Signature Tri-Ply 12-Inch Frying Pan"
   },
-  "craftsman-12pc-screwdriver-set-cmht65130-amazon": {
-    "destination": "https://www.amazon.com/dp/B0GQJKYVPZ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0GQJKYVPZ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "CRAFTSMAN 12-Piece Screwdriver Set, CMHT65130"
-  },
   "ring-indoor-cam-2k-plug-in-white-amazon": {
     "destination": "https://www.amazon.com/dp/B0DXM9Y8J1?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DXM9Y8J1",
@@ -670,13 +663,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "SlimFast Essentials 30g Protein Shake, Ultimate Chocolate, 12-Pack"
-  },
-  "rip-van-leos-cookies-cream-10pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0BS72FPTS?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0BS72FPTS",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Rip Van LEOs Cookies and Cream Sandwich Cookies, 10 Packs"
   },
   "iris-instant-white-rice-24pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0DCTC9JW1?tag=cheaphubus-20",
@@ -727,13 +713,6 @@
     "merchant": "Amazon",
     "title": "Bedsure Full Comforter, Burnt Orange"
   },
-  "bedsure-textured-duvet-cover-queen-olive-amazon": {
-    "destination": "https://www.amazon.com/dp/B0G79MV8NL?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0G79MV8NL",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Bedsure Textured Duvet Cover, Olive Green, Queen"
-  },
   "maison-dhermine-cotton-tablecloth-70x140-amazon": {
     "destination": "https://www.amazon.com/dp/B0G7FKNJ31?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0G7FKNJ31",
@@ -769,13 +748,6 @@
     "merchant": "Amazon",
     "title": "Amazon Basics Cotton Jersey Sheet Set, Queen, Oatmeal"
   },
-  "rip-van-dutch-caramel-mini-stroopwafels-32ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B07RPCSP9L?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07RPCSP9L",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Rip Van Wafels Dutch Caramel Mini Stroopwafels, 32-Pack"
-  },
   "samsonite-freeform-carry-on-pine-green-amazon": {
     "destination": "https://www.amazon.com/dp/B0DM2SHRPT?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DM2SHRPT",
@@ -804,20 +776,6 @@
     "merchant": "Amazon",
     "title": "Yankee Candle Balsam & Cedar, 14.5 oz 3-Wick"
   },
-  "extra-deep-pocket-queen-sheets-light-grey-amazon": {
-    "destination": "https://www.amazon.com/dp/B0FSTGKR62?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0FSTGKR62",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Extra Deep Pocket Queen Sheet Set, Light Grey"
-  },
-  "paudin-8in-chef-knife-amazon": {
-    "destination": "https://www.amazon.com/dp/B07BK4YVB3?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07BK4YVB3",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "PAUDIN 8-Inch Chef Knife"
-  },
   "national-tree-24in-crestwood-spruce-wreath-amazon": {
     "destination": "https://www.amazon.com/dp/B00LKRMNWK?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B00LKRMNWK",
@@ -831,13 +789,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Anna's Thins Caramel Pepparkakor, 12-Pack"
-  },
-  "rip-van-gluten-free-stroopwafel-caramel-vanilla-12ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B0979H4CQZ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0979H4CQZ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Rip Van Gluten-Free Stroopwafels, Caramel & Vanilla, 12 Count"
   },
   "lorissas-kitchen-smoke-show-sticks-24ct-amazon": {
     "destination": "https://www.amazon.com/dp/B0F6PYYRZ6?tag=cheaphubus-20",
@@ -874,13 +825,6 @@
     "merchant": "Amazon",
     "title": "Shark HV302 Rocket Pet Corded Stick Vacuum"
   },
-  "ugg-whitecap-throw-seal-grey-amazon": {
-    "destination": "https://www.amazon.com/dp/B0B6FFGC25?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0B6FFGC25",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "UGG Whitecap Throw Blanket, Seal Grey, 50 x 70 Inches"
-  },
   "folgers-colombian-ground-coffee-6pk-amazon": {
     "destination": "https://www.amazon.com/dp/B09HCV9LKC?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B09HCV9LKC",
@@ -908,5 +852,61 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Brawny Tear-A-Square Paper Towels, 6 Double Rolls"
+  },
+  "ring-floodlight-cam-2k-wired-white-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FWFJ5Q2Z?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FWFJ5Q2Z",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Ring Floodlight Cam 2K, Wired, White"
+  },
+  "chike-pumpkin-spice-protein-coffee-amazon": {
+    "destination": "https://www.amazon.com/dp/B08141VT88?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08141VT88",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Chike Pumpkin Spice Protein Coffee"
+  },
+  "chike-white-chocolate-peppermint-protein-coffee-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DJ1SQ38T?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DJ1SQ38T",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Chike White Chocolate Peppermint Protein Coffee"
+  },
+  "zoa-zero-sugar-blue-raspberry-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GX2SPZPD?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GX2SPZPD",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "ZOA Zero Sugar Energy Drink, Blue Raspberry Shave Ice, 12-Pack"
+  },
+  "dr-pepper-mini-cans-10ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B07VCL2R9S?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07VCL2R9S",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Dr Pepper, 7.5 oz Mini Cans, 10 Count"
+  },
+  "accelerator-cherry-limeade-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B09WJPZMB3?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09WJPZMB3",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Accelerator Energy Drink, Cherry Limeade, 12-Pack"
+  },
+  "travelers-club-skyline-22in-carry-on-blue-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CJ41WD27?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CJ41WD27",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Travelers Club Skyline 22-Inch Carry-On Spinner, Skyline Blue"
+  },
+  "tempur-pedic-neck-pillow-small-white-amazon": {
+    "destination": "https://www.amazon.com/dp/B07CMGB7SJ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07CMGB7SJ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Tempur-Pedic TEMPUR Neck Pillow, Small Profile, White"
   }
 }

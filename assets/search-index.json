@@ -511,18 +511,18 @@
     "topic": "Travel"
   },
   {
-    "title": "Anker 20,000mAh 45W Power Bank with Built-in USB-C Cables",
-    "summary": "Anker's 20,000mAh pack with two USB-C cables built in and a 45W top output, for a phone and a laptop on the same trip. Sold at Amazon.",
-    "url": "/deals/#anker-20000mah-45w-power-bank-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack",
     "summary": "Six black compression cubes with two zippers each, for squeezing clothes into a carry-on. Sold at Amazon.",
     "url": "/deals/#amazon-essentials-compression-packing-cubes-6pk",
     "type": "Product",
     "topic": "Travel"
+  },
+  {
+    "title": "Yankee Candle Spiced Pumpkin, 22 oz Large Jar",
+    "summary": "Yankee Candle's Spiced Pumpkin in the 22-ounce jar, a pumpkin scent with cinnamon, nutmeg, and clove. Sold at Amazon.",
+    "url": "/deals/#yankee-candle-spiced-pumpkin-22oz-amazon",
+    "type": "Product",
+    "topic": "Home"
   },
   {
     "title": "Breville Barista Express Espresso Machine, BES870XL, Brushed Stainless",
@@ -735,13 +735,6 @@
     "topic": "Home"
   },
   {
-    "title": "CRAFTSMAN 12-Piece Screwdriver Set, CMHT65130",
-    "summary": "CRAFTSMAN's 12-piece screwdriver set, model CMHT65130. The product title includes flathead and Phillips drivers, an offset, and a magnetizer/demagnetizer. Sold at Amazon.",
-    "url": "/deals/#craftsman-12pc-screwdriver-set-cmht65130-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Ring Indoor Cam 2K, Plug-In, White",
     "summary": "Ring's white plug-in Indoor Cam 2K. The listing describes Retinal 2K video, up to 6x zoom, and color video in low light. Sold at Amazon.",
     "url": "/deals/#ring-indoor-cam-2k-plug-in-white-amazon",
@@ -773,13 +766,6 @@
     "title": "SlimFast Essentials 30g Protein Shake, Ultimate Chocolate, 12-Pack",
     "summary": "A 12-pack of SlimFast Essentials chocolate shakes. The listing says each shake has 30 grams of protein, 1 gram of sugar, and 3 grams of net carbs. This is a different 12-pack from the SlimFast milk chocolate shakes already listed. Sold at Amazon.",
     "url": "/deals/#slimfast-essentials-30g-chocolate-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Rip Van LEOs Cookies and Cream Sandwich Cookies, 10 Packs",
-    "summary": "Ten packs of Rip Van LEOs cookies-and-cream sandwich cookies. The product title says you get 40 cookies, in packs of 1.69 ounces. Sold at Amazon.",
-    "url": "/deals/#rip-van-leos-cookies-cream-10pk-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -833,13 +819,6 @@
     "topic": "Home"
   },
   {
-    "title": "Bedsure Textured Duvet Cover, Olive Green, Queen",
-    "summary": "A queen Bedsure duvet cover in olive green, three pieces, with a zipper and interior ties. The title says the comforter is not included. Sold at Amazon.",
-    "url": "/deals/#bedsure-textured-duvet-cover-queen-olive-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Maison d'Hermine Cotton Tablecloth, 70 x 140 Inches",
     "summary": "A 70 by 140 inch Maison d'Hermine tablecloth in cotton. The title does not name the print, so the photo on the product page is the pattern. Sold at Amazon.",
     "url": "/deals/#maison-dhermine-cotton-tablecloth-70x140-amazon",
@@ -875,13 +854,6 @@
     "topic": "Home"
   },
   {
-    "title": "Rip Van Wafels Dutch Caramel Mini Stroopwafels, 32-Pack",
-    "summary": "A 32-pack of Rip Van Dutch caramel mini stroopwafels. The product title says each one is 34 calories, with 1 gram of sugar and 3 grams of net carbs. Sold at Amazon.",
-    "url": "/deals/#rip-van-dutch-caramel-mini-stroopwafels-32ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Samsonite Freeform Hardside Carry-On Spinner, Pine Green",
     "summary": "Samsonite Freeform hardside spinner in pine green. The listing puts the outside, wheels included, at 23 by 15.3 by 9.8 inches. Sold at Amazon.",
     "url": "/deals/#samsonite-freeform-carry-on-pine-green-amazon",
@@ -910,20 +882,6 @@
     "topic": "Home"
   },
   {
-    "title": "Extra Deep Pocket Queen Sheet Set, Light Grey",
-    "summary": "A 4-piece queen sheet set in light grey, with an extra-deep fitted sheet. Sold at Amazon.",
-    "url": "/deals/#extra-deep-pocket-queen-sheets-light-grey-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "PAUDIN 8-Inch Chef Knife",
-    "summary": "An 8-inch PAUDIN chef knife in high-carbon stainless steel, sold with a gift box. Sold at Amazon.",
-    "url": "/deals/#paudin-8in-chef-knife-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "National Tree 24-Inch Pre-Lit Crestwood Spruce Wreath",
     "summary": "A 24-inch National Tree Crestwood Spruce wreath with 50 battery-operated white LEDs. Sold at Amazon.",
     "url": "/deals/#national-tree-24in-crestwood-spruce-wreath-amazon",
@@ -934,13 +892,6 @@
     "title": "Anna's Thins Caramel Pepparkakor, 12-Pack",
     "summary": "Twelve 5.25-ounce boxes of Anna's caramel Swedish thins. Sold at Amazon.",
     "url": "/deals/#annas-thins-caramel-pepparkakor-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Rip Van Gluten-Free Stroopwafels, Caramel & Vanilla, 12 Count",
-    "summary": "A 12-count box of Rip Van gluten-free caramel and vanilla stroopwafels. Sold at Amazon.",
-    "url": "/deals/#rip-van-gluten-free-stroopwafel-caramel-vanilla-12ct-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -980,13 +931,6 @@
     "topic": "Home"
   },
   {
-    "title": "UGG Whitecap Throw Blanket, Seal Grey, 50 x 70 Inches",
-    "summary": "A 50-by-70-inch UGG Whitecap throw in seal grey. The listing describes plush polyester fleece, fluffier on one side, and says it is machine washable. Sold at Amazon.",
-    "url": "/deals/#ugg-whitecap-throw-seal-grey-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Folgers Colombian Ground Coffee, Medium Roast, 6 Canisters",
     "summary": "Six 22.6-ounce canisters of Folgers Colombian medium-roast ground coffee. Sold at Amazon.",
     "url": "/deals/#folgers-colombian-ground-coffee-6pk-amazon",
@@ -1013,5 +957,61 @@
     "url": "/deals/#brawny-tear-a-square-paper-towels-6-double-amazon",
     "type": "Product",
     "topic": "Everyday"
+  },
+  {
+    "title": "Ring Floodlight Cam 2K, Wired, White",
+    "summary": "Ring's wired Floodlight Cam 2K in white, with floodlights and a wide-angle camera for a doorway or a yard. Sold at Amazon.",
+    "url": "/deals/#ring-floodlight-cam-2k-wired-white-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Chike Pumpkin Spice Protein Coffee",
+    "summary": "Chike's pumpkin spice protein coffee, with espresso and whey protein in the same serving. Sold at Amazon.",
+    "url": "/deals/#chike-pumpkin-spice-protein-coffee-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Chike White Chocolate Peppermint Protein Coffee",
+    "summary": "Chike's white chocolate peppermint protein coffee mix, with espresso and whey protein in the serving. Sold at Amazon.",
+    "url": "/deals/#chike-white-chocolate-peppermint-protein-coffee-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "ZOA Zero Sugar Energy Drink, Blue Raspberry Shave Ice, 12-Pack",
+    "summary": "A 12-pack of ZOA zero sugar energy drink in the blue raspberry shave ice flavor, 12 ounces a can. Sold at Amazon.",
+    "url": "/deals/#zoa-zero-sugar-blue-raspberry-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Dr Pepper, 7.5 oz Mini Cans, 10 Count",
+    "summary": "A 10-pack of Dr Pepper in 7.5-ounce mini cans. Sold at Amazon.",
+    "url": "/deals/#dr-pepper-mini-cans-10ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Accelerator Energy Drink, Cherry Limeade, 12-Pack",
+    "summary": "A 12-pack of Accelerator cherry limeade energy drink in 12-ounce cans. Sold at Amazon.",
+    "url": "/deals/#accelerator-cherry-limeade-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Travelers Club Skyline 22-Inch Carry-On Spinner, Skyline Blue",
+    "summary": "A 22-inch Travelers Club Skyline spinner in Skyline Blue, with an ABS shell. Sold at Amazon.",
+    "url": "/deals/#travelers-club-skyline-22in-carry-on-blue-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Tempur-Pedic TEMPUR Neck Pillow, Small Profile, White",
+    "summary": "Tempur-Pedic's small-profile TEMPUR neck pillow in white, contoured for side and back sleepers. Sold at Amazon.",
+    "url": "/deals/#tempur-pedic-neck-pillow-small-white-amazon",
+    "type": "Product",
+    "topic": "Home"
   }
 ]
