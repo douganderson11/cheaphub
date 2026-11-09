@@ -59,6 +59,21 @@
         "seventh-generation-paper-towels-140ct-amazon"
       ]
     },
+    "holiday-gifts-under-50": {
+      ids: [
+        "national-tree-24in-crestwood-spruce-wreath-amazon",
+        "yankee-candle-balsam-cedar-3wick-14-5oz-amazon",
+        "yankee-candle-sugared-cinnamon-apple-22oz-amazon",
+        "swiss-miss-milk-chocolate-cocoa-50ct-amazon",
+        "chike-white-chocolate-peppermint-protein-coffee-amazon",
+        "annas-thins-caramel-pepparkakor-12pk-amazon",
+        "nostalgia-theater-popcorn-24pk-amazon",
+        "crest-3d-whitestrips-professional-effects-amazon",
+        "ring-indoor-cam-2k-plug-in-white-amazon",
+        "ring-battery-doorbell-2k-speckled-gray-amazon",
+        "ring-outdoor-cam-2k-battery-white-amazon"
+      ]
+    },
     "thanksgiving-hosting": {
       ids: [
         "crockpot-2-5qt-casserole-slow-cooker-amazon",
