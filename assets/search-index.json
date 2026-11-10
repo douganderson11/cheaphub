@@ -784,25 +784,11 @@
     "topic": "Everyday"
   },
   {
-    "title": "Pronounce Dishwasher Detergent Powder, Unscented, 160 Loads",
-    "summary": "A bag of unscented Pronounce dishwasher powder. The listing says the bag is 160 loads and that the powder has no added fragrance. Sold at Amazon.",
-    "url": "/deals/#pronounce-dishwasher-powder-160-loads-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "iSpring RCC7AK-BN 6-Stage Reverse Osmosis System, 75 GPD",
     "summary": "iSpring's under-sink RCC7AK-BN reverse osmosis system, rated 75 gallons a day, with an alkaline stage and a top-mounted faucet. Sold at Amazon.",
     "url": "/deals/#ispring-rcc7ak-bn-ro-system-amazon",
     "type": "Product",
     "topic": "Home"
-  },
-  {
-    "title": "Travelpro Maxlite 5 Softside Carry-On, Black, 21-Inch",
-    "summary": "Travelpro's Maxlite 5 softside spinner in black. The listing puts the case at 21 by 14 by 9 inches and the weight at 5.4 pounds. Sold at Amazon.",
-    "url": "/deals/#travelpro-maxlite-5-21in-black-amazon",
-    "type": "Product",
-    "topic": "Travel"
   },
   {
     "title": "Premier Protein Shake, Cookies and Cream, 12-Pack",
@@ -1008,17 +994,38 @@
     "topic": "Everyday"
   },
   {
-    "title": "Travelers Club Skyline 22-Inch Carry-On Spinner, Skyline Blue",
-    "summary": "A 22-inch Travelers Club Skyline spinner in Skyline Blue, with an ABS shell. Sold at Amazon.",
-    "url": "/deals/#travelers-club-skyline-22in-carry-on-blue-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
-    "title": "Tempur-Pedic TEMPUR Neck Pillow, Small Profile, White",
-    "summary": "Tempur-Pedic's small-profile TEMPUR neck pillow in white, contoured for side and back sleepers. Sold at Amazon.",
-    "url": "/deals/#tempur-pedic-neck-pillow-small-white-amazon",
+    "title": "KitchenAid Albany Mini Oven Mitt 2-Pack, Honey",
+    "summary": "Two honey-striped mini oven mitts, 5.5 by 8 inches, with a silicone grip print and a hanging loop on each. Sold at Amazon.",
+    "url": "/deals/#kitchenaid-albany-mini-oven-mitt-2pk-honey-amazon",
     "type": "Product",
     "topic": "Home"
+  },
+  {
+    "title": "nutribullet Power Core Blender, 1400W, Matte Black",
+    "summary": "A matte black full-size nutribullet with a 1400-watt motor, a 72-ounce pitcher, three speeds, pulse, and a smoothie button. Sold at Amazon.",
+    "url": "/deals/#nutribullet-power-core-1400w-matte-black-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Cuisinart Pro Custom 11-Cup Food Processor, Brushed Chrome",
+    "summary": "An 11-cup Cuisinart food processor, model DLC-8SBCYP1, with a chopping blade plus slicing and shredding discs. Sold at Amazon.",
+    "url": "/deals/#cuisinart-pro-custom-11-food-processor-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Snuggle Sac Checkered Throw Blanket, Sage Green, 50 x 60 Inches",
+    "summary": "A sage green and white checkered throw, 50 by 60 inches, in a soft knit you can machine wash. Sold at Amazon.",
+    "url": "/deals/#snuggle-sac-checkered-throw-sage-50x60-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Snack Box Variety Gift Box, 60 Count",
+    "summary": "A 60-count variety box of packaged snacks, the assortment shown on the Amazon product photo. Sold at Amazon.",
+    "url": "/deals/#snack-box-variety-gift-60ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
   }
 ]
