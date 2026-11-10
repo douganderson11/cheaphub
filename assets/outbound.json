@@ -671,26 +671,12 @@
     "merchant": "Amazon",
     "title": "IRIS Instant White Rice, Japanese Short Grain, 24-Pack"
   },
-  "pronounce-dishwasher-powder-160-loads-amazon": {
-    "destination": "https://www.amazon.com/dp/B0FBP44MFN?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0FBP44MFN",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Pronounce Dishwasher Detergent Powder, Unscented, 160 Loads"
-  },
   "ispring-rcc7ak-bn-ro-system-amazon": {
     "destination": "https://www.amazon.com/dp/B005LJ8EXU?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B005LJ8EXU",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "iSpring RCC7AK-BN 6-Stage Reverse Osmosis System, 75 GPD"
-  },
-  "travelpro-maxlite-5-21in-black-amazon": {
-    "destination": "https://www.amazon.com/dp/B07BL7JXHV?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07BL7JXHV",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Travelpro Maxlite 5 Softside Carry-On, Black, 21-Inch"
   },
   "premier-protein-cookies-cream-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B07MFYYZ5B?tag=cheaphubus-20",
@@ -895,18 +881,39 @@
     "merchant": "Amazon",
     "title": "Accelerator Energy Drink, Cherry Limeade, 12-Pack"
   },
-  "travelers-club-skyline-22in-carry-on-blue-amazon": {
-    "destination": "https://www.amazon.com/dp/B0CJ41WD27?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0CJ41WD27",
+  "kitchenaid-albany-mini-oven-mitt-2pk-honey-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BMLK6RKG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BMLK6RKG",
     "affiliate_url": null,
     "merchant": "Amazon",
-    "title": "Travelers Club Skyline 22-Inch Carry-On Spinner, Skyline Blue"
+    "title": "KitchenAid Albany Mini Oven Mitt 2-Pack, Honey"
   },
-  "tempur-pedic-neck-pillow-small-white-amazon": {
-    "destination": "https://www.amazon.com/dp/B07CMGB7SJ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07CMGB7SJ",
+  "nutribullet-power-core-1400w-matte-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GL4XLTDQ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GL4XLTDQ",
     "affiliate_url": null,
     "merchant": "Amazon",
-    "title": "Tempur-Pedic TEMPUR Neck Pillow, Small Profile, White"
+    "title": "nutribullet Power Core Blender, 1400W, Matte Black"
+  },
+  "cuisinart-pro-custom-11-food-processor-amazon": {
+    "destination": "https://www.amazon.com/dp/B01AXM4VPY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01AXM4VPY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Cuisinart Pro Custom 11-Cup Food Processor, Brushed Chrome"
+  },
+  "snuggle-sac-checkered-throw-sage-50x60-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F36TFG4R?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F36TFG4R",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Snuggle Sac Checkered Throw Blanket, Sage Green, 50 x 60 Inches"
+  },
+  "snack-box-variety-gift-60ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FGQSTXBK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FGQSTXBK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Snack Box Variety Gift Box, 60 Count"
   }
 }
