@@ -419,13 +419,6 @@
     "merchant": "Amazon",
     "title": "Yankee Candle Spiced Pumpkin, 22 oz Large Jar"
   },
-  "breville-barista-express-bes870xl-amazon": {
-    "destination": "https://www.amazon.com/dp/B00CH9QWOU?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B00CH9QWOU",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Breville Barista Express Espresso Machine, BES870XL, Brushed Stainless"
-  },
   "slimfast-milk-chocolate-shake-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0DPNKFJ61?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DPNKFJ61",
@@ -482,26 +475,12 @@
     "merchant": "Amazon",
     "title": "Lily's Crispy Rice Dark Chocolate Style Bars, 12 Count"
   },
-  "bagail-9pc-packing-cubes-flamingo-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F4RBWGTY?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F4RBWGTY",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "BAGAIL 9-Piece Packing Cubes, Flamingo"
-  },
   "dewalt-40pc-flextorq-impact-bit-set-amazon": {
     "destination": "https://www.amazon.com/dp/B00GMXFK3G?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B00GMXFK3G",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "DEWALT 40-Piece FlexTorq Impact Screwdriver Bit Set, DWA2T40IR"
-  },
-  "la-colombe-double-draft-latte-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0CVSJT83F?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0CVSJT83F",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "La Colombe Double Draft Latte, 11 fl oz, 12 Pack"
   },
   "black-forest-stretch-island-fruit-strips-48ct-amazon": {
     "destination": "https://www.amazon.com/dp/B08JG2W24S?tag=cheaphubus-20",
@@ -579,13 +558,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Laffy Taffy Banana Mini Bars, 145 Count"
-  },
-  "tropicana-orange-blend-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F2GP89VJ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F2GP89VJ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Tropicana Orange Blend, 12 Pack"
   },
   "national-tree-dunhill-fir-prelit-amazon": {
     "destination": "https://www.amazon.com/dp/B00FADLVAK?tag=cheaphubus-20",
@@ -811,13 +783,6 @@
     "merchant": "Amazon",
     "title": "Shark HV302 Rocket Pet Corded Stick Vacuum"
   },
-  "folgers-colombian-ground-coffee-6pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B09HCV9LKC?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B09HCV9LKC",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Folgers Colombian Ground Coffee, Medium Roast, 6 Canisters"
-  },
   "cascade-free-clear-dishwasher-pods-47ct-amazon": {
     "destination": "https://www.amazon.com/dp/B0GMRBL49C?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0GMRBL49C",
@@ -852,13 +817,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Chike Pumpkin Spice Protein Coffee"
-  },
-  "chike-white-chocolate-peppermint-protein-coffee-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DJ1SQ38T?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DJ1SQ38T",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Chike White Chocolate Peppermint Protein Coffee"
   },
   "zoa-zero-sugar-blue-raspberry-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0GX2SPZPD?tag=cheaphubus-20",
@@ -915,5 +873,47 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Snack Box Variety Gift Box, 60 Count"
+  },
+  "dewalt-demolition-screwdriver-2pc-dwht65100-amazon": {
+    "destination": "https://www.amazon.com/dp/B09ZF3YWL7?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09ZF3YWL7",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "DEWALT Demolition Screwdriver Set, 2-Piece, DWHT65100"
+  },
+  "amazon-basics-15ft-extension-cord-2pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B08QP2SMCP?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08QP2SMCP",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Basics Indoor Extension Cord, 15 Foot, Black, 2-Pack"
+  },
+  "yankee-candle-kitchen-spice-22oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F3F5F9D7?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F3F5F9D7",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Yankee Candle Kitchen Spice, 22 oz Large Jar"
+  },
+  "therabreath-healthy-gums-oral-rinse-2pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0758F8KDC?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0758F8KDC",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "TheraBreath Healthy Gums Oral Rinse, Clean Mint, 16 oz, 2-Pack"
+  },
+  "socomi-cheesecloth-table-runner-10pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0H391QQYD?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0H391QQYD",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Socomi Cheesecloth Table Runner, 17 x 108 Inches, 10-Pack"
+  },
+  "wrangler-22in-hardside-spinner-lilac-amazon": {
+    "destination": "https://www.amazon.com/dp/B0C7YWMBGP?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0C7YWMBGP",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Wrangler 22-Inch Hardside Spinner Carry-On, Lilac"
   }
 }
