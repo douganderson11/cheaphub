@@ -532,13 +532,6 @@
     "topic": "Home"
   },
   {
-    "title": "Breville Barista Express Espresso Machine, BES870XL, Brushed Stainless",
-    "summary": "Breville's BES870XL Barista Express in brushed stainless, with a built-in conical burr grinder and a steam wand for milk drinks. Sold at Amazon.",
-    "url": "/deals/#breville-barista-express-bes870xl-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "SlimFast Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack",
     "summary": "Twelve 11 fl oz SlimFast milk chocolate shakes, with 20g of protein in each serving according to the listing. Sold at Amazon.",
     "url": "/deals/#slimfast-milk-chocolate-shake-12pk-amazon",
@@ -595,25 +588,11 @@
     "topic": "Everyday"
   },
   {
-    "title": "BAGAIL 9-Piece Packing Cubes, Flamingo",
-    "summary": "A nine-piece BAGAIL packing-cube set in Flamingo, with a packing list. The listing says the cubes have mesh tops. Sold at Amazon.",
-    "url": "/deals/#bagail-9pc-packing-cubes-flamingo-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "DEWALT 40-Piece FlexTorq Impact Screwdriver Bit Set, DWA2T40IR",
     "summary": "A 40-piece DEWALT impact bit set, model DWA2T40IR, in a storage case. The listing says the bits have a magnetic screw lock sleeve. Sold at Amazon.",
     "url": "/deals/#dewalt-40pc-flextorq-impact-bit-set-amazon",
     "type": "Product",
     "topic": "Home"
-  },
-  {
-    "title": "La Colombe Double Draft Latte, 11 fl oz, 12 Pack",
-    "summary": "A 12-pack of La Colombe Double Draft Latte in 11 fl oz cans. The listing says each can has 120mg of caffeine. Sold at Amazon.",
-    "url": "/deals/#la-colombe-double-draft-latte-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
   },
   {
     "title": "Black Forest Stretch Island Fruit Strips, 48 Count",
@@ -689,13 +668,6 @@
     "title": "Laffy Taffy Banana Mini Bars, 145 Count",
     "summary": "A jar of banana Laffy Taffy mini bars. The listing says there are 145 individually wrapped pieces. Sold at Amazon.",
     "url": "/deals/#laffy-taffy-banana-145ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Tropicana Orange Blend, 12 Pack",
-    "summary": "Twelve 15.2 fl oz bottles of Tropicana orange blend, made from concentrate. Sold at Amazon.",
-    "url": "/deals/#tropicana-orange-blend-12pk-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -924,13 +896,6 @@
     "topic": "Home"
   },
   {
-    "title": "Folgers Colombian Ground Coffee, Medium Roast, 6 Canisters",
-    "summary": "Six 22.6-ounce canisters of Folgers Colombian medium-roast ground coffee. Sold at Amazon.",
-    "url": "/deals/#folgers-colombian-ground-coffee-6pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Cascade Free & Clear Dishwasher Pods, 47 Count",
     "summary": "A 47-count bag of unscented Cascade Free & Clear dishwasher pods. Sold at Amazon.",
     "url": "/deals/#cascade-free-clear-dishwasher-pods-47ct-amazon",
@@ -962,13 +927,6 @@
     "title": "Chike Pumpkin Spice Protein Coffee",
     "summary": "Chike's pumpkin spice protein coffee, with espresso and whey protein in the same serving. Sold at Amazon.",
     "url": "/deals/#chike-pumpkin-spice-protein-coffee-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Chike White Chocolate Peppermint Protein Coffee",
-    "summary": "Chike's white chocolate peppermint protein coffee mix, with espresso and whey protein in the serving. Sold at Amazon.",
-    "url": "/deals/#chike-white-chocolate-peppermint-protein-coffee-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -1027,5 +985,47 @@
     "url": "/deals/#snack-box-variety-gift-60ct-amazon",
     "type": "Product",
     "topic": "Everyday"
+  },
+  {
+    "title": "DEWALT Demolition Screwdriver Set, 2-Piece, DWHT65100",
+    "summary": "DEWALT's TOUGHSERIES demolition screwdriver set, model DWHT65100. It's a 2-piece set with S2 steel bars and a black chrome finish. Sold at Amazon.",
+    "url": "/deals/#dewalt-demolition-screwdriver-2pc-dwht65100-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Amazon Basics Indoor Extension Cord, 15 Foot, Black, 2-Pack",
+    "summary": "Two 15-foot black indoor extension cords, 16 AWG, rated 13 amps at 125 volts, with 3-prong plugs. Sold at Amazon.",
+    "url": "/deals/#amazon-basics-15ft-extension-cord-2pk-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Yankee Candle Kitchen Spice, 22 oz Large Jar",
+    "summary": "A 22-ounce Yankee Candle large jar in Kitchen Spice. The listing says the burn time runs up to 150 hours. Sold at Amazon.",
+    "url": "/deals/#yankee-candle-kitchen-spice-22oz-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "TheraBreath Healthy Gums Oral Rinse, Clean Mint, 16 oz, 2-Pack",
+    "summary": "Two 16-ounce bottles of TheraBreath Healthy Gums oral rinse in Clean Mint. The listing says it's alcohol free and dentist formulated. Sold at Amazon.",
+    "url": "/deals/#therabreath-healthy-gums-oral-rinse-2pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Socomi Cheesecloth Table Runner, 17 x 108 Inches, 10-Pack",
+    "summary": "A 10-pack of cheesecloth table runners, each 17 inches wide by 108 inches long, sold by Socomi-US and shipped by Amazon. Sold at Amazon.",
+    "url": "/deals/#socomi-cheesecloth-table-runner-10pk-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Wrangler 22-Inch Hardside Spinner Carry-On, Lilac",
+    "summary": "A lilac 22-inch Wrangler hardside spinner carry-on. This price is the new offer sold by Amazon.com. Sold at Amazon.",
+    "url": "/deals/#wrangler-22in-hardside-spinner-lilac-amazon",
+    "type": "Product",
+    "topic": "Travel"
   }
 ]
