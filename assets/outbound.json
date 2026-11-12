@@ -643,13 +643,6 @@
     "merchant": "Amazon",
     "title": "IRIS Instant White Rice, Japanese Short Grain, 24-Pack"
   },
-  "ispring-rcc7ak-bn-ro-system-amazon": {
-    "destination": "https://www.amazon.com/dp/B005LJ8EXU?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B005LJ8EXU",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "iSpring RCC7AK-BN 6-Stage Reverse Osmosis System, 75 GPD"
-  },
   "premier-protein-cookies-cream-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B07MFYYZ5B?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B07MFYYZ5B",
@@ -874,13 +867,6 @@
     "merchant": "Amazon",
     "title": "Snack Box Variety Gift Box, 60 Count"
   },
-  "dewalt-demolition-screwdriver-2pc-dwht65100-amazon": {
-    "destination": "https://www.amazon.com/dp/B09ZF3YWL7?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B09ZF3YWL7",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "DEWALT Demolition Screwdriver Set, 2-Piece, DWHT65100"
-  },
   "amazon-basics-15ft-extension-cord-2pk-amazon": {
     "destination": "https://www.amazon.com/dp/B08QP2SMCP?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B08QP2SMCP",
@@ -915,5 +901,75 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Wrangler 22-Inch Hardside Spinner Carry-On, Lilac"
+  },
+  "cuisinart-toa-55-air-fryer-toaster-oven-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GVVJZDQV?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GVVJZDQV",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Cuisinart Air Fryer Toaster Oven, 7-in-1, 1800W, TOA-55"
+  },
+  "cuisinart-dcc-1200-brew-central-coffeemaker-amazon": {
+    "destination": "https://www.amazon.com/dp/B00005IBX9?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00005IBX9",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Cuisinart Brew Central 12-Cup Coffeemaker, DCC-1200NAS"
+  },
+  "rachael-ray-cucina-14pc-sea-salt-gray-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BV71QDZY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BV71QDZY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rachael Ray Cucina Nonstick Cookware Set, 14-Piece, Sea Salt Gray"
+  },
+  "national-tree-6ft-dunhill-fir-prelit-amazon": {
+    "destination": "https://www.amazon.com/dp/B0749ZHGV2?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0749ZHGV2",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "National Tree Company 6ft Pre-Lit Dunhill Fir Artificial Christmas Tree"
+  },
+  "bulletproof-original-whole-bean-3pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B07D9W9191?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07D9W9191",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Bulletproof Original Medium Roast Whole Bean Coffee, 12 oz, 3-Pack"
+  },
+  "swanson-premium-chunk-chicken-12ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B000FK7G20?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B000FK7G20",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Swanson Premium Chunk Chicken Breast in Water, 9.75 oz, 12 Cans"
+  },
+  "nut-cravings-raw-brazil-nuts-16oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B079NKN87G?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B079NKN87G",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Nut Cravings Raw Brazil Nuts, Unsalted, 16 oz"
+  },
+  "campbells-less-sodium-chicken-noodle-12ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B006JW4ZOK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B006JW4ZOK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Campbell's 25% Less Sodium Chicken Noodle Soup, 10.75 oz, 12 Cans"
+  },
+  "trips-axis-20in-carry-on-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GY5YXDYJ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GY5YXDYJ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "TRIPS AXIS 20-Inch Hardside Spinner Carry-On"
+  },
+  "jessica-simpson-aris-20in-carry-on-niagara-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GNR6PLV8?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GNR6PLV8",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Jessica Simpson Aris 20-Inch Expandable Spinner Carry-On, Niagara Mist"
   }
 }

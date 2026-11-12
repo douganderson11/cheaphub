@@ -756,13 +756,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "iSpring RCC7AK-BN 6-Stage Reverse Osmosis System, 75 GPD",
-    "summary": "iSpring's under-sink RCC7AK-BN reverse osmosis system, rated 75 gallons a day, with an alkaline stage and a top-mounted faucet. Sold at Amazon.",
-    "url": "/deals/#ispring-rcc7ak-bn-ro-system-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Premier Protein Shake, Cookies and Cream, 12-Pack",
     "summary": "A 12-pack of Premier Protein shakes in cookies and cream. The product title says each shake has 30 grams of protein and no added sugar. Sold at Amazon.",
     "url": "/deals/#premier-protein-cookies-cream-12pk-amazon",
@@ -987,13 +980,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "DEWALT Demolition Screwdriver Set, 2-Piece, DWHT65100",
-    "summary": "DEWALT's TOUGHSERIES demolition screwdriver set, model DWHT65100. It's a 2-piece set with S2 steel bars and a black chrome finish. Sold at Amazon.",
-    "url": "/deals/#dewalt-demolition-screwdriver-2pc-dwht65100-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Amazon Basics Indoor Extension Cord, 15 Foot, Black, 2-Pack",
     "summary": "Two 15-foot black indoor extension cords, 16 AWG, rated 13 amps at 125 volts, with 3-prong plugs. Sold at Amazon.",
     "url": "/deals/#amazon-basics-15ft-extension-cord-2pk-amazon",
@@ -1025,6 +1011,76 @@
     "title": "Wrangler 22-Inch Hardside Spinner Carry-On, Lilac",
     "summary": "A lilac 22-inch Wrangler hardside spinner carry-on. This price is the new offer sold by Amazon.com. Sold at Amazon.",
     "url": "/deals/#wrangler-22in-hardside-spinner-lilac-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Cuisinart Air Fryer Toaster Oven, 7-in-1, 1800W, TOA-55",
+    "summary": "Cuisinart's TOA-55 combines an air fryer and a toaster oven in one countertop unit, rated 1800 watts, with seven cooking functions. Sold at Amazon.",
+    "url": "/deals/#cuisinart-toa-55-air-fryer-toaster-oven-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Cuisinart Brew Central 12-Cup Coffeemaker, DCC-1200NAS",
+    "summary": "Cuisinart's Brew Central DCC-1200NAS is a 12-cup programmable coffeemaker in brushed chrome, with a dripless spout and a knuckle guard on the handle. Sold at Amazon.",
+    "url": "/deals/#cuisinart-dcc-1200-brew-central-coffeemaker-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Rachael Ray Cucina Nonstick Cookware Set, 14-Piece, Sea Salt Gray",
+    "summary": "Rachael Ray's Cucina nonstick pots and pans in Sea Salt Gray, sold as a 14-piece set. Sold at Amazon.",
+    "url": "/deals/#rachael-ray-cucina-14pc-sea-salt-gray-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "National Tree Company 6ft Pre-Lit Dunhill Fir Artificial Christmas Tree",
+    "summary": "National Tree Company's 6-foot pre-lit Dunhill Fir artificial Christmas tree. Sold at Amazon.",
+    "url": "/deals/#national-tree-6ft-dunhill-fir-prelit-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Bulletproof Original Medium Roast Whole Bean Coffee, 12 oz, 3-Pack",
+    "summary": "Three 12-ounce bags of Bulletproof Original medium-roast whole bean coffee. Sold at Amazon.",
+    "url": "/deals/#bulletproof-original-whole-bean-3pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Swanson Premium Chunk Chicken Breast in Water, 9.75 oz, 12 Cans",
+    "summary": "A case of twelve 9.75-ounce cans of Swanson premium chunk chicken breast in water, white and dark meat. Sold at Amazon.",
+    "url": "/deals/#swanson-premium-chunk-chicken-12ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Nut Cravings Raw Brazil Nuts, Unsalted, 16 oz",
+    "summary": "A one-pound resealable bag of Nut Cravings raw Brazil nuts, unsalted and whole. Sold at Amazon.",
+    "url": "/deals/#nut-cravings-raw-brazil-nuts-16oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Campbell's 25% Less Sodium Chicken Noodle Soup, 10.75 oz, 12 Cans",
+    "summary": "Twelve 10.75-ounce cans of Campbell's condensed chicken noodle soup in the 25% less sodium version. Sold at Amazon.",
+    "url": "/deals/#campbells-less-sodium-chicken-noodle-12ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "TRIPS AXIS 20-Inch Hardside Spinner Carry-On",
+    "summary": "A 20-inch TRIPS AXIS hardside spinner carry-on with eight wheels, sold as a cabin-size bag. Sold at Amazon.",
+    "url": "/deals/#trips-axis-20in-carry-on-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Jessica Simpson Aris 20-Inch Expandable Spinner Carry-On, Niagara Mist",
+    "summary": "Jessica Simpson's Aris 20-inch expandable spinner in Niagara Mist, with eight wheels. Sold at Amazon.",
+    "url": "/deals/#jessica-simpson-aris-20in-carry-on-niagara-amazon",
     "type": "Product",
     "topic": "Travel"
   }
