@@ -525,13 +525,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Yankee Candle Spiced Pumpkin, 22 oz Large Jar",
-    "summary": "Yankee Candle's Spiced Pumpkin in the 22-ounce jar, a pumpkin scent with cinnamon, nutmeg, and clove. Sold at Amazon.",
-    "url": "/deals/#yankee-candle-spiced-pumpkin-22oz-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "SlimFast Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack",
     "summary": "Twelve 11 fl oz SlimFast milk chocolate shakes, with 20g of protein in each serving according to the listing. Sold at Amazon.",
     "url": "/deals/#slimfast-milk-chocolate-shake-12pk-amazon",
@@ -633,13 +626,6 @@
     "title": "Goldfish Cheddar Crackers, 1.5 oz Snack Packs, 30 Count",
     "summary": "Thirty 1.5-ounce bags of cheddar Goldfish. Pepperidge Farm's listing says they're baked with real cheddar and without artificial flavors or preservatives. Sold at Amazon.",
     "url": "/deals/#goldfish-cheddar-30ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Biena Roasted Edamame Variety Pack, 21 Count",
-    "summary": "Twenty-one single-serve bags of Biena roasted edamame. The listing says each 1.05 oz bag has 12g of protein. Sold at Amazon.",
-    "url": "/deals/#biena-edamame-variety-21ct-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -798,13 +784,6 @@
     "topic": "Home"
   },
   {
-    "title": "OLIXIS 3-Inch Queen Memory Foam Mattress Topper",
-    "summary": "A 3-inch queen memory-foam topper from OLIXIS. A feature bullet says the foam is gel-infused and ventilated, and that it sits on a mattress you already own. Sold at Amazon.",
-    "url": "/deals/#olixis-3in-queen-memory-foam-topper-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Amazon Basics Cotton Jersey Sheet Set, Queen, Oatmeal",
     "summary": "A queen jersey sheet set in oatmeal from Amazon Basics. The page says it is 100% cotton and includes a fitted sheet, a flat sheet, and pillowcases, for mattresses up to 14 inches deep. Sold at Amazon.",
     "url": "/deals/#amazon-basics-jersey-sheet-set-queen-oatmeal-amazon",
@@ -861,13 +840,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Sunkist Orange Soda, 7.5 oz Mini Cans, 10 Count",
-    "summary": "A 10-pack of Sunkist orange soda in 7.5-ounce mini cans. Sold at Amazon.",
-    "url": "/deals/#sunkist-orange-soda-mini-cans-10ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Tim Hortons K-Cup Variety Pack, 90 Count",
     "summary": "A 90-count Tim Hortons K-Cup variety pack for Keurig brewers. Sold at Amazon.",
     "url": "/deals/#tim-hortons-kcup-variety-90ct-amazon",
@@ -903,25 +875,11 @@
     "topic": "Everyday"
   },
   {
-    "title": "Brawny Tear-A-Square Paper Towels, 6 Double Rolls",
-    "summary": "Six double rolls of Brawny Tear-A-Square paper towels, sold as equal to 12 regular rolls, with quarter, half, and full sheet sizes. Sold at Amazon.",
-    "url": "/deals/#brawny-tear-a-square-paper-towels-6-double-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Ring Floodlight Cam 2K, Wired, White",
     "summary": "Ring's wired Floodlight Cam 2K in white, with floodlights and a wide-angle camera for a doorway or a yard. Sold at Amazon.",
     "url": "/deals/#ring-floodlight-cam-2k-wired-white-amazon",
     "type": "Product",
     "topic": "Home"
-  },
-  {
-    "title": "Chike Pumpkin Spice Protein Coffee",
-    "summary": "Chike's pumpkin spice protein coffee, with espresso and whey protein in the same serving. Sold at Amazon.",
-    "url": "/deals/#chike-pumpkin-spice-protein-coffee-amazon",
-    "type": "Product",
-    "topic": "Everyday"
   },
   {
     "title": "ZOA Zero Sugar Energy Drink, Blue Raspberry Shave Ice, 12-Pack",
@@ -962,13 +920,6 @@
     "title": "Cuisinart Pro Custom 11-Cup Food Processor, Brushed Chrome",
     "summary": "An 11-cup Cuisinart food processor, model DLC-8SBCYP1, with a chopping blade plus slicing and shredding discs. Sold at Amazon.",
     "url": "/deals/#cuisinart-pro-custom-11-food-processor-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "Snuggle Sac Checkered Throw Blanket, Sage Green, 50 x 60 Inches",
-    "summary": "A sage green and white checkered throw, 50 by 60 inches, in a soft knit you can machine wash. Sold at Amazon.",
-    "url": "/deals/#snuggle-sac-checkered-throw-sage-50x60-amazon",
     "type": "Product",
     "topic": "Home"
   },
@@ -1083,5 +1034,61 @@
     "url": "/deals/#jessica-simpson-aris-20in-carry-on-niagara-amazon",
     "type": "Product",
     "topic": "Travel"
+  },
+  {
+    "title": "Emeril Lagasse Dual Zone 25-Quart Air Fryer Oven",
+    "summary": "Emeril Lagasse's 25-quart air fryer oven. The product name calls out dual-zone technology. Sold at Amazon.",
+    "url": "/deals/#emeril-lagasse-25qt-dual-zone-air-fryer-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "MEATER Plus Smart Meat Thermometer, Walnut",
+    "summary": "A wireless MEATER Plus meat thermometer in walnut, for the grill or the oven. The listing puts the Bluetooth range at 165 feet. Sold at Amazon.",
+    "url": "/deals/#meater-plus-smart-thermometer-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Permanent Outdoor Lights for House, 50ft RGB+IC",
+    "summary": "A 50-foot set of permanent outdoor LED lights, with an app and a remote. The listing says the lights have 16 million colors. Sold at Amazon.",
+    "url": "/deals/#ecoeve-50ft-permanent-outdoor-lights-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Brooklyn Beans Flavored Coffee Pods, Variety Pack, 40 Count",
+    "summary": "Forty Brooklyn Beans flavored coffee pods in a variety pack, for Keurig 2.0 brewers. Sold at Amazon.",
+    "url": "/deals/#brooklyn-beans-flavored-coffee-pods-40ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Chike Chocolate Caramel High Protein Iced Coffee, 14 Servings",
+    "summary": "Chike's chocolate caramel protein iced coffee, 14 servings in a 14.8-ounce canister. The listing says a serving has 20 grams of protein and 1 gram of sugar. Sold at Amazon.",
+    "url": "/deals/#chike-chocolate-caramel-protein-coffee-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Rip Van Crispy Dunes Dark Chocolate Wafer Sticks, 12-Pack",
+    "summary": "Twelve Rip Van Crispy Dunes wafer sticks with a dark chocolate cream filling. The product title says they're vegan and 90 calories each. Sold at Amazon.",
+    "url": "/deals/#rip-van-crispy-dunes-wafer-sticks-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Two Rivers Hot Chocolate Pods, Variety Pack, 40 Count",
+    "summary": "Forty Two Rivers hot chocolate pods in a variety pack, for Keurig 2.0 brewers. Sold at Amazon.",
+    "url": "/deals/#two-rivers-hot-chocolate-pods-40ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Organic Ceylon Cinnamon Powder, 24 oz",
+    "summary": "A 24-ounce bag of organic Ceylon cinnamon powder. The listing says the bark is from Sri Lanka and the powder has no gluten. Sold at Amazon.",
+    "url": "/deals/#organic-ceylon-cinnamon-powder-24oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
   }
 ]

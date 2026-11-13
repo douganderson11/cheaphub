@@ -412,13 +412,6 @@
     "merchant": "Amazon",
     "title": "Amazon Essentials Ultralight Compression Packing Cubes, 6-Pack"
   },
-  "yankee-candle-spiced-pumpkin-22oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F3DRTCB2?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F3DRTCB2",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Yankee Candle Spiced Pumpkin, 22 oz Large Jar"
-  },
   "slimfast-milk-chocolate-shake-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0DPNKFJ61?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DPNKFJ61",
@@ -523,13 +516,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Goldfish Cheddar Crackers, 1.5 oz Snack Packs, 30 Count"
-  },
-  "biena-edamame-variety-21ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B0HBT2SW9V?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0HBT2SW9V",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Biena Roasted Edamame Variety Pack, 21 Count"
   },
   "swiss-miss-milk-chocolate-cocoa-50ct-amazon": {
     "destination": "https://www.amazon.com/dp/B07HFKB7D6?tag=cheaphubus-20",
@@ -685,13 +671,6 @@
     "merchant": "Amazon",
     "title": "Tempur-Pedic TEMPUR-Adapt + Cooling 3-Inch King Mattress Topper"
   },
-  "olixis-3in-queen-memory-foam-topper-amazon": {
-    "destination": "https://www.amazon.com/dp/B0GQ2T3LRP?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0GQ2T3LRP",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "OLIXIS 3-Inch Queen Memory Foam Mattress Topper"
-  },
   "amazon-basics-jersey-sheet-set-queen-oatmeal-amazon": {
     "destination": "https://www.amazon.com/dp/B01BTBS6LS?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B01BTBS6LS",
@@ -748,13 +727,6 @@
     "merchant": "Amazon",
     "title": "Lorissa's Kitchen Smoke Show Sticks, 24 Count"
   },
-  "sunkist-orange-soda-mini-cans-10ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B0867V1X2S?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0867V1X2S",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Sunkist Orange Soda, 7.5 oz Mini Cans, 10 Count"
-  },
   "tim-hortons-kcup-variety-90ct-amazon": {
     "destination": "https://www.amazon.com/dp/B08Q8RRBPY?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B08Q8RRBPY",
@@ -790,26 +762,12 @@
     "merchant": "Amazon",
     "title": "CELSIUS Sparkling Spritz Vibe, 12-Pack"
   },
-  "brawny-tear-a-square-paper-towels-6-double-amazon": {
-    "destination": "https://www.amazon.com/dp/B0CL7N32TM?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0CL7N32TM",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Brawny Tear-A-Square Paper Towels, 6 Double Rolls"
-  },
   "ring-floodlight-cam-2k-wired-white-amazon": {
     "destination": "https://www.amazon.com/dp/B0FWFJ5Q2Z?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0FWFJ5Q2Z",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Ring Floodlight Cam 2K, Wired, White"
-  },
-  "chike-pumpkin-spice-protein-coffee-amazon": {
-    "destination": "https://www.amazon.com/dp/B08141VT88?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B08141VT88",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Chike Pumpkin Spice Protein Coffee"
   },
   "zoa-zero-sugar-blue-raspberry-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0GX2SPZPD?tag=cheaphubus-20",
@@ -852,13 +810,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Cuisinart Pro Custom 11-Cup Food Processor, Brushed Chrome"
-  },
-  "snuggle-sac-checkered-throw-sage-50x60-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F36TFG4R?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F36TFG4R",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Snuggle Sac Checkered Throw Blanket, Sage Green, 50 x 60 Inches"
   },
   "snack-box-variety-gift-60ct-amazon": {
     "destination": "https://www.amazon.com/dp/B0FGQSTXBK?tag=cheaphubus-20",
@@ -971,5 +922,61 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Jessica Simpson Aris 20-Inch Expandable Spinner Carry-On, Niagara Mist"
+  },
+  "emeril-lagasse-25qt-dual-zone-air-fryer-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BZ52FLKC?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BZ52FLKC",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Emeril Lagasse Dual Zone 25-Quart Air Fryer Oven"
+  },
+  "meater-plus-smart-thermometer-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FGQ6MKKH?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FGQ6MKKH",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "MEATER Plus Smart Meat Thermometer, Walnut"
+  },
+  "ecoeve-50ft-permanent-outdoor-lights-amazon": {
+    "destination": "https://www.amazon.com/dp/B0HBWNCBCG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0HBWNCBCG",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Permanent Outdoor Lights for House, 50ft RGB+IC"
+  },
+  "brooklyn-beans-flavored-coffee-pods-40ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B00HHMPXMO?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00HHMPXMO",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Brooklyn Beans Flavored Coffee Pods, Variety Pack, 40 Count"
+  },
+  "chike-chocolate-caramel-protein-coffee-amazon": {
+    "destination": "https://www.amazon.com/dp/B09WJMRFLZ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09WJMRFLZ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Chike Chocolate Caramel High Protein Iced Coffee, 14 Servings"
+  },
+  "rip-van-crispy-dunes-wafer-sticks-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DJCJ51YK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DJCJ51YK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rip Van Crispy Dunes Dark Chocolate Wafer Sticks, 12-Pack"
+  },
+  "two-rivers-hot-chocolate-pods-40ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BYLJVDLK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BYLJVDLK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Two Rivers Hot Chocolate Pods, Variety Pack, 40 Count"
+  },
+  "organic-ceylon-cinnamon-powder-24oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B0G67LX6V5?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0G67LX6V5",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Organic Ceylon Cinnamon Powder, 24 oz"
   }
 }
