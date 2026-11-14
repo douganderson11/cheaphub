@@ -461,13 +461,6 @@
     "merchant": "Amazon",
     "title": "Wfiia Travel Vacuum Bags with Rechargeable Pump, 15-Pack"
   },
-  "lilys-crispy-rice-dark-chocolate-12ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B07HL95NCG?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07HL95NCG",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Lily's Crispy Rice Dark Chocolate Style Bars, 12 Count"
-  },
   "dewalt-40pc-flextorq-impact-bit-set-amazon": {
     "destination": "https://www.amazon.com/dp/B00GMXFK3G?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B00GMXFK3G",
@@ -538,13 +531,6 @@
     "merchant": "Amazon",
     "title": "Ring Battery Doorbell 2K, Speckled Gray"
   },
-  "laffy-taffy-banana-145ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B005K5GQ9O?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B005K5GQ9O",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Laffy Taffy Banana Mini Bars, 145 Count"
-  },
   "national-tree-dunhill-fir-prelit-amazon": {
     "destination": "https://www.amazon.com/dp/B00FADLVAK?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B00FADLVAK",
@@ -565,13 +551,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "JanSport SuperBreak One Backpack, Black"
-  },
-  "adidas-alliance-sackpack-power-red-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DHT1RNGC?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DHT1RNGC",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "adidas Alliance Sackpack, Team Power Red"
   },
   "hyted-1600w-220v-to-110v-converter-amazon": {
     "destination": "https://www.amazon.com/dp/B0F5NPXGCB?tag=cheaphubus-20",
@@ -678,13 +657,6 @@
     "merchant": "Amazon",
     "title": "Amazon Basics Cotton Jersey Sheet Set, Queen, Oatmeal"
   },
-  "samsonite-freeform-carry-on-pine-green-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DM2SHRPT?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DM2SHRPT",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Samsonite Freeform Hardside Carry-On Spinner, Pine Green"
-  },
   "zeoprix-memory-foam-travel-neck-pillow-black-amazon": {
     "destination": "https://www.amazon.com/dp/B0FCSM9THX?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0FCSM9THX",
@@ -720,26 +692,12 @@
     "merchant": "Amazon",
     "title": "Anna's Thins Caramel Pepparkakor, 12-Pack"
   },
-  "lorissas-kitchen-smoke-show-sticks-24ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F6PYYRZ6?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F6PYYRZ6",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Lorissa's Kitchen Smoke Show Sticks, 24 Count"
-  },
   "tim-hortons-kcup-variety-90ct-amazon": {
     "destination": "https://www.amazon.com/dp/B08Q8RRBPY?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B08Q8RRBPY",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Tim Hortons K-Cup Variety Pack, 90 Count"
-  },
-  "nostalgia-theater-popcorn-24pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0C66Z275V?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0C66Z275V",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Nostalgia Theater Popcorn Kit, 24 Pack"
   },
   "shark-hv302-rocket-pet-vacuum-amazon": {
     "destination": "https://www.amazon.com/dp/B00EUKHACW?tag=cheaphubus-20",
@@ -951,13 +909,6 @@
     "merchant": "Amazon",
     "title": "Brooklyn Beans Flavored Coffee Pods, Variety Pack, 40 Count"
   },
-  "chike-chocolate-caramel-protein-coffee-amazon": {
-    "destination": "https://www.amazon.com/dp/B09WJMRFLZ?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B09WJMRFLZ",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Chike Chocolate Caramel High Protein Iced Coffee, 14 Servings"
-  },
   "rip-van-crispy-dunes-wafer-sticks-12pk-amazon": {
     "destination": "https://www.amazon.com/dp/B0DJCJ51YK?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0DJCJ51YK",
@@ -978,5 +929,47 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Organic Ceylon Cinnamon Powder, 24 oz"
+  },
+  "clif-protein-bars-crunchy-peanut-butter-15ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CXQ6QP2B?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CXQ6QP2B",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "CLIF Protein Energy Bars, Crunchy Peanut Butter, 15 Count"
+  },
+  "kenneth-cole-chelsea-underseat-laptop-amazon": {
+    "destination": "https://www.amazon.com/dp/B0872HHXGR?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0872HHXGR",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Kenneth Cole Reaction Chelsea Underseat Carry-On and Laptop Backpack, Black"
+  },
+  "jessica-simpson-countryside-3pc-set-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GXX5QMT8?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GXX5QMT8",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Jessica Simpson Countryside 3-Piece Set, Oceanview"
+  },
+  "kenneth-cole-madison-square-2pc-luggage-amazon": {
+    "destination": "https://www.amazon.com/dp/B08DP6G768?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08DP6G768",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Kenneth Cole Reaction Madison Square 20-inch Carry-On and Tote, Black"
+  },
+  "kenneth-cole-diamond-tower-2pc-luggage-amazon": {
+    "destination": "https://www.amazon.com/dp/B09NHWQMBF?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09NHWQMBF",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Kenneth Cole Reaction Diamond Tower 2-Piece Luggage Set, Black"
+  },
+  "blink-mini-2k-plus-camera-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F3BC8661?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F3BC8661",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Blink Mini 2K+ Plug-in Indoor Camera, White"
   }
 }

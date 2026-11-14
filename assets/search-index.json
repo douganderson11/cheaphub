@@ -574,13 +574,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Lily's Crispy Rice Dark Chocolate Style Bars, 12 Count",
-    "summary": "Twelve 3-ounce Lily's crispy rice bars in the dark chocolate style. The listing says they're made with stevia and have no added sugar. Sold at Amazon.",
-    "url": "/deals/#lilys-crispy-rice-dark-chocolate-12ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "DEWALT 40-Piece FlexTorq Impact Screwdriver Bit Set, DWA2T40IR",
     "summary": "A 40-piece DEWALT impact bit set, model DWA2T40IR, in a storage case. The listing says the bits have a magnetic screw lock sleeve. Sold at Amazon.",
     "url": "/deals/#dewalt-40pc-flextorq-impact-bit-set-amazon",
@@ -651,13 +644,6 @@
     "topic": "Home"
   },
   {
-    "title": "Laffy Taffy Banana Mini Bars, 145 Count",
-    "summary": "A jar of banana Laffy Taffy mini bars. The listing says there are 145 individually wrapped pieces. Sold at Amazon.",
-    "url": "/deals/#laffy-taffy-banana-145ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "National Tree Company Dunhill Fir Pre-Lit Christmas Tree",
     "summary": "National Tree Company's pre-lit Dunhill Fir, with 700 white lights and a metal base. The product details list it at 83.86 inches tall with a 55-inch base. Sold at Amazon.",
     "url": "/deals/#national-tree-dunhill-fir-prelit-amazon",
@@ -675,13 +661,6 @@
     "title": "JanSport SuperBreak One Backpack, Black",
     "summary": "A black JanSport SuperBreak One. The product name describes one main compartment and a front pocket with a built-in organizer. Sold at Amazon.",
     "url": "/deals/#jansport-superbreak-one-backpack-black-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
-    "title": "adidas Alliance Sackpack, Team Power Red",
-    "summary": "An adidas Alliance drawstring sack in Team Power Red. The feature list says the cords close the top and work as shoulder straps. Sold at Amazon.",
-    "url": "/deals/#adidas-alliance-sackpack-power-red-amazon",
     "type": "Product",
     "topic": "Travel"
   },
@@ -791,13 +770,6 @@
     "topic": "Home"
   },
   {
-    "title": "Samsonite Freeform Hardside Carry-On Spinner, Pine Green",
-    "summary": "Samsonite Freeform hardside spinner in pine green. The listing puts the outside, wheels included, at 23 by 15.3 by 9.8 inches. Sold at Amazon.",
-    "url": "/deals/#samsonite-freeform-carry-on-pine-green-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "Zeoprix Memory Foam Travel Neck Pillow, Black",
     "summary": "A black U-shaped memory-foam neck pillow from Zeoprix. The listing describes a nylon and spandex cover and says it is for upright sleep on a plane. Sold at Amazon.",
     "url": "/deals/#zeoprix-memory-foam-travel-neck-pillow-black-amazon",
@@ -833,23 +805,9 @@
     "topic": "Everyday"
   },
   {
-    "title": "Lorissa's Kitchen Smoke Show Sticks, 24 Count",
-    "summary": "Twenty-four 0.5-ounce Lorissa's Kitchen Smoke Show beef sticks. Sold at Amazon.",
-    "url": "/deals/#lorissas-kitchen-smoke-show-sticks-24ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Tim Hortons K-Cup Variety Pack, 90 Count",
     "summary": "A 90-count Tim Hortons K-Cup variety pack for Keurig brewers. Sold at Amazon.",
     "url": "/deals/#tim-hortons-kcup-variety-90ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
-    "title": "Nostalgia Theater Popcorn Kit, 24 Pack",
-    "summary": "A 24-pack of Nostalgia theater popcorn kits, each with kernels, seasoning salt, and butter-flavored oil. Sold at Amazon.",
-    "url": "/deals/#nostalgia-theater-popcorn-24pk-amazon",
     "type": "Product",
     "topic": "Everyday"
   },
@@ -1064,13 +1022,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Chike Chocolate Caramel High Protein Iced Coffee, 14 Servings",
-    "summary": "Chike's chocolate caramel protein iced coffee, 14 servings in a 14.8-ounce canister. The listing says a serving has 20 grams of protein and 1 gram of sugar. Sold at Amazon.",
-    "url": "/deals/#chike-chocolate-caramel-protein-coffee-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Rip Van Crispy Dunes Dark Chocolate Wafer Sticks, 12-Pack",
     "summary": "Twelve Rip Van Crispy Dunes wafer sticks with a dark chocolate cream filling. The product title says they're vegan and 90 calories each. Sold at Amazon.",
     "url": "/deals/#rip-van-crispy-dunes-wafer-sticks-12pk-amazon",
@@ -1090,5 +1041,47 @@
     "url": "/deals/#organic-ceylon-cinnamon-powder-24oz-amazon",
     "type": "Product",
     "topic": "Everyday"
+  },
+  {
+    "title": "CLIF Protein Energy Bars, Crunchy Peanut Butter, 15 Count",
+    "summary": "A 15-count box of CLIF crunchy peanut butter protein bars. Sold at Amazon.",
+    "url": "/deals/#clif-protein-bars-crunchy-peanut-butter-15ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Kenneth Cole Reaction Chelsea Underseat Carry-On and Laptop Backpack, Black",
+    "summary": "Kenneth Cole Reaction's Chelsea bundle pairs a 17-inch underseat spinner with a matching 15-inch laptop backpack, both black. Sold at Amazon.",
+    "url": "/deals/#kenneth-cole-chelsea-underseat-laptop-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Jessica Simpson Countryside 3-Piece Set, Oceanview",
+    "summary": "Jessica Simpson's Countryside set in Oceanview includes a 21-inch expandable spinner, a tote, and a weekender. Sold at Amazon.",
+    "url": "/deals/#jessica-simpson-countryside-3pc-set-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Kenneth Cole Reaction Madison Square 20-inch Carry-On and Tote, Black",
+    "summary": "Kenneth Cole Reaction's Madison Square set is a black chevron hardside 20-inch carry-on plus a tote. Sold at Amazon.",
+    "url": "/deals/#kenneth-cole-madison-square-2pc-luggage-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Kenneth Cole Reaction Diamond Tower 2-Piece Luggage Set, Black",
+    "summary": "Kenneth Cole Reaction's Diamond Tower set pairs a black hardside expandable carry-on with a backpack. Sold at Amazon.",
+    "url": "/deals/#kenneth-cole-diamond-tower-2pc-luggage-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Blink Mini 2K+ Plug-in Indoor Camera, White",
+    "summary": "Blink's Mini 2K+ is a plug-in indoor camera in white, sold as a single camera. Sold at Amazon.",
+    "url": "/deals/#blink-mini-2k-plus-camera-amazon",
+    "type": "Product",
+    "topic": "Home"
   }
 ]
