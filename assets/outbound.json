@@ -419,6 +419,13 @@
     "merchant": "Amazon",
     "title": "SlimFast Protein Shake, Milk Chocolate, 11 fl oz, 12-Pack"
   },
+  "breville-bov650xl-compact-smart-oven-amazon": {
+    "destination": "https://www.amazon.com/dp/B00357YS3A?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00357YS3A",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Breville Compact Smart Oven, BOV650XL, Brushed Stainless"
+  },
   "bissell-little-green-pet-deluxe-3353-amazon": {
     "destination": "https://www.amazon.com/dp/B09XFGWM2B?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B09XFGWM2B",
@@ -552,13 +559,6 @@
     "merchant": "Amazon",
     "title": "JanSport SuperBreak One Backpack, Black"
   },
-  "hyted-1600w-220v-to-110v-converter-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F5NPXGCB?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F5NPXGCB",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "HYTED 1600W 220V to 110V Travel Converter"
-  },
   "tramontina-signature-12in-frying-pan-amazon": {
     "destination": "https://www.amazon.com/dp/B00JAP44MQ?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B00JAP44MQ",
@@ -685,13 +685,6 @@
     "merchant": "Amazon",
     "title": "National Tree 24-Inch Pre-Lit Crestwood Spruce Wreath"
   },
-  "annas-thins-caramel-pepparkakor-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0FPP89X7L?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0FPP89X7L",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Anna's Thins Caramel Pepparkakor, 12-Pack"
-  },
   "tim-hortons-kcup-variety-90ct-amazon": {
     "destination": "https://www.amazon.com/dp/B08Q8RRBPY?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B08Q8RRBPY",
@@ -796,13 +789,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "TheraBreath Healthy Gums Oral Rinse, Clean Mint, 16 oz, 2-Pack"
-  },
-  "socomi-cheesecloth-table-runner-10pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0H391QQYD?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0H391QQYD",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Socomi Cheesecloth Table Runner, 17 x 108 Inches, 10-Pack"
   },
   "wrangler-22in-hardside-spinner-lilac-amazon": {
     "destination": "https://www.amazon.com/dp/B0C7YWMBGP?tag=cheaphubus-20",
@@ -971,5 +957,61 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Blink Mini 2K+ Plug-in Indoor Camera, White"
+  },
+  "craftsman-256pc-mechanics-tool-set-amazon": {
+    "destination": "https://www.amazon.com/dp/B0D5TTKNZD?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0D5TTKNZD",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "CRAFTSMAN 256-Piece Mechanics Tool Set with 2-Drawer Tool Box, CMMT45256"
+  },
+  "craftsman-20pc-ratcheting-wrench-set-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DPGJVJZV?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DPGJVJZV",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "CRAFTSMAN 20-Piece SAE/Metric Ratcheting Wrench Set, CMMT87220"
+  },
+  "shark-iz363ht-cordless-vacuum-amazon": {
+    "destination": "https://www.amazon.com/dp/B08FP95RQD?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08FP95RQD",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Shark Cordless Vacuum, Blue, IZ363HT"
+  },
+  "craftsman-20v-max-impact-driver-kit-amazon": {
+    "destination": "https://www.amazon.com/dp/B07ZK6PM4N?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07ZK6PM4N",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "CRAFTSMAN 20V MAX 1/4-Inch Impact Driver Kit, CMCF800C1"
+  },
+  "rubbermaid-brilliance-16cup-amazon": {
+    "destination": "https://www.amazon.com/dp/B0752ZJ5LF?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0752ZJ5LF",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rubbermaid Brilliance 16-Cup Airtight Food Storage Container"
+  },
+  "marcal-paper-towels-12-rolls-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FJVPV94C?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FJVPV94C",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Marcal Recycled Kraft Paper Towels, 2-Ply, 12 Rolls, 250HCK"
+  },
+  "royal-dansk-butter-cookies-24oz-amazon": {
+    "destination": "https://www.amazon.com/dp/B00XM5KSV6?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00XM5KSV6",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Royal Dansk Danish Butter Cookies, 24 oz Tin"
+  },
+  "bagsmart-37l-expandable-travel-backpack-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BHYSWWTG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BHYSWWTG",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "BAGSMART 37L Expandable Travel Backpack"
   }
 }

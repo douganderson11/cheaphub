@@ -532,6 +532,13 @@
     "topic": "Everyday"
   },
   {
+    "title": "Breville Compact Smart Oven, BOV650XL, Brushed Stainless",
+    "summary": "A compact Breville countertop oven with toast, bagel, bake, broil, pizza, roast, cookies, and reheat. Sold at Amazon.",
+    "url": "/deals/#breville-bov650xl-compact-smart-oven-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
     "title": "BISSELL Little Green Pet Deluxe Portable Carpet Cleaner, 3353",
     "summary": "BISSELL's Little Green Pet Deluxe, model 3353, a portable spot cleaner for carpets, upholstery, and car seats. Sold at Amazon.",
     "url": "/deals/#bissell-little-green-pet-deluxe-3353-amazon",
@@ -665,13 +672,6 @@
     "topic": "Travel"
   },
   {
-    "title": "HYTED 1600W 220V to 110V Travel Converter",
-    "summary": "A HYTED step-down converter for running a 110\u2013120V appliance from a 220\u2013250V outlet. The listing rates it at 1600 watts. Sold at Amazon.",
-    "url": "/deals/#hyted-1600w-220v-to-110v-converter-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "Tramontina Signature Tri-Ply 12-Inch Frying Pan",
     "summary": "A 12-inch Tramontina Signature frying pan. The listing says the body is tri-ply clad stainless with an aluminum core, and that the pan is oven-safe to 500\u00b0F. Sold at Amazon.",
     "url": "/deals/#tramontina-signature-12in-frying-pan-amazon",
@@ -798,13 +798,6 @@
     "topic": "Home"
   },
   {
-    "title": "Anna's Thins Caramel Pepparkakor, 12-Pack",
-    "summary": "Twelve 5.25-ounce boxes of Anna's caramel Swedish thins. Sold at Amazon.",
-    "url": "/deals/#annas-thins-caramel-pepparkakor-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Tim Hortons K-Cup Variety Pack, 90 Count",
     "summary": "A 90-count Tim Hortons K-Cup variety pack for Keurig brewers. Sold at Amazon.",
     "url": "/deals/#tim-hortons-kcup-variety-90ct-amazon",
@@ -908,13 +901,6 @@
     "url": "/deals/#therabreath-healthy-gums-oral-rinse-2pk-amazon",
     "type": "Product",
     "topic": "Everyday"
-  },
-  {
-    "title": "Socomi Cheesecloth Table Runner, 17 x 108 Inches, 10-Pack",
-    "summary": "A 10-pack of cheesecloth table runners, each 17 inches wide by 108 inches long, sold by Socomi-US and shipped by Amazon. Sold at Amazon.",
-    "url": "/deals/#socomi-cheesecloth-table-runner-10pk-amazon",
-    "type": "Product",
-    "topic": "Home"
   },
   {
     "title": "Wrangler 22-Inch Hardside Spinner Carry-On, Lilac",
@@ -1083,5 +1069,61 @@
     "url": "/deals/#blink-mini-2k-plus-camera-amazon",
     "type": "Product",
     "topic": "Home"
+  },
+  {
+    "title": "CRAFTSMAN 256-Piece Mechanics Tool Set with 2-Drawer Tool Box, CMMT45256",
+    "summary": "CRAFTSMAN's 256-piece mechanics set, model CMMT45256, pairs a 72-tooth low-profile ratchet with a 2-drawer tool box. Sold at Amazon.",
+    "url": "/deals/#craftsman-256pc-mechanics-tool-set-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "CRAFTSMAN 20-Piece SAE/Metric Ratcheting Wrench Set, CMMT87220",
+    "summary": "CRAFTSMAN's 20-piece set, model CMMT87220, is SAE and metric ratcheting wrenches with a 90-tooth mechanism, packed in a case. Sold at Amazon.",
+    "url": "/deals/#craftsman-20pc-ratcheting-wrench-set-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Shark Cordless Vacuum, Blue, IZ363HT",
+    "summary": "Shark's IZ363HT is a cordless vacuum in blue. Sold at Amazon.",
+    "url": "/deals/#shark-iz363ht-cordless-vacuum-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "CRAFTSMAN 20V MAX 1/4-Inch Impact Driver Kit, CMCF800C1",
+    "summary": "CRAFTSMAN's 20V MAX kit, model CMCF800C1, is a 1/4-inch impact driver that includes a battery, a charger, and an LED work light. Sold at Amazon.",
+    "url": "/deals/#craftsman-20v-max-impact-driver-kit-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Rubbermaid Brilliance 16-Cup Airtight Food Storage Container",
+    "summary": "Rubbermaid's Brilliance 16-cup container is clear with a grey lid, and it's airtight for pantry staples such as flour and sugar. Sold at Amazon.",
+    "url": "/deals/#rubbermaid-brilliance-16cup-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Marcal Recycled Kraft Paper Towels, 2-Ply, 12 Rolls, 250HCK",
+    "summary": "Marcal's 250HCK is a 12-roll pack of 2-ply recycled kraft paper towels, with 250 sheets on each roll. Sold at Amazon.",
+    "url": "/deals/#marcal-paper-towels-12-rolls-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Royal Dansk Danish Butter Cookies, 24 oz Tin",
+    "summary": "Royal Dansk's 24-ounce tin holds an assortment of Danish butter cookies. Sold at Amazon.",
+    "url": "/deals/#royal-dansk-butter-cookies-24oz-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "BAGSMART 37L Expandable Travel Backpack",
+    "summary": "BAGSMART's expandable backpack is listed at 37 liters and sold as a carry-on daypack. Sold at Amazon.",
+    "url": "/deals/#bagsmart-37l-expandable-travel-backpack-amazon",
+    "type": "Product",
+    "topic": "Travel"
   }
 ]
