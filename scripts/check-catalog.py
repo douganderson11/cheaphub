@@ -91,6 +91,7 @@ def main() -> None:
         "seasonal/thanksgiving-hosting-under-100/index.html": "thanksgiving-hosting",
         "seasonal/holiday-gifts-under-50/index.html": "holiday-gifts-under-50",
         "best/everyday-restock-under-25/index.html": "everyday-restock-under-25",
+        "best/carry-on-luggage-under-150/index.html": "carry-on-luggage-under-150",
         "best/travel-accessories-under-50/index.html": "travel-under-50",
         "categories/home-savings/index.html": 'data-category="home"',
         "categories/everyday/index.html": "everyday-staples",
@@ -122,6 +123,8 @@ def main() -> None:
         fail("catalog.js missing holiday-gifts-under-50 module")
     if "everyday-restock-under-25" not in catalog_js:
         fail("catalog.js missing everyday-restock-under-25 module")
+    if "carry-on-luggage-under-150" not in catalog_js:
+        fail("catalog.js missing carry-on-luggage-under-150 module")
 
     operator_pages = [
         "about/index.html",

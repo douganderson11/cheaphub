@@ -43,6 +43,18 @@
       ceiling: ["under_25", "under_50", "under_100"],
       subcategory: ["lighting", "bath", "cleaning-tools", "cleaning", "home-decor", "furniture"]
     },
+    "carry-on-luggage-under-150": {
+      ids: [
+        "trips-axis-20in-carry-on-amazon",
+        "jessica-simpson-aris-20in-carry-on-niagara-amazon",
+        "wrangler-22in-hardside-spinner-lilac-amazon",
+        "kenneth-cole-chelsea-underseat-laptop-amazon",
+        "kenneth-cole-diamond-tower-2pc-luggage-amazon",
+        "kenneth-cole-madison-square-2pc-luggage-amazon",
+        "jessica-simpson-countryside-3pc-set-amazon",
+        "samsonite-omni-pc-24in-black-amazon"
+      ]
+    },
     "everyday-restock-under-25": {
       ids: [
         "chex-corn-cereal-18oz-amazon",
