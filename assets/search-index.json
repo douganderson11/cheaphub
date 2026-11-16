@@ -1008,13 +1008,6 @@
     "topic": "Everyday"
   },
   {
-    "title": "Rip Van Crispy Dunes Dark Chocolate Wafer Sticks, 12-Pack",
-    "summary": "Twelve Rip Van Crispy Dunes wafer sticks with a dark chocolate cream filling. The product title says they're vegan and 90 calories each. Sold at Amazon.",
-    "url": "/deals/#rip-van-crispy-dunes-wafer-sticks-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Two Rivers Hot Chocolate Pods, Variety Pack, 40 Count",
     "summary": "Forty Two Rivers hot chocolate pods in a variety pack, for Keurig 2.0 brewers. Sold at Amazon.",
     "url": "/deals/#two-rivers-hot-chocolate-pods-40ct-amazon",
@@ -1106,13 +1099,6 @@
     "topic": "Home"
   },
   {
-    "title": "Marcal Recycled Kraft Paper Towels, 2-Ply, 12 Rolls, 250HCK",
-    "summary": "Marcal's 250HCK is a 12-roll pack of 2-ply recycled kraft paper towels, with 250 sheets on each roll. Sold at Amazon.",
-    "url": "/deals/#marcal-paper-towels-12-rolls-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Royal Dansk Danish Butter Cookies, 24 oz Tin",
     "summary": "Royal Dansk's 24-ounce tin holds an assortment of Danish butter cookies. Sold at Amazon.",
     "url": "/deals/#royal-dansk-butter-cookies-24oz-amazon",
@@ -1123,6 +1109,48 @@
     "title": "BAGSMART 37L Expandable Travel Backpack",
     "summary": "BAGSMART's expandable backpack is listed at 37 liters and sold as a carry-on daypack. Sold at Amazon.",
     "url": "/deals/#bagsmart-37l-expandable-travel-backpack-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Rubbermaid Brilliance Food Storage Containers, 24-Piece",
+    "summary": "Rubbermaid's clear Brilliance set, listed as 24 pieces, with airtight lids and vents under the latches for the microwave. Sold at Amazon.",
+    "url": "/deals/#rubbermaid-brilliance-24pc-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Lasko 29-Inch Tower Space Heater with Remote, Model 5586",
+    "summary": "Lasko model 5586, a black 29-inch tower heater with a remote. The listing rates the ceramic element at 1,500 watts. Sold at Amazon.",
+    "url": "/deals/#lasko-5586-29in-tower-heater-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Fiber One 70 Calorie Bars, Cinnamon Coffee Cake, 12 Count, Pack of 4",
+    "summary": "Four 12-count boxes of Fiber One soft-baked bars in Cinnamon Coffee Cake. Each bar is the 70-calorie version. Sold at Amazon.",
+    "url": "/deals/#fiber-one-cinnamon-coffee-cake-bars-4pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Rip Van Dark Chocolate Peanut Butter Wafer Bars, 16 Count",
+    "summary": "A 16-count box of Rip Van dark chocolate peanut butter wafer bars. The listing puts each bar at 120 calories. Sold at Amazon.",
+    "url": "/deals/#rip-van-dark-chocolate-peanut-butter-wafers-16ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "SlimFast Essentials 30g Protein Shake, Very Vanilla, 12 Count",
+    "summary": "Twelve SlimFast Essentials shakes in Very Vanilla. The page says each one has 30 grams of protein and 1 gram of sugar. Sold at Amazon.",
+    "url": "/deals/#slimfast-essentials-30g-vanilla-12pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Amazon Essentials 8-Piece Packing Cubes, Black",
+    "summary": "Eight black Amazon Essentials packing cubes with double zippers, in a fabric the listing describes as recycled plastic. Sold at Amazon.",
+    "url": "/deals/#amazon-essentials-8pc-packing-cubes-black-amazon",
     "type": "Product",
     "topic": "Travel"
   }

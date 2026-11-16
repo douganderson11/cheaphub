@@ -895,13 +895,6 @@
     "merchant": "Amazon",
     "title": "Brooklyn Beans Flavored Coffee Pods, Variety Pack, 40 Count"
   },
-  "rip-van-crispy-dunes-wafer-sticks-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0DJCJ51YK?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0DJCJ51YK",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Rip Van Crispy Dunes Dark Chocolate Wafer Sticks, 12-Pack"
-  },
   "two-rivers-hot-chocolate-pods-40ct-amazon": {
     "destination": "https://www.amazon.com/dp/B0BYLJVDLK?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0BYLJVDLK",
@@ -993,13 +986,6 @@
     "merchant": "Amazon",
     "title": "Rubbermaid Brilliance 16-Cup Airtight Food Storage Container"
   },
-  "marcal-paper-towels-12-rolls-amazon": {
-    "destination": "https://www.amazon.com/dp/B0FJVPV94C?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0FJVPV94C",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Marcal Recycled Kraft Paper Towels, 2-Ply, 12 Rolls, 250HCK"
-  },
   "royal-dansk-butter-cookies-24oz-amazon": {
     "destination": "https://www.amazon.com/dp/B00XM5KSV6?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B00XM5KSV6",
@@ -1013,5 +999,47 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "BAGSMART 37L Expandable Travel Backpack"
+  },
+  "rubbermaid-brilliance-24pc-amazon": {
+    "destination": "https://www.amazon.com/dp/B07X5Y11CB?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07X5Y11CB",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rubbermaid Brilliance Food Storage Containers, 24-Piece"
+  },
+  "lasko-5586-29in-tower-heater-amazon": {
+    "destination": "https://www.amazon.com/dp/B0045LTBJG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0045LTBJG",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Lasko 29-Inch Tower Space Heater with Remote, Model 5586"
+  },
+  "fiber-one-cinnamon-coffee-cake-bars-4pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B073D4H729?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B073D4H729",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Fiber One 70 Calorie Bars, Cinnamon Coffee Cake, 12 Count, Pack of 4"
+  },
+  "rip-van-dark-chocolate-peanut-butter-wafers-16ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F33XW21Y?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F33XW21Y",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rip Van Dark Chocolate Peanut Butter Wafer Bars, 16 Count"
+  },
+  "slimfast-essentials-30g-vanilla-12pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0F2KM2FSW?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0F2KM2FSW",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "SlimFast Essentials 30g Protein Shake, Very Vanilla, 12 Count"
+  },
+  "amazon-essentials-8pc-packing-cubes-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DRNJ3VHD?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DRNJ3VHD",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Amazon Essentials 8-Piece Packing Cubes, Black"
   }
 }
