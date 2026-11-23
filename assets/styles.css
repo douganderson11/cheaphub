@@ -48,3 +48,14 @@
 .guide-why[open] > summary{border-bottom:1px solid var(--line);margin-bottom:4px}
 .guide-why .article-body{padding-top:12px}
 @media(max-width:640px){.offer-card > .button,.today-page .today-card .button{width:calc(100% - 36px);margin-left:18px;margin-right:18px}.offer-card>.kicker,.offer-card>.verified-badge,.offer-card>h3,.offer-card>p{margin-left:18px;margin-right:18px}}
+
+/* Store-like product cards: short face, research notes in Details */
+.offer-card{height:100%}
+.offer-card h3,.today-page .offer-card h2{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;min-height:calc(1.24em * 3)}
+.price-check-badge{display:inline-block;width:fit-content;margin-top:10px;padding:4px 9px;border-radius:999px;background:#eef2f4;color:var(--mid);font-size:.72rem;font-weight:800;letter-spacing:.04em;text-transform:uppercase}
+.offer-card>.price-check-badge,.offer-card>.offer-details{margin-left:26px;margin-right:26px}
+.offer-card>.offer-details{margin-top:2px;margin-bottom:0;font-size:.84rem;color:var(--mid)}
+.offer-card>.offer-details>summary{cursor:pointer;font-weight:760;font-size:.82rem;color:var(--mid);padding:6px 0;list-style:revert}
+.offer-card>.offer-details[open]>summary{color:var(--ink)}
+.offer-card>.offer-details p{margin:8px 0}
+@media(max-width:640px){.offer-card>.price-check-badge,.offer-card>.offer-details{margin-left:18px;margin-right:18px}}

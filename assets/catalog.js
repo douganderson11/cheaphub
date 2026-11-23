@@ -145,6 +145,14 @@
     return `${MONTHS[month - 1]} ${day}, ${year}`;
   }
 
+
+  function comparePriceLabel(product) {
+    const basis = (product.discount_basis || "").toLowerCase();
+    if (basis.includes("typical price")) return "Typical";
+    if (basis.includes("regular price") || /\sreg\s/.test(` ${basis} `)) return "Regular";
+    return "List";
+  }
+
   function formatPrice(product) {
     if (product.current_price == null) return "Check current price";
     return money.format(product.current_price);
@@ -240,6 +248,8 @@
 
     if (product.is_verified_discount) {
       card.append(text(el("span", "verified-badge"), "Verified discount"));
+    } else {
+      card.append(text(el("span", "price-check-badge"), "Price check"));
     }
 
     const heading = el("h3");
@@ -255,7 +265,7 @@
     card.append(price);
 
     if (product.is_verified_discount && product.list_or_typical_price != null) {
-      card.append(text(el("p", "offer-list"), `Merchant list price ${money.format(product.list_or_typical_price)}`));
+      card.append(text(el("p", "offer-list"), `${comparePriceLabel(product)} ${money.format(product.list_or_typical_price)}`));
     }
 
     const button = el("a", "button");
@@ -264,10 +274,19 @@
     text(button, product.current_price == null ? `Check current price at ${product.merchant}` : `View deal at ${product.merchant}`);
     card.append(button);
 
-    card.append(text(el("p", "offer-basis"), product.discount_basis));
-    card.append(text(el("p"), product.short_pitch));
-    card.append(text(el("p", "offer-restrictions"), `Restrictions: ${product.restrictions_notes}`));
-    card.append(text(el("p", "checked"), `Last checked: ${formatDate(product.last_checked_date)}`));
+    const details = el("details", "offer-details");
+    details.append(text(el("summary"), "Details"));
+    if (product.discount_basis) {
+      details.append(text(el("p", "offer-basis"), product.discount_basis));
+    }
+    if (product.short_pitch) {
+      details.append(text(el("p"), product.short_pitch));
+    }
+    if (product.restrictions_notes) {
+      details.append(text(el("p", "offer-restrictions"), `Restrictions: ${product.restrictions_notes}`));
+    }
+    details.append(text(el("p", "checked"), `Last checked: ${formatDate(product.last_checked_date)}`));
+    card.append(details);
     return card;
   }
 

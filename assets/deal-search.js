@@ -90,6 +90,8 @@
 
     if (priced && item.is_verified_discount && item.list_price > item.price) {
       article.append(text(el("span", "verified-badge"), "Verified discount"));
+    } else if (priced) {
+      article.append(text(el("span", "price-check-badge"), "Price check"));
     }
 
     const heading = el("h3");
@@ -100,16 +102,21 @@
     heading.append(titleLink);
     article.append(heading);
 
+    const detailNodes = [];
     if (priced && typeof item.price === "number") {
       article.append(text(el("p", "offer-price"), money.format(item.price)));
       if (item.is_verified_discount && typeof item.list_price === "number" && item.list_price > item.price) {
         const label = item.list_label || "List price";
-        article.append(text(el("p", "offer-list"), `${label} ${money.format(item.list_price)}`));
+        const shortLabel = label.split(" ")[0];
+        article.append(text(el("p", "offer-list"), `${shortLabel} ${money.format(item.list_price)}`));
+        if (label !== shortLabel) {
+          detailNodes.push(text(el("p", "offer-list"), `${label} ${money.format(item.list_price)}`));
+        }
       }
-      if (item.discount_basis) article.append(text(el("p", "offer-basis"), item.discount_basis));
+      if (item.discount_basis) detailNodes.push(text(el("p", "offer-basis"), item.discount_basis));
     } else {
-      article.append(text(el("p", "offer-basis"), "Price not read"));
-      if (item.reason) article.append(text(el("p"), item.reason));
+      detailNodes.push(text(el("p", "offer-basis"), "Price not read"));
+      if (item.reason) detailNodes.push(text(el("p"), item.reason));
     }
 
     const button = el("a", "button");
@@ -117,6 +124,13 @@
     button.rel = linkRel(item);
     button.textContent = priced ? `View deal at ${item.merchant}` : `Open the ${item.merchant} page`;
     article.append(button);
+
+    if (detailNodes.length) {
+      const details = el("details", "offer-details");
+      details.append(text(el("summary"), "Details"));
+      detailNodes.forEach((node) => details.append(node));
+      article.append(details);
+    }
     return article;
   }
 

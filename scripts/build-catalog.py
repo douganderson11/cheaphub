@@ -385,6 +385,7 @@ def render_today_card(product: dict, index: int) -> str:
     number = int(product["deal_number"])
     href = f"/go/{product_id}/"
     label = html.escape(merchant_price_label(product), quote=True)
+    short_label = html.escape(merchant_price_label(product).split()[0], quote=True)
     typical = html.escape(format_money(product["list_or_typical_price"]), quote=True)
     current = html.escape(format_money(product["current_price"]), quote=True)
     checked = html.escape(format_checked(product["last_checked_date"]), quote=True)
@@ -398,9 +399,13 @@ def render_today_card(product: dict, index: int) -> str:
 <span class="verified-badge">Verified discount</span>
 <h2><a href="{href}" rel="sponsored noopener noreferrer">{title}</a></h2>
 <p class="offer-price">{current}</p>
-<p class="offer-list">{label} on the merchant page {typical}</p>
+<p class="offer-list">{short_label} {typical}</p>
 <a class="button" href="{href}" rel="sponsored noopener noreferrer">View deal at {merchant}</a>
+<details class="offer-details">
+<summary>Details</summary>
+<p class="offer-list">{label} on the merchant page {typical}</p>
 <p class="checked">Checked {checked}</p>
+</details>
 </article>
 """
 
