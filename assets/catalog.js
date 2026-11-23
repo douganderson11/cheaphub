@@ -7,9 +7,19 @@
 
   const MODULES = {
     "home-tools-under-25": {
-      category: "home",
-      ceiling: ["under_25"],
-      subcategory: ["hand-tools", "lighting", "fasteners"]
+      ids: [
+        "craftsman-25ft-tape-amazon",
+        "klein-16ft-compact-tape-amazon",
+        "craftsman-26pc-ratcheting-screwdriver-amazon",
+        "klein-11in1-screwdriver-nut-driver-amazon",
+        "dewalt-40pc-flextorq-impact-bit-set-amazon",
+        "craftsman-20oz-fiberglass-hammer-amazon",
+        "estwing-16oz-rip-hammer-amazon",
+        "klein-flickblade-utility-knife-amazon",
+        "irwin-vise-grip-11in-locking-c-clamp-amazon",
+        "amazon-basics-15ft-extension-cord-2pk-amazon",
+        "black-decker-slip-joint-pliers-2pk-amazon"
+      ]
     },
     "kitchen-under-50": {
       category: "home",
