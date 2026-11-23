@@ -258,16 +258,16 @@
       card.append(text(el("p", "offer-list"), `Merchant list price ${money.format(product.list_or_typical_price)}`));
     }
 
-    card.append(text(el("p", "offer-basis"), product.discount_basis));
-    card.append(text(el("p"), product.short_pitch));
-    card.append(text(el("p", "offer-restrictions"), `Restrictions: ${product.restrictions_notes}`));
-    card.append(text(el("p", "checked"), `Last checked: ${formatDate(product.last_checked_date)}`));
-
     const button = el("a", "button");
     button.href = outboundHref(product);
     button.rel = "sponsored noopener noreferrer";
     text(button, product.current_price == null ? `Check current price at ${product.merchant}` : `View deal at ${product.merchant}`);
     card.append(button);
+
+    card.append(text(el("p", "offer-basis"), product.discount_basis));
+    card.append(text(el("p"), product.short_pitch));
+    card.append(text(el("p", "offer-restrictions"), `Restrictions: ${product.restrictions_notes}`));
+    card.append(text(el("p", "checked"), `Last checked: ${formatDate(product.last_checked_date)}`));
     return card;
   }
 

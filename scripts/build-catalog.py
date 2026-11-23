@@ -399,8 +399,8 @@ def render_today_card(product: dict, index: int) -> str:
 <h2><a href="{href}" rel="sponsored noopener noreferrer">{title}</a></h2>
 <p class="offer-price">{current}</p>
 <p class="offer-list">{label} on the merchant page {typical}</p>
-<p class="checked">Checked {checked}</p>
 <a class="button" href="{href}" rel="sponsored noopener noreferrer">View deal at {merchant}</a>
+<p class="checked">Checked {checked}</p>
 </article>
 """
 
