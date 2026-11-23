@@ -17,7 +17,8 @@
         "estwing-16oz-rip-hammer-amazon",
         "klein-flickblade-utility-knife-amazon",
         "irwin-vise-grip-11in-locking-c-clamp-amazon",
-        "amazon-basics-15ft-extension-cord-2pk-amazon"
+        "amazon-basics-15ft-extension-cord-2pk-amazon",
+        "black-decker-slip-joint-pliers-2pk-amazon"
       ]
     },
     "kitchen-under-50": {
