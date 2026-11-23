@@ -266,7 +266,7 @@
     const button = el("a", "button");
     button.href = outboundHref(product);
     button.rel = "sponsored noopener noreferrer";
-    text(button, product.current_price == null ? `Check current price at ${product.merchant}` : `See at ${product.merchant}`);
+    text(button, product.current_price == null ? `Check current price at ${product.merchant}` : `View deal at ${product.merchant}`);
     card.append(button);
     return card;
   }

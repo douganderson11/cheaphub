@@ -37,3 +37,14 @@
 .today-page .offer-card>.kicker{margin-top:14px}
 .today-page .today-more{margin:8px 0 0}
 @media(min-width:800px){.today-page .offer-grid{grid-template-columns:1fr 1fr}}
+
+/* Shopping-first layout: cards first, prominent deal CTAs */
+.article.article-lead{padding-bottom:0}
+.article-lead + .catalog-section{padding-top:28px}
+.catalog-section + .article{padding-top:12px;padding-bottom:48px}
+.offer-card > .button,.today-page .today-card .button{font-size:.95rem;font-weight:800;padding:14px 18px;margin-top:8px;width:calc(100% - 52px);box-sizing:border-box;letter-spacing:.01em}
+.guide-why{margin:0;max-width:740px}
+.guide-why > summary{cursor:pointer;font-size:1.15rem;font-weight:780;letter-spacing:-.02em;padding:16px 0;border-top:1px solid var(--line);color:var(--ink)}
+.guide-why[open] > summary{border-bottom:1px solid var(--line);margin-bottom:4px}
+.guide-why .article-body{padding-top:12px}
+@media(max-width:640px){.offer-card > .button,.today-page .today-card .button{width:calc(100% - 36px);margin-left:18px;margin-right:18px}.offer-card>.kicker,.offer-card>.verified-badge,.offer-card>h3,.offer-card>p{margin-left:18px;margin-right:18px}}

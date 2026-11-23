@@ -215,7 +215,7 @@ def write_go_page(product: dict, destination: str) -> None:
 <p class="eyebrow">Outbound link</p>
 <h1>Continue to {merchant}</h1>
 <p class="lede">{title}</p>
-<p><a class="button" href="{dest}" rel="sponsored noopener noreferrer">See at {merchant}</a></p>
+<p><a class="button" href="{dest}" rel="sponsored noopener noreferrer">View deal at {merchant}</a></p>
 <p>This may be an affiliate link. MarshMack Media LLC, which operates CheapHub, may earn a commission if you buy through it, at no extra cost to you.</p>
 <p><a class="text-link" href="/affiliate-disclosure/">Affiliate disclosure</a></p>
 </main>
@@ -400,7 +400,7 @@ def render_today_card(product: dict, index: int) -> str:
 <p class="offer-price">{current}</p>
 <p class="offer-list">{label} on the merchant page {typical}</p>
 <p class="checked">Checked {checked}</p>
-<a class="button" href="{href}" rel="sponsored noopener noreferrer">See at {merchant}</a>
+<a class="button" href="{href}" rel="sponsored noopener noreferrer">View deal at {merchant}</a>
 </article>
 """
 

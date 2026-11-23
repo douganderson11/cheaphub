@@ -115,7 +115,7 @@
     const button = el("a", "button");
     button.href = href;
     button.rel = linkRel(item);
-    button.textContent = priced ? `See at ${item.merchant}` : `Open the ${item.merchant} page`;
+    button.textContent = priced ? `View deal at ${item.merchant}` : `Open the ${item.merchant} page`;
     article.append(button);
     return article;
   }
