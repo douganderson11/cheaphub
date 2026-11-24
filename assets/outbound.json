@@ -580,26 +580,12 @@
     "merchant": "Amazon",
     "title": "National Tree Company 10 ft Pre-Lit Dunhill Fir"
   },
-  "maison-dhermine-cotton-tablecloth-70x140-amazon": {
-    "destination": "https://www.amazon.com/dp/B0G7FKNJ31?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0G7FKNJ31",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Maison d'Hermine Cotton Tablecloth, 70 x 140 Inches"
-  },
   "yankee-candle-sugared-cinnamon-apple-22oz-amazon": {
     "destination": "https://www.amazon.com/dp/B0F3DR5YWF?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0F3DR5YWF",
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Yankee Candle Sugared Cinnamon Apple, 22 oz"
-  },
-  "tempur-pedic-adapt-cooling-3in-king-topper-amazon": {
-    "destination": "https://www.amazon.com/dp/B07V5K36FL?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B07V5K36FL",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Tempur-Pedic TEMPUR-Adapt + Cooling 3-Inch King Mattress Topper"
   },
   "amazon-basics-jersey-sheet-set-queen-oatmeal-amazon": {
     "destination": "https://www.amazon.com/dp/B01BTBS6LS?tag=cheaphubus-20",
@@ -621,13 +607,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "SALAV Commercial Garment Steamer, 3-Liter Tank, Navy"
-  },
-  "yankee-candle-balsam-cedar-3wick-14-5oz-amazon": {
-    "destination": "https://www.amazon.com/dp/B0F3DRQ2P9?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0F3DRQ2P9",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Yankee Candle Balsam & Cedar, 14.5 oz 3-Wick"
   },
   "national-tree-24in-crestwood-spruce-wreath-amazon": {
     "destination": "https://www.amazon.com/dp/B00LKRMNWK?tag=cheaphubus-20",
@@ -663,13 +642,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Ring Floodlight Cam 2K, Wired, White"
-  },
-  "zoa-zero-sugar-blue-raspberry-12pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B0GX2SPZPD?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0GX2SPZPD",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "ZOA Zero Sugar Energy Drink, Blue Raspberry Shave Ice, 12-Pack"
   },
   "dr-pepper-mini-cans-10ct-amazon": {
     "destination": "https://www.amazon.com/dp/B07VCL2R9S?tag=cheaphubus-20",
@@ -747,13 +719,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Rachael Ray Cucina Nonstick Cookware Set, 14-Piece, Sea Salt Gray"
-  },
-  "national-tree-6ft-dunhill-fir-prelit-amazon": {
-    "destination": "https://www.amazon.com/dp/B0749ZHGV2?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0749ZHGV2",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "National Tree Company 6ft Pre-Lit Dunhill Fir Artificial Christmas Tree"
   },
   "nut-cravings-raw-brazil-nuts-16oz-amazon": {
     "destination": "https://www.amazon.com/dp/B079NKN87G?tag=cheaphubus-20",
@@ -943,5 +908,47 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "EPICKA Universal Travel Adapter with 1 AC, 3 USB-C and 2 USB-A Ports"
+  },
+  "samsonite-omni-2-2pc-midnight-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B09H7LPV13?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09H7LPV13",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Omni 2 Hardside 2-Piece Set, Midnight Black"
+  },
+  "keurig-k-classic-coffee-maker-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B018UQ5AMS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B018UQ5AMS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Keurig K-Classic Single Serve K-Cup Pod Coffee Maker, Black"
+  },
+  "cascade-platinum-plus-pods-lemon-57ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0DPLMTPFN?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0DPLMTPFN",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Cascade Platinum Plus Dishwasher Pods, Lemon, 57 Count"
+  },
+  "mr-coffee-5-cup-mini-brew-switch-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B08QD33PZ2?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08QD33PZ2",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Mr. Coffee 5-Cup Mini Brew Switch Coffee Maker, Black"
+  },
+  "ynm-15lb-weighted-blanket-48x72-dark-grey-amazon": {
+    "destination": "https://www.amazon.com/dp/B073429DV2?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B073429DV2",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "YnM 15 lb Weighted Blanket, 48 x 72 Inches, Dark Grey"
+  },
+  "lodge-essential-enamel-dutch-oven-6qt-oyster-white-amazon": {
+    "destination": "https://www.amazon.com/dp/B00U1OCPWQ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00U1OCPWQ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Lodge Essential Enamel Cast Iron Dutch Oven, 6 Quart, Oyster White"
   }
 }

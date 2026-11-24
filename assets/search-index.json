@@ -700,23 +700,9 @@
     "topic": "Home"
   },
   {
-    "title": "Maison d'Hermine Cotton Tablecloth, 70 x 140 Inches",
-    "summary": "A 70 by 140 inch Maison d'Hermine tablecloth in cotton. The title does not name the print, so the photo on the product page is the pattern. Sold at Amazon.",
-    "url": "/deals/#maison-dhermine-cotton-tablecloth-70x140-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Yankee Candle Sugared Cinnamon Apple, 22 oz",
     "summary": "A 22-ounce Yankee Candle jar in Sugared Cinnamon Apple. Sold at Amazon.",
     "url": "/deals/#yankee-candle-sugared-cinnamon-apple-22oz-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "Tempur-Pedic TEMPUR-Adapt + Cooling 3-Inch King Mattress Topper",
-    "summary": "A 3-inch king Tempur-Pedic TEMPUR-Adapt topper. The listing sizes it at 79 by 75 inches, calls the feel medium, and says the cover is washable. Sold at Amazon.",
-    "url": "/deals/#tempur-pedic-adapt-cooling-3in-king-topper-amazon",
     "type": "Product",
     "topic": "Home"
   },
@@ -738,13 +724,6 @@
     "title": "SALAV Commercial Garment Steamer, 3-Liter Tank, Navy",
     "summary": "SALAV's navy standing garment steamer, with foot pedals and a 3-liter tank. The title rates it at 1,800 watts, and a bullet says a light and a beep warn you when the water is low. Sold at Amazon.",
     "url": "/deals/#salav-commercial-garment-steamer-navy-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "Yankee Candle Balsam & Cedar, 14.5 oz 3-Wick",
-    "summary": "A 14.5-ounce Yankee Candle 3-wick in Balsam & Cedar. Sold at Amazon.",
-    "url": "/deals/#yankee-candle-balsam-cedar-3wick-14-5oz-amazon",
     "type": "Product",
     "topic": "Home"
   },
@@ -782,13 +761,6 @@
     "url": "/deals/#ring-floodlight-cam-2k-wired-white-amazon",
     "type": "Product",
     "topic": "Home"
-  },
-  {
-    "title": "ZOA Zero Sugar Energy Drink, Blue Raspberry Shave Ice, 12-Pack",
-    "summary": "A 12-pack of ZOA zero sugar energy drink in the blue raspberry shave ice flavor, 12 ounces a can. Sold at Amazon.",
-    "url": "/deals/#zoa-zero-sugar-blue-raspberry-12pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
   },
   {
     "title": "Dr Pepper, 7.5 oz Mini Cans, 10 Count",
@@ -864,13 +836,6 @@
     "title": "Rachael Ray Cucina Nonstick Cookware Set, 14-Piece, Sea Salt Gray",
     "summary": "Rachael Ray's Cucina nonstick pots and pans in Sea Salt Gray, sold as a 14-piece set. Sold at Amazon.",
     "url": "/deals/#rachael-ray-cucina-14pc-sea-salt-gray-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
-    "title": "National Tree Company 6ft Pre-Lit Dunhill Fir Artificial Christmas Tree",
-    "summary": "National Tree Company's 6-foot pre-lit Dunhill Fir artificial Christmas tree. Sold at Amazon.",
-    "url": "/deals/#national-tree-6ft-dunhill-fir-prelit-amazon",
     "type": "Product",
     "topic": "Home"
   },
@@ -1062,5 +1027,47 @@
     "url": "/deals/#epicka-universal-travel-adapter-6port-amazon",
     "type": "Product",
     "topic": "Travel"
+  },
+  {
+    "title": "Samsonite Omni 2 Hardside 2-Piece Set, Midnight Black",
+    "summary": "A carry-on and a medium checked spinner from Samsonite's Omni 2 line, sold together in black. Sold at Amazon.",
+    "url": "/deals/#samsonite-omni-2-2pc-midnight-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Keurig K-Classic Single Serve K-Cup Pod Coffee Maker, Black",
+    "summary": "Keurig's basic K-Cup brewer with three cup sizes and a 48 oz. reservoir that holds several mugs' worth of water. Sold at Amazon.",
+    "url": "/deals/#keurig-k-classic-coffee-maker-black-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Cascade Platinum Plus Dishwasher Pods, Lemon, 57 Count",
+    "summary": "A 57-count bag of Cascade's top-line Platinum Plus pods, the version with Dawn and a larger liquid top. Sold at Amazon.",
+    "url": "/deals/#cascade-platinum-plus-pods-lemon-57ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Mr. Coffee 5-Cup Mini Brew Switch Coffee Maker, Black",
+    "summary": "A small 5-cup drip machine with a glass carafe and a simple on/off switch, sized for one or two people or a short counter. Sold at Amazon.",
+    "url": "/deals/#mr-coffee-5-cup-mini-brew-switch-black-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "YnM 15 lb Weighted Blanket, 48 x 72 Inches, Dark Grey",
+    "summary": "A 15 lb, 48 x 72-inch weighted blanket from YnM, sized to cover one adult rather than the whole bed. Sold at Amazon.",
+    "url": "/deals/#ynm-15lb-weighted-blanket-48x72-dark-grey-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Lodge Essential Enamel Cast Iron Dutch Oven, 6 Quart, Oyster White",
+    "summary": "A 6-quart enameled cast iron Dutch oven from Lodge, big enough for a family pot of soup or a loaf of bread. Sold at Amazon.",
+    "url": "/deals/#lodge-essential-enamel-dutch-oven-6qt-oyster-white-amazon",
+    "type": "Product",
+    "topic": "Home"
   }
 ]
