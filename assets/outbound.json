@@ -573,13 +573,6 @@
     "merchant": "Amazon",
     "title": "Ring Outdoor Cam 2K, Battery, White"
   },
-  "national-tree-10ft-dunhill-fir-prelit-amazon": {
-    "destination": "https://www.amazon.com/dp/B009LAJQVY?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B009LAJQVY",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "National Tree Company 10 ft Pre-Lit Dunhill Fir"
-  },
   "yankee-candle-sugared-cinnamon-apple-22oz-amazon": {
     "destination": "https://www.amazon.com/dp/B0F3DR5YWF?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0F3DR5YWF",
@@ -670,13 +663,6 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "nutribullet Power Core Blender, 1400W, Matte Black"
-  },
-  "snack-box-variety-gift-60ct-amazon": {
-    "destination": "https://www.amazon.com/dp/B0FGQSTXBK?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0FGQSTXBK",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Snack Box Variety Gift Box, 60 Count"
   },
   "amazon-basics-15ft-extension-cord-2pk-amazon": {
     "destination": "https://www.amazon.com/dp/B08QP2SMCP?tag=cheaphubus-20",
@@ -860,13 +846,6 @@
     "merchant": "Amazon",
     "title": "Lasko 29-Inch Tower Space Heater with Remote, Model 5586"
   },
-  "fiber-one-cinnamon-coffee-cake-bars-4pk-amazon": {
-    "destination": "https://www.amazon.com/dp/B073D4H729?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B073D4H729",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Fiber One 70 Calorie Bars, Cinnamon Coffee Cake, 12 Count, Pack of 4"
-  },
   "rip-van-dark-chocolate-peanut-butter-wafers-16ct-amazon": {
     "destination": "https://www.amazon.com/dp/B0F33XW21Y?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B0F33XW21Y",
@@ -950,5 +929,47 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Lodge Essential Enamel Cast Iron Dutch Oven, 6 Quart, Oyster White"
+  },
+  "shark-ai-ultra-robot-vacuum-av2511ae-amazon": {
+    "destination": "https://www.amazon.com/dp/B09T4YZGQR?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09T4YZGQR",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Shark AI Ultra Robot Vacuum with Self-Empty Base, AV2511AE"
+  },
+  "bissell-crosswave-turbo-3888a-amazon": {
+    "destination": "https://www.amazon.com/dp/B0C9V48DDZ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0C9V48DDZ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "BISSELL CrossWave Turbo Wet/Dry Vacuum Mop, 3888A"
+  },
+  "craftsman-189pc-mechanics-tool-set-cmmt12134-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CPZ7RBHG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CPZ7RBHG",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "CRAFTSMAN 189-Piece Mechanics Tool Set, CMMT12134"
+  },
+  "bosch-co21b-cobalt-drill-bit-set-21pc-amazon": {
+    "destination": "https://www.amazon.com/dp/B07Q64LTFB?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07Q64LTFB",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "BOSCH CO21B 21-Piece Cobalt M42 Drill Bit Set"
+  },
+  "brita-metro-6-cup-pitcher-fiery-red-amazon": {
+    "destination": "https://www.amazon.com/dp/B09W4JQQ9K?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B09W4JQQ9K",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Brita Metro 6-Cup Water Filter Pitcher, Fiery Red"
+  },
+  "swissgear-sion-softside-carry-on-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B014TJR53M?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B014TJR53M",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "SwissGear Sion Softside Expandable Spinner Carry-On, Black"
   }
 }

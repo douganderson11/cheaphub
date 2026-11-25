@@ -693,13 +693,6 @@
     "topic": "Home"
   },
   {
-    "title": "National Tree Company 10 ft Pre-Lit Dunhill Fir",
-    "summary": "A 10-foot National Tree Dunhill Fir with 1,200 white lights and a 70-inch base. It's a taller tree than the 7.5-foot Dunhill already listed. Sold at Amazon.",
-    "url": "/deals/#national-tree-10ft-dunhill-fir-prelit-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "Yankee Candle Sugared Cinnamon Apple, 22 oz",
     "summary": "A 22-ounce Yankee Candle jar in Sugared Cinnamon Apple. Sold at Amazon.",
     "url": "/deals/#yankee-candle-sugared-cinnamon-apple-22oz-amazon",
@@ -789,13 +782,6 @@
     "url": "/deals/#nutribullet-power-core-1400w-matte-black-amazon",
     "type": "Product",
     "topic": "Home"
-  },
-  {
-    "title": "Snack Box Variety Gift Box, 60 Count",
-    "summary": "A 60-count variety box of packaged snacks, the assortment shown on the Amazon product photo. Sold at Amazon.",
-    "url": "/deals/#snack-box-variety-gift-60ct-amazon",
-    "type": "Product",
-    "topic": "Everyday"
   },
   {
     "title": "Amazon Basics Indoor Extension Cord, 15 Foot, Black, 2-Pack",
@@ -980,13 +966,6 @@
     "topic": "Home"
   },
   {
-    "title": "Fiber One 70 Calorie Bars, Cinnamon Coffee Cake, 12 Count, Pack of 4",
-    "summary": "Four 12-count boxes of Fiber One soft-baked bars in Cinnamon Coffee Cake. Each bar is the 70-calorie version. Sold at Amazon.",
-    "url": "/deals/#fiber-one-cinnamon-coffee-cake-bars-4pk-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Rip Van Dark Chocolate Peanut Butter Wafer Bars, 16 Count",
     "summary": "A 16-count box of Rip Van dark chocolate peanut butter wafer bars. The listing puts each bar at 120 calories. Sold at Amazon.",
     "url": "/deals/#rip-van-dark-chocolate-peanut-butter-wafers-16ct-amazon",
@@ -1069,5 +1048,47 @@
     "url": "/deals/#lodge-essential-enamel-dutch-oven-6qt-oyster-white-amazon",
     "type": "Product",
     "topic": "Home"
+  },
+  {
+    "title": "Shark AI Ultra Robot Vacuum with Self-Empty Base, AV2511AE",
+    "summary": "Shark's AI Ultra robot vacuum with a bagless self-empty base, built for a mix of carpet and hard floors. Sold at Amazon.",
+    "url": "/deals/#shark-ai-ultra-robot-vacuum-av2511ae-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "BISSELL CrossWave Turbo Wet/Dry Vacuum Mop, 3888A",
+    "summary": "BISSELL's CrossWave Turbo vacuums and washes in the same pass, for sealed hard floors and area rugs. Sold at Amazon.",
+    "url": "/deals/#bissell-crosswave-turbo-3888a-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "CRAFTSMAN 189-Piece Mechanics Tool Set, CMMT12134",
+    "summary": "A 189-piece CRAFTSMAN socket and wrench set with 1/4, 3/8 and 1/2-inch drives in a two-drawer case. Sold at Amazon.",
+    "url": "/deals/#craftsman-189pc-mechanics-tool-set-cmmt12134-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "BOSCH CO21B 21-Piece Cobalt M42 Drill Bit Set",
+    "summary": "Bosch's 21-piece cobalt jobber bit set, made for drilling stainless steel, cast iron and other hard metals. Sold at Amazon.",
+    "url": "/deals/#bosch-co21b-cobalt-drill-bit-set-21pc-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Brita Metro 6-Cup Water Filter Pitcher, Fiery Red",
+    "summary": "A narrow 6-cup Brita pitcher that fits in most mini-fridges, with one Standard filter in the box. Sold at Amazon.",
+    "url": "/deals/#brita-metro-6-cup-pitcher-fiery-red-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "SwissGear Sion Softside Expandable Spinner Carry-On, Black",
+    "summary": "SwissGear's Sion carry-on is a soft-sided spinner with an expansion zipper and two front pockets for things you grab often. Sold at Amazon.",
+    "url": "/deals/#swissgear-sion-softside-carry-on-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
   }
 ]
