@@ -287,13 +287,6 @@
     "topic": "Home"
   },
   {
-    "title": "OXO Good Grips Kitchen Scissors",
-    "summary": "Separable kitchen shears for meat, herbs, and packaging\u2014easier to clean than many one-piece scissors. Sold at Amazon.",
-    "url": "/deals/#oxo-good-grips-kitchen-scissors-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "OXO Swivel Peeler",
     "summary": "A soft-grip swivel peeler that follows curves\u2014worth owning if you prep produce weekly. Sold at Target.",
     "url": "/deals/#oxo-swivel-peeler-target",
@@ -1090,5 +1083,61 @@
     "url": "/deals/#swissgear-sion-softside-carry-on-black-amazon",
     "type": "Product",
     "topic": "Travel"
+  },
+  {
+    "title": "Cuisinart FusionPlus 5-Piece Hybrid Skillet Set, FPS-5SSCR",
+    "summary": "Three Cuisinart hybrid skillets (8, 10 and 12 inches) with stainless peaks over a ceramic nonstick base, plus lids for the two bigger pans. Sold at Amazon.",
+    "url": "/deals/#cuisinart-fusionplus-skillet-set-fps-5sscr-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Crock-Pot 7-Quart Programmable Slow Cooker with Locking Lid, Stainless Steel",
+    "summary": "A 7-quart programmable Crock-Pot with a locking lid, so leftovers or a potluck dish can ride in the car without sloshing. Sold at Amazon.",
+    "url": "/deals/#crock-pot-7qt-programmable-slow-cooker-mytime-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Shark Professional Steam Pocket Mop, S3601, White",
+    "summary": "Shark's corded steam pocket mop, with two double-sided washable pads in the box. Sold at Amazon.",
+    "url": "/deals/#shark-professional-steam-pocket-mop-s3601-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "O-Cedar EasyWring Microfiber Spin Mop & Bucket with 3 Extra Refills",
+    "summary": "The O-Cedar spin mop and bucket, bundled with three extra machine-washable mop heads. Sold at Amazon.",
+    "url": "/deals/#o-cedar-easywring-spin-mop-bucket-3-refills-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Lasko 755320 Oscillating Digital Ceramic Tower Heater with Remote",
+    "summary": "A 23-inch Lasko ceramic tower heater with a thermostat, remote and an 8-hour auto-off timer, sized for rooms up to about 150 sq. ft. Sold at Amazon.",
+    "url": "/deals/#lasko-755320-digital-ceramic-tower-heater-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Rubbermaid Brilliance Glass Food Storage Containers, 3.2-Cup, 4-Count",
+    "summary": "Four 3.2-cup Rubbermaid Brilliance glass containers with latching lids, a good size for lunches and leftovers. Sold at Amazon.",
+    "url": "/deals/#rubbermaid-brilliance-glass-3-2cup-4pk-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Travel Wise 5-Piece Packing Cubes Set, Ripstop Nylon",
+    "summary": "Five ripstop packing cubes (one small, two medium, two large) with mesh fronts and grab handles. Sold at Amazon.",
+    "url": "/deals/#travel-wise-5pc-packing-cubes-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Oral-B iO3 Limited Rechargeable Electric Toothbrush, Azalea Pink",
+    "summary": "Oral-B's iO3 brush with three modes, a pressure light, two brush heads and a travel case. Sold at Amazon.",
+    "url": "/deals/#oral-b-io3-limited-toothbrush-azalea-pink-amazon",
+    "type": "Product",
+    "topic": "Everyday"
   }
 ]

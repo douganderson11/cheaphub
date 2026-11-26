@@ -146,13 +146,6 @@
     "merchant": "Amazon",
     "title": "IRWIN VISE-GRIP 7\" Curved Jaw Locking Pliers with Cutter"
   },
-  "oxo-good-grips-kitchen-scissors-amazon": {
-    "destination": "https://www.amazon.com/OXO-Good-Grips-Kitchen-Scissors/dp/B08Q2C6RFP?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/OXO-Good-Grips-Kitchen-Scissors/dp/B08Q2C6RFP",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "OXO Good Grips Kitchen Scissors"
-  },
   "oxo-swivel-peeler-target": {
     "destination": "https://www.target.com/p/oxo-swivel-peeler/-/A-13567836",
     "product_url": "https://www.target.com/p/oxo-swivel-peeler/-/A-13567836",
@@ -971,5 +964,61 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "SwissGear Sion Softside Expandable Spinner Carry-On, Black"
+  },
+  "cuisinart-fusionplus-skillet-set-fps-5sscr-amazon": {
+    "destination": "https://www.amazon.com/dp/B0FJHYKFCQ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0FJHYKFCQ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Cuisinart FusionPlus 5-Piece Hybrid Skillet Set, FPS-5SSCR"
+  },
+  "crock-pot-7qt-programmable-slow-cooker-mytime-amazon": {
+    "destination": "https://www.amazon.com/dp/B097F4QKVY?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B097F4QKVY",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Crock-Pot 7-Quart Programmable Slow Cooker with Locking Lid, Stainless Steel"
+  },
+  "shark-professional-steam-pocket-mop-s3601-amazon": {
+    "destination": "https://www.amazon.com/dp/B00FGBRS7Q?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00FGBRS7Q",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Shark Professional Steam Pocket Mop, S3601, White"
+  },
+  "o-cedar-easywring-spin-mop-bucket-3-refills-amazon": {
+    "destination": "https://www.amazon.com/dp/B01MCVXNSG?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01MCVXNSG",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "O-Cedar EasyWring Microfiber Spin Mop & Bucket with 3 Extra Refills"
+  },
+  "lasko-755320-digital-ceramic-tower-heater-amazon": {
+    "destination": "https://www.amazon.com/dp/B000TTV2QS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B000TTV2QS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Lasko 755320 Oscillating Digital Ceramic Tower Heater with Remote"
+  },
+  "rubbermaid-brilliance-glass-3-2cup-4pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B08B7GLYZC?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08B7GLYZC",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rubbermaid Brilliance Glass Food Storage Containers, 3.2-Cup, 4-Count"
+  },
+  "travel-wise-5pc-packing-cubes-amazon": {
+    "destination": "https://www.amazon.com/dp/B08XDPCH46?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08XDPCH46",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Travel Wise 5-Piece Packing Cubes Set, Ripstop Nylon"
+  },
+  "oral-b-io3-limited-toothbrush-azalea-pink-amazon": {
+    "destination": "https://www.amazon.com/dp/B0G156GM21?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0G156GM21",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Oral-B iO3 Limited Rechargeable Electric Toothbrush, Azalea Pink"
   }
 }
