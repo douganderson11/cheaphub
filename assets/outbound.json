@@ -587,13 +587,6 @@
     "merchant": "Amazon",
     "title": "Zeoprix Memory Foam Travel Neck Pillow, Black"
   },
-  "salav-commercial-garment-steamer-navy-amazon": {
-    "destination": "https://www.amazon.com/dp/B0H8ZK6SWG?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0H8ZK6SWG",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "SALAV Commercial Garment Steamer, 3-Liter Tank, Navy"
-  },
   "national-tree-24in-crestwood-spruce-wreath-amazon": {
     "destination": "https://www.amazon.com/dp/B00LKRMNWK?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B00LKRMNWK",
@@ -1020,5 +1013,68 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Oral-B iO3 Limited Rechargeable Electric Toothbrush, Azalea Pink"
+  },
+  "samsonite-omni-2-3pc-set-midnight-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B08BX98J9S?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B08BX98J9S",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Omni 2 Hardside 3-Piece Set, Midnight Black"
+  },
+  "brooklinen-classic-percale-sheet-set-queen-white-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BTJPCWLN?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BTJPCWLN",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Brooklinen Classic Percale 4-Piece Sheet Set, Queen, White"
+  },
+  "boll-branch-signature-hemmed-sheet-set-queen-white-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BHZSJ4QK?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BHZSJ4QK",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Boll & Branch Signature Hemmed Sheet Set, Queen, White"
+  },
+  "charmin-professional-toilet-paper-75ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B076QDN16H?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B076QDN16H",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Charmin Professional Toilet Paper, 2-Ply, 450 Sheets, 75 Rolls"
+  },
+  "dawn-pro-heavy-duty-pot-pan-dish-soap-1gal-2pk-amazon": {
+    "destination": "https://www.amazon.com/dp/B0BS785YL6?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0BS785YL6",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Dawn PRO Heavy Duty Manual Pot & Pan Dish Soap, 1 Gallon, 2-Pack"
+  },
+  "zojirushi-stainless-mug-16oz-smoky-blue-amazon": {
+    "destination": "https://www.amazon.com/dp/B005PO9T44?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B005PO9T44",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Zojirushi Stainless Steel Travel Mug, 16 oz, Smoky Blue"
+  },
+  "zojirushi-ns-zcc10-neuro-fuzzy-rice-cooker-amazon": {
+    "destination": "https://www.amazon.com/dp/B00007J5U7?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B00007J5U7",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Zojirushi NS-ZCC10 Neuro Fuzzy 5.5-Cup Rice Cooker and Warmer, White"
+  },
+  "finish-ultimate-quantum-infinity-shine-62ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CBL8TGXQ?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CBL8TGXQ",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Finish Ultimate Quantum Dishwasher Pods, Infinity Shine, Fresh Scent, 62 Count"
+  },
+  "finish-quantum-dishwasher-pods-100ct-amazon": {
+    "destination": "https://www.amazon.com/dp/B0GR6M1Q5C?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0GR6M1Q5C",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Finish Quantum Dishwasher Pods, Fresh Scent, 100 Count"
   }
 }

@@ -707,13 +707,6 @@
     "topic": "Travel"
   },
   {
-    "title": "SALAV Commercial Garment Steamer, 3-Liter Tank, Navy",
-    "summary": "SALAV's navy standing garment steamer, with foot pedals and a 3-liter tank. The title rates it at 1,800 watts, and a bullet says a light and a beep warn you when the water is low. Sold at Amazon.",
-    "url": "/deals/#salav-commercial-garment-steamer-navy-amazon",
-    "type": "Product",
-    "topic": "Home"
-  },
-  {
     "title": "National Tree 24-Inch Pre-Lit Crestwood Spruce Wreath",
     "summary": "A 24-inch National Tree Crestwood Spruce wreath with 50 battery-operated white LEDs. Sold at Amazon.",
     "url": "/deals/#national-tree-24in-crestwood-spruce-wreath-amazon",
@@ -1137,6 +1130,69 @@
     "title": "Oral-B iO3 Limited Rechargeable Electric Toothbrush, Azalea Pink",
     "summary": "Oral-B's iO3 brush with three modes, a pressure light, two brush heads and a travel case. Sold at Amazon.",
     "url": "/deals/#oral-b-io3-limited-toothbrush-azalea-pink-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Samsonite Omni 2 Hardside 3-Piece Set, Midnight Black",
+    "summary": "Samsonite's Omni 2 in all three sizes: a carry-on plus medium and large checked spinners. Sold at Amazon.",
+    "url": "/deals/#samsonite-omni-2-3pc-set-midnight-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Brooklinen Classic Percale 4-Piece Sheet Set, Queen, White",
+    "summary": "Brooklinen's crisp 270-thread-count percale in queen, a good pick if you sleep hot. Sold at Amazon.",
+    "url": "/deals/#brooklinen-classic-percale-sheet-set-queen-white-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Boll & Branch Signature Hemmed Sheet Set, Queen, White",
+    "summary": "Boll & Branch's organic cotton Signature sheets in queen, at the lowest price camelcamelcamel has on record for this listing. Sold at Amazon.",
+    "url": "/deals/#boll-branch-signature-hemmed-sheet-set-queen-white-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Charmin Professional Toilet Paper, 2-Ply, 450 Sheets, 75 Rolls",
+    "summary": "A case of 75 individually wrapped Charmin Professional rolls, 450 sheets each. Sold at Amazon.",
+    "url": "/deals/#charmin-professional-toilet-paper-75ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Dawn PRO Heavy Duty Manual Pot & Pan Dish Soap, 1 Gallon, 2-Pack",
+    "summary": "Two gallon jugs of Dawn Professional's heavy-duty pot and pan soap for hand washing. Sold at Amazon.",
+    "url": "/deals/#dawn-pro-heavy-duty-pot-pan-dish-soap-1gal-2pk-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Zojirushi Stainless Steel Travel Mug, 16 oz, Smoky Blue",
+    "summary": "Zojirushi's 16 oz vacuum-insulated mug in Smoky Blue, compact enough for most cup holders. Sold at Amazon.",
+    "url": "/deals/#zojirushi-stainless-mug-16oz-smoky-blue-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Zojirushi NS-ZCC10 Neuro Fuzzy 5.5-Cup Rice Cooker and Warmer, White",
+    "summary": "Zojirushi's 5.5-cup Neuro Fuzzy rice cooker, with settings for white, brown, sushi rice and porridge. Sold at Amazon.",
+    "url": "/deals/#zojirushi-ns-zcc10-neuro-fuzzy-rice-cooker-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Finish Ultimate Quantum Dishwasher Pods, Infinity Shine, Fresh Scent, 62 Count",
+    "summary": "62 of Finish's top-tier Ultimate Quantum pods, at the lowest Amazon price camelcamelcamel has recorded. Sold at Amazon.",
+    "url": "/deals/#finish-ultimate-quantum-infinity-shine-62ct-amazon",
+    "type": "Product",
+    "topic": "Everyday"
+  },
+  {
+    "title": "Finish Quantum Dishwasher Pods, Fresh Scent, 100 Count",
+    "summary": "A 100-count bag of Finish Quantum pods, about 17 cents a load at this price. Sold at Amazon.",
+    "url": "/deals/#finish-quantum-dishwasher-pods-100ct-amazon",
     "type": "Product",
     "topic": "Everyday"
   }
