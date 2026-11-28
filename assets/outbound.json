@@ -860,13 +860,6 @@
     "merchant": "Amazon",
     "title": "BLACK+DECKER Slip Joint Pliers, 2-Pack (BDHT84001)"
   },
-  "samsonite-omni-pc-20in-carry-on-teal-amazon": {
-    "destination": "https://www.amazon.com/dp/B013WFNS12?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B013WFNS12",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Samsonite Omni PC Hardside Carry-On Spinner, 20-Inch, Teal"
-  },
   "epicka-universal-travel-adapter-6port-amazon": {
     "destination": "https://www.amazon.com/dp/B078S3M2NX?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B078S3M2NX",
@@ -1007,13 +1000,6 @@
     "merchant": "Amazon",
     "title": "Travel Wise 5-Piece Packing Cubes Set, Ripstop Nylon"
   },
-  "oral-b-io3-limited-toothbrush-azalea-pink-amazon": {
-    "destination": "https://www.amazon.com/dp/B0G156GM21?tag=cheaphubus-20",
-    "product_url": "https://www.amazon.com/dp/B0G156GM21",
-    "affiliate_url": null,
-    "merchant": "Amazon",
-    "title": "Oral-B iO3 Limited Rechargeable Electric Toothbrush, Azalea Pink"
-  },
   "samsonite-omni-2-3pc-set-midnight-black-amazon": {
     "destination": "https://www.amazon.com/dp/B08BX98J9S?tag=cheaphubus-20",
     "product_url": "https://www.amazon.com/dp/B08BX98J9S",
@@ -1076,5 +1062,68 @@
     "affiliate_url": null,
     "merchant": "Amazon",
     "title": "Finish Quantum Dishwasher Pods, Fresh Scent, 100 Count"
+  },
+  "keurig-k-express-coffee-maker-warm-stone-amazon": {
+    "destination": "https://www.amazon.com/dp/B0CT43D46H?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0CT43D46H",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Keurig K-Express Single Serve K-Cup Pod Coffee Maker, Warm Stone"
+  },
+  "rubbermaid-brilliance-pantry-20pc-amazon": {
+    "destination": "https://www.amazon.com/dp/B0B1KRGD3Q?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0B1KRGD3Q",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Rubbermaid Brilliance Airtight Pantry Food Storage Containers, 20-Count"
+  },
+  "mr-coffee-espresso-cappuccino-machine-15-bar-amazon": {
+    "destination": "https://www.amazon.com/dp/B007K9OIMU?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B007K9OIMU",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Mr. Coffee Espresso and Cappuccino Machine, Stainless Steel, 15-Bar"
+  },
+  "bare-home-queen-comforter-set-grey-amazon": {
+    "destination": "https://www.amazon.com/dp/B076DD56XT?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B076DD56XT",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Bare Home Queen Comforter Set, Ultra-Soft, Grey"
+  },
+  "circulon-premier-professional-12pc-cookware-bronze-amazon": {
+    "destination": "https://www.amazon.com/dp/B0C6YD6YVF?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B0C6YD6YVF",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Circulon Premier Professional Induction Pots and Pans Set, 12-Piece, Bronze"
+  },
+  "samsonite-freeform-28in-spinner-navy-amazon": {
+    "destination": "https://www.amazon.com/dp/B07BKLWYZS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07BKLWYZS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Freeform 28-Inch Large Hardside Spinner, Navy"
+  },
+  "samsonite-omni-pc-2pc-set-black-amazon": {
+    "destination": "https://www.amazon.com/dp/B07M7PRDPC?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B07M7PRDPC",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Omni PC Hardside 2-Piece Set (20/24), Black"
+  },
+  "samsonite-winfield-2-28in-spinner-deep-blue-amazon": {
+    "destination": "https://www.amazon.com/dp/B01DJLKZBA?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B01DJLKZBA",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "Samsonite Winfield 2 Hardside 28-Inch Spinner, Deep Blue"
+  },
+  "swissgear-sion-checked-large-dark-grey-amazon": {
+    "destination": "https://www.amazon.com/dp/B014TFWDSS?tag=cheaphubus-20",
+    "product_url": "https://www.amazon.com/dp/B014TFWDSS",
+    "affiliate_url": null,
+    "merchant": "Amazon",
+    "title": "SwissGear Sion Softside Expandable Spinner, Checked-Large, Dark Grey"
   }
 }

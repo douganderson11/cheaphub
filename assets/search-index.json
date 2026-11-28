@@ -980,13 +980,6 @@
     "topic": "Home"
   },
   {
-    "title": "Samsonite Omni PC Hardside Carry-On Spinner, 20-Inch, Teal",
-    "summary": "Samsonite's Omni PC carry-on in teal, a textured polycarbonate spinner with side-mounted TSA locks. Sold at Amazon.",
-    "url": "/deals/#samsonite-omni-pc-20in-carry-on-teal-amazon",
-    "type": "Product",
-    "topic": "Travel"
-  },
-  {
     "title": "EPICKA Universal Travel Adapter with 1 AC, 3 USB-C and 2 USB-A Ports",
     "summary": "An all-in-one EPICKA plug adapter with four plug styles, one AC outlet and five USB ports for charging several devices from one wall socket. Sold at Amazon.",
     "url": "/deals/#epicka-universal-travel-adapter-6port-amazon",
@@ -1127,13 +1120,6 @@
     "topic": "Travel"
   },
   {
-    "title": "Oral-B iO3 Limited Rechargeable Electric Toothbrush, Azalea Pink",
-    "summary": "Oral-B's iO3 brush with three modes, a pressure light, two brush heads and a travel case. Sold at Amazon.",
-    "url": "/deals/#oral-b-io3-limited-toothbrush-azalea-pink-amazon",
-    "type": "Product",
-    "topic": "Everyday"
-  },
-  {
     "title": "Samsonite Omni 2 Hardside 3-Piece Set, Midnight Black",
     "summary": "Samsonite's Omni 2 in all three sizes: a carry-on plus medium and large checked spinners. Sold at Amazon.",
     "url": "/deals/#samsonite-omni-2-3pc-set-midnight-black-amazon",
@@ -1195,5 +1181,68 @@
     "url": "/deals/#finish-quantum-dishwasher-pods-100ct-amazon",
     "type": "Product",
     "topic": "Everyday"
+  },
+  {
+    "title": "Keurig K-Express Single Serve K-Cup Pod Coffee Maker, Warm Stone",
+    "summary": "Keurig's slim K-Express in Warm Stone, at the lowest Amazon price camelcamelcamel has recorded for it. Sold at Amazon.",
+    "url": "/deals/#keurig-k-express-coffee-maker-warm-stone-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Rubbermaid Brilliance Airtight Pantry Food Storage Containers, 20-Count",
+    "summary": "Twenty clear Brilliance pantry containers in mixed sizes, $50 under Amazon's typical price. Sold at Amazon.",
+    "url": "/deals/#rubbermaid-brilliance-pantry-20pc-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Mr. Coffee Espresso and Cappuccino Machine, Stainless Steel, 15-Bar",
+    "summary": "A one-touch espresso, cappuccino and latte maker with a built-in automatic milk frother. Sold at Amazon.",
+    "url": "/deals/#mr-coffee-espresso-cappuccino-machine-15-bar-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Bare Home Queen Comforter Set, Ultra-Soft, Grey",
+    "summary": "A grey queen down-alternative comforter with two matching shams, machine washable. Sold at Amazon.",
+    "url": "/deals/#bare-home-queen-comforter-set-grey-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Circulon Premier Professional Induction Pots and Pans Set, 12-Piece, Bronze",
+    "summary": "Circulon's hard-anodized 12-piece nonstick set in bronze, with stainless bases that work on induction. Sold at Amazon.",
+    "url": "/deals/#circulon-premier-professional-12pc-cookware-bronze-amazon",
+    "type": "Product",
+    "topic": "Home"
+  },
+  {
+    "title": "Samsonite Freeform 28-Inch Large Hardside Spinner, Navy",
+    "summary": "Samsonite's large Freeform checked spinner in navy, 9.6 pounds empty with a built-in TSA lock. Sold at Amazon.",
+    "url": "/deals/#samsonite-freeform-28in-spinner-navy-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Samsonite Omni PC Hardside 2-Piece Set (20/24), Black",
+    "summary": "A black Omni PC carry-on and 24-inch checked spinner together, for less than the set usually goes for on Amazon. Sold at Amazon.",
+    "url": "/deals/#samsonite-omni-pc-2pc-set-black-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "Samsonite Winfield 2 Hardside 28-Inch Spinner, Deep Blue",
+    "summary": "Samsonite's Winfield 2 in the large 28-inch checked size, about $80 under Amazon's typical price. Sold at Amazon.",
+    "url": "/deals/#samsonite-winfield-2-28in-spinner-deep-blue-amazon",
+    "type": "Product",
+    "topic": "Travel"
+  },
+  {
+    "title": "SwissGear Sion Softside Expandable Spinner, Checked-Large, Dark Grey",
+    "summary": "SwissGear's Sion in the large checked size, a soft-sided bag with expansion and front pockets. Sold at Amazon.",
+    "url": "/deals/#swissgear-sion-checked-large-dark-grey-amazon",
+    "type": "Product",
+    "topic": "Travel"
   }
 ]
